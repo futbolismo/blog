@@ -1,0 +1,11 @@
+name: "futbolismo"
+title: "Futbolismo"
+description: "Storie e grafici del calcio"
+
+paginate: 10
+
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+encoding: utf-8
