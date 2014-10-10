@@ -1,0 +1,158 @@
+html { font-size: 62.5%; } 
+body {
+	font-family: 'Fanwood Text', Georgia, serif;
+	font-weight: normal;
+	color:#333;
+	font-size:1.4em;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Playfair Display', Georgia, serif;
+	font-weight: 700;
+	color:#000;
+	margin:0;
+	padding:0;
+}
+nav ul,
+nav ol {
+	list-style: none outside none;
+}
+a {
+	color:inherit;
+	text-decoration: underline;
+}
+a:hover {
+	color:#336699;
+}
+.u-faux-block-link__overlay {
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    overflow: hidden;
+    text-indent: 200%;
+    white-space: nowrap;
+    background: none repeat scroll 0% 0% transparent;
+}
+/********************* HEADER *******************/
+div.navbar {
+	background-color:#fff;
+	border-bottom:1px solid #ddd;
+	height:11rem;
+	padding-top:3rem;
+	padding-bottom:1rem;
+}
+
+.logo a {
+	font-size: 4rem;
+	font-family: 'Playfair Display', Georgia, serif;
+	font-weight: 900;
+	letter-spacing: 0.25rem;
+	text-decoration: none;
+	display: inline-block;
+	line-height: 4rem;
+	padding-top:0;
+	padding-bottom:0;
+	margin:0;
+	margin-top:1rem;
+	height:4rem;
+}
+.logo a span {
+	color:#666;
+}
+.logo a:hover span {
+	color:inherit;
+}
+.logo b {
+	font-size: 0.9em;
+	margin: 0;
+	display: block;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+.navbar-nav {
+	height: 7rem;
+}
+.navbar-nav li {
+	height: 7rem;
+	line-height: 7rem;	
+}
+.navbar-nav > li > a {
+	line-height: 4rem;
+}
+
+/********************* HOMEPAGE *******************/
+.jumbotron {
+	z-index: 1;
+    overflow: hidden;
+    /* The following styles are required for the "scroll-over" effect */
+    width: 100%;
+    height: 88%;
+    top: 0;
+    left: 0;
+    position: fixed !important;
+    background-color: #E5E1B7;
+}
+
+.content-wrapper {
+	position: absolute;
+	top: 87%;
+	width: 100%;
+	min-height: 12%;
+	z-index: 2;
+	background: none repeat scroll 0% 0% #FFF;
+	border-top:1px solid #ddd;
+}
+
+.main h1 {
+	font-size:2.4rem;
+}
+.main p.abstract {
+	font-size:1.6rem;
+}
+.main .post {
+	position: absolute;
+	bottom: 5rem;
+}
+.row > div {
+	padding:1rem;
+}
+.row .post-abstract {
+	margin:0;
+	padding:1rem;
+}
+.row .post-section {
+	margin:0;
+	padding:1rem;	
+}
+.row .post-section h3 {
+	font-size: 1.3em;
+}
+.top2 h2 {
+	font-size:1.6em;
+}
+.top6 h2 {
+	font-size:1.3em;
+}
+
+.top2 {
+	border-bottom:1px solid #000;
+}
+
+.top2 > div:first-child div.post-abstract {
+	border-right:1px solid #000;
+}
+
+.top6 div.post-abstract {
+	border-right:1px solid #000;
+}
+.top6 > div:last-child .post-abstract {
+	border-right:none;
+}
+
+/********************* FOOTER *******************/
+.footer {
+	min-height: 10rem;
+	background-color:#333;
+	color:#ddd;
+}
