@@ -37,18 +37,29 @@ a:hover {
 div.navbar {
 	background-color:#fff;
 	border-bottom:1px solid #ddd;
-	height:11rem;
-	padding-top:3rem;
+	/*height:11rem;*/
+	padding-top:1rem;
 	padding-bottom:1rem;
 }
-
+div.navbar-header {
+	float:none;
+	width:100%;
+	overflow: hidden;
+}
+.navbar-brand {
+	float:none;
+	margin:0 !important;
+}
+.logo {
+	width: 400px;
+}
 .logo a {
 	font-size: 4rem;
 	font-family: 'Playfair Display', Georgia, serif;
 	font-weight: 900;
 	letter-spacing: 0.25rem;
 	text-decoration: none;
-	display: inline-block;
+	display: block;
 	line-height: 4rem;
 	padding-top:0;
 	padding-bottom:0;
@@ -71,16 +82,33 @@ div.navbar {
 }
 
 .navbar-nav {
-	height: 7rem;
+	height: 4rem;
+	line-height: 4rem;
+	width:50%;
+	float:none;
 }
 .navbar-nav li {
 	height: 7rem;
 	line-height: 7rem;	
 }
-.navbar-nav > li > a {
-	line-height: 4rem;
-}
 
+.navbar-nav > div {
+	display: inline-block;
+	width: 32.5%;
+	line-height: inherit;
+}
+.navbar-nav > div > a {
+	line-height: inherit;
+	display: block;
+	text-align: center;
+}
+#mainMenu {
+	border-top:1px solid #000;
+	margin-top:1rem;
+}
+#mainMenu a:hover {
+	background:#ddd;
+}
 /********************* HOMEPAGE *******************/
 .jumbotron {
 	z-index: 1;
@@ -92,8 +120,17 @@ div.navbar {
     left: 0;
     position: fixed !important;
     background-color: #E5E1B7;
+    background: url(../img/pics/cuellar.png) no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
 }
-
+.main-abstract {
+	background-color:rgba(255,255,255,0.6);
+	margin-right:5rem;
+	max-width: 30%;
+}
 .content-wrapper {
 	position: absolute;
 	top: 87%;
@@ -127,6 +164,9 @@ div.navbar {
 }
 .row .post-section h3 {
 	font-size: 1.3em;
+}
+.post-abstract h2 {
+	margin-top:0.5rem;
 }
 .top2 h2 {
 	font-size:1.6em;
