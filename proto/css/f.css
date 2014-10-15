@@ -96,6 +96,13 @@ a:hover {
 .flex-two-third {
 	flex-basis: 66.6667%;
 }
+.vertical-align {
+    display: flex;
+    display: -webkit-flex;
+ 	align-items: center;
+ 	justify-content: center;
+  	flex-direction: row;
+}
 /********************* HEADER *******************/
 #header.not-fixed {
 	position: static !important;
@@ -198,8 +205,8 @@ div.navbar-header {
 }
 .main-abstract {
 	background-color:rgba(255,255,255,0.6);
-	margin-right:5rem;
-	max-width: 30%;
+	/*margin-right:5rem;
+	max-width: 30%;*/
 }
 .content-wrapper {
 	position: absolute;
@@ -218,8 +225,8 @@ div.navbar-header {
 	font-size:1.6rem;
 }
 .main .post {
-	position: absolute;
-	bottom: 5rem;
+	/*position: absolute;
+	bottom: 5rem;*/
 }
 
 .row > div {
