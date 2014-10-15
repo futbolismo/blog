@@ -21,10 +21,12 @@
 
     <link rel="stylesheet" href="css/f.css">
     
+    
+
     <script src="js/holder.js"></script>
 </head>
 <body>
-    <div class="navbar navbar-fixed-top" role="navigation">
+    <div id="header" class="navbar navbar-fixed-top not-fixed" role="navigation">
       <div class="container">
         <div class="navbar-header">
             <div class="logo text-center center-block">
@@ -37,7 +39,7 @@
                 <div id="mainMenu" class="nav navbar-nav center-block">
                     <div><a href="#">Gioie e Miserie</a></div>
                     <div><a href="#">Dati e Grafici</a></div>
-                    <div><a href="#">Le Interviste impossibili</a></div>
+                    <div><a href="#">Figurine Parlanti</a></div>
                 </div>
             </nav>
         </div><!--/.navbar-collapse -->
@@ -59,134 +61,182 @@
       </div>
     </div>
     <div class="content-wrapper">
-        <div class="container">
-            <div class="top2 row">
-                <div class="col-md-2">
-                    <div class="post-section">
-                        <h3>All'ultimo minuto</h3>
+        <section>
+            <div class="container">
+                <div class="top2 row row-flex row-flex-wrap">
+                    
+                    <div class="col-md-6">
+                        <div class="post-abstract flex-col">
+                            <div class="row-flex row-flex-wrap flex-grow bg-dark-gray">
+                                <div class="post-abstract-body pull-left flex-one-third">
+                                    <h2>Non si difende una maglia</h2>    
+                                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                                </div>
+                                <div class="post-abstract-img pull-right flex-two-third">
+                                    <img class="responsive-img" data-src="holder.js/100%x250/vine" alt="Non si difende una maglia">
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="post-abstract">
-                        <h2>Non si difende una maglia</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="post-abstract">
-                        <h2>Una figurina sbagliata</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+                    <div class="col-md-6">
+                        <div class="post-abstract flex-col">
+                            <div class="row-flex row-flex-wrap flex-grow">
+                                <div class="post-abstract-body pull-left flex-one-third">
+                                    <h2>Non si difende una maglia</h2>    
+                                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                                </div>
+                                <div class="post-abstract-img pull-right flex-two-third">
+                                    <img class="responsive-img" data-src="holder.js/100%x250/lava" alt="Non si difende una maglia">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="top6 row">
-                <div class="col-md-2">
-                    <div class="post-section">
-                        <h3>La stanza dei grafici</h3>
+        </section>
+        <section class="bg-info">
+            <div class="container bg-white50">
+                <div class="top6 row row-flex row-flex-wrap">
+                    <div class="col-md-2">
+                        <div class="post-section">
+                            <h3>Dati e grafici</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col">
+                            <h2>Non si difende una maglia</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col">
+                            <h2>Una figurina sbagliata</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col">
+                            <h2>Montevideo</h2>
+                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                        </div>
+                    </div>
+                                        
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="top6 row row-flex row-flex-wrap">
+                    <div class="col-md-2">
+                        <div class="post-section flex-col">
+                            <h3>Gioie e Miserie</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Non si difende una maglia</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Una figurina sbagliata</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Montevideo</h2>
+                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <h2>Non si difende una maglia</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+                <div class="top6 row row-flex row-flex-wrap">
+                    <div class="col-md-2">
+                        <div class="post-section flex-col">
+                            
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <h2>Una figurina sbagliata</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Non si difende una maglia</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. </p>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <h2>Montevideo</h2>
-                        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Una figurina sbagliata</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Montevideo</h2>
+                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="top6 row">
-                <div class="col-md-2">
-                    <div class="post-section">
-                        <h3>Gioie e Miserie del Calcio</h3>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <div>
-                            <img class="responsive-img" data-src="holder.js/100%x100/sky" alt="Non si difende una maglia">
+        </section>
+        <section>
+            <div class="container">
+                <div class="top6 row row-flex row-flex-wrap">
+                    <div class="col-md-2">
+                        <div class="post-section flex-col">
+                            <h3>Figurine parlanti</h3>
                         </div>
-                        <h2>Non si difende una maglia</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
                     </div>
-                </div>
-                <div class="clearfix visible-xs-block"></div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <div>
-                            <img class="responsive-img" data-src="holder.js/100%x100/sky" alt="Non si difende una maglia">
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Non si difende una maglia</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                            <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
                         </div>
-                        <h2>Una figurina sbagliata</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
                     </div>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <div>
-                            <img class="responsive-img" data-src="holder.js/100%x100/sky" alt="Non si difende una maglia">
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Una figurina sbagliata</h2>
+                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                            <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
                         </div>
-                        <h2>Montevideo</h2>
-                        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+                    </div>
+                    <div class="col-md-3 border-right">
+                        <div class="post-abstract flex-col bg-light-gray">
+                            <div>
+                                <img class="responsive-img" data-src="holder.js/100%x150/sky" alt="Non si difende una maglia">
+                            </div>
+                            <h2>Montevideo</h2>
+                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                            <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="top6 row">
-                <div class="col-md-2">
-                    <div class="post-section">
-                        <h3>Le interviste impossibili</h3>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <div>
-                            <img class="responsive-img" data-src="holder.js/100%x100/sky" alt="Non si difende una maglia">
-                        </div>
-                        <h2>Non si difende una maglia</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <div>
-                            <img class="responsive-img" data-src="holder.js/100%x100/sky" alt="Non si difende una maglia">
-                        </div>
-                        <h2>Una figurina sbagliata</h2>
-                        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="post-abstract">
-                        <div>
-                            <img class="responsive-img" data-src="holder.js/100%x100/sky" alt="Non si difende una maglia">
-                        </div>
-                        <h2>Montevideo</h2>
-                        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
-                    </div>
-                </div>
-            </div>
-        </div>
-        
+        </section>
         <div class="footer">
             <div class="container">
                 <footer>
@@ -195,6 +245,40 @@
             </div>
         </div>
     </div>
-    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script>
+
+        (function($){
+
+
+
+            var header = $("#header")
+                fixed=false;
+
+            $(window).on("scroll", function(e) {
+              var   scroll=window.scrollY || window.pageYOffset,
+                    top=window.innerHeight - scroll;
+
+              //console.log(top,scroll)
+              if (top > 200) {
+                if(!fixed) {
+                    header.removeClass("not-fixed").css("margin-top","0");
+                    fixed=true;    
+                }
+              } else {
+                if(fixed) {
+                    header.addClass("not-fixed").css("margin-top",scroll+"px");
+                    fixed=false;    
+                }
+                
+              }
+              
+            });
+
+
+        }(jQuery));
+
+    </script>
 </body>
 </html>
