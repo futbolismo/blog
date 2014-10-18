@@ -21,7 +21,7 @@ a {
 	text-decoration: underline;
 }
 a:hover {
-	color:#336699;
+	color:#000;
 }
 .u-faux-block-link__overlay {
     top: 0px;
@@ -45,6 +45,9 @@ a:hover {
 }
 .bg-dark-gray {
 	background-color: #333;
+}
+.bg-maroon {
+	background-color: #a0091d;
 }
 .w30 {
 	width:30% !important;
@@ -113,7 +116,7 @@ a:hover {
 div.navbar {
 	background-color:#fff;
 	border-bottom:1px solid #ddd;
-	/*height:11rem;*/
+	height:13rem;
 	padding-top:1rem;
 	padding-bottom:1rem;
 }
@@ -201,22 +204,33 @@ div.navbar-header {
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     height: 88%;
+    min-height:300px;
     top: 0;
     left: 0;
     position: fixed !important;
-    background-color: #E5E1B7;
-    background: url(../img/pics/cuellar.png) no-repeat center center; 
-    -webkit-background-size: 100% 100%;
-    -moz-background-size: 100% 100%;
-    -o-background-size: 100% 100%;
-    background-size: 100% 100%;
+    background-color: #333; /*#E5E1B7;*/
+    
+    background: url(../img/pics/leo2.png) repeat-x center center; 
+    background-size: auto 100%;
 }
 .jumbotron .container {
 	height: 100%;
 }
 .main-abstract {
-	background-color:rgba(255,255,255,0.6);
-	    margin-top: 10rem;
+	background-color:rgba(255,255,255,0.85);
+	margin-top: 25rem;
+}
+.jumbotron .main-bg {
+	position: absolute;
+	top:13rem;
+	left:0;
+	bottom: 0;
+	right: 0;
+	z-index:-1;
+}
+.jumbotron .main-bg {
+	background: url(../img/pics/cuellar.png) no-repeat center center; 
+    background-size: auto 100%;
 }
 .content-wrapper {
 	position: absolute;
@@ -227,9 +241,13 @@ div.navbar-header {
 	background: none repeat scroll 0% 0% #FFF;
 	border-top:1px solid #ddd;
 }
-
+.content-wrapper section {
+	margin-bottom:5rem;
+}
 .main h1 {
 	font-size:2.4rem;
+	font-family: 'Rye', cursive;
+	text-transform: uppercase;
 }
 .main p.abstract {
 	font-size:1.6rem;
@@ -257,28 +275,51 @@ div.navbar-header {
 .post-abstract h2 {
 	color:#333;
 }
-.bg-dark-gray h2 {
+.color-invert h2 {
 	color:#fff;
 }
-.bg-dark-gray p {
+.color-invert p {
 	color:#eee;
 }
+
+a.post-link {
+	text-decoration: none;
+}
+a.post-link * {
+	text-decoration: none;
+}
+a.post-link:hover h1,
+a.post-link:hover h2 {
+	text-decoration: underline;
+}
+
 .post-abstract .post-abstract-body {
 	padding: 1rem;
 	padding-bottom: 0;
 }
-
+.post .post-body p:first-letter {
+	font-size: 295%;
+	float: left;
+	margin: 10px 5px 0 0;
+	line-height: 0.7;
+	font-weight: bold;
+	text-shadow: 2px 2px 0 #566074;
+}
 .top2 h2 {
 	font-size:1.6em;
+	margin-bottom:1rem;
 }
 .top6 h2 {
 	font-size:1.3em;
     padding-top: 0.4rem;
+    margin-bottom: 0.5rem;
 }
 .top2 {
 	border-bottom:0.1rem solid #DFDFDF;
 }
-
+.top2 .post-abstract {
+	max-height:25rem;
+}
 .top2 > .border-right:first-child .post-abstract {
 	border-right:0.1rem solid #DFDFDF;
 }
@@ -299,8 +340,9 @@ div.navbar-header {
 	margin-top:3rem;
 	padding-top:3rem;
 	min-height: 10rem;
-	background-color:#333;
+	background-color:#043357;
 	color:#ddd;
+	border-top:3px solid #873600;
 }
 .logo-footer h4 {
 	color:#eee;
@@ -311,6 +353,9 @@ div.navbar-header {
 }
 .social {
 	margin:1rem 0;
+}
+.social a:hover {
+	color:gold;
 }
 h4 {
 	color:#eee;
