@@ -211,10 +211,13 @@ div.navbar-header {
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
 }
+.jumbotron .container {
+	height: 100%;
+}
 .main-abstract {
 	background-color:rgba(255,255,255,0.6);
-	/*margin-right:5rem;
-	max-width: 30%;*/
+	    margin-top: 10rem;
+}
 }
 .content-wrapper {
 	position: absolute;
@@ -233,8 +236,7 @@ div.navbar-header {
 	font-size:1.6rem;
 }
 .main .post {
-	/*position: absolute;
-	bottom: 5rem;*/
+	height: 100%;
 }
 
 .row > div {
