@@ -23,16 +23,6 @@ a {
 a:hover {
 	color:#000;
 }
-.u-faux-block-link__overlay {
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    overflow: hidden;
-    text-indent: 200%;
-    white-space: nowrap;
-    background: none repeat scroll 0% 0% transparent;
-}
 /********************* HELPER *******************/
 .bg-white50 {
 	background-color: rgba(255,255,255,0.5);
@@ -298,7 +288,7 @@ a.post-link:hover h2 {
 	padding-bottom: 0;
 }
 .post .post-body p:first-letter {
-	font-size: 295%;
+	font-size: 650%;
 	float: left;
 	margin: 10px 5px 0 0;
 	line-height: 0.7;
@@ -342,7 +332,21 @@ a.post-link:hover h2 {
 .top6 .border-bottom .post-abstract {
 	border-bottom:0.1rem solid #DFDFDF;
 }
-
+/********************* POST *******************/
+.post-banner {
+	width: 100%;
+	height:70%;
+	background-color: #ddd;
+}
+.post-banner-img img {
+	height: 100%;
+}
+.post h1 {
+	margin:1rem 0;
+}
+.post .post-body p {
+	font-size:1.3em;
+}
 /********************* FOOTER *******************/
 .footer {
 	margin-top:3rem;
