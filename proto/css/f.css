@@ -314,6 +314,11 @@ a.post-link:hover h2 {
     padding-top: 0.4rem;
     margin-bottom: 0.5rem;
 }
+.top6 h3{
+	font-size:1.1em;
+    padding-top: 0.4rem;
+    margin-bottom: 0.5rem;
+}
 .top2 {
 	border-bottom:0.1rem solid #DFDFDF;
 }
