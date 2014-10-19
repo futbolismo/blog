@@ -323,7 +323,10 @@ a.post-link:hover h2 {
 .top2 > .border-right:first-child .post-abstract {
 	border-right:0.1rem solid #DFDFDF;
 }
-
+.top6 .post-abstract-img {
+	/*max-height:25rem;
+	overflow: hidden;*/
+}
 .top6 .border-right .post-abstract {
 	border-right:0.1rem solid #DFDFDF;
 }
