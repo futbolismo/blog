@@ -246,7 +246,8 @@ div.navbar-header {
 	height: 100%;
 }
 
-.row > div {
+.top6 > div,
+.top2 > div {
 	padding:1rem;
 }
 .row .post-abstract {
@@ -333,13 +334,23 @@ a.post-link:hover h2 {
 	border-bottom:0.1rem solid #DFDFDF;
 }
 /********************* POST *******************/
+.post .navbar {
+	margin-bottom: 0;
+}
 .post-banner {
 	width: 100%;
 	height:70%;
-	background-color: #ddd;
+	background: url(../img/pics/leo2.png) repeat-x center center; 
+    background-size: auto 100%;
+}
+.post-banner-img {
+	height: 39rem;
 }
 .post-banner-img img {
+	width: auto;
 	height: 100%;
+	margin: 0 auto;
+	display: table;
 }
 .post h1 {
 	margin:1rem 0;
