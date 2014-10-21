@@ -353,6 +353,7 @@ a.post-link:hover h2 {
 	display: table;
 }
 .post h1 {
+	font-size:2.2em;
 	margin:1rem 0;
 }
 .post .post-body p {
