@@ -194,7 +194,7 @@ div.navbar-header {
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     height: 88%;
-    min-height:300px;
+    min-height:600px;
     top: 0;
     left: 0;
     position: fixed !important;
@@ -208,7 +208,7 @@ div.navbar-header {
 }
 .main-abstract {
 	background-color:rgba(255,255,255,0.85);
-	margin-top: 25rem;
+	margin-top: 20rem;
 }
 .jumbotron .main-bg {
 	position: absolute;
@@ -283,10 +283,33 @@ a.post-link:hover h1,
 a.post-link:hover h2 {
 	text-decoration: underline;
 }
-
 .post-abstract .post-abstract-body {
-	padding: 1rem;
-	padding-bottom: 0;
+	padding: 1rem 1rem 0px;
+}
+/*
+.post-abstract .post-abstract-body {
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 1rem;
+	padding: 1rem 0;
+}
+*/
+.post .post-title {
+	margin-bottom:1rem;
+}
+.post .post-title h1 {
+	border-bottom:1px solid #ddd;
+	margin-bottom:2rem;
+	padding-bottom:2rem;
+}
+.post .post-info h5 {
+	font-family: inherit;
+	font-size:1.1em;
+	margin:0.5rem 0;
+	color:#333;
+}
+.post .post-body {
+	border-right:1px solid #ddd;
+	padding-right:2rem;
 }
 .post .post-body p:first-letter {
 	font-size: 650%;
@@ -359,6 +382,9 @@ a.post-link:hover h2 {
 .post .post-body p {
 	font-size:1.3em;
 }
+.post .timeline h4 {
+	color:#333;
+}
 /********************* FOOTER *******************/
 .footer {
 	margin-top:3rem;
@@ -366,7 +392,7 @@ a.post-link:hover h2 {
 	min-height: 10rem;
 	background-color:#043357;
 	color:#ddd;
-	border-top:3px solid #873600;
+	border-top:3px solid #ff6a00;
 }
 .logo-footer h4 {
 	color:#eee;
@@ -379,14 +405,14 @@ a.post-link:hover h2 {
 	margin:1rem 0;
 }
 .social a:hover {
-	color:gold;
+	color:#ff6a00;
 }
-h4 {
+.footer h4 {
 	color:#eee;
 }
-ul {
+.footer ul {
 	margin-top:0.5rem;
 }
-ul li {
+.footer ul li {
 	color:#ddd;
 }
