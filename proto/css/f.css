@@ -48,6 +48,9 @@ a:hover {
 .no-padding {
 	padding: 0 !important;
 }
+.border {
+	border:1px solid #ddd;
+}
 /********************* FLEXBOX *******************/
 .row-flex, .row-flex > div[class*='col-'] {  
     display: -webkit-box;
@@ -194,7 +197,7 @@ div.navbar-header {
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     height: 88%;
-    min-height:600px;
+   
     top: 0;
     left: 0;
     position: fixed !important;
@@ -311,13 +314,16 @@ a.post-link:hover h2 {
 	border-right:1px solid #ddd;
 	padding-right:2rem;
 }
-.post .post-body p:first-letter {
+.post .post-body p:first-child:first-letter {
 	font-size: 650%;
 	float: left;
 	margin: 10px 5px 0 0;
 	line-height: 0.7;
 	font-weight: bold;
 	text-shadow: 2px 2px 0 #566074;
+}
+.post .post-body img {
+	margin:1rem;
 }
 .top2 h2 {
 	font-size:1.6em;
@@ -376,7 +382,7 @@ a.post-link:hover h2 {
 	display: table;
 }
 .post h1 {
-	font-size:2.2em;
+	font-size:1.8em;
 	margin:1rem 0;
 }
 .post .post-body p {
