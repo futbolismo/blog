@@ -156,7 +156,8 @@ div.navbar-header {
 .navbar-nav {
 	height: 4rem;
 	line-height: 4rem;
-	width:50%;
+	max-width: 60%;
+	min-width: 60%;
 	float:none;
 }
 .navbar-nav li {
@@ -212,6 +213,10 @@ div.navbar-header {
 .main-abstract {
 	background-color:rgba(255,255,255,0.85);
 	margin-top: 20rem;
+	padding: 1rem;
+}
+.main-abstract p {
+	margin: 0;
 }
 .jumbotron .main-bg {
 	position: absolute;
@@ -245,7 +250,7 @@ div.navbar-header {
 .main p.abstract {
 	font-size:1.6rem;
 }
-.main .post {
+.main .jumbo-post {
 	height: 100%;
 }
 
