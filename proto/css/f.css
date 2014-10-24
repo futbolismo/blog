@@ -240,7 +240,11 @@ div.navbar-header {
 	border-top:1px solid #ddd;
 }
 .content-wrapper section {
-	margin-bottom:5rem;
+	margin:2.5rem 0;
+}
+
+.content-wrapper section > div.border-bottom {
+	border-bottom:1px solid #aaa;
 }
 .main h1 {
 	font-size:2.4rem;
@@ -367,6 +371,34 @@ a.post-link:hover h2 {
 .top6 .border-bottom .post-abstract {
 	border-bottom:0.1rem solid #DFDFDF;
 }
+.small-posts li {
+	min-height: 4rem;
+	border-top:1px solid #ddd;
+}
+.small-posts li:first-child {
+	border-top:none;
+}
+.small-posts li a {
+	padding:1rem 0.5rem;
+	display: block;
+	text-decoration: none;
+}
+.small-posts li a h4 {
+	font-family: inherit;
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-bottom:0.5rem;
+}
+.small-posts li a p {
+	margin:0;
+	color:#666;
+}
+.small-posts li a:hover {
+	background-color:#eee;
+}
+.small-posts li a:hover p{
+	color:#000;
+}
 /********************* POST *******************/
 .post .navbar {
 	margin-bottom: 0;
@@ -418,12 +450,33 @@ a.post-link:hover h2 {
 .social a:hover {
 	color:#ff6a00;
 }
+.footer .border-right {
+	border-right:1px solid #ddd;
+}
 .footer h4 {
 	color:#eee;
 }
 .footer ul {
+	list-style-position: inside;
+	padding:0;
+	margin: 0;
 	margin-top:0.5rem;
 }
 .footer ul li {
 	color:#ddd;
+	list-style: none;
+}
+.footer li:before {
+    content:"·";
+    font-size:20px;
+    vertical-align:middle;
+    line-height:20px;
+    margin-right:0.5rem;
+}
+.footer ul li a {
+	text-decoration: none;
+}
+.footer ul li a:hover {
+	color:inherit;
+	text-decoration: underline;
 }
