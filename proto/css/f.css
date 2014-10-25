@@ -428,6 +428,9 @@ a.post-link:hover h2 {
 .post .timeline h4 {
 	color:#333;
 }
+.post .comments {
+	margin-top:2rem;
+}
 /********************* FOOTER *******************/
 .footer {
 	margin-top:3rem;
@@ -446,9 +449,24 @@ a.post-link:hover h2 {
 }
 .social {
 	margin:1rem 0;
+	font-size: 1.8em;
+}
+.footer .social {
+	font-size: 1.4em;	
+}
+.social a {
+	text-decoration: none;
 }
 .social a:hover {
 	color:#ff6a00;
+}
+.social a span {
+	font-size:0.6em;
+	color:#666;
+}
+.social a:hover span {
+	text-decoration: underline;
+	color:#000;
 }
 .footer .border-right {
 	border-right:1px solid #ddd;
