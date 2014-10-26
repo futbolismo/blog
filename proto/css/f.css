@@ -103,15 +103,16 @@ a:hover {
   	flex-direction: row;
 }
 /********************* HEADER *******************/
-#header.not-fixed {
-	position: absolute !important;
-}
+
 div.navbar {
 	background-color:#fff;
 	border-bottom:1px solid #ddd;
 	height:13rem;
 	padding-top:1rem;
 	padding-bottom:1rem;
+	z-index:999;
+	border-radius: 0;
+	width: 100%;
 }
 div.navbar-header {
 	float:none;
@@ -156,7 +157,7 @@ div.navbar-header {
 .navbar-nav {
 	height: 4rem;
 	line-height: 4rem;
-	max-width: 60%;
+	max-width: 80%;
 	min-width: 60%;
 	float:none;
 }
@@ -184,6 +185,7 @@ div.navbar-header {
 	border-bottom:2px solid #333;
 	background-color: #fff !important;
 }
+
 #mainMenu {
 	border-top:1px solid #000;
 	margin-top:1rem;
@@ -197,11 +199,14 @@ div.navbar-header {
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 88%;
-   
+    /*height: 88%;*/
+    height:520px;
+   	
     top: 0;
     left: 0;
-    position: fixed !important;
+
+    position: absolute;
+    
     background-color: #333; /*#E5E1B7;*/
     
     background: url(../img/pics/leo2.png) repeat-x center center; 
@@ -212,7 +217,7 @@ div.navbar-header {
 }
 .main-abstract {
 	background-color:rgba(255,255,255,0.85);
-	margin-top: 20rem;
+	margin-top: 25%;
 	padding: 1rem;
 }
 .main-abstract p {
@@ -232,10 +237,10 @@ div.navbar-header {
 }
 .content-wrapper {
 	position: absolute;
-	top: 87%;
+	top: 520px;
 	width: 100%;
-	min-height: 12%;
-	z-index: 2;
+	
+	z-index: 999;
 	background: none repeat scroll 0% 0% #FFF;
 	border-top:1px solid #ddd;
 }
@@ -273,7 +278,25 @@ div.navbar-header {
 }
 .row .post-section h3 {
 	padding-top: 0.4rem;
-	font-size: 1.3em;
+	font-size: 2em;
+}
+@media (min-width: 992px) {
+	
+	.navbar {
+		position:fixed;
+	}
+
+	#header.not-fixed {
+		position: absolute !important;
+	}
+
+	.jumbotron {
+		position: fixed !important;
+	}
+
+	.row .post-section h3 {
+		font-size:1.2em;
+	}
 }
 .post-abstract h2 {
 	color:#333;
@@ -370,6 +393,7 @@ a.post-link:hover h2 {
 
 .top6 .border-bottom .post-abstract {
 	border-bottom:0.1rem solid #DFDFDF;
+	min-height: 430px;
 }
 .small-posts li {
 	min-height: 4rem;
