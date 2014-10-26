@@ -32,18 +32,21 @@
     <div id="header" class="navbar" role="navigation">
       <div class="container">
         <div class="navbar-header">
-            <div class="logo text-center center-block">
-                <a class="navbar-brand" href="#">Futbolismo</a>
-                <b>Storie e Grafici del Calcio</b>
-            </div>
+                <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><h4>Futbolismo</h4>STORIE E GRAFICI DEL CALCIO</a>
         </div>
         <div class="navbar-collapse collapse">
-            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-                <div id="mainMenu" class="nav navbar-nav center-block">
-                    <div><a href="#">Splendori e Miserie</a></div>
-                    <div><a href="#">Dati e Grafici</a></div>
-                    <div><a href="#">Figurine Parlanti</a></div>
-                </div>
+            <nav class="collapse navbar-collapse" role="navigation">
+                <ul id="mainMenu2" class="nav navbar-nav">
+                    <li><a href="#">Miserie e Splendori</a></li>
+                    <li><a href="#">Dati e Grafici</a></li>
+                    <li><a href="#">Figurine Parlanti</a></li>
+                </ul>
             </nav>
         </div><!--/.navbar-collapse -->
       </div>
@@ -53,12 +56,12 @@
     <div class="jumbotron">
         <div class="container main">
             <div class="row jumbo-post">
-                <div class="col-sd-4 col-sd-offset-7 col-sm-5 col-sm-offset-6 main-abstract col-xs-12">
+                <div class="col-sm-4 col-sm-offset-6 main-abstract">
                     <a href="post.html" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
                         <h1>Messico nuvole e quelle scarpe bianche</h1>
                         <p class="abstract left"><i>Sono nato a Citt&agrave; del Messico.
                         <br/>
-                        Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista.</i></p>
+                        Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. <span class="hidden-xs">Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista.</i></span></p>
                     </a>
                 </div>
             </div>
@@ -94,15 +97,15 @@
                     <div class="col-xs-12 col-sm-6 ">
                         <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
                             <div class="row post-abstract bg-maroon color-invert no-padding">
-                                <div class="col-xs-12 col-md-5 post-abstract-body">
+                                <div class="col-xs-12 col-md-7 col-push-5 post-abstract-img no-padding pull-right">
+                                    <div class="post-abstract-img">
+                                        <img class="responsive-img" src="img/pics/cowans.jpg" alt="Come mi salvai dalla mano de Dios" width="100%">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-5 col-pull-7 post-abstract-body">
                                         <h2>Come mi salvai dalla <i>mano de Dios</i></h2>    
                                         <p>Non si difende per tanti anni una maglia per niente.<br/>
                                         Soprattutto quando tutte le domeniche sputi sangue per quei colori, sudi, rischi di rimetterci una gamba.</p>
-                                </div>
-                                <div class="col-xs-12 col-md-7 post-abstract-img no-padding pull-right">
-                                    <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/cowans.jpg" alt="Come mi salvai dalla mano de Dios" width="100%">
-                                </div>
                                 </div>
                             </div>
                         </a>
@@ -116,34 +119,67 @@
                     <div class="col-md-2">
                         <div class="post-section">
                             <h3>Dati e grafici</h3>
-                            <p><em>Le leggende del calcio e i suoi interpreti visualizzati graficamente</em></p>
+                            <p class="hidden-xs"><em>Le leggende del calcio e i suoi interpreti visualizzati graficamente</em></p>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-3 border-right">
+
+                    
+                                
+                            
+
+
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                <img class="responsive-img border" src="img/pics/chart1.png" alt="grafico1" width="100%">
-                            </div>
-                            <h2>Grafico 1</h2>
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-7 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/chart1.png" alt="grafico1" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-5 col-sm-12">
+                                        <h2>Grafico 1</h2>
+                                        <p class="hidden-xs">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                                        <p class="hidden-sm hidden-md hidden-lg">Donec id elit non mi porta gravida at eget metus.</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-3 border-right">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                <img class="responsive-img border" src="img/pics/chart1.png" alt="grafico1" width="100%">
-                            </div>
-                            <h2>Grafico 2</h2>
-                            <p>Honec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-7 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/chart1.png" alt="grafico1" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-5 col-sm-12">
+                                        <h2>Grafico 1</h2>
+                                        <p class="hidden-xs">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                                        <p class="hidden-sm hidden-md hidden-lg">Donec id elit non mi porta gravida at eget metus.</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-3 border-right">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                <img class="responsive-img border" src="img/pics/chart1.png" alt="grafico1" width="100%">
-                            </div>
-                            <h2>Grafico 3</h2>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-7 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/chart1.png" alt="grafico1" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-5 col-sm-12">
+                                        <h2>Grafico 1</h2>
+                                        <p class="hidden-xs">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                                        <p class="hidden-sm hidden-md hidden-lg">Donec id elit non mi porta gravida at eget metus.</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                                         
@@ -156,67 +192,112 @@
                 <div class="top6 row">
                     <div class="col-xs-12 col-md-2">
                         <div class="post-section">
-                            <h3>Splendori e Miserie</h3>
-                            <p><em>Il calcio raccontato dalle mitologiche imprese dei suoi interpreti</em></p>
+                            <h3>Miserie e Splendori</h3>
+                            <p class="hidden-xs"><em>Il calcio raccontato dalle mitologiche imprese dei suoi interpreti</em></p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 border-bottom">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract bg-light-gray">
                             <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                <div class="row">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h2>Messico nuvole e quelle scarpe bianche</h2>
+                                        <p class="hidden-xs">Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
+                                    </div>
                                 </div>
-                                <h2>Messico nuvole e quelle scarpe bianche</h2>
-                                <p>Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
                             </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 border-bottom">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract bg-light-gray">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h2>Messico nuvole e quelle scarpe bianche</h2>
+                                        <p class="hidden-xs">Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
+                                    </div>
                                 </div>
-                            <h2>Una figurina sbagliata</h2>
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 border-bottom">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract bg-light-gray">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h2>Messico nuvole e quelle scarpe bianche</h2>
+                                        <p class="hidden-xs">Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
+                                    </div>
                                 </div>
-                            <h2>Montevideo</h2>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
+                            </a>
                         </div>
                     </div>
                 </div>
                 <div class="top6 row">
-                    
-                    <div class="col-xs-6 col-sm-4 col-md-3 col-md-offset-2 border-bottom">
+                    <div class="col-md-offset-2 col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract bg-light-gray">
-                            <div>
-                                <img class="responsive-img" data-src="holder.js/100%x222/sky" alt="Non si difende una maglia">
-                            </div>
-                            <h2>Non si difende una maglia</h2>
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. </p>
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h2>Messico nuvole e quelle scarpe bianche</h2>
+                                        <p class="hidden-xs">Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 border-bottom">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract bg-light-gray">
-                            <div>
-                                <img class="responsive-img" data-src="holder.js/100%x222/sky" alt="Non si difende una maglia">
-                            </div>
-                            <h2>Una figurina sbagliata</h2>
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h2>Messico nuvole e quelle scarpe bianche</h2>
+                                        <p class="hidden-xs">Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-3 border-bottom">
+                    <div class="col-sm-4 col-md-3 border-bottom">
                         <div class="post-abstract bg-light-gray">
-                            <div>
-                                <img class="responsive-img" data-src="holder.js/100%x222/sky" alt="Non si difende una maglia">
-                            </div>
-                            <h2>Montevideo</h2>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h2>Messico nuvole e quelle scarpe bianche</h2>
+                                        <p class="hidden-xs">Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -224,57 +305,96 @@
         </section>
         <section>
             <div class="container border-bottom">
-                <div class="top6 row">
-                    <div class="col-md-2 col-xs-12">
+                <div class="top6 stickers row">
+                    <div class="col-md-2">
                         <div class="post-section">
                             <h3>Figurine parlanti</h3>
-                            <p><em>Perch&egrave; un figurina non &egrave; solo una cosa da bambini</em></p>
+                            <p class="hidden-xs"><em>Perch&egrave; un figurina non &egrave; solo una cosa da bambini</em></p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-2">
-                        <div class="post-abstract">
+                    <div class="col-sm-4 col-md-2 border-bottom">
+                        <div class="post-abstract bg-light-gray">
                             <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                <div class="row sticker">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h3>Oleksandr Anatoliyovych Zavarov</h3>
+                                        <p class="hidden-sm hidden-md hidden-lg">Centrocampista, nato il 20 Aprile 1961 a Luhansk, Ucraina, URSS</p>
+                                    </div>
                                 </div>
-                                <h3>Lo Zar venuto dal semi freddo</h3>
-                                
                             </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-2">
-                        <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
+                    <div class="col-sm-4 col-md-2 border-bottom">
+                        <div class="post-abstract bg-light-gray">
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row sticker">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h3>Leonardo Cu&egrave;llar Rivera</h3>
+                                        <p class="hidden-sm hidden-md hidden-lg">Centrocampista, nato il 14 Gennaio 1954 a Città del Messico</p>
+                                    </div>
                                 </div>
-                            <h3>Messico nuvole e quelle scarpe bianche</h3>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-2">
-                        <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                    <div class="col-sm-4 col-md-2 border-bottom">
+                        <div class="post-abstract bg-light-gray">
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row sticker">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h3>Oleksandr Anatoliyovych Zavarov</h3>
+                                        <p class="hidden-sm hidden-md hidden-lg">Centrocampista, nato il 20 Aprile 1961 a Luhansk, Ucraina, URSS</p>
+                                    </div>
                                 </div>
-                            <h3>Lo Zar venuto dal semi freddo</h3>
-                            
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-2">
-                        <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                    <div class="col-sm-4 col-md-2 border-bottom">
+                        <div class="post-abstract bg-light-gray">
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row sticker">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h3>Leonardo Cu&egrave;llar Rivera</h3>
+                                        <p class="hidden-sm hidden-md hidden-lg">Centrocampista, nato il 14 Gennaio 1954 a Città del Messico</p>
+                                    </div>
                                 </div>
-                            <h3>Lo Zar venuto dal semi freddo</h3>
-                            
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-2">
-                        <div class="post-abstract">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                    <div class="col-sm-4 col-md-2 border-bottom">
+                        <div class="post-abstract bg-light-gray">
+                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                                <div class="row sticker">
+                                    <div class="col-xs-5 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-12">
+                                        <h3>Oleksandr Anatoliyovych Zavarov</h3>
+                                        <p class="hidden-sm hidden-md hidden-lg">Centrocampista, nato il 20 Aprile 1961 a Luhansk, Ucraina, URSS</p>
+                                    </div>
                                 </div>
-                            <h3>Lo Zar venuto dal semi freddo</h3>
-                            
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -286,35 +406,10 @@
                     <div class="col-md-2">
                         <div class="post-section">
                             <h3>Non tutti sanno che</h3>
-                            <p><em>Fatti, curiosit&agrave; e racconti brevi dal mondo del calcio</em></p>
+                            <p class="hidden-xs"><em>Fatti, curiosit&agrave; e racconti brevi dal mondo del calcio</em></p>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-3">
-                        <div class="post-abstract">
-                            <ul class="list-unstyled">
-                            
-                                <li>
-                                    <a href="#">
-                                        <h4>La Iglesia Maradoniana</h4>
-                                        <p>Declarar tu amor incondicional por Diego y el buen f&ugrave;tbol</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <h4>Jordi Cul&eacute;</h4>
-                                        <p>La sintesi del tifoso <i>azulgrana</i> nelle vignette di Oscar Nebreda Abad&iacute;a</p>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <h4>Kop (Spion Kop)</h4>
-                                        <p>La leggenda racconta che i tifosi del Kop possono <i>risucchiare la palla in rete</i></p>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-3">
+                    <div class="col-md-9">
                         <div class="post-abstract">
                             <ul class="list-unstyled">
                                 <li>
@@ -335,12 +430,24 @@
                                         <p>La leggenda racconta che i tifosi del Kop possono <i>risucchiare la palla in rete</i></p>
                                     </a>
                                 </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-3">
-                        <div class="post-abstract">
-                            <ul class="list-unstyled">
+                                <li>
+                                    <a href="#">
+                                        <h4>La Iglesia Maradoniana</h4>
+                                        <p>Declarar tu amor incondicional por Diego y el buen f&ugrave;tbol</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <h4>Jordi Cul&eacute;</h4>
+                                        <p>La sintesi del tifoso <i>azulgrana</i> nelle vignette di Oscar Nebreda Abad&iacute;a</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <h4>Kop (Spion Kop)</h4>
+                                        <p>La leggenda racconta che i tifosi del Kop possono <i>risucchiare la palla in rete</i></p>
+                                    </a>
+                                </li>
                                 <li>
                                     <a href="#">
                                         <h4>La Iglesia Maradoniana</h4>
@@ -361,8 +468,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
-                                        
+                    </div>                                        
                 </div>
             </div>
         </section>
@@ -431,6 +537,7 @@
                                 <li><a href="#">Il progetto</a></li>
                                 <li><a href="#">Chi siamo</a></li>
                                 <li><a href="#">Contatti</a></li>
+                                <li><a href="#">Help</a></li>
                             </ul>
                         </div>
                     </div>
@@ -466,7 +573,7 @@
                 //console.log(top,scroll)
 
                 
-
+                return;
                 if (scroll < 390) {
                     if(!fixed) {
                         header.removeClass("not-fixed").css("margin-top","0");
