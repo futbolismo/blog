@@ -29,21 +29,24 @@
     <script src="js/holder.js"></script>
 </head>
 <body class="post">
-    <div id="header" class="navbar navbar-top" role="navigation">
+    <div id="header" class="navbar" role="navigation">
       <div class="container">
         <div class="navbar-header">
-            <div class="logo text-center center-block">
-                <a class="navbar-brand" href="index.html">Futbolismo</a>
-                <b>Storie e Grafici del Calcio</b>
-            </div>
+                <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><h4>Futbolismo</h4>STORIE E GRAFICI DEL CALCIO</a>
         </div>
         <div class="navbar-collapse collapse">
-            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-                <div id="mainMenu" class="nav navbar-nav center-block">
-                    <div><a href="#">Splendori e Miserie</a></div>
-                    <div><a href="#">Dati e Grafici</a></div>
-                    <div><a href="#">Figurine Parlanti</a></div>
-                </div>
+            <nav class="collapse navbar-collapse" role="navigation">
+                <ul id="mainMenu2" class="nav navbar-nav">
+                    <li><a href="#">Miserie e Splendori</a></li>
+                    <li><a href="#">Dati e Grafici</a></li>
+                    <li><a href="#">Figurine Parlanti</a></li>
+                </ul>
             </nav>
         </div><!--/.navbar-collapse -->
       </div>
@@ -71,24 +74,26 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-12 col-md-2 post-info">
-                        <h5>Splendori e Miserie</h5>
-                        <h5>Ottobre, 2014</h5>
-                        <h5>di Francesco Mistrulli</h5>
-                        <div class="social">
-                            <ul class="list-unstyled">
-                                <li><a class="twitter_link" href="#" target="_blank" title="Share on Twitter"><i class="icon-twitter"></i> <span>Condividi su Twitter</span></a></li>
-                                <li><a href="#" target="_blank" title="Share on Google+"><i class="icon-gplus" title="Share on Google+"></i> <span>Google+</span></a></li>
-                                <li><a href="#" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i> <span>Facebook</span></a></li>
-                            </ul>
-                            
-
-                            
-                            
+                    <div class="col-xs-12 col-md-2">
+                        <div class="row post-info">
+                            <div class="col-xs-8 col-md-12">
+                                <h5>di Francesco Mistrulli</h5>
+                                <h5>Miserie e splendori</h5>
+                                <h5>Ottobre, 2014</h5>
+                            </div>
+                            <div class="col-xs-4 col-md-12">
+                                <div class="social">
+                                    <ul class="list-unstyled">
+                                        <li><a class="twitter_link" href="#" target="_blank" title="Share on Twitter"><i class="icon-twitter"></i> <span class="hidden-xs">Condividi su Twitter</span></a></li>
+                                        <li><a href="#" target="_blank" title="Share on Google+"><i class="icon-gplus" title="Share on Google+"></i> <span class="hidden-xs">Google+</span></a></li>
+                                        <li><a href="#" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i> <span class="hidden-xs">Facebook</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>        
                         </div>
                     </div>
                     <div class="col-xs-12 col-md-7">
-                        <div class="post-body flex-col">
+                        <div class="post-body">
                             <p>Sono nato a Citt&agrave; del Messico. <br/>
 Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano.<br/>
 Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista.<br/>
@@ -133,8 +138,8 @@ Troppo anche per un anticonformista come me!</p>
                             <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-width="100%" data-numposts="10" data-colorscheme="light"></div>
                         </div>
                     </div>
-                    <div class="col-md-2">
-                        <div class="timeline flex-col">
+                    <div class="col-md-2 hidden-xs">
+                        <div class="timeline">
                             <div class="post-abstract-img">
                                 <img class="responsive-img" src="img/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
                             </div>
@@ -146,164 +151,46 @@ Troppo anche per un anticonformista come me!</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-1"></div>
                 </div>
             </div>
         </section>
-        <section class="bg-info">
-            <div class="container bg-white50">
-                <div class="top6 row row-flex row-flex-wrap">
-                    <div class="col-md-2">
-                        <div class="post-section">
-                            <h3>Articoli collegati</h3>
-                        </div>
-                    </div>
-                    <div class="col-md-3 border-right">
-                        <div class="post-abstract flex-col">
-                            <h2>Articolo 1</h2>
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 border-right">
-                        <div class="post-abstract flex-col">
-                            <h2>Articolo 2</h2>
-                            <p>Honec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 border-right">
-                        <div class="post-abstract flex-col">
-                            <h2>Articolo 3</h2>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                        </div>
-                    </div>
-                                        
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="container">
-                <div class="top6 row row-flex row-flex-wrap">
-                    <div class="col-md-2">
-                        <div class="post-section flex-col">
-                            <h3>Gioie e Miserie</h3>
-                        </div>
-                    </div>
-                    <div class="col-md-3 border-bottom">
-                        <div class="post-abstract flex-col bg-light-gray">
-                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
-                                </div>
-                                <h2>Messico nuvole e quelle scarpe bianche</h2>
-                                <p>Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista. </p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 border-bottom">
-                        <div class="post-abstract flex-col bg-light-gray">
-                            <div>
-                                <img class="responsive-img" data-src="holder.js/100%x243/sky" alt="Non si difende una maglia">
-                            </div>
-                            <h2>Una figurina sbagliata</h2>
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 border-bottom">
-                        <div class="post-abstract flex-col bg-light-gray">
-                            <div>
-                                <img class="responsive-img" data-src="holder.js/100%x243/sky" alt="Non si difende una maglia">
-                            </div>
-                            <h2>Montevideo</h2>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="container">
-                <div class="top6 row row-flex row-flex-wrap">
-                    <div class="col-md-2">
-                        <div class="post-section flex-col">
-                            <h3>Figurine parlanti</h3>
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <div class="post-abstract flex-col">
-                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
-                                </div>
-                                <h3>Lo Zar venuto dal semi freddo</h3>
-                                
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <div class="post-abstract flex-col">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
-                                </div>
-                            <h3>Messico nuvole e quelle scarpe bianche</h3>
-                            
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <div class="post-abstract flex-col">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
-                                </div>
-                            <h3>Lo Zar venuto dal semi freddo</h3>
-                            
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <div class="post-abstract flex-col">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
-                                </div>
-                            <h3>Lo Zar venuto dal semi freddo</h3>
-                            
-                        </div>
-                    </div>
-                    <div class="col-md-2">
-                        <div class="post-abstract flex-col">
-                            <div class="post-abstract-img">
-                                    <img class="responsive-img" src="img/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
-                                </div>
-                            <h3>Lo Zar venuto dal semi freddo</h3>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <footer>
             <div class="footer">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-3 col-md-offset-1">
-                            <h4>Argomenti</h4>
-                            <ul class="list-unstyled">
-                                <li>Gioie e Miserie</li>
-                                <li>Dati e Grafici</li>
-                                <li>Figurine parlanti</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3 col-md-offset-1">
-                            <h4>Ultimi articoli</h4>
-                            <ul class="list-unstyled">
-                                <li>Messico nuvole e quelle scarpe bianche</li>
-                                <li>Una figurina sbagliata</li>
-                                <li>Non si difende una maglia</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3 col-md-offset-1">
+                        <div class="col-sm-3 col-md-3 col-md-offset-1">
                             <h4>Futbolismo</h4>
-                            <ul class="list-unstyled">
-                                <li>Il progetto</li>
-                                <li>Chi siamo</li>
-                                <li>Contatti</li>
+                            <p>
+                                Un sito nato dalla passione per il calcio raccontato attraverso
+                                storie, fatti e grafici. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus
+                            </p>
+                        </div>
+                        <div class="col-sm-3 col-md-2 col-md-offset-1">
+                            <h4>Argomenti</h4>
+                            <ul class="">
+                                <li><a href="#">Splendori e Miserie</a></li>
+                                <li><a href="#">Dati e Grafici</a></li>
+                                <li><a href="#">Figurine parlanti</a></li>
+                                <li><a href="#">Non tutti sanno che</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-3 col-md-2">
+                            <h4>Ultimi articoli</h4>
+                            <ul class="">
+                                <li><a href="#">Il cileno di padre ungherese</a></li>
+                                <li><a href="#">Messico nuvole e quelle scarpe bianche</a></li>
+                                <li><a href="#">Una figurina sbagliata</a></li>
+                                <li><a href="#">Non si difende una maglia</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-3 col-md-2">
+                            <h4>Futbolismo</h4>
+                            <ul class="">
+                                <li><a href="#">Il progetto</a></li>
+                                <li><a href="#">Chi siamo</a></li>
+                                <li><a href="#">Contatti</a></li>
+                                <li><a href="#">Help</a></li>
                             </ul>
                         </div>
                     </div>
