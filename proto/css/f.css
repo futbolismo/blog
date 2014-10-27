@@ -171,7 +171,10 @@ div.navbar {
 
     padding:0;
     margin-bottom: 0;
-    border-bottom:1px solid #ddd;
+    
+}
+.post .jumbotron {
+	height:220px;
 }
 .jumbotron .container {
 	height: 100%;
@@ -187,14 +190,14 @@ div.navbar {
 }
 .jumbotron .main-bg {
 	position: absolute;
-	top:0;
+	top:135px;
 	left:0;
 	bottom: 0;
 	right: 0;
 	z-index:-1;
 }
 .jumbotron .main-bg {
-	background: url(../img/pics/cuellar.png) no-repeat center center; 
+	background: url(../img/pics/cuellar2.jpg) no-repeat center center; 
     background-size: auto 100%;
 }
 .content-wrapper {
@@ -244,9 +247,17 @@ div.navbar {
 	font-size: 1.4em;
 	border-bottom:1px solid #ddd;
 }
+@media (max-width: 1200px) {
+	div.navbar-collapse ul {
+		width: 50%;
+	}
+}
 @media (min-width: 768px) {
 	div.navbar {
 		
+	}
+	.navbar-nav li {
+		line-height: 1rem;	
 	}
 	div.navbar-header {
 		float: none;
@@ -275,7 +286,7 @@ div.navbar {
 	div.navbar-collapse ul {
 		margin: 0 auto;
 		float: none;
-		width: 50%;
+		width: 90%;
 		border-top:1px solid #333;
 	}
 	.navbar-collapse li {
@@ -313,7 +324,7 @@ div.navbar {
 	.jumbotron {
 		position: fixed !important;
 		padding: 30px;
-		height:520px;
+		height:520px !important;
 	}
 	.jumbotron .main-abstract {
 		bottom: 5rem;
@@ -321,6 +332,7 @@ div.navbar {
 	.content-wrapper {
 		position: absolute;
 		top: 520px;
+		border-top:1px solid #ddd;
 	}
 	.main h1 {
 		font-size:2.2rem;
@@ -515,20 +527,39 @@ a.post-link:hover h2 {
 .post .post-body p {
 	font-size:1.15em;
 }
+.post .post-disclaimer {
+	margin-top:2rem;
+	font-size: 1em;
+	font-style: italic;
+	color: #666;
+}
 .post .timeline h4 {
 	color:#333;
 }
 .post .comments {
 	margin-top:2rem;
 }
-.post .social ul li {
-	float:left;
-	margin:0 0.1rem;
-}
 .post .social {
 	margin:0;
-	font-size: 1.2em;
+	font-size: 1.4em;
+	border-top: 1px solid #ddd;
+	padding: 1rem;
 }
+.post .social ul {
+	overflow: hidden;
+	margin-bottom: 0;
+}
+.post .social ul li {
+	float: left;
+	margin: 0px 0.8rem 0 0;
+	border: 2px solid #000;
+	line-height: 27px;
+	border-radius: 16px;
+	padding-top: 3px;
+	width: 34px;
+	background-color: #eee;
+}
+
 @media (min-width: 768px) {
 	.post h1 {
 		font-size:1.8em;
@@ -549,6 +580,11 @@ a.post-link:hover h2 {
 	.post .social ul li {
 		float:none;
 		margin:0;
+		width:auto;
+		line-height: 2rem;
+		border:none;
+		border-radius: 0;
+		background-color: inherit;
 	}
 	.post .post-body {
 		border-right:1px solid #ddd;
