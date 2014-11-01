@@ -51,6 +51,7 @@ a:hover {
 .border {
 	border:1px solid #ddd;
 }
+
 /********************* FLEXBOX *******************/
 .row-flex, .row-flex > div[class*='col-'] {  
     display: -webkit-box;
@@ -172,6 +173,7 @@ div.navbar {
     padding:0;
     margin-bottom: 0;
     
+    border-bottom: 1px solid #ddd;
 }
 .post .jumbotron {
 	height:220px;
@@ -197,7 +199,7 @@ div.navbar {
 	z-index:-1;
 }
 .jumbotron .main-bg {
-	background: url(../img/pics/cuellar2.jpg) no-repeat center center; 
+	background: url(../img/pics/cuellar.png) no-repeat center center; 
     background-size: auto 100%;
 }
 .content-wrapper {
@@ -228,7 +230,12 @@ div.navbar {
 .main .jumbo-post {
 	height: 100%;
 }
-
+.read-more span.glyphicon {
+	font-size:0.7em;
+}
+a:hover .read-more {
+	text-decoration: underline;
+}
 .top6 > div,
 .top2 > div {
 	padding:1rem;
@@ -260,6 +267,7 @@ and (orientation : portrait) {*/
 		font-size:1em !important;
 	}
 }
+
 @media (min-width: 768px) {
 	div.navbar {
 		
@@ -529,6 +537,9 @@ a.post-link:hover h3 {
 .post .post-body img {
 	margin:1rem 0;
 }
+.post .post-body img.margin-1em {
+	margin:1em;
+}
 .post h1 {
 	font-size:1.4em;
 	margin:1rem 0;
@@ -579,12 +590,11 @@ a.post-link:hover h3 {
 }
 @media (min-width: 768px) {
 	.post h1 {
-		font-size:1.8em;
+		font-size:2em;
 	}
-	.post .post-title h1 {
-		border-bottom:1px solid #ddd;
+	
+	.post .post-title h1 {	
 		margin-bottom:2rem;
-		padding-bottom:2rem;
 	}
 	.post .post-info {
 		border-top:none;

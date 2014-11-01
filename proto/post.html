@@ -23,10 +23,10 @@
     <![endif]-->
     <link rel="stylesheet" href="css/social.css">
     <link rel="stylesheet" href="css/f.css">
-    
-    
+    <link rel="stylesheet" href="css/timeline.css">
 
-    <script src="js/holder.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
 </head>
 <body class="post">
     <div id="header" class="navbar" role="navigation">
@@ -63,7 +63,7 @@
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 post-title">
+                    <div class="col-xs-12 col-sm-10 col-sm-offset-2 post-title">
                         <h1>Messico nuvole e quelle scarpe bianche</h1>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
                         <div class="row post-info">
                             <div class="col-xs-12">
                                 <h5>di Francesco Mistrulli</h5>
-                                <h5>Miserie e splendori</h5>
+                                <h5><a href="#">Miserie e splendori</a></h5>
                                 <h5>Ottobre, 2014</h5>
                             </div>
                             <div class="col-xs-12 social">
@@ -90,6 +90,9 @@
 Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano.<br/>
 Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista.<br/>
 Al giorno d'oggi &egrave; molto pi&ugrave; semplice, essere anticonformisti dico. Anche se mi guardo in giro e vedo cos&igrave; tanti anticonformisti che mi sembra si siano tutti uniformati all'anticonformismo. Mi sembra che per non voler essere come gli altri alla fine si sia finito per essere tutti uguali un'altra volta. Comunque polemiche a parte, negli anni Settanta no, non era cos&igrave;. Si rischiava di essere emarginati. In Messico poi! Io certo sono stato avvantaggiato nelle mie scelte. Un futbolista ha pi&ugrave; libert&agrave;. Comunque vi assicuro che non &egrave; stato per nulla facile.<br/>
+</p>
+<img class="responsive-img border" src="img/pics/cuellar2.jpg" alt="Mexico 78" width="100%">
+<p>
  Mi chiamo Leonardo Cu&eacute;llar. All'anagrafe Leonardo Cu&eacute;llar Rivera. <br/>
  A molti di voi questo nome non dir&agrave; assolutamente nulla. <br/>
  Del resto cos&igrave; come la figurina dell'album del Mundial di Argentina Settantotto che hanno scelto di utilizzare a corredo di questa mia storia. <br/>
@@ -98,6 +101,7 @@ Non passavo certo inosservato con il mio look "Afro" e la barba lunga. Certo, an
 Un mio amico e compagno, &Aacute;ngel Fern&aacute;ndez, mi aveva ribattezzato Leo "el Le&oacute;n de la Metro". Bravi, avete capito. Il leone ruggente. Diceva che gli rammentavo l'inizio delle pellicole hollywoodiane della Metro Goldwyn Mayer. Direi, e sarete d'accordo con me, che il buon &Aacute;ngel ci aveva visto proprio giusto. Mai soprannome fu pi&ugrave; azzeccato!<br/>
 Ma non sono sempre stato cos&igrave;! Quand'ho iniziato, con il Club de F&uacute;tbol Universid Nacional, i "Pumas", avevo i capelli con la riga al lato, ben pettinati. &Egrave; quando sono tornato dai Giochi Olimpici di Monaco del millenovecentosettantadue che ho sorpreso tutti con il mio nuovo look.<br/>
 Venni in contatto con atleti provenienti da tutto il mondo, tanti stili di vita, tante culture, tanti modi di vedere la vita. Fu esaltante venire in contatto con tanta diversit&agrave;.<br/>
+<img class="responsive-img border margin-1em" src="img/pics/cuellar1.jpg" alt="Mexico 78" width="40%" align="left">
 In realt&agrave; quelle Olimpiadi estive non sorpresero solo me, ma tristemente tutto il mondo. Sono passate alla storia come il "Massacro di Monaco". Brutta storia quella. Un commando di terroristi di un organizzazione Palestinese, mi pare si chiamassero "Settembre Nero", fa irruzione negli alloggi israeliani del villaggio olimpico uccidendo due atleti e prendendo in ostaggio gli altri nove. Come volete che sia finita. Quando di mezzo ci sono le guerre ci rimettono sempre gli innocenti, o quasi. La polizia tent&ograve; un'incursione e tutti gli ostaggi vennero uccisi, insieme a cinque fedayyin del commando. Brutta storia davvero.<br/>
 Come potevano non cambiarmi quei Giochi Olimpici.<br/>
 Al mio ritorno in Messico, mio malgrado sono diventato una delle icone popolari dell'epoca! E mica solo in Messico! Chi lo avrebbe mai immaginato.<br/>
@@ -137,10 +141,7 @@ Troppo anche per un anticonformista come me!</p>
                             </div>
                             <h4>Leonardo Cu&eacute;llar Rivera</h4>
                             <p>Centrocampista, nato il 14 Gennaio 1954 a Citt&agrave; del Messico</p>
-                            <div class="post-abstract-img">
-                                <img class="responsive-img" src="img/pics/timeline.png" alt="timeline" width="100%">
-                                <caption>qui c'e' una timeline interattiva con eventi del giocatore, del calcio e storici</caption>
-                            </div>
+                            <div id="timeline" class="timeline-viz"></div>
                         </div>
                     </div>
 
@@ -218,23 +219,159 @@ Troppo anche per un anticonformista come me!</p>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <div id="fb-root"></div>
-    <script>(function(d, s, id) {
+    <!--<script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=449119791838390&version=v2.0";
       fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+    }(document, 'script', 'facebook-jssdk'));</script>-->
+    <script src="js/Timeline.js"></script>
     <script>
 
-        (function($){
+        //(function(){
 
+            var cuellar=[
+                {
+                    type:"birth",
+                    category:"",
+                    timestamps:[new Date(1954,1-1,14)],
+                    text:{
+                        body:"Il 14 Gennaio 1954, nasce a Citt&agrave; del Messico Leonardo Cu&egrave;llar Rivera, consciuto anche come <i>el Le&ograve;n de la Metro</i>",
+                        link:null
+                    }
+                },
+                {
+                    type:"history",
+                    timestamps:[new Date(1972,9-1,4)],
+                    what:"Settembre Nero"
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1972,1979],
+                    team:"Pumas",
+                    text:{
+                        body:"Dal 1972 al 1979 gioca in Messico nelle file del <b>Pumas</b><br/><br/>Tra il 1973 e il 1981 colleziona 41 presenze con la Nazionale Messicana.",
+                        link:null
+                    }
+                },
+                {
+                    type:"worldcup",
+                    category:"event",
+                    timestamps:[new Date(1978,6-1,1),new Date(1978,6-1,25)],
+                    team:"Worldcup Argentina",
+                    text:{
+                        
+                        body:"Partecipa ai Mondiali del 1978 in Argentina.",
+                        link:"http://en.wikipedia.org/wiki/1978_FIFA_World_Cup"
+                    }
+                },
+                {
+                    type:"olympics",
+                    category:"event",
+                    timestamps:[new Date(1972,8-1,26),new Date(1972,9-1,11)],
+                    team:"Olympic Games Munich",
+                    text:{
+                        
+                        body:"Partecipa alle Olimpiadi di Monaco nel 1972.",
+                        link:"http://it.wikipedia.org/wiki/Giochi_della_XX_Olimpiade"
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1979,1981],
+                    team:"San Diego Sockers",
+                    apps:57,
+                    goals:9,
+                    text:{
+                        
+                        body:"Nel 1979 si trasferisce negli Stati Uniti d'America per giocare fino al 1981 nei San Diego Sockers. Colleziona 57 presenze e ben 9 reti.<br/><br/>Tra il 1973 e il 1981 colleziona 41 presenze con la Nazionale Messicana.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1981,1982],
+                    team:"Atletas Campesinos",
+                    apps:2,
+                    goals:0,
+                    text:{
+                        
+                        body:"Tra il 1981 e il 1982 gioca in Messico nel Atletas Campesinos. Solo due apparizioni, zero goal.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1982,1982],
+                    team:"San Jose Earthquakes",
+                    apps:20,
+                    goals:0,
+                    text:{
+                        
+                        body:"Nel 1982 gioca nel San Jose Earthquakes, collezionando 20 apparizioni.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1982,1983],
+                    team:"Golden Bay Earthquakes (indoor)",
+                    apps:25,
+                    goals:3,
+                    text:{
+                        
+                        body:"Nelle stagioni 1982-1983 gioca con i Golden Bay Earthquakes (Indoor). Segna 3 volte in 25 apparizioni.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1983,1984],
+                    team:"Golden Bay Earthquakes",
+                    apps:51,
+                    goals:3,
+                    text:{
+                        
+                        body:"Con i Golden Bay Earthquakes segna 3 volte in 51 apparizioni.",
+                        link:null
+                    }
+                },
+                {
+                    type:"national",
+                    timestamps:[1973,1981],
+                    team:"Mexico",
+                    apps:41,
+                    goals:0
+                },
+                {
+                    type:"trainer",
+                    category:"range",
+                    timestamps:[1988],
+                    team:"Mexico Women",
+                    text:{
+                        
+                        body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
+                        link:"http://en.wikipedia.org/wiki/Mexico_women%27s_national_football_team"
+                    }
+                }
+            ];
 
+            new Timeline({
+                container:"#timeline",
+                data:cuellar
+            })
 
             
 
 
-        }(jQuery));
+        //});
 
     </script>
 </body>
