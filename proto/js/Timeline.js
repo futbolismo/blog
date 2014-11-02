@@ -256,8 +256,6 @@ function Timeline(options) {
 						d3.select(this).classed("hover",true);
 					})
 					.on("touchend",function(d){
-						d3.event.preventDefault();
-						d3.event.stopPropagation();
 						//tooltip.hide();
 						d3.select(this).classed("hover",false);
 					})
