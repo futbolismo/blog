@@ -49,14 +49,14 @@ function Timeline(options) {
 				d["type"]=="olympics"
  	})
 
-	var WIDTH=165,
+	var WIDTH=195,
 		HEIGHT=900;
 
 	var margin={
 		top:10,
 		bottom:10,
-		left:10,
-		right:10
+		left:5,
+		right:5
 	}
 	var padding={
 		top:0,
@@ -345,7 +345,7 @@ function Timeline(options) {
 
 		this.update=function(text,x,y) {
 
-			var x=x-185;
+			var x=x-170;
 
 			tooltip.style("top",(y+margin.top)+"px").style("left",x+"px").classed("hidden",false)
 			

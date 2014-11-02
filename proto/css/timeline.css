@@ -5,6 +5,7 @@
 }
 .timeline svg {
 	font-family: serif,"Times New Roman";
+	border:1px solid #eee;
 }
 
 .timeline line.time-axis {
