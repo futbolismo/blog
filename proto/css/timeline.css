@@ -57,6 +57,7 @@
 }
 .timeline g g rect.ix {
 	fill-opacity:0;
+	stroke:none;
 }
 .timeline g.worldcup text,
 .timeline g.olympics text {
