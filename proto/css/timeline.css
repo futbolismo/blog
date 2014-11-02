@@ -52,7 +52,9 @@
 	stroke-width:10;
 }
 .timeline g g:hover rect,
-.timeline g g.hover rect {
+.timeline g g:hover circle,
+.timeline g g.hover rect,
+.timeline g g.hover circle {
 	fill:#ff6600;
 }
 .timeline g g rect.ix {

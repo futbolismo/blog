@@ -270,6 +270,17 @@ function Timeline(options) {
 			.attr("cy",0)
 			.attr("r",4)
 
+	events
+		.filter(function(d){
+			return d["type"]=="birth"
+		})
+		.append("rect")
+			.attr("class","ix")
+			.attr("x",-BAR_WIDTH)
+			.attr("width",(WIDTH))
+			.attr("y",-10)
+			.attr("height",20)
+
 	var SQUARE_WIDTH=7;
 	events
 		.filter(function(d){
