@@ -51,10 +51,13 @@
 	stroke-opacity:0;
 	stroke-width:10;
 }
-.timeline g g:hover rect {
-	fill-opacity:0.8;
+.timeline g g:hover rect,
+.timeline g g.hover rect {
+	fill:#ff6600;
 }
-
+.timeline g g rect.ix {
+	fill-opacity:0;
+}
 .timeline g.worldcup text,
 .timeline g.olympics text {
 	font-size:11px;

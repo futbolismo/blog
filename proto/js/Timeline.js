@@ -66,7 +66,13 @@ function Timeline(options) {
 	var svg=d3.select(options.container)
 				.append("svg")
 				.attr("width",WIDTH)
-				.attr("height",HEIGHT);
+				.attr("height",HEIGHT)
+				.on("touchend",function(d){
+					d3.event.preventDefault();
+					d3.event.stopPropagation();
+					tooltip.hide();
+					d3.select(this).classed("hover",false);
+				})
 
 	var defs=svg.append("defs")
 			.append("pattern")
@@ -177,9 +183,30 @@ function Timeline(options) {
 					.on("mouseout",function(d){
 						tooltip.hide();
 					})
+					.on("touchstart",function(d){
+						d3.event.preventDefault();
+						d3.event.stopPropagation();
+						tooltip.update(d.text,0,d.y1);
+						d3.select(this).classed("hover",true);
+					})
+					.on("touchend",function(d){
+						d3.event.preventDefault();
+						d3.event.stopPropagation();
+						//tooltip.hide();
+						d3.select(this).classed("hover",false);
+					})
 
 	var BAR_STROKE=2
 		BAR_WIDTH=14+BAR_STROKE*2;
+
+	clubs.append("rect")
+			.attr("class","ix")
+			.attr("x",-BAR_WIDTH/2)
+			.attr("width",(WIDTH/2))
+			.attr("y",0)
+			.attr("height",function(d){
+				return d.y2;
+			})
 
 	clubs.append("rect")
 			.attr("x",-BAR_WIDTH/2)
@@ -221,6 +248,18 @@ function Timeline(options) {
 					})
 					.on("mouseout",function(d){
 						tooltip.hide();
+					})
+					.on("touchstart",function(d){
+						d3.event.preventDefault();
+						d3.event.stopPropagation();
+						tooltip.update(d.text,0,d.y1-10);
+						d3.select(this).classed("hover",true);
+					})
+					.on("touchend",function(d){
+						d3.event.preventDefault();
+						d3.event.stopPropagation();
+						//tooltip.hide();
+						d3.select(this).classed("hover",false);
 					})
 
 
@@ -341,7 +380,7 @@ function Timeline(options) {
 						.attr("title","Approfondisci")
 						.attr("target","_blank")
 						.attr("href","#")
-						.text("Approfondisci")
+						.html("Approfondisci <b>&gt;</b>")
 
 		this.update=function(text,x,y) {
 
