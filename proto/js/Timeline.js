@@ -96,24 +96,26 @@ function Timeline(options) {
 			"stroke-width":3,
 			"stroke-opacity":0.6
 		})
-
+	var BAR_STROKE=2
+		BAR_WIDTH=14+BAR_STROKE*2;
+	var CENTER=50;//BAR_WIDTH*1.5;//(WIDTH-(margin.left+margin.right))/2;//+margin.left;
 	var years=svg.append("g")
 					.attr("id","years")
 					.attr("transform",function(){
-						var x=(WIDTH-(margin.left+margin.right))/2+margin.left,
+						var x=CENTER,
 							y=margin.top;
 						return "translate("+x+","+y+")"
 					});
 
 	var timeline=svg.append("g")
 					.attr("transform",function(){
-						var x=(WIDTH-(margin.left+margin.right))/2+margin.left,
+						var x=CENTER,
 							y=margin.top;
 						return "translate("+x+","+y+")"
 					})
 
 	var yscale=d3.scale.linear()
-					.range([padding.top,HEIGHT-(margin.top+margin.bottom+padding.top+padding.bottom)])
+					.rangeRound([padding.top,HEIGHT-(margin.top+margin.bottom+padding.top+padding.bottom)])
 					.domain([new Date(1954,0,1),new Date()]);
 
 	timeline.append("line")
@@ -122,8 +124,7 @@ function Timeline(options) {
 			.attr("y1",0)
 			.attr("x2",0)
 			.attr("y2",yscale.range()[1]);
-	var BAR_STROKE=2
-		BAR_WIDTH=14+BAR_STROKE*2;
+	
 
 	var national_bar=timeline.selectAll("g.club")
 				.data(options.data.filter(function(d){
@@ -201,8 +202,8 @@ function Timeline(options) {
 
 	clubs.append("rect")
 			.attr("class","ix")
-			.attr("x",-BAR_WIDTH/2)
-			.attr("width",(WIDTH/2))
+			.attr("x",-CENTER)
+			.attr("width",(WIDTH))
 			.attr("y",0)
 			.attr("height",function(d){
 				return d.y2;
@@ -215,6 +216,24 @@ function Timeline(options) {
 			.attr("height",function(d){
 				return d.y2;
 			})
+	
+	clubs
+		.filter(function(d){
+			return d["team"];
+		})
+		.append("text")
+		.attr("x",WIDTH-CENTER)
+		.attr("y",11)
+		.style({
+			"font-family":"arial",
+			"text-transform":"uppercase",
+			"font-size":"10px",
+			"text-anchor":"end"
+		})
+		.text(function(d){
+			return d["team"]
+		})
+	
 			
 
 	var events=timeline.selectAll("g.event")
@@ -234,7 +253,7 @@ function Timeline(options) {
 
 						d.x1=0;
 						if(d["type"]=="worldcup" || d["type"]=="olympics") {
-							d.x1=-BAR_WIDTH+BAR_STROKE;
+							d.x1=BAR_WIDTH;
 						}
 
 						if(d.ts2!=d.ts1) {
@@ -244,7 +263,7 @@ function Timeline(options) {
 						return "translate("+d.x1+","+y+")";
 					})
 					.on("mouseover",function(d){
-						tooltip.update(d.text,d.x1,d.y1-10);
+						tooltip.update(d.text,0+CENTER+BAR_WIDTH,d.y1-10);
 					})
 					.on("mouseout",function(d){
 						tooltip.hide();
@@ -276,12 +295,26 @@ function Timeline(options) {
 		})
 		.append("rect")
 			.attr("class","ix")
-			.attr("x",-BAR_WIDTH)
+			.attr("x",-CENTER-BAR_WIDTH)
 			.attr("width",(WIDTH))
 			.attr("y",-10)
 			.attr("height",20)
 
 	var SQUARE_WIDTH=7;
+
+	events
+		.filter(function(d){
+			return d["category"]!="event"
+		})
+		.append("rect")
+			.attr("class","ix")
+			.attr("x",-SQUARE_WIDTH)
+			.attr("width",(WIDTH))
+			.attr("y",-SQUARE_WIDTH)
+			.attr("height",function(d){
+				return SQUARE_WIDTH*2;
+			})
+
 	events
 		.filter(function(d){
 			return d["type"]=="worldcup" || d["type"]=="olympics"
@@ -298,12 +331,12 @@ function Timeline(options) {
 			return d["type"]=="worldcup" || d["type"]=="olympics"
 		})
 		.append("text")
-			.attr("x",-SQUARE_WIDTH)
+			.attr("x",SQUARE_WIDTH)
 			.attr("y",4)
 			.text(function(d){
-				var cup="MONDIALI";
+				var cup="WC";
 				if(d["type"]=="olympics") {
-					cup="OLIMPIADI";
+					cup="OL";
 				}
 				return cup;//+" "+d.ts1.getFullYear()
 			})
@@ -324,15 +357,20 @@ function Timeline(options) {
 						if(d["category"]=="range") {
 							delta=BAR_STROKE;
 						}
+						
 						return "translate("+x+","+(d.y1+delta)+")";
 					})
 
-	year.append("line")
+	year
+		.filter(function(d){
+			return d["category"]!="event"
+		})
+		.append("line")
 		.attr("x1",function(d){
 			return BAR_WIDTH/2+2;
 		})
 		.attr("x2",function(d){
-			var x=(WIDTH-(margin.left+margin.right))/2;
+			var x=(WIDTH-(margin.left+margin.right));
 			if(d["category"]=="event") {
 				x=x-25;
 			}
@@ -349,9 +387,11 @@ function Timeline(options) {
 	year.append("text")
 		.attr("x",function(d){
 			if(d["type"]=="history") {
+				return -CENTER;
 				return -((WIDTH-(margin.left+margin.right))/2)
 			}
-			return (WIDTH-(margin.left+margin.right))/2;
+			
+			return -CENTER;//WIDTH-CENTER;//(WIDTH-(margin.left+margin.right));//(WIDTH-(margin.left+margin.right))/2;
 		})
 		.attr("y",function(d){
 			var y=9;
@@ -363,9 +403,12 @@ function Timeline(options) {
 			return y;
 		})
 		.text(function(d){
-			if(d["type"]=="birth") {
-				return d3.time.format("%d/%m/%Y")(d.ts1)
-			}
+			//if(d["type"]=="birth") {
+			//	return d3.time.format("%d/%m/%Y")(d.ts1)
+			//}
+			//if(d["team"]) {
+			//	return d["team"]
+			//}
 			return d.ts1.getFullYear();
 		})
 
@@ -383,7 +426,7 @@ function Timeline(options) {
 				d3.select(this).classed("hidden",false)
 			})
 				
-		var container=tooltip.append("div");
+		var container=tooltip.append("div").attr("class","clearfix");
 		var body=container.append("p").html(""),
 			link=container.append("a")
 						.attr("title","Approfondisci")
@@ -393,7 +436,8 @@ function Timeline(options) {
 
 		this.update=function(text,x,y) {
 
-			var x=x-170;
+			var x=Math.round(x)-218-42,
+				y=Math.round(y);
 
 			tooltip.style("top",(y+margin.top)+"px").style("left",x+"px").classed("hidden",false)
 			

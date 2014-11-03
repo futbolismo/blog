@@ -4,7 +4,7 @@
 	border-bottom:1px solid #ddd;
 }
 .timeline svg {
-	font-family: serif,"Times New Roman";
+	font-family: sans-serif,serif,"Times New Roman";
 }
 
 .timeline line.time-axis {
@@ -63,8 +63,8 @@
 }
 .timeline g.worldcup text,
 .timeline g.olympics text {
-	font-size:11px;
-	text-anchor:end;
+	font-size:10px;
+	text-anchor:start;
 }
 
 
@@ -73,8 +73,8 @@
 	display: none;
 }
 .timeline g.year text {
-	font-size:11px;
-	text-anchor:end;
+	font-size:10px;
+	text-anchor:start;
 }
 .timeline g.year.history text {
 	text-anchor:start;
@@ -99,14 +99,16 @@
 	top:0;
 
 	color:#fff;
+	
+	margin:0;
 
+	height:auto;
 	
 }
 .timeline-tooltip > div {
-	position: absolute;
-	left:0;
-	top: 2px;
-	width:100%;
+	position: relative;
+	float: left;
+	width:260px;
 	background:#000;
 	background-color:rgba(0,0,0,0.8);
 	padding:1rem;
