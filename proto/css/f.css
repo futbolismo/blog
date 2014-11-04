@@ -132,13 +132,20 @@ div.navbar.smaller > .container {
     
     background-color: #333; /*#E5E1B7;*/
     
-    background: url(../img/pics/leo2.png) repeat-x center center; 
-    background-size: auto 100%;
+    
 
     padding:0;
     margin-bottom: 0;
     
     border-bottom: 1px solid #ddd;
+}
+.jumbotron.cuellar {
+	background: url(../img/pics/leo2.png) repeat-x center center; 
+    background-size: auto 100%;
+}
+.jumbotron.zavarov {
+	background: url(../img/pics/zavarov.jpg) repeat-x center center; 
+    background-size: auto 100%;
 }
 .post .jumbotron {
 	height:220px;
@@ -157,14 +164,18 @@ div.navbar.smaller > .container {
 }
 .jumbotron .main-bg {
 	position: absolute;
-	top:135px;
+	top:0px;
 	left:0;
 	bottom: 0;
 	right: 0;
 	z-index:-1;
 }
-.jumbotron .main-bg {
+.jumbotron .cuellar {
 	background: url(../img/pics/cuellar.png) no-repeat center center; 
+    background-size: auto 100%;
+}
+.jumbotron .zavarov {
+	background: url(../img/pics/zavarov_banner.png) no-repeat center center; 
     background-size: auto 100%;
 }
 .content-wrapper {
@@ -371,7 +382,8 @@ and (orientation : portrait) {*/
 	.jumbotron {
 		/*position: fixed !important;*/
 		padding: 30px;
-		height:520px !important;
+		height:360px !important;
+		margin-top:135px;
 	}
 	.jumbotron .main-abstract {
 		bottom: 5rem;
@@ -380,7 +392,7 @@ and (orientation : portrait) {*/
 	}
 	.content-wrapper {
 		/*position: absolute;*/
-		top: 520px;
+		/*top: 520px;*/
 		border-top:1px solid #ddd;
 	}
 	.main h1 {
