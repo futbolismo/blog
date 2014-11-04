@@ -28,7 +28,7 @@
 
     <script src="js/holder.js"></script>
 </head>
-<body>
+<body class="home">
     <div id="header" class="navbar" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -38,14 +38,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><h4>Futbolismo</h4>STORIE E GRAFICI DEL CALCIO</a>
+                <a class="navbar-brand" href="#"><h4>Futbolismo</h4><span>STORIE E GRAFICI DEL CALCIO</span></a>
         </div>
         <div class="navbar-collapse collapse">
             <nav class="collapse navbar-collapse" role="navigation">
                 <ul id="mainMenu2" class="nav navbar-nav">
+                    <li class="home-link"><a href="index.html"><span class="glyphicon glyphicon-home hidden-xs"></span><span class="hidden-sm hidden-md hidden-lg">Homepage</span></a></li>
                     <li><a href="#">Miserie e Splendori</a></li>
                     <li><a href="#">Dati e Grafici</a></li>
-                    <li><a href="#">Figurine Parlanti</a></li>
+                    <li class="last"><a href="#">Figurine Parlanti</a></li>
                     <li class="hidden-sm hidden-md hidden-lg"><a href="#">Il progetto</a></li>
                     <li class="hidden-sm hidden-md hidden-lg"><a href="#">Chi siamo</a></li>
                     <li class="hidden-sm hidden-md hidden-lg"><a href="#">Contatti</a></li>
@@ -60,7 +61,7 @@
     <div class="jumbotron">
         <div class="container main">
             <div class="row jumbo-post">
-                <div class="col-sm-5 col-sm-offset-6 col-md-4 col-xs-12 main-abstract">
+                <div class="col-sm-5 col-md-4 col-xs-12 main-abstract">
                     <a href="post.html" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
                         <h1>Messico nuvole e quelle scarpe bianche</h1>
                         <p class="abstract left"><i>Sono nato a Citt&agrave; del Messico.
@@ -566,34 +567,21 @@
 
         (function($){
 
-
-
+            
             var header = $("#header")
                 fixed=false;
 
             $(window).on("scroll", function(e) {
-                var scroll=window.scrollY || window.pageYOffset,
-                    top=window.innerHeight - scroll;
+                var scroll=window.pageYOffset || document.documentElement.scrollTop;
 
-                //console.log(top,scroll)
-
-                
-                return;
-                if (scroll < 390) {
-                    if(!fixed) {
-                        header.removeClass("not-fixed").css("margin-top","0");
-                        fixed=true;    
-                    }
+                if (scroll > 300) {
+                    header.addClass("smaller");
                 } else {
-                    if(fixed) {
-                        header.addClass("not-fixed").css("margin-top",scroll+"px");
-                        fixed=false;    
-                    }
-
+                    header.removeClass("smaller");
                 }
               
             });
-
+            
 
         }(jQuery));
 

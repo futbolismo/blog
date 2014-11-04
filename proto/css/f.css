@@ -52,57 +52,7 @@ a:hover {
 	border:1px solid #ddd;
 }
 
-/********************* FLEXBOX *******************/
-.row-flex, .row-flex > div[class*='col-'] {  
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    flex:1 1 auto;
-}
 
-.row-flex-wrap {
-	-webkit-flex-flow: row wrap;
-	flex-flow:row wrap;
-    align-content: flex-start;
-    flex:0;
-}
-
-.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
-	 margin:-.2px; /* hack adjust for wrapping */
-}
-
-.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
-	width:100%;
-}
-
-
-.flex-col {
-    display: flex;
-    display: -webkit-flex;
-    flex: 1 100%;
-	flex-flow: column nowrap;
-}
-
-.flex-grow {
-	display: flex;
-    -webkit-flex: 2;
-    flex: 2;
-}
-.flex-one-third {
-	flex-basis: 33.3%;
-}
-.flex-two-third {
-	flex-basis: 66.6667%;
-}
-.vertical-align {
-    display: flex;
-    display: -webkit-flex;
- 	align-items: center;
- 	justify-content: center;
-  	flex-direction: row;
-}
 /********************* HEADER *******************/
 
 div.navbar {
@@ -113,6 +63,11 @@ div.navbar {
 	/*height:60px;*/
 	margin-bottom:0;
 	width: 100%;
+
+
+}
+div.navbar.smaller > .container {
+
 }
 .navbar-header {
 	min-height: 60px;
@@ -136,6 +91,8 @@ div.navbar {
 	color:#000;
 	font-weight: 900;
 	letter-spacing: 0.25rem;
+
+	
 }
 
 .navbar-nav {
@@ -147,6 +104,14 @@ div.navbar {
 }
 .navbar-nav li {
 	line-height: 2rem;	
+}
+
+.navbar.smaller h4 {
+	font-size:2.2em;
+	line-height: 60px;
+}
+.navbar.smaller .navbar-brand span {
+	display: none;
 }
 
 
@@ -270,7 +235,11 @@ and (orientation : portrait) {*/
 
 @media (min-width: 768px) {
 	div.navbar {
-		
+		-webkit-transition: all 0.3s;
+	    -moz-transition: all 0.3s;
+	    -ms-transition: all 0.3s;
+	    -o-transition: all 0.3s;
+	    transition: all 0.3s;
 	}
 	.navbar-nav li {
 		line-height: 1rem;	
@@ -281,6 +250,11 @@ and (orientation : portrait) {*/
 		width:400px;
 		margin:0 auto !important;
 		text-align: center;
+	}
+	.smaller div.navbar-header {
+		float:left;
+		text-align: left;
+		width:auto;
 	}
 	.navbar-brand {
 		float:none;
@@ -294,10 +268,20 @@ and (orientation : portrait) {*/
 	}
 	.navbar-brand h4 {
 		font-size:3.5em;
+
+		-webkit-transition: all 0.3s;
+	    -moz-transition: all 0.3s;
+	    -ms-transition: all 0.3s;
+	    -o-transition: all 0.3s;
+	    transition: all 0.3s;
 	}
 	div.navbar-collapse {
 		
 		margin:0 auto;
+	}
+	.smaller .navbar-collapse {
+		padding-left:0;
+		padding-right:0;
 	}
 	div.navbar-collapse ul {
 		margin: 0 auto;
@@ -305,17 +289,43 @@ and (orientation : portrait) {*/
 		width: 90%;
 		border-top:1px solid #333;
 	}
+	.smaller div.navbar-collapse ul {
+		width:auto;
+		border-top:none;
+		float:right;
+	}
 	.navbar-collapse li {
 		display:table-cell;
-		width: 33.3%;
+		width: 33%;
 	}
-
+	.smaller .navbar-collapse li {
+		display:table-cell;
+		width: 27%;
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+	.navbar-collapse li.home-link,
+	.home .smaller .navbar-collapse li.home-link {
+		display: none;
+	}
+	.smaller .navbar-collapse li.home-link {
+		display: table-cell;
+	}
+	.smaller .navbar-collapse li {
+		width:auto;
+		line-height: 35px;
+		margin-top: 15px;
+		margin-left:0;
+		margin-right:0;
+	}
 	.navbar {
 		position:fixed;
 		top:0;
 		padding-bottom: 1rem;
 	}
-
+	.smaller.navbar {
+		padding-bottom: 0;
+	}
 	#header.not-fixed {
 		position: absolute !important;
 	}
@@ -332,21 +342,44 @@ and (orientation : portrait) {*/
 		text-decoration: none;
 		border-bottom:2px solid #fff;
 	}
+	.smaller .navbar-nav li {
+		padding-left:1rem;
+		padding-right:1rem;
+		border-right:1px solid #ddd;	
+	}
+
+	.smaller .navbar-nav li a {
+		padding-top:0;
+		padding-bottom:0;
+		padding-right:0;
+		padding-left:0;
+		
+	}
+	.smaller .navbar-nav li:first-child {
+		padding-left:0;
+		
+	}
+	.smaller .navbar-nav li.last {
+		padding-right: 0;
+		border-right:none;
+	}
 	.navbar-nav li a:hover {
 		border-bottom:2px solid #333;
 		background-color: #fff !important;
 	}
 
 	.jumbotron {
-		position: fixed !important;
+		/*position: fixed !important;*/
 		padding: 30px;
 		height:520px !important;
 	}
 	.jumbotron .main-abstract {
 		bottom: 5rem;
+		right:0;
+		margin-right:10rem;
 	}
 	.content-wrapper {
-		position: absolute;
+		/*position: absolute;*/
 		top: 520px;
 		border-top:1px solid #ddd;
 	}

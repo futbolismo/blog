@@ -38,14 +38,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><h4>Futbolismo</h4>STORIE E GRAFICI DEL CALCIO</a>
+                <a class="navbar-brand" href="#"><h4>Futbolismo</h4><span>STORIE E GRAFICI DEL CALCIO</span></a>
         </div>
         <div class="navbar-collapse collapse">
             <nav class="collapse navbar-collapse" role="navigation">
                 <ul id="mainMenu2" class="nav navbar-nav">
+                    <li class="home-link"><a href="index.html"><span class="glyphicon glyphicon-home hidden-xs"></span><span class="hidden-sm hidden-md hidden-lg">Homepage</span></a></li>
                     <li><a href="#">Miserie e Splendori</a></li>
                     <li><a href="#">Dati e Grafici</a></li>
-                    <li><a href="#">Figurine Parlanti</a></li>
+                    <li class="last"><a href="#">Figurine Parlanti</a></li>
                     <li class="hidden-sm hidden-md hidden-lg"><a href="#">Il progetto</a></li>
                     <li class="hidden-sm hidden-md hidden-lg"><a href="#">Chi siamo</a></li>
                     <li class="hidden-sm hidden-md hidden-lg"><a href="#">Contatti</a></li>
@@ -231,6 +232,29 @@ Troppo anche per un anticonformista come me!</p>
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>-->
     <script src="js/Timeline.js"></script>
+    <script>
+
+        (function($){
+
+            
+            var header = $("#header")
+                fixed=false;
+
+            $(window).on("scroll", function(e) {
+                var scroll=window.pageYOffset || document.documentElement.scrollTop;
+
+                if (scroll > 300) {
+                    header.addClass("smaller");
+                } else {
+                    header.removeClass("smaller");
+                }
+              
+            });
+            
+
+        }(jQuery));
+
+    </script>
     <script>
 
         //(function(){
