@@ -43,9 +43,10 @@
 	fill:#00A5FF;
 }
 .timeline g.history rect {
-	stroke:#666;
+	stroke:none;
 	stroke-width:1;
-	
+	fill:#333;
+	fill-opacity:1;
 }
 
 .timeline g.event line {
