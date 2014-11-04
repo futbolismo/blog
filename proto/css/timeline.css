@@ -30,15 +30,23 @@
 	fill:#FFDA77;
 	fill-opacity:0.6;
 }
-.timeline g.worldcup rect {
-	stroke:none;
-	fill:#333;
+.timeline g.worldcup rect,
+.timeline g.worldcup circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:gold;
 }
-.timeline g.olympics rect {
-	stroke:none;
-	fill:#333;
+.timeline g.olympics rect,
+.timeline g.olympics circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:#00A5FF;
 }
-
+.timeline g.history rect {
+	stroke:#666;
+	stroke-width:1;
+	
+}
 
 .timeline g.event line {
 	stroke:#333;
@@ -57,6 +65,10 @@
 .timeline g g.hover circle {
 	fill:#ff6600;
 }
+.timeline g g:hover text,
+.timeline g g.hover text {
+	font-weight: bold;
+}
 .timeline g g rect.ix {
 	fill-opacity:0;
 	stroke:none;
@@ -72,6 +84,7 @@
 .timeline g.year.olympics {
 	display: none;
 }
+
 .timeline g.year text {
 	font-size:10px;
 	text-anchor:start;

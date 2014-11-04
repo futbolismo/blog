@@ -41,6 +41,7 @@ function Timeline(options) {
 	})
 
 	options.data=options.data.filter(function(d){
+		return 1;
 		return 	d["type"]=="birth" || 
 				d["type"]=="club" || 
 				d["type"]=="trainer" || 
@@ -50,7 +51,7 @@ function Timeline(options) {
  	})
 
 	var WIDTH=195,
-		HEIGHT=900;
+		HEIGHT=1000;
 
 	var margin={
 		top:10,
@@ -198,7 +199,8 @@ function Timeline(options) {
 					})
 
 	var BAR_STROKE=2
-		BAR_WIDTH=14+BAR_STROKE*2;
+		BAR_WIDTH=14+BAR_STROKE*2,
+		SQUARE_WIDTH=7;
 
 	clubs.append("rect")
 			.attr("class","ix")
@@ -230,7 +232,7 @@ function Timeline(options) {
 			"font-size":"10px",
 			"text-anchor":"end"
 		})
-		.text(function(d){
+		.html(function(d){
 			return d["team"]
 		})
 	
@@ -238,7 +240,8 @@ function Timeline(options) {
 
 	var events=timeline.selectAll("g.event")
 				.data(options.data.filter(function(d){
-					return d["type"]=="birth" || d["type"]=="worldcup" || d["type"]=="olympics"
+					//return d["type"]=="birth" || d["type"]=="worldcup" || d["type"]=="olympics"
+					return d["category"]=="event"
 				}))
 				.enter()
 				.append("g")
@@ -263,7 +266,16 @@ function Timeline(options) {
 						return "translate("+d.x1+","+y+")";
 					})
 					.on("mouseover",function(d){
-						tooltip.update(d.text,0+CENTER+BAR_WIDTH,d.y1-10);
+						var x=CENTER+BAR_WIDTH-5,
+							y=d.y1-10;
+						if (d["type"]=="birth") {
+							x-=BAR_WIDTH;
+						}
+						if (d["type"]=="history") {
+							x-=BAR_WIDTH+SQUARE_WIDTH*3;
+							
+						}
+						tooltip.update(d.text,x,y);
 					})
 					.on("mouseout",function(d){
 						tooltip.hide();
@@ -279,16 +291,6 @@ function Timeline(options) {
 						d3.select(this).classed("hover",false);
 					})
 
-
-	events
-		.filter(function(d){
-			return d["type"]=="birth"
-		})
-		.append("circle")
-			.attr("cx",0)
-			.attr("cy",0)
-			.attr("r",4)
-
 	events
 		.filter(function(d){
 			return d["type"]=="birth"
@@ -299,8 +301,31 @@ function Timeline(options) {
 			.attr("width",(WIDTH))
 			.attr("y",-10)
 			.attr("height",20)
+	events
+		.filter(function(d){
+			return d["type"]=="birth"
+		})
+		.append("circle")
+			.attr("cx",0)
+			.attr("cy",0)
+			.attr("r",4)
 
-	var SQUARE_WIDTH=7;
+	
+
+	
+
+	events
+		.filter(function(d){
+			return d["type"]!="birth" && d["type"]!="history"
+		})
+		.append("rect")
+			.attr("class","ix")
+			.attr("x",-BAR_WIDTH/2)
+			.attr("width",BAR_WIDTH*2)
+			.attr("y",-10)
+			.attr("height",20)
+
+	
 
 	events
 		.filter(function(d){
@@ -319,12 +344,10 @@ function Timeline(options) {
 		.filter(function(d){
 			return d["type"]=="worldcup" || d["type"]=="olympics"
 		})
-		.append("rect")
-			.attr("x",0)
-			.attr("y",0)
-			.attr("width",SQUARE_WIDTH)
-			.attr("height",SQUARE_WIDTH)
-			.attr("transform","rotate(45)translate("+(-SQUARE_WIDTH/2)+","+(-SQUARE_WIDTH/2)+")")
+		.append("circle")
+			.attr("cx",0)
+			.attr("cy",0)
+			.attr("r",SQUARE_WIDTH/1.5)
 
 	events
 		.filter(function(d){
@@ -340,6 +363,27 @@ function Timeline(options) {
 				}
 				return cup;//+" "+d.ts1.getFullYear()
 			})
+
+	events
+		.filter(function(d){
+			return d["type"]=="history"
+		})
+		.append("rect")
+			.attr("class","ix")
+			.attr("x",-(BAR_WIDTH+SQUARE_WIDTH*2))
+			.attr("width",SQUARE_WIDTH*4)
+			.attr("y",-SQUARE_WIDTH*1.5)
+			.attr("height",SQUARE_WIDTH*3)
+	events
+		.filter(function(d){
+			return d["type"]=="history"
+		})
+		.append("rect")
+			.attr("x",-BAR_WIDTH/2-SQUARE_WIDTH*2)
+			.attr("y",0)
+			.attr("width",SQUARE_WIDTH)
+			.attr("height",SQUARE_WIDTH)
+			.attr("transform","rotate(45)translate("+5+","+11+")")
 	
 
 	var year=years.selectAll("g.year")
