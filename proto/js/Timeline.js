@@ -17,6 +17,7 @@ function Timeline(options) {
 				break;
 			case "olympics":	
 			case "worldcup":
+			case "uefa":
 				d.ts1=d.timestamps[0];
 				d.ts2=d.timestamps[0];
 				break;
@@ -42,12 +43,6 @@ function Timeline(options) {
 
 	options.data=options.data.filter(function(d){
 		return 1;
-		return 	d["type"]=="birth" || 
-				d["type"]=="club" || 
-				d["type"]=="trainer" || 
-				d["type"]=="national" || 
-				d["type"]=="worldcup" ||
-				d["type"]=="olympics"
  	})
 
 	var WIDTH=195,
@@ -115,9 +110,15 @@ function Timeline(options) {
 						return "translate("+x+","+y+")"
 					})
 
+	var years_min=d3.min(options.data,function(d){
+			return d.ts1;
+		}),
+		years_max=d3.max(options.data,function(d){
+			return d.ts2;
+		})
 	var yscale=d3.scale.linear()
 					.rangeRound([padding.top,HEIGHT-(margin.top+margin.bottom+padding.top+padding.bottom)])
-					.domain([new Date(1954,0,1),new Date()]);
+					.domain([years_min,years_max]);
 
 	timeline.append("line")
 			.attr("class","time-axis")
@@ -256,7 +257,7 @@ function Timeline(options) {
 						d.y1=y;
 
 						d.x1=0;
-						if(d["type"]=="worldcup" || d["type"]=="olympics") {
+						if(d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa") {
 							d.x1=BAR_WIDTH;
 						}
 
@@ -346,7 +347,7 @@ function Timeline(options) {
 
 	events
 		.filter(function(d){
-			return d["type"]=="worldcup" || d["type"]=="olympics"
+			return d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa"
 		})
 		.append("circle")
 			.attr("cx",0)
@@ -355,15 +356,18 @@ function Timeline(options) {
 
 	events
 		.filter(function(d){
-			return d["type"]=="worldcup" || d["type"]=="olympics"
+			return d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa"
 		})
 		.append("text")
 			.attr("x",SQUARE_WIDTH)
 			.attr("y",4)
 			.text(function(d){
-				var cup="WC";
+				var cup="MONDIALI";
 				if(d["type"]=="olympics") {
-					cup="OL";
+					cup="OLIMPIADI";
+				}
+				if(d["type"]=="uefa") {
+					cup="EUROPEI";
 				}
 				return cup;//+" "+d.ts1.getFullYear()
 			})

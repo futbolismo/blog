@@ -42,6 +42,12 @@
 	stroke-width:1;
 	fill:#00A5FF;
 }
+.timeline g.uefa rect,
+.timeline g.uefa circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:#336699;
+}
 .timeline g.history rect {
 	stroke:none;
 	stroke-width:1;
@@ -75,14 +81,16 @@
 	stroke:none;
 }
 .timeline g.worldcup text,
-.timeline g.olympics text {
+.timeline g.olympics text,
+.timeline g.uefa text {
 	font-size:10px;
 	text-anchor:start;
 }
 
 
 .timeline g.year.worldcup,
-.timeline g.year.olympics {
+.timeline g.year.olympics,
+.timeline g.year.uefa {
 	display: none;
 }
 
