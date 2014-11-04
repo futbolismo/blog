@@ -72,7 +72,7 @@ function Timeline(options) {
 					d3.event.preventDefault();
 					d3.event.stopPropagation();
 					tooltip.hide();
-					d3.select(this).classed("hover",false);
+					timeline.selectAll(".hover").classed("hover",false);
 				})
 
 	var defs=svg.append("defs")
@@ -189,13 +189,14 @@ function Timeline(options) {
 						d3.event.preventDefault();
 						d3.event.stopPropagation();
 						tooltip.update(d.text,0,d.y1);
+						timeline.selectAll(".hover").classed("hover",false);
 						d3.select(this).classed("hover",true);
 					})
 					.on("touchend",function(d){
 						d3.event.preventDefault();
 						d3.event.stopPropagation();
 						//tooltip.hide();
-						d3.select(this).classed("hover",false);
+						//d3.select(this).classed("hover",false);
 					})
 
 	var BAR_STROKE=2
@@ -283,12 +284,15 @@ function Timeline(options) {
 					.on("touchstart",function(d){
 						d3.event.preventDefault();
 						d3.event.stopPropagation();
-						tooltip.update(d.text,0,d.y1-10);
+						tooltip.update(d.text,0,d.y1);
+						timeline.selectAll(".hover").classed("hover",false);
 						d3.select(this).classed("hover",true);
 					})
 					.on("touchend",function(d){
+						d3.event.preventDefault();
+						d3.event.stopPropagation();
 						//tooltip.hide();
-						d3.select(this).classed("hover",false);
+						//d3.select(this).classed("hover",false);
 					})
 
 	events
