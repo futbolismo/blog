@@ -39,6 +39,7 @@ a:hover {
 .bg-maroon {
 	background-color: #a0091d;
 }
+
 .w30 {
 	width:30% !important;
 }
@@ -472,6 +473,15 @@ a.post-link:hover h3 {
 	max-height:220px;
 	overflow: hidden;
 }
+.post-abstract-img {
+	background-color: #fff;
+}
+.post-abstract-img img {
+	opacity:0.9;
+}
+a.post-link:hover img {
+	opacity:1;
+}
 /*
 .post-abstract .post-abstract-body {
 	border-bottom: 1px solid #DDD;
@@ -671,6 +681,28 @@ a.post-link:hover h3 {
 	.post .post-body p {
 		font-size:1.3em;
 	}
+}
+/********************* CATEGORY *******************/
+.category .category-main,
+.category .category-second {
+	max-height: 400px;
+}
+.category .category-main .post-abstract,
+.category .category-second .post-abstract {
+	min-height: 315px;	
+}
+
+.category .category-main .post-abstract-img,
+.category .category-second .post-abstract-img {
+	max-height: 230px;
+	overflow: hidden;
+}
+.category .category-main h2,
+.category .category-second h2 {
+	font-size:1.4em;
+}
+.category .post-section h3 {
+	font-size: 1.4em;
 }
 /********************* FOOTER *******************/
 .footer {
