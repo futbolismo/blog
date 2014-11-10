@@ -4,44 +4,25 @@ layout: landing
 <section>
     <div class="container">
         <div class="top2 row">
-            
-            <div class="col-xs-12 col-sm-6">
-                <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                    <div class="row post-abstract bg-dark-gray color-invert no-padding">
-                        <div class="col-xs-12 col-sm-6 col-md-7 post-abstract-img no-padding pull-right">
-                            <div class="post-abstract-img">
-                                <img class="responsive-img" src="assets/pics/blisset.jpg" alt="Non si difende una maglia" width="100%">
+            {% for post in site.posts %}
+                {% if post.category == 'miserie' %}
+                <div class="col-xs-12 col-sm-6">
+                    <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
+                        <div class="row post-abstract bg-dark-gray color-invert no-padding">
+                            <div class="col-xs-12 col-sm-6 col-md-7 post-abstract-img no-padding pull-right">
+                                <div class="post-abstract-img">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/{{post.thumbnail}}" alt="Non si difende una maglia" width="100%">
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-5 post-abstract-body">
+                                    <h2>{{post.title}}</h2>    
+                                    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 col-md-5 post-abstract-body">
-                            
-                                <h2>"Sei peggio di Blisset!" {{site.url}}</h2>    
-                                <p>La mia vita &egrave; un grande paradosso.<br/>
-                                Per i tifosi del Watford United sono il <i>Bombardiere nero</i>. Miglior marcatore con 
-                                ventisette reti nella stagione agonistica 1982/83 in First 
-                                Division.</p>
-                            
-                        </div>
-                    </div>
-                </a>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 ">
-                <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                    <div class="row post-abstract bg-maroon color-invert no-padding">
-                        <div class="col-xs-12 col-sm-6 col-md-7 post-abstract-img no-padding pull-right">
-                            <div class="post-abstract-img">
-                                <img class="responsive-img" src="assets/pics/cowans.jpg" alt="Come mi salvai dalla mano de Dios" width="100%">
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-5 post-abstract-body">
-                                <h2>Come mi salvai dalla <i>mano de Dios</i></h2>    
-                                <p>Non si difende per tanti anni una maglia per niente.<br/>
-                                Soprattutto quando tutte le domeniche sputi sangue per quei colori, sudi, rischi di rimetterci una gamba.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+                    </a>
+                </div>
+                {% endif %}
+            {% endfor %}
         </div>
     </div>
 </section>
@@ -66,7 +47,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-7 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/chart1.png" alt="grafico1" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/chart1.png" alt="grafico1" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-5 col-sm-12">
@@ -84,7 +65,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-7 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/chart1.png" alt="grafico1" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/chart1.png" alt="grafico1" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-5 col-sm-12">
@@ -102,7 +83,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-7 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/chart1.png" alt="grafico1" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/chart1.png" alt="grafico1" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-5 col-sm-12">
@@ -134,7 +115,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -151,7 +132,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -168,7 +149,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -187,7 +168,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -204,7 +185,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -221,7 +202,7 @@ layout: landing
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/leo2.jpg" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -250,7 +231,7 @@ layout: landing
                         <div class="row sticker">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -267,7 +248,7 @@ layout: landing
                         <div class="row sticker">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -284,7 +265,7 @@ layout: landing
                         <div class="row sticker">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -301,7 +282,7 @@ layout: landing
                         <div class="row sticker">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/cuellar_panini.png" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">
@@ -318,7 +299,7 @@ layout: landing
                         <div class="row sticker">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="assets/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/zavarov_panini88.png" alt="Non si difende una maglia" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-sm-12">

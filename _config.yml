@@ -4,6 +4,8 @@ description: "Storie e grafici del calcio"
 
 paginate: 10
 
+excerpt_separator: <!--more-->
+
 markdown: kramdown
 permalink: pretty
 

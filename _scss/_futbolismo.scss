@@ -141,7 +141,6 @@ div.navbar.smaller > .container {
     border-bottom: 1px solid #ddd;
 }
 .jumbotron {
-	background: url($current) repeat-x center center; 
     background-size: auto 100%;
 }
 
@@ -175,16 +174,8 @@ div.navbar.smaller > .container {
 	height: 100%;
 	margin:0 auto;
 }
-/*
-.jumbotron .cuellar {
-	background: url(../img/pics/cuellar.png) no-repeat center center; 
-    background-size: auto 100%;
-}
-.jumbotron .zavarov {
-	background: url(../img/pics/zavarov_banner2.png) no-repeat center center; 
-    background-size: auto 100%;
-}
-*/
+
+
 .content-wrapper {
 	/*position: absolute;
 	top: 520px;*/
@@ -566,7 +557,6 @@ a.post-link:hover img {
 .post-banner {
 	width: 100%;
 	height:70%;
-	background: url(../img/pics/leo2.png) repeat-x center center; 
     background-size: auto 100%;
 }
 .post-banner-img img {

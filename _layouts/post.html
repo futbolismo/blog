@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" class="page {{page.page-class }}">
+
+	{% include head.html %}
+	
+	<body>
+{% include header.html %}
+{% include jumbotron_min.html %}
+
+<div class="content-wrapper post">
+	<section>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-2 post-title">
+                    <h1>{{page.title}}</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-2">
+                    <div class="row post-info">
+                        <div class="col-xs-12">
+                            <h5>di {{page.author}}</h5>
+                            <h5><a href="#">Miserie e splendori</a></h5>
+                            <h5>Ottobre, 2014</h5>
+                        </div>
+                        <div class="col-xs-12 social">
+                                <ul class="list-unstyled">
+                                    <li><a class="twitter_link" href="#" target="_blank" title="Share on Twitter"><i class="icon-twitter"></i> <span class="hidden-xs">Twitter</span></a></li>
+                                    <li><a href="#" target="_blank" title="Share on Google+"><i class="icon-gplus" title="Share on Google+"></i> <span class="hidden-xs">Google+</span></a></li>
+                                    <li><a href="#" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i> <span class="hidden-xs">Facebook</span></a></li>
+                                </ul>
+                        </div>        
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-7">
+                    <div class="post-body">
+						{{ content }}
+					</div>
+					<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, e sono tutte ispirate a fatti realmente accaduti.</div>
+				</div>
+				<div class="col-sm-3 col-md-2 hidden-xs no-padding">
+	                <div class="timeline">
+	                    <div class="post-abstract-img">
+	                        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/{{page.sticker}}" alt="{{page.player}}" width="100%">
+	                    </div>
+	                    <h4>{{page.player}}</h4>
+	                    <p>{{page.life}}</p>
+	                    <div id="timeline" class="timeline-viz"></div>
+	                    <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://en.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+	                </div>
+	            </div>
+			</div>
+		</div>
+	</section>
+</div>
+{% include footer.html %}
+
+{% include default_js.html %}
+
+{% if page.timeline %}
+{% include timeline_js.html %}
+{% endif %}
+
+
+
+</body>
+</html>
