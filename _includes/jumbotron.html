@@ -1,19 +1,19 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
+    {% for post in site.posts offset: 0 limit: 1 %}
     <div class="container main">
         <div class="row jumbo-post">
             <div class="col-sm-5 col-md-4 col-xs-12 main-abstract">
-                <a href="post.html" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                    <h1>Messico nuvole e quelle scarpe bianche</h1>
-                    <p class="abstract left"><i>Sono nato a Citt&agrave; del Messico.
-                    <br/>
-                    Questo non fa di me un essere speciale, ovvio, ma fa di me un Messicano. <span class="hidden-xs">Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &egrave; un altra cosa: io sono sempre stato un anticonformista.</i></span></p>
+                <a href="{{site.baseurl}}/{{ post.url }}" class="post-link" alt="{{post.title}}">
+                    <h1>{{post.title}}</h1>
+                    <p class="abstract left">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                     <div class="pull-right read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
                 </a>
             </div>
         </div>
     </div>
     <div class="main-bg hidden-xs">
-        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/cuellar.png" alt="">
+        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/{{ post.jumbotron_banner }}" alt="">
     </div>
+    {% endfor %}
 </div>
