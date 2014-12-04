@@ -104,7 +104,7 @@ layout: landing
             {% for post in site.categories.miserie offset: 0 limit: 3 %} 
             <div class="col-sm-4 col-md-3 border-bottom">
                 <div class="post-abstract bg-light-gray">
-                    <a href="{{ post.url }}" class="post-link" title="{{post.title}}">
+                    <a href="{{site.baseurl}}/{{ post.url }}" class="post-link" title="{{post.title}}">
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
@@ -125,7 +125,7 @@ layout: landing
             {% for post in site.categories.miserie offset: 0 limit: 3 %} 
             <div class="{% if forloop.index == 1 %}col-md-offset-2{% endif %} col-sm-4 col-md-3 border-bottom">
                 <div class="post-abstract bg-light-gray">
-                    <a href="{{ post.url }}" class="post-link" title="{{post.title}}">
+                    <a href="{{site.baseurl}}/{{ post.url }}" class="post-link" title="{{post.title}}">
                         <div class="row">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
@@ -156,7 +156,7 @@ layout: landing
             {% for post in site.categories.figurine %}
             <div class="col-sm-3 col-md-2 border-bottom">
                 <div class="post-abstract bg-light-gray">
-                    <a href="{{ post.url }}" class="post-link" title="{{post.title}}">
+                    <a href="{{site.baseurl}}/{{ post.url }}" class="post-link" title="{{post.title}}">
                         <div class="row sticker">
                             <div class="col-xs-5 col-sm-12">
                                 <div class="post-abstract-img">
@@ -189,7 +189,7 @@ layout: landing
                     <ul class="list-unstyled">
                         {% for post in site.categories.nontuttisannoche %}
                         <li>
-                            <a href="{{ post.url }}" class="post-link" title="{{post.title}}">
+                            <a href="{{site.baseurl}}/{{ post.url }}" class="post-link" title="{{post.title}}">
                                 <h4>{{post.title}}</h4>
                                 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </a>
