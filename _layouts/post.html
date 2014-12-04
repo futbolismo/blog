@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="page {{page.page-class }}">
+<html lang="en" class="page {{page.category}}">
 
 	{% include head.html %}
 	
@@ -20,7 +20,7 @@
                     <div class="row post-info">
                         <div class="col-xs-12">
                             <h5>di {{page.author}}</h5>
-                            <h5><a href="#">Miserie e splendori</a></h5>
+                            <h5><a href="#">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}</a></h5>
                             <h5>Ottobre, 2014</h5>
                         </div>
                         <div class="col-xs-12 social">
@@ -36,12 +36,12 @@
                     <div class="post-body">
 						{{ content }}
 					</div>
-					<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, e sono tutte ispirate a fatti realmente accaduti.</div>
+					<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
 				</div>
 				<div class="col-sm-3 col-md-2 hidden-xs no-padding">
 	                <div class="timeline">
 	                    <div class="post-abstract-img">
-	                        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/{{page.sticker}}" alt="{{page.player}}" width="100%">
+	                        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg" alt="{{page.player}}" width="100%">
 	                    </div>
 	                    <h4>{{page.player}}</h4>
 	                    <p>{{page.life}}</p>

@@ -21,10 +21,9 @@
                 <div class="col-sm-3 col-md-2">
                     <h4>Ultimi articoli</h4>
                     <ul class="">
-                        <li><a href="#">Il cileno di padre ungherese</a></li>
-                        <li><a href="#">Messico nuvole e quelle scarpe bianche</a></li>
-                        <li><a href="#">Una figurina sbagliata</a></li>
-                        <li><a href="#">Non si difende una maglia</a></li>
+                        {% for post in site.posts offset: 0 limit: 4 %}
+                            <li><a href="{{post.url}}">{{post.title}}</a></li>
+                        {% endfor %}
                     </ul>
                 </div>
                 <div class="col-sm-3 col-md-2">

@@ -1,10 +1,10 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
-    {% for post in site.posts offset: 0 limit: 1 %}
+    {% for post in site.categories.miserie: 0 limit: 1 %}
     <div class="container main">
         <div class="row jumbo-post">
             <div class="col-sm-5 col-md-4 col-xs-12 main-abstract">
-                <a href="{{site.baseurl}}/{{ post.url }}" class="post-link" alt="{{post.title}}">
+                <a href="{{post.url}}" class="post-link" alt="{{post.title}}">
                     <h1>{{post.title}}</h1>
                     <p class="abstract left">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                     <div class="pull-right read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
@@ -13,7 +13,7 @@
         </div>
     </div>
     <div class="main-bg hidden-xs">
-        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/{{ post.jumbotron_banner }}" alt="">
+        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/header/{{ page.pid }}.png" alt="">
     </div>
     {% endfor %}
 </div>

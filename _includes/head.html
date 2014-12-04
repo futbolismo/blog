@@ -14,15 +14,15 @@
 	
 	
     <style>
-    	{% if page.jumbotron_bg %}
+    	{% if page.pid %}
     	.jumbotron {
-			background: url({{site.baseurl}}/assets/pics/{{ page.jumbotron_bg }}) repeat-x center center; 
+			background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) repeat-x center center; 
 		    background-size: auto 100%;
 		}
 		{% endif %}
-		{% if page.jumbotron_banner %}
+		{% if page.pid %}
 		.jumbotron .main-bg {
-			background: url({{site.baseurl}}/assets/pics/{{ page.jumbotron_banner }}) no-repeat center center; 
+			background: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.png) no-repeat center center; 
 		    background-size: auto 100%;
 		}
 		{% endif %}
