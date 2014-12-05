@@ -259,8 +259,7 @@ div.navbar {
 
 .main h1 {
   font-size: 1.6rem;
-  font-family: 'Rye', cursive;
-  text-transform: uppercase;
+  font-family: 'Courgette';
 }
 
 .main p.abstract {
@@ -581,8 +580,8 @@ a.post-link:hover h3 {
 }
 
 .top2 .post-abstract .post-abstract-img {
-  max-height: 220px;
-  overflow: hidden;
+  /*max-height:220px;
+  overflow: hidden;*/
 }
 
 .post-abstract-img {
@@ -1041,6 +1040,13 @@ a.post-link:hover img {
   fill: #336699;
 }
 
+.timeline g.cup rect,
+.timeline g.cup circle {
+  stroke: #666;
+  stroke-width: 1;
+  fill: #92cf00;
+}
+
 .timeline g.history rect {
   stroke: none;
   stroke-width: 1;
@@ -1079,14 +1085,16 @@ a.post-link:hover img {
 
 .timeline g.worldcup text,
 .timeline g.olympics text,
-.timeline g.uefa text {
+.timeline g.uefa text,
+.timeline g.cup text {
   font-size: 10px;
   text-anchor: start;
 }
 
 .timeline g.year.worldcup,
 .timeline g.year.olympics,
-.timeline g.year.uefa {
+.timeline g.year.uefa,
+.timeline g.year.cup {
   display: none;
 }
 

@@ -18,6 +18,7 @@ function Timeline(options) {
 			case "olympics":	
 			case "worldcup":
 			case "uefa":
+			case "cup":
 				d.ts1=d.timestamps[0];
 				d.ts2=d.timestamps[0];
 				break;
@@ -259,7 +260,7 @@ function Timeline(options) {
 						d.y1=y;
 
 						d.x1=0;
-						if(d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa") {
+						if(d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa" || d["type"]=="cup") {
 							d.x1=BAR_WIDTH;
 						}
 
@@ -349,7 +350,7 @@ function Timeline(options) {
 
 	events
 		.filter(function(d){
-			return d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa"
+			return d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa" || d["type"]=="cup"
 		})
 		.append("circle")
 			.attr("cx",0)
@@ -358,7 +359,7 @@ function Timeline(options) {
 
 	events
 		.filter(function(d){
-			return d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa"
+			return d["type"]=="worldcup" || d["type"]=="olympics" || d["type"]=="uefa" || d["type"]=="cup"
 		})
 		.append("text")
 			.attr("x",SQUARE_WIDTH)
@@ -370,6 +371,9 @@ function Timeline(options) {
 				}
 				if(d["type"]=="uefa") {
 					cup="EUROPEI";
+				}
+				if(d["type"]=="cup") {
+					cup=d["cup"];
 				}
 				return cup;//+" "+d.ts1.getFullYear()
 			})
