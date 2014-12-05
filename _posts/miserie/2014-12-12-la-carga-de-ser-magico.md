@@ -91,15 +91,16 @@ In fin dei conti gliel'avevo detto o no a quel cazzone di allenatore al Cádiz c
 <div class="post-disclaimer">
 <b>Fotgrafie</b><br/>
 <ol>
-<li>Gonz&aacute;ez Torero - oldschoolpanini.com</li>
-<li>Gonz&aacute;lez <a href="http://www.elbaloncuscatleco.com/galeria80-89.html">ElBalonCuscateclo.com</a></li>
-<li>Gonz&aacute;lez e Juan Jos&eacute; Jiménez -  oldschoolpanini.com</li>
-<li>Figurina Gonz&aacute;lez - oldschoolpanini.com</li>
-<li>Gonz&aacute;lez e Maradona <a href="http://www.quienlodiria.com/el-magico-gonzalez-698.html">quienlodiria.com</a></li>
+  <li>Gonz&aacute;ez Torero - oldschoolpanini.com</li>
+  <li>Gonz&aacute;lez <a href="http://www.elbaloncuscatleco.com/galeria80-89.html">ElBalonCuscateclo.com</a></li>
+  <li>Gonz&aacute;lez e Juan Jos&eacute; Jiménez -  oldschoolpanini.com</li>
+  <li>Figurina Gonz&aacute;lez - oldschoolpanini.com</li>
+  <li>Gonz&aacute;lez e Maradona <a href="http://www.quienlodiria.com/el-magico-gonzalez-698.html">quienlodiria.com</a></li>
 
-<li>Nazionale El Salvador - Mondiali di Spagna 1982 -  <a href="http://pcingoproductions.blogspot.it/2013/07/seleccion-salvadorena-de-1982.html">pcingoproductions.blogspot.itgico</a></li>
-<li>Gonz&aacute;lez in azione contro l'Ungheria -  oldschoolpanini.com</li>
-<li>"EstadNacionalJMG" by House1090 - Own work. Licensed under Creative Commons Attribution-Share Alike 3.0 <a href="http://commons.wikimedia.org/wiki/File:EstadNacionalJMG.png#mediaviewer/File:EstadNacionalJMG.png" target="_blank">via Wikimedia Commons</a></li>
+  <li>Nazionale El Salvador - Mondiali di Spagna 1982 -  <a href="http://pcingoproductions.blogspot.it/2013/07/seleccion-salvadorena-de-1982.html">pcingoproductions.blogspot.itgico</a></li>
+  <li>Gonz&aacute;lez in azione contro l'Ungheria -  oldschoolpanini.com</li>
+  <li>"EstadNacionalJMG" by House1090 - Own work. Licensed under Creative Commons Attribution-Share Alike 3.0 <a href="http://commons.wikimedia.org/wiki/File:EstadNacionalJMG.png#mediaviewer/File:EstadNacionalJMG.png" target="_blank">via Wikimedia Commons</a></li>
+</ol>
 </div>
 <script>
 
