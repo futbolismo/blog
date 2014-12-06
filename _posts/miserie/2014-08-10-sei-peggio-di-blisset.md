@@ -25,7 +25,9 @@ Il Watford, la squadra di Elton John. Una pop star!
 Il mio presidente era uno stramboide però cantava da Dio. Sono stato fortunato. Poteva andarmi peggio, poteva capitarmi Boy George! Ad ogni modo una stella della musica che paga una stella del calcio. Grandioso!  
 Il Watford. Cazzo! Ce l'ho portato io con i miei goal dalla Fourth Division alla First! Non ci erano mai riusciti prima! Beh, per onestà devo dire che un po' ci ha messo anche il mister Graham Taylor però. A suon di reti mi sono meritato anche la maglia della Nazionale dei tre leoni e ci ho segnato pure una tripletta, cioè tre goal tutti in una partita! Conservo ancora il pallone tra i miei cimeli. Comunque è stato contro il Lussemburgo. Ridete, ridete pure.  
 Intanto uno deve arrivarci a giocare in Nazionale e poi deve segnarli tre goal in una partita. Dopo quell'exploit, di reti in Nazionale non ne sono arrivate più, e hanno iniziato a chiamarmi Luther "Missitt". Intanto goal sbagliati o no io in Nazionale ci ho giocato! Fatevi fottere!
-<img class="responsive-img border" src="{{site.baseurl}}/assets/pics/{{page.pid}}/blisset_watford.png" alt="Mexico 78" width="50%" align="left">  
+
+<img class="responsive-img border w50 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/blisset_watford.png" alt="Luther Blisset" align="right">
+
 Sono stato anche uno dei primi calciatori di colore a vestire la candida casacca Inglese. Non il primo. Il primo è stato un difensore. Come si chiamava quel terzinaccio del Nottingham Forest? Maledizione. Ce l'ho sulla punta della lingua. Ecco, Viv Anderson! Maledetto!  
 Insomma, per uno che arriva dalla Giamaica e non suona il Reggae ne ho fatta di strada. Non vi sembra. Sono un giamaicano atipico io: non bevo, non mi drogo e non vado a donne. Però il Reggae quello mi piace.  
 Vi state ancora domandando qual'è il paradosso? Abbiate pazienza, ci arriviamo.  
