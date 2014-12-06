@@ -2,14 +2,14 @@
     <div class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3 col-md-3 col-md-offset-1">
+                <div class="hidden-sm col-md-3 col-md-offset-1">
                     <h4>Futbolismo</h4>
                     <p>
                         Un sito nato dalla passione per il calcio raccontato attraverso
                         storie, fatti e grafici. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus
                     </p>
                 </div>
-                <div class="col-sm-3 col-md-2 col-md-offset-1">
+                <div class="col-sm-4 col-md-2 col-md-offset-1">
                     <h4>Argomenti</h4>
                     <ul class="">
                         <li><a href="#">Splendori e Miserie</a></li>
@@ -18,21 +18,21 @@
                         <li><a href="#">Non tutti sanno che</a></li>
                     </ul>
                 </div>
-                <div class="col-sm-3 col-md-2">
-                    <h4>Ultimi articoli</h4>
-                    <ul class="">
-                        {% for post in site.posts offset: 0 limit: 4 %}
-                            <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-sm-3 col-md-2">
+                <div class="col-sm-4 col-md-2">
                     <h4>Futbolismo</h4>
                     <ul class="">
                         <li><a href="#">Il progetto</a></li>
                         <li><a href="#">Chi siamo</a></li>
                         <li><a href="#">Contatti</a></li>
                         <li><a href="#">Help</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 col-md-3">
+                    <h4>Ultimi articoli</h4>
+                    <ul class="">
+                        {% for post in site.posts offset: 0 limit: 4 %}
+                            <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+                        {% endfor %}
                     </ul>
                 </div>
             </div>
