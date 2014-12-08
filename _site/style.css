@@ -109,6 +109,10 @@ a:hover {
   width: 30%;
 }
 
+.w40 {
+  width: 40%;
+}
+
 .w70 {
   width: 70%;
 }
@@ -269,7 +273,7 @@ div.navbar {
 
 .main h1 {
   font-size: 1.6rem;
-  font-family: "Courgette", "Playfair Display", Georgia, serif;
+  font-family: "Rye", "Playfair Display", Georgia, serif;
 }
 
 .main p.abstract {
@@ -986,6 +990,10 @@ a.post-link:hover img {
     width: 75%;
   }
 
+  .post .post-body img.w60 {
+    width: 60%;
+  }
+
   .post .post-body img.w50 {
     width: 50%;
   }
@@ -1004,7 +1012,7 @@ a.post-link:hover img {
 }
 @media only screen and (max-width: 1200px) {
   div.navbar-collapse ul {
-    width: 50%;
+    width: 85%;
   }
 }
 /*@media only screen and (min-device-width : 768px) 
