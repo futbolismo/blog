@@ -39,6 +39,15 @@ $wrapperPaddingLeft: 12px;
 $wrapperPaddingRight: 12px;
 $layoutMargin: 0px 0px 0px 0px;
 
+// FROM BOOTSTRAP
+//** Number of columns in the grid.
+$grid-columns:              12 !default;
+//** Padding between columns. Gets divided in half for the left and right.
+$grid-gutter-width:         30px !default;
+
+$screen-xs:                  480px !default;
+$screen-sm:                  768px !default;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
