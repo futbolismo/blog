@@ -876,12 +876,12 @@ a.post-link:hover img {
   	max-height:auto;
   	margin-bottom:10px;
   }*/
-  .top2 .post-abstract h2 {
-    font-size: 1.6em;
+  .top2 {
+    margin: 4rem 0 2rem;
   }
 
-  .top2 .post-abstract {
-    max-height: 25rem;
+  .top2 .post-abstract h2 {
+    font-size: 1.6em;
   }
 
   .miserie .post-abstract-img {
@@ -1024,9 +1024,13 @@ and (orientation : portrait) {*/
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
+  .post-abstract-img {
+    max-height: 250px;
+  }
+
   .post-abstract-body p {
     display: block;
-    max-height: 8rem;
+    min-height: 12rem;
     overflow: hidden;
     margin-bottom: 0;
   }
