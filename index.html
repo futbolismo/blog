@@ -8,12 +8,13 @@ layout: landing
                 <div class="col-xs-12 col-sm-6 col-md-6">
                     <a href="{{site.baseurl}}{{ post.url }}" class="post-link" alt="{{post.title}}">
                         <div class="row post-abstract bg-dark-gray color-invert no-padding">
-                            <div class="col-xs-12 col-md-7 post-abstract-img no-padding pull-right">
+                            <div class="col-xs-12 col-md-6 post-abstract-img no-padding pull-right">
                                 <div class="post-abstract-img">
                                     <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_top.jpg" alt="{{post.title}}" width="100%">
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-md-5 post-abstract-body bg-dark-gray">
+                            <div class="col-xs-12 col-md-6 post-abstract-body bg-dark-gray">
+                                    <h5 class="hidden-md">{{post.player_short || post.player}}</h5>
                                     <h2>{{post.title}}</h2>    
                                     <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </div>

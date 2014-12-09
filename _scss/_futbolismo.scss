@@ -1,12 +1,12 @@
 html { font-size: 62.5%; } 
 body {
-	font-family: 'Fanwood Text', Georgia, serif;
+	font-family: $bodyFont;
 	font-weight: normal;
 	color:#333;
 	font-size:1.4em;
 }
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Playfair Display', Georgia, serif;
+	font-family: $headersFont;
 	font-weight: 700;
 	color:#000;
 	margin:0;
@@ -247,8 +247,18 @@ a:hover .read-more {
 .post-abstract h2 {
 	color:#333;
 }
+.post-abstract h5 {
+	font-family: $bodyFont;
+	color:#888;
+	text-transform:uppercase;
+	font-size:1em;
+	margin-bottom: 0.5rem;
+}
 .color-invert h2 {
 	color:#fff;
+}
+.color-invert h5 {
+	color:#eee;
 }
 .color-invert p {
 	color:#eee;
