@@ -7,10 +7,10 @@
 	}
 }
 
-@media (min-width: $screen-xs) {
+@media (min-width: $screen-xs) and (max-width: $screen-sm) {
 
 	.top6 .row .post-abstract {
-		min-height: 290px;
+		min-height: 300px;
 	}
 	.top6.stickers .row .post-abstract {
 		min-height: 0;
@@ -22,6 +22,28 @@
 
 	.top6.dataviz .row .post-abstract {
 		min-height: 0;
+	}
+	
+	.small-posts li {
+		float: left;
+		width: 46%;
+		padding: 0 1rem;
+		margin-bottom: 1rem;
+		height: 7em;
+		border-bottom: 1px solid #ddd;
+		margin: 0 2% 1rem;
+	}
+	.small-posts li a {
+		border-bottom:none;
+	}
+	.small-posts li:last-child {
+		border-bottom: 1px solid #ddd;
+	}
+
+	.jumbotron .main-abstract {
+		bottom: 1rem;
+		right: 0;
+		margin-right: 1rem;
 	}
 }
 
@@ -168,9 +190,9 @@
 		margin-top:135px;
 	}
 	.jumbotron .main-abstract {
-		bottom: 5rem;
+		bottom: 2rem;
 		right:0;
-		margin-right:10rem;
+		margin-right:7rem;
 	}
 	.category .content-wrapper {
 		/*position: absolute;*/
@@ -306,6 +328,12 @@
 	}
 	.post .post-body img.margin-1em {
 		margin:1em;
+	}
+	.post .post-body img.margin-1em[align=right] {
+		margin:0.5em 0 0.5em 0.5em;
+	}
+	.post .post-body img.margin-1em[align=left] {
+		margin:0.5em 0.5em 0.5em 0;
 	}
 	.post .post-body img.w100 {
 		width: 100%;

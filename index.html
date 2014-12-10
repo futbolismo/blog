@@ -120,7 +120,7 @@ layout: landing
                                     <div class="col-xs-7 col-ms-12 col-sm-12">
                                         <h2>{{post.title}}</h2>
                                         <p class="hidden-xs">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-                                        <p class="margin-top-1em hidden-sm hidden-md hidden-lg"><b>{{ post.player | remove: '<p>' | remove: '</p>' }}</b></p>
+                                        <p class="margin-top-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short || post.player}}</b></p>
                                     </div>
                                 </div>
                             </a>

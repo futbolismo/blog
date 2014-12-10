@@ -1,0 +1,253 @@
+---
+layout: post
+pid: socrates
+
+title: Ganhar ou Perder, mas sempre com Democracia
+player: Sócrates Brasileiro Sampaio de Souza Vieira de Oliveira
+player_short: Socrates
+wikipedia: S%C3%B3crates
+life: Centrocampista, nato il 19 Febbraio 1954 a Belém, Pará, Brasile. Morto il 4 Dicembre 2011 a São Paulo, Brasile
+
+author: Francesco Mistrulli
+category: miserie
+timeline: 1
+timeline_data: socrates
+
+---
+Penso, dunque sono!  
+Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi, un brasiliano democratico.<!--more--> Essere campioni è un dettaglio: si vinca o si perda la cosa più importante è essere uomini. Bisogna avere il coraggio delle proprie azioni ed essere forti abbastanza da sopportarne il peso.  
+Il calcio non è mai stato l'aspetto più importante della mia vita, le passioni invece, quelle si che sono importanti. Io ne ho alcune: la politica, la medicina, l'alcol e il fumo. Non necessariamente in quest'ordine! E non necessariamente passioni.  
+Sono nato a Belém, nel Pará, all'estremo Nord del continente brasiliano. Sono alto, molto alto, uno e novantatré. Barbuto. Piede piccolo e delicato, a stento arrivo a calzare il trentotto. Amo il colpo di tacco. È un gesto fuori dal comune. Tutti utilizzano il piatto, il collo o la punta del piede. Già utilizzare l'esterno è considerato un gesto tecnico di prima grandezza. Ma il colpo di tacco, quello è un colpo al sistema, è fuori legge! Ho un fisico asciutto, segaligno. Non sono certo un atleta come lo immaginate voi, e men che meno ho il fisico da giocatore di *fútbol*. Però ho una buona visione di gioco, essere più alto degli altri mi ha avvantaggiato, segno tanti goal ed esulto col pugno chiuso.
+Mio padre era un uomo di sinistra, un proletario. Per essere uno del popolo aveva una cultura spaventosa. Leggeva di nascosto i libri proibiti. Siamo mica nel Medioevo state pensando. Non c'era mica il Grande Inquisitore Torquemada! Vero, siamo nel millenovecentosessantaquattro, gli anni della dittatura del maresciallo Castelo Branco. Una dittatura è una dittatura! Quindi come in tutti i regimi che si rispettino chi contravviene alle regole spesso sparisce senza lasciare traccia. Per fortuna il Brasile è un paese grande e i tentacoli della dittatura non sono così lunghi ed articolati. Fatto sta che il mio buon padre riesce a leggere di tutto, finanche Socrate. Ed è così che mi chiama . Sócrates. Sócrates Brasileiro Sampaio de Souza Vieira de Oliveira. Una lunga, meravigliosa musicale filastrocca. 
+Mi hanno dato anche un sacco di nomignoli, "*O Doutor*", "*Magrão*", "*Crâtes*", ma il mio preferito in assoluto è sempre stato "*O calcanhar que a bola pediu a Deus*". Il colpo di tacco che la palla chiese a Dio. Pura poesia brasiliana.  
+Vedete io poi medico lo sono per davvero. Ho iniziato la facoltà di Medicina all'USP di Ribeirão Preto. Questo non mi ha certo impedito di giocare al calcio, un gran bel passatempo. Il mio primo club è stato il Botafogo, non quello che pensate voi, quello di Rio, ma più semplicemente quello di Ribeirão Preto. Lo studio, gli allenamenti, le partite. A ventiquattro anni mi sono laureato in pediatria, e solo allora ho fatto il grande salto nel calcio che conta. Se adesso i laureati nel nostro mondo si contano sulle dita di una mano, allora era ancora peggio. In Brasile poi! 
+Io mi ritengo un buon giocatore eppure in Brasile mi considerano un gran calciatore. Ma così tanto che il Corinthians mi propone di giocare per loro. Uno dei due club più importanti del Brasile assieme al Flamengo di Rio. Soprattutto squadra del popolo, fondata nel millenovecentodieci dai proletari della città di São Paolo per sottrarre il calcio all’elite cittadina. Come posso rinunciare ad una chiamata del Timao!
+<img class="responsive-img border w50 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/SocratesCorinthians.jpg" alt="Socrates - Corinthians" align="right">
+Si dice che il Diavolo ci mette lo zampino. Beh, nel mio caso è proprio vero! Arrivo al Timao in concomitanza del cambio di dirigenza, insieme a un gruppo di giocatori, Casagrande, Palhinha, Wladimir, Zenon, Biro-Biro, capaci di pensare e mettersi in discussione, e con un direttore tecnico, Adílson Monteiro Alves, che di calcio non capisce letteralmente nulla perché è un sociologo e continua a farlo il sociologo.  
+Queste particolari circostanze hanno creato l'humus perfetto per qualcosa di unico e grande: in un paese che sogna la democrazia ed è governato dalla dittatura, noi, una squadra di *fútbol*, realizziamo questo sogno. La democrazia, appunto.  
+Siamo un gruppo di persone, né idoli né altro, uomini in carne ed ossa, ogni testa un voto. Costituiamo un’assemblea che si incontra, sul prato verde del campo o all'interno dello spogliatoio, e che ha qualcosa di cui parlare e di cui decidere. Niente più gerarchia, l’allenatore, io, il presidente, il secondo portiere, il magazziniere, tutti abbiamo lo stesso peso. Così ha preso corpo una delle illusioni più ricorrenti nella storia umana, per poco, questo è vero, ma di sicuro la nostra democrazia, la *"Democracia Corinthiana"* è stata la più divertente, leggera e meglio riuscita di tutte. 
+La parola d'ordine è autogestione. Ogni decisione in seno al club viene presa in maniera collettiva: dagli orari degli allenamenti alla campagna acquisti-cessioni alla formazione che deve scendere in campo. Una delle prime cose che decidiamo è quella di abolire le regole ferree e l'obbligo del ritiro. Dico, non siamo in prigione! Già di per se stesso è offensivo obbligare qualcuno a fare qualcosa, noi poi ci divertiamo con il pallone, perché dovremmo sottostare a regole dittatoriali, noi che la dittatura la combattiamo! Decidiamo semplicemente che chi non vuole raggiungere la squadra in albergo può presentarsi direttamente al campo di gioco per la partita.   
+Un sacco di gente, compreso qualche compagno, ha detto che in realtà era tutto un gran casino, non *"Democracia Corinthiana"* ma *"Anarquia Corinthiana"*!  
+
+<img class="responsive-img border w60 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/socrates-punho-fechado-gazeta-press.jpg" alt="Socrates - Corinthians" align="left">
+Lasciate pure che parlino. Non solo abbiamo vinto il Campionato Paulista per due anni consecutivi (ottantadue e ottantatré), e il terzo fummo battuti in finale dal Santos, ma siamo anche riusciti a risanare le finanze di un club sull'orlo del fallimento. La finale vittoriosa del primo Paulista la ricordo mica per la vittoria, quella è relativa, lo sapete, la ricordo perché la squadra è entrata in campo cantando e ballando sulle note di una canzone di Gilberto Gil.  
+I risultati comunque non sono arrivati subito. Ma sono arrivati, a volte non senza polemiche. Una volta dopo una partita persa siamo stati costretti a difenderci dall'assalto della torcida. Io i compromessi non li ho mai amati, di compromessi con i tifosi poi non voglio nemmeno sentirne parlare. Nella partita seguente ho realizzato tre reti e non ho esultato. Perché? Ma perché queste persone vanno educate poco alla volta. Non siamo dei, idoli o chissà cosa, siamo uomini. Tutti, noi in campo e loro sulle gradinate.  
+Non voglio dirvelo io, potrei sembrare presuntuoso, ma chi ci ha visto all'opera vi dirà che giochiamo a ritmo di musica, a ritmo di samba. Niente aggressività: Zenon detta i tempi, io, Sócrates, illumino, e con Casagrande e Palhinha segniamo, Wladimir difende con pragmatismo ed eleganza e Biro-Biro canta e porta la croce. Vedete il destino, Zenone e Socrate che giocano nella stessa squadra. La mia maieutica per far partorire i goal si sposa con la dialettica ed il paradosso del regista Zenon.  
+Ma possiamo e dobbiamo fare di più. Abbiamo il potere di veicolare un messaggio più grande ogni volta che giochiamo, quando vengono a vederci prendere a calci un pallone di cuoio in calzoncini corti. Vogliamo che la gente capisca che il cambiamento non solo è interessante, ma è possibile. Sembra una sciocchezza ma trasmettere dei messaggi attraverso il calcio durante la dittatura è l'unico modo per far passare dei concetti che altrimenti sarebbero rimasti lettera morta. Ed ecco l'idea: utilizzare la maglia di gioco per sensibilizzare la gente, non solo la nostra torcida, perché la libertà è di tutti. Ospitiamo slogan politici come la semplice e potente parola *"Democracia"*, tal volta scritta al rovescio per esprimere dissenso contro il governo del Genarale Figueiredo, o l'ardito "vogliamo votare il nostro Presidente".  
+ <img class="responsive-img border w60 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/socrates-democracia-corinthians.jpg" alt="Socrates - Democracia" align="right">
+Ma cari amici, tutte le cose belle hanno una fine, e forse è un bene. Chissà. Fatto sta che ad un certo punto al Corinthians cambiano le cose ed il giocattolo viene smantellato. Non mi piacciono le mezze misure, mi ero avvicinato alle idee di Elezioni Ora, e in un comizio ho detto che sarei rimasto in Brasile, e, nonostante tutto, al Timao, se il Parlamento avesse votato un emendamento costituzionale per ristabilire elezioni libere.  
+Com'è andata dite? Sono arrivato in Italia, a Firenze, dove gioco per la Fiorentina.
+Voi avete avuto la possibilità di conoscermi attraverso una partita. Una sola. Al Mundial in Spagna. *Seleção* contro Italia, quando il calcio samba sbatte brutalmente contro il muro azzurro. Però, quanta paura vi ho fatto quando il mio destro incrociato su invito di Zico alza uno sbuffo di gesso sulla linea di porta dietro la gamba protesa di Zoff ed entra in rete?  
+Io per quello sono arrivato in Italia. E nel vostro Bel Paese ho ritrovato tutto quello che volevo combattere nel mio di Paese, compresa una dittatura bigotta, di una Democrazia per giunta, quella Cristiana.  
+<img class="responsive-img border w60 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/socrates-fiorentina.jpg" alt="Socrates - Fiorentina" align="left">
+Hanno detto e hanno scritto che non voglio allenarmi, che non sopporto i ritiri, che fumo un pacchetto di sigarette al giorno e anche più, che adoro bere birra, tirare tardi la sera e discutere di politica. Bene, è tutto vero. È la sacrosanta verità.  
+E non è, come scrivono sui giornali quei soloni di giornalisti, questione di saudade. È proprio che il mio fisico non è abituato ad allenamenti così intensi e soprattutto non ho mai corso ad alta quota. In Brasile i sistemi sono nettamente diversi. Si va in forma giocando. Non esistono i ritiri, non esistono questi periodi massacranti di preparazione atletica. Ecco cos'è. Quando sono arrivato ho detto: *"Sono proprio quello che sapete, che scrivete, che pubblicizzate"*. In realtà non mi conoscevate se non per quel Brasile Italia.  
+Non sono come il mio amico Zico, ne tantomeno come quell'Argentino dalla faccia sporca. Loro hanno doti individuali eccelse, io mi metto al servizio del collettivo, ma per farlo devo convincere i miei compagni che sono utile. Loro invece le partite le vincono da soli.   
+Comunque debbo dire in tutta onestà che avrei faticato in qualsiasi squadra, anche in Brasile! Ma, da quel che ho visto da voi, la società più adatta a me sarebbe stata la Cremonese: non è una battuta, è simpatia vera per l'ambiente.  
+Ad ogni modo amici cari io ho sempre fumato pur sapendo che fa male, così come amo bere birra. Oggi come allora. Ma il calcio è uno sport collettivo e non serve che tutti corrano. Ci sono quelli che corrono e quelli che pensano.  
+Io penso. Dunque sono!
+
+<script>
+
+
+    var socrates=[
+                    {
+                        type:"birth",
+                        category:"event",
+                        timestamps:[new Date(1961,4-1,23)],
+                        text:{
+                            body:"Il 23 Aprile 1961, nasce a Luhansk, Ucraina (URSS), Oleksandr Anatoliyovych Zavarov",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1968,1977],
+                        team:"Zorya Luhansk",
+                        text:{
+                            body:"Inizia la sua carriera nelle giovanili del Zorya Luhansk, sua citt&agrave; natale.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1977,1980],
+                        team:"Zorya Luhansk",
+                        text:{
+                            body:"Dal 1977 al 1989 gioca nelle file del <b>Zorya Luhansk</b>, giocando 23 volte e segnando 7 goal",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1980,1982],
+                        team:"SKA Rostov",
+                        text:{
+                            body:"Dal 1980 al 1981 gioca nello <b>SKA Rostov</b>, giocando 64 volte e segnando 13 reti",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1982,1983],
+                        team:"Zorya Luhansk",
+                        text:{
+                            body:"Nel 1982 torna nel <b>Zorya Luhansk</b>, giocando 30 volte e segnando 10 goal",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1983,1988],
+                        team:"Dinamo Kiev",
+                        text:{
+                            body:"Dal 1983 al 1988 gioca nelle file della <b>Dinamo Kiev</b>, collezionando 136 presenze e segnando 36 goal.<br/><br/>Nella Dinamo Kiev vince la Coppa delle Coppe, segnando nella finale.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1988,1990],
+                        team:"Juventus",
+                        text:{
+                            body:"Nel 1988 il grande palcoscenico: arriva alla <b>Juventus<b/> per sostituire Michel Platini. Costato 7 miliardi di lire, entra nella storia come primo giocatore sovietico a giocare nel campionato italiano. Resta in Italia per due stagioni, giocando 60 partite e segnando solo 7 reti.<br/<br/>Con la Juventus vince una Coppa Italia e una Coppa UEFA.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1990,1995],
+                        team:"Nancy",
+                        text:{
+                            body:"Dal 1990 al 1995 si trasferisce in Francia dove gioca per il Nancy. Giocan 133 volte e segna 23 goal.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1995,1998],
+                        team:"Saint-Dizier",
+                        text:{
+                            body:"Dal 1977 al 2003 gioca nel <b>Saint Dizier</b>, dove occupa il ruolo di giocatore-allenatore. Segna 17 volte.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[1998,2003],
+                        team:"Saint-Dizier",
+                        text:{
+                            body:"Dal 1977 al 2003 gioca nel <b>Saint Dizier</b>, dove occupa il ruolo di giocatore-allenatore. Segna 17 volte."
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2003,2004],
+                        team:"FC Wil",
+                        text:{
+                            body:"Nel 2003 diventa quasi-allenatore del FC Wil, non avendo ancora il tesserino UEFA per allenatori."
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2004,2005],
+                        team:"FC Astana 1964",
+                        text:{
+                            body:"Nel 2004 allena la squadra ucraina FC Astana 1964.",
+                            link:"http://en.wikipedia.org/wiki/Mexico_women%27s_national_football_team"
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2005,2006],
+                        team:"FC Metalist Kharkiv",
+                        text:{
+                            body:"Nel 2005 &egrave; l'allenatore del FC Metalist Kharkiv."
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2006,2011],
+                        team:"FC Arsenal Kyiv",
+                        text:{
+                            body:"Prende il ruolo di allenatore nel FC Arsenal Kyiv."
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2012],
+                        team:"Ucraina",
+                        text:{
+                            body:"Dal 2012 entra nel giro della nazionale ucraina come assistente."
+                        }
+                    },
+                    {
+                        type:"national",
+                        timestamps:[1985,1991],
+                        team:"Mexico",
+                        apps:41,
+                        goals:0
+                    },
+                    {
+                        type:"uefa",
+                        category:"event",
+                        timestamps:[new Date(1988,6-1,10),new Date(1988,6-1,25)],
+                        team:"Euro 1988",
+                        text:{
+                            body:"Partecipa al Campionato Europeo del 1988 in Germani Ovest con la nazionale sovietica.<br/><br/>L'URSS raggiunge il secondo posto, perdendo la finale contro l'Olanda per 0-2."
+                        }
+                    },
+                    {
+                        type:"worldcup",
+                        category:"event",
+                        timestamps:[new Date(1986,6-1,10),new Date(1986,6-1,25)],
+                        team:"Mexico 1986",
+                        text:{
+                            body:"Partecipa ai Campionati Mondiali del 1986 in Messico con la selezione dell'Unione Sovietica.<br/><br/>Nello stesso anno viene eletto miglior giocatore dell'Unione Sovietica del 1986."
+                        }
+                    },
+                    {
+                        type:"worldcup",
+                        category:"event",
+                        timestamps:[new Date(1990,6-1,10),new Date(1990,6-1,25)],
+                        team:"Italia 1990",
+                        text:{
+                            body:"Partecipa ai Campionati Mondiali del 1990 in Italia con la selezione dell'Unione Sovietica."
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1989,11-1,9)],
+                        text:{
+                            
+                            body:"9 Novembre 1989, cade il Muro di Berlino.<br/><br/>Il muro divise in due la città di Berlino per 28 anni, dal 13 agosto del 1961 fino al 9 novembre 1989, giorno in cui il governo tedesco-orientale decretò l'apertura delle frontiere con la repubblica federale.",
+                            link:"http://it.wikipedia.org/wiki/Muro_di_Berlino"
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1992,12-1,26)],
+                        text:{
+                            
+                            body:"26 Dicembre 1992, si scioglie ufficialmente l'Unione Sovietica.<br/><br/>Nell'agosto 1991 (fra il 19 e il 21), l'Unione Sovietica si dissolse dopo un fallito colpo di Stato, tentato da alcuni elementi dei vertici militari e dello Stato, che osteggiavano la direzione verso cui Gorbačëv stava guidando la nazione e il nuovo patto federativo delle repubbliche sovietiche che doveva essere siglato dopo poche settimane.",
+                            link:"http://it.wikipedia.org/wiki/Muro_di_Berlino"
+                        }
+                    }
+                ];
+</script>
