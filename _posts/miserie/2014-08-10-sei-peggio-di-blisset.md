@@ -4,10 +4,12 @@ layout: post
 pid: blisset
 title: "Sei peggio di Blisset!"
 player: Luther Blisset
-sticker: cuellar_panini.png
+player_short: Luther Blisset
+
 wikipedia: Leonardo_Cu%C3%A9llar
 life: Centrocampista, nato il 14 Gennaio 1954 a Citt&agrave; del Messico
 
+story_type: quote
 
 author: Francesco Mistrulli
 category: miserie
@@ -16,9 +18,9 @@ timeline_data: blisset
 
 
 
-excerpt: "La mia vita è un grande paradosso. Per i tifosi del Watford United sono il <i>Bombardiere nero</i>.<br/>Miglior marcatore con ventisette reti nella stagione agonistica 1982-83 in First Division.Dico, ventisette reti! Mica roba da ridere."
+excerpt: "La mia vita è un grande paradosso.<br/>Per i tifosi del Watford United sono il <i>Bombardiere nero</i>.<br/>Miglior marcatore con ventisette reti nella stagione agonistica 1982-83 in First Division.Dico, ventisette reti! Mica roba da ridere."
 ---
-La mia vita è un grande paradosso.
+La mia vita è un grande paradosso.  
 Per i tifosi del Watford United sono il "Bombardiere nero". Miglior marcatore con ventisette reti nella stagione agonistica millenovecentoottantadue/ottantatre in First Division. Dico, ventisette reti! Mica roba da ridere.   
 Quell'anno siamo arrivati secondi dietro il grande Liverpool, al nostro secondo anno in First. Riuscite a crederci! L'anno prima le reti erano state diciannove!  
 Il Watford, la squadra di Elton John. Una pop star!  

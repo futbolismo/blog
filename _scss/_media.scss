@@ -8,43 +8,37 @@
 }
 
 @media (min-width: $screen-xs) and (max-width: $screen-sm) {
-
 	.top6 .row .post-abstract {
-		min-height: 300px;
+		min-height: 435px;
+	}
+	.category .top6 .row .post-abstract {
+		min-height: 380px;
 	}
 	.top6.stickers .row .post-abstract {
 		min-height: 0;
 	}
 
 	.post-abstract .post-abstract-body {
-		min-height: 175px;
+		min-height: 210px;
 	}
-
+	.top1 .post-abstract .post-abstract-body {
+		min-height: 0;
+	}
+	.category .main .post-abstract .post-abstract-body {
+		min-height: 0;
+	}
 	.top6.dataviz .row .post-abstract {
 		min-height: 0;
 	}
 	
-	.small-posts li {
-		float: left;
-		width: 46%;
-		padding: 0 1rem;
-		margin-bottom: 1rem;
-		height: 7em;
-		border-bottom: 1px solid #ddd;
-		margin: 0 2% 1rem;
-	}
-	.small-posts li a {
-		border-bottom:none;
-	}
-	.small-posts li:last-child {
-		border-bottom: 1px solid #ddd;
-	}
+	
 
 	.jumbotron .main-abstract {
 		bottom: 1rem;
 		right: 0;
 		margin-right: 1rem;
 	}
+
 }
 
 @media (min-width: 768px) {
@@ -196,16 +190,10 @@
 	}
 	.category .content-wrapper {
 		/*position: absolute;*/
-		margin-top: 155px;
+		margin-top: 135px;
 		/*border-top:1px solid #ddd;*/
 	}
-	/*
-	.figurine .jumbotron {
-		display:none;
-	}
-	.figurine .content-wrapper {
-		margin-top:135px;
-	}*/
+	
 	.content-wrapper {
 		margin-top:0;
 	}
@@ -218,11 +206,30 @@
 	.row .post-section h3 {
 		font-size:1.2em;
 		border-bottom:none;
+		margin-bottom: 1rem;
 	}
 	
-	.top6 h2 {
-		font-size:1.3em;
+	.top2 .post-abstract .post-abstract-body {
+		min-height: 200px;
 	}
+
+
+	.top6 h2 {
+		display: inline-block;
+		font-size: 1.3em;
+		margin-bottom: 0;
+		min-height: 2.6em;
+	}
+	.top6 p.descr {
+		display: inline-block;
+		min-height: (1.4*6)+em;
+		
+	}
+	.top6 p.descr span.quote {
+		font-size:2em;
+	}
+	
+	
 
 	.miserie .border-bottom .post-abstract {
 		min-height: 460px;
@@ -238,9 +245,26 @@
 	}
 	.top2 .post-abstract h2 {
 		font-size:1.6em;
+		/*min-height: 2em;*/
 	}
-	.top2 .post-abstract {
+	.category .post-section {
+		background-color:inherit;
+		padding:15px;
+	}
+	.category .post-section h3 {
+		color: $black;
+		padding-top: 0.4rem;
 		
+	}
+	.category .post-section p {
+		color: $black;
+	}
+	.category .top6 {
+		margin-right: 0;
+		margin-left:0;
+	}
+	.category .top6 .post-abstract {
+		/*min-height: 450px;*/
 	}
 	.miserie .post-abstract-img {
 		overflow: hidden;
@@ -365,13 +389,13 @@
 
 @media only screen and (min-width: 768px) and (max-width : 992px) {
 	.post-abstract-img {
-		max-height: 250px;
+		
 	}
 	.post-abstract-body p {
 		display: block;
-		min-height: 12rem;
+		/*min-height: 12rem;*/
 		overflow: hidden;
-		margin-bottom: 0;
+		margin-bottom: 1em;
 	}
 }
 
@@ -382,8 +406,17 @@
 }
 
 @media (min-width: 992px) {
-	.miserie .border-bottom .post-abstract {
+	.miserie .post-abstract {
 		min-height: 440px;
+	}
+	.category .post-abstract {
+		min-height: 450px;
+	}
+	.category.figurine .post-abstract {
+		min-height: 380px;
+	}
+	.category .top1 .post-abstract {
+		min-height: 0;
 	}
 }
 
@@ -391,4 +424,63 @@
 	div.navbar-collapse ul {
 		width: 85%;
 	}
+}
+@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+	.small-posts li {
+		float: left;
+		width: 46%;
+		padding: 0 1rem;
+		margin-bottom: 1rem;
+		height: 7em;
+		border-bottom: 1px solid #ddd;
+		margin: 0 2% 1rem;
+	}
+	.small-posts li a {
+		border-bottom:none !important;
+	}
+	.small-posts li:last-child {
+		border-bottom: 1px solid #ddd;
+	}
+
+	.category .post-section {
+		background-color:$darkGray;
+		padding:15px;
+		margin-bottom: 20px;
+	}
+	.category .post-section h3 {
+		color: $white;
+		border-bottom:none;
+		font-size:2em;
+	}
+	.category .post-section p {
+		color: $white;
+		font-size:1.5em;
+	}
+
+	.category.figurine .post-abstract {
+		min-height:360px;
+	}
+}
+@media (min-width: 769px) and (max-width: 992px) {
+	
+
+	.category .post-section {
+		background-color:$darkGray;
+		padding:15px;
+		margin-bottom: 20px;
+	}
+	.category .post-section h3 {
+		color: $white;
+		border-bottom:none;
+		font-size:2em;
+	}
+	.category .post-section p {
+		color: $white;
+		font-size:1.5em;
+	}
+	
+	.category .top6 .post-abstract {
+		min-height: 400px;
+	}
+	
 }

@@ -8,6 +8,8 @@ player_short:  Jorge González
 wikipedia: M%C3%A1gico_Gonz%C3%A1lez
 life: Attaccante, nato il 13 Marzo 1958 a San Salvador, El Salvador
 
+story_type: quote
+
 author: Francesco Mistrulli
 category: miserie
 timeline: 1

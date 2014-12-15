@@ -5,6 +5,9 @@ pid: socrates
 title: Ganhar ou Perder, mas sempre com Democracia
 player: Sócrates Brasileiro Sampaio de Souza Vieira de Oliveira
 player_short: Socrates
+
+story_type: quote
+
 wikipedia: S%C3%B3crates
 life: Centrocampista, nato il 19 Febbraio 1954 a Belém, Pará, Brasile. Morto il 4 Dicembre 2011 a São Paulo, Brasile
 

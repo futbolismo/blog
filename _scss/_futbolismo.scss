@@ -4,6 +4,8 @@ body {
 	font-weight: normal;
 	color:#333;
 	font-size:1.4em;
+
+	quotes: "“" "”" "“" "”";
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: $headersFont;
@@ -23,6 +25,27 @@ a {
 a:hover {
 	color:#000;
 }
+
+p.quote:before {
+	color: #aaa;
+	content: open-quote;
+	font-size: 3em;
+	line-height: 0;
+	margin-right: 0.1em;
+	vertical-align: -0.4em;
+}
+/*p.quote:after {
+  	color: #aaa;
+	content: close-quote;
+	font-size: 3em;
+	line-height: 0;
+	margin-left: 0.1em;
+	vertical-align: -0.4em;
+}*/
+p.quote p {
+  display: inline;
+}
+
 /********************* HELPER *******************/
 .bg-white50 {
 	background-color: rgba(255,255,255,0.5);
@@ -31,10 +54,13 @@ a:hover {
 	background-color: rgba(0,0,0,0.5);
 }
 .bg-light-gray {
-	background-color:#eee;
+	background-color: $lightGray;
+}
+.bg-lighter-gray {
+	background-color: $lighterGray;
 }
 .bg-dark-gray {
-	background-color: #333;
+	background-color: $darkGray;
 }
 .bg-maroon {
 	background-color: #a0091d;
@@ -58,6 +84,9 @@ a:hover {
 
 .margin-top-1em {
 	margin-top:1em;
+}
+.margin-bottom-1em {
+	margin-bottom:1em;
 }
 /********************* HEADER *******************/
 
@@ -238,13 +267,19 @@ a:hover .read-more {
 	margin-bottom:0;
 }*/
 .row .post-section {
-	margin:0;
+	
 	padding:0;	
 }
 .row .post-section h3 {
 	padding-top: 0.4rem;
 	font-size: 1.4em;
 	border-bottom:1px solid #ddd;
+}
+.row .post-section h3 a {
+	text-decoration:none;
+}
+.row .post-section h3 a:hover {
+	text-decoration:underline;
 }
 
 .post-abstract h2 {
@@ -339,6 +374,12 @@ a.post-link:hover img {
 
 .stickers h3 {
 	font-size:1em;
+	min-height: 2em;
+	display:inline-block;
+}
+.stickers p {
+	min-height: 3em;
+	display:inline-block;
 }
 
 .small-posts li:last-child {
@@ -348,7 +389,6 @@ a.post-link:hover img {
 	padding:1rem 0;
 	display: block;
 	text-decoration: none;
-	border-bottom:1px solid #ddd;
 }
 .small-posts li a h4 {
 	font-family: inherit;
@@ -482,10 +522,22 @@ a.post-link:hover img {
 }
 .category .category-main h2,
 .category .category-second h2 {
-	font-size:1.4em;
+	
+}
+.category .post-section {
+	background-color:$darkGray;
+	padding:15px;
+	margin-bottom:20px;
 }
 .category .post-section h3 {
-	font-size: 1.4em;
+	color: $white;
+	border-bottom:none;
+}
+.category .post-section p {
+	color: $white;
+}
+.category .top2 {
+	margin-top:0.5rem;
 }
 /********************* FOOTER *******************/
 .footer {

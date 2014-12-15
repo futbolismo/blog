@@ -8,6 +8,8 @@ player_short: Mokhtar Dahari
 wikipedia: Mokhtar_Dahari
 life: Attaccante, nato il 13 Novembre 1953 a Setapak, Selangor, Malesia.<br/>Morto l'11 Luglio 1991 a Selangor.
 
+story_type: quote
+
 author: Francesco Mistrulli
 category: miserie
 timeline: 1

@@ -20,7 +20,7 @@
                     <div class="row post-info">
                         <div class="col-xs-12">
                             <h5>di {{page.author}}</h5>
-                            <h5><a href="#">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}</a></h5>
+                            <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
                             <h5>{{ page.date | date: "%B %Y" }}</h5>
                         </div>
                         <div class="col-xs-12 social">
@@ -40,7 +40,7 @@
 				</div>
 				<div class="col-sm-3 col-md-2 hidden-xs no-padding">
 	                <div class="timeline">
-	                    <div class="post-abstract-img">
+	                    <div class="sticker">
 	                        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg" alt="{{page.player}}" width="100%">
 	                    </div>
 	                    <h4>{{page.player}}</h4>

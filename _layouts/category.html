@@ -5,16 +5,16 @@
     
 <body>
 {% include header.html %}
-{% include jumbotron_min.html %}
 
-<div class="content-wrapper category">
+<div class="content-wrapper category {{page.category}}">
     <section>
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-xs-12 col-md-2">
-                    <h1>{{page.title}}</h1>
+                <div class="post-section col-xs-12 col-md-offset-1 col-md-2">
+                    <h3>{{page.title}}</h3>
+                    <p><em>{{page.description}}</em></p>
                 </div>
-                <div class="col-xs-12 col-md-10">
+                <div class="col-xs-12 col-md-8">
                     {{ content }}
                 </div>    
             </div>

@@ -6,7 +6,7 @@
             <div class="col-ms-6 col-sm-5 col-md-4 col-xs-12 main-abstract">
                 <a href="{{site.baseurl}}{{post.url}}" class="post-link" alt="{{post.title}}">
                     <h1>{{post.title}}</h1>
-                    <p class="abstract left">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                    <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                     <div class="pull-right read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
                 </a>
             </div>

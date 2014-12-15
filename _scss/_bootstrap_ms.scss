@@ -23,7 +23,8 @@
 @media (min-width: $screen-xs) and (max-width: $screen-sm) {
   .container {
     @media (max-width: $screen-sm ) {
-      max-width: $screen-sm - 20px;
+      max-width: $screen-sm;/* - 20px;*/
+      width:100%;
     }
   }
  
@@ -93,5 +94,8 @@
 
   .hidden-ms {
     display: none;
+  }
+  .visible-ms {
+    display: inline-block !important;
   }
 }
