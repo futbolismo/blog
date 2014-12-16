@@ -25,7 +25,7 @@ a {
 a:hover {
 	color:#000;
 }
-
+/*
 p.quote:before {
 	color: #aaa;
 	content: open-quote;
@@ -33,7 +33,7 @@ p.quote:before {
 	line-height: 0;
 	margin-right: 0.1em;
 	vertical-align: -0.4em;
-}
+}*/
 /*p.quote:after {
   	color: #aaa;
 	content: close-quote;
@@ -42,9 +42,9 @@ p.quote:before {
 	margin-left: 0.1em;
 	vertical-align: -0.4em;
 }*/
-p.quote p {
+/*p.quote p {
   display: inline;
-}
+}*/
 
 /********************* HELPER *******************/
 .bg-white50 {
@@ -161,7 +161,8 @@ div.navbar.smaller > .container {
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     /*height: 88%;*/
-    height:400px;
+    height:360px;
+
    	
     /*top: 0;*/
     left: 0;
@@ -208,7 +209,7 @@ div.navbar.smaller > .container {
 }
 .jumbotron .main-bg img {
 	position: relative;
-	display: inline-block;
+	/*display: inline-block;*/
 	height: 100%;
 	margin:0 auto;
 }
@@ -571,6 +572,7 @@ a.post-link:hover img {
 
 .footer .social {
 	font-size: 1.4em;	
+	border-top:none;
 }
 .social a {
 	text-decoration: none;

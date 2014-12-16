@@ -1,13 +1,38 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en" class="page">
+
+{% include head.html %}
+    
+<body>
 {% include header.html %}
-<div class="wrapper">
-	<div class="layout">
-		<section class="layout__item desk-three-fifths" data-ui-component="Main content">
-			<h1>{{ page.title }}</h1>
-			{{ content }}
-		</section>
-	</div>
+<div class="jumbotron"></div>
+
+<div class="content-wrapper page post">
+    <section>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="post-section col-xs-12 col-md-offset-1 col-md-2">
+                    <div class="row post-info">
+                        <div class="title col-xs-12">
+                            <h3>{{page.title}}</h3>
+                            <p><em>{{page.description}}</em></p>
+                            
+                        </div>
+                        <div class="col-xs-12 social">
+                            {% include social.html %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-8">
+                	<div class="post-body">
+    					{{ content }}
+					</div>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
 {% include footer.html %}
+{% include default_js.html %}
+</body>
+</html>

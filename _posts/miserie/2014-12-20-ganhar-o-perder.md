@@ -50,6 +50,14 @@ Comunque debbo dire in tutta onestà che avrei faticato in qualsiasi squadra, an
 Ad ogni modo amici cari io ho sempre fumato pur sapendo che fa male, così come amo bere birra. Oggi come allora. Ma il calcio è uno sport collettivo e non serve che tutti corrano. Ci sono quelli che corrono e quelli che pensano.  
 Io penso. Dunque sono!
 
+<div class="post-disclaimer">
+    <b>Fotgrafie</b><br/>
+    <ol>
+      <li>"Sócrates - Democracia Corintiana" di Sergio Goncalves Chicago - http://www.flickr.com/photos/sergiohsg/6455639943/. Con licenza CC BY-SA 2.0 <a href="http://commons.wikimedia.org/wiki/File:S%C3%B3crates_-_Democracia_Corintiana.jpg#mediaviewer/File:S%C3%B3crates_-_Democracia_Corintiana.jpg">tramite Wikimedia Commons</a></li>
+    </ol>
+</div>
+
+
 <script>
 
 

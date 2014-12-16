@@ -47,17 +47,17 @@
 	
     <style>
     	{% if page.pid %}
-    	.jumbotron {
-			background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) repeat-x center center; 
-		    background-size: auto 100%;
-		}
+	    	.jumbotron {
+				background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) repeat-x center center; 
+			    background-size: auto 100%;
+			}
+			
+			.jumbotron .main-bg {
+				background: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg) no-repeat center center; 
+			    background-size: auto 100%;
+			}
 		{% endif %}
-		{% if page.pid %}
-		.jumbotron .main-bg {
-			background: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg) no-repeat center center; 
-		    background-size: auto 100%;
-		}
-		{% endif %}
+		
     </style>
     
 

@@ -9,7 +9,7 @@
 
 @media (min-width: $screen-xs) and (max-width: $screen-sm) {
 	.top6 .row .post-abstract {
-		min-height: 435px;
+		min-height: 390px;
 	}
 	.category .top6 .row .post-abstract {
 		min-height: 380px;
@@ -188,9 +188,13 @@
 		right:0;
 		margin-right:7rem;
 	}
+	.jumbotron .main-abstract.left {
+		left:10rem;
+		right:auto;
+	}
 	.category .content-wrapper {
 		/*position: absolute;*/
-		margin-top: 135px;
+		margin-top: 130px;
 		/*border-top:1px solid #ddd;*/
 	}
 	
@@ -225,9 +229,9 @@
 		min-height: (1.4*6)+em;
 		
 	}
-	.top6 p.descr span.quote {
+	/*.top6 p.descr span.quote {
 		font-size:2em;
-	}
+	}*/
 	
 	
 
@@ -389,6 +393,14 @@
 
 	.footer .row > div {
 		border-left: 1px solid #444;
+	}
+	
+	/********************* PAGE *******************/
+
+	.page .content-wrapper {
+		/*position: absolute;*/
+		/*margin-top: 130px;*/
+		/*border-top:1px solid #ddd;*/
 	}
 
 }

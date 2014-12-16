@@ -3,7 +3,7 @@
     {% for post in site.categories.miserie: 0 limit: 1 %}
     <div class="container main">
         <div class="row jumbo-post">
-            <div class="col-ms-6 col-sm-5 col-md-4 col-xs-12 main-abstract">
+            <div class="col-ms-6 col-sm-5 col-md-4 col-xs-12 main-abstract {{post.dialog}}">
                 <a href="{{site.baseurl}}{{post.url}}" class="post-link" alt="{{post.title}}">
                     <h1>{{post.title}}</h1>
                     <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
@@ -12,8 +12,10 @@
             </div>
         </div>
     </div>
-    <div class="main-bg hidden-xs">
-        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg" alt="">
+    <div class="main-bg">
+        {% if post.header %}
+            <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.header }}.jpg" alt="">
+        {% endif %}
     </div>
     {% endfor %}
 </div>
