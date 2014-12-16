@@ -11,8 +11,16 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="post-section col-xs-12 col-md-offset-1 col-md-2">
-                    <h3>{{page.title}}</h3>
-                    <p><em>{{page.description}}</em></p>
+                    <div class="row post-info">
+                        <div class="col-xs-12">
+                            <h3>{{page.title}}</h3>
+                            <p><em>{{page.description}}</em></p>
+                            
+                        </div>
+                        <div class="col-xs-12 social">
+                            {% include social.html %}
+                        </div>
+                    </div>
                 </div>
                 <div class="col-xs-12 col-md-8">
                     {{ content }}

@@ -24,12 +24,8 @@
                             <h5>{{ page.date | date: "%B %Y" }}</h5>
                         </div>
                         <div class="col-xs-12 social">
-                                <ul class="list-unstyled">
-                                    <li><a class="twitter_link" href="#" target="_blank" title="Share on Twitter"><i class="icon-twitter"></i> <span class="hidden-xs">Twitter</span></a></li>
-                                    <li><a href="#" target="_blank" title="Share on Google+"><i class="icon-gplus" title="Share on Google+"></i> <span class="hidden-xs">Google+</span></a></li>
-                                    <li><a href="#" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i> <span class="hidden-xs">Facebook</span></a></li>
-                                </ul>
-                        </div>        
+                            {% include social.html %}
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">

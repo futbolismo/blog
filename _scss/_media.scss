@@ -315,11 +315,13 @@
 		border-top:none;
 		border-bottom:1px solid #ddd;
 	}
-	.post .social {
+	.post .social,
+	.category .social {
 		margin:1rem 0;
 		font-size: 1.8em;
 	}
-	.post .social ul li {
+	.post .social ul li,
+	.category .social ul li {
 		float:none;
 		margin:0;
 		width:auto;

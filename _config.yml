@@ -1,13 +1,13 @@
 name: "futbolismo"
 title: "Futbolismo"
 description: "Storie e grafici del calcio"
-url: http://futbolismo.github.io/blog/
+url: http://futbolismo.github.io/blog
 paginate: 10
 
 excerpt_separator: <!--more-->
 
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 
 highlighter: rouge
 encoding: utf-8

@@ -474,17 +474,20 @@ a.post-link:hover img {
 .post .comments {
 	margin-top:2rem;
 }
-.post .social {
+.post .social,
+.category .social {
 	margin:0;
 	font-size: 1.4em;
 	border-top: 1px solid #ddd;
 	padding: 1rem;
 }
-.post .social ul {
+.post .social ul,
+.category .social ul {
 	overflow: hidden;
 	margin-bottom: 0;
 }
-.post .social ul li {
+.post .social ul li,
+.category .social ul li {
 	float: left;
 	margin: 0px 0.8rem 0 0;
 	border: 2px solid #000;
