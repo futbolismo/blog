@@ -307,21 +307,12 @@
 	.post h1 {
 		font-size:2em;
 	}
-	
-	.post .post-title h1 {	
-		margin-bottom:2rem;
-	}
-	.post .post-info {
-		border-top:none;
-		border-bottom:1px solid #ddd;
-	}
-	.post .social,
-	.category .social {
+
+	.post .social {
 		margin:1rem 0;
 		font-size: 1.8em;
 	}
-	.post .social ul li,
-	.category .social ul li {
+	.post .social ul li {
 		float:none;
 		margin:0;
 		width:auto;
@@ -330,6 +321,19 @@
 		border-radius: 0;
 		background-color: inherit;
 	}
+
+	.post .social ul li span {
+		display:inline;
+	}
+	
+	.post .post-title h1 {	
+		margin-bottom:2rem;
+	}
+	.post .post-info {
+		border-top:none;
+		border-bottom:1px solid #ddd;
+	}
+	
 	.post .post-body {
 		border-right:1px solid #ddd;
 		padding-right:2rem;
@@ -443,11 +447,16 @@
 	.small-posts li:last-child {
 		border-bottom: 1px solid #ddd;
 	}
+	
+	
 
 	.category .post-section {
-		background-color:$darkGray;
-		padding:15px;
+		padding:0;
 		margin-bottom: 20px;
+	}
+	.category .post-section .title {
+		background-color:$darkGray;
+		padding:15px 30px;
 	}
 	.category .post-section h3 {
 		color: $white;
@@ -457,6 +466,14 @@
 	.category .post-section p {
 		color: $white;
 		font-size:1.5em;
+		margin:0;
+	}
+	.category .post-section .social {
+		padding: 15px 0px 15px 30px;;
+		position: absolute;
+	}
+	.category .post-section .social ul {
+		float:right;
 	}
 
 	.category.figurine .post-abstract {
@@ -467,9 +484,12 @@
 	
 
 	.category .post-section {
-		background-color:$darkGray;
-		padding:15px;
+		padding:0;
 		margin-bottom: 20px;
+	}
+	.category .post-section .title {
+		background-color:$darkGray;
+		padding:15px 30px;
 	}
 	.category .post-section h3 {
 		color: $white;
@@ -479,10 +499,39 @@
 	.category .post-section p {
 		color: $white;
 		font-size:1.5em;
+		margin:0;
+	}
+	.category .post-section .social {
+		padding: 15px 0px 15px 30px;;
+		position: absolute;
+	}
+	.category .post-section .social ul {
+		float:right;
 	}
 	
 	.category .top6 .post-abstract {
 		min-height: 400px;
 	}
 	
+}
+@media (min-width: 992px) {
+	
+	.category .social {
+		margin:1rem 0;
+		font-size: 1.8em;
+	}
+	
+	.category .social ul li {
+		float:none;
+		margin:0;
+		width:auto;
+		line-height: 2rem;
+		border:none;
+		border-radius: 0;
+		background-color: inherit;
+	}
+
+	.category .social ul li span {
+		display:inline;
+	}
 }

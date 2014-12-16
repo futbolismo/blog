@@ -497,6 +497,9 @@ a.post-link:hover img {
 	width: 34px;
 	background-color: #eee;
 }
+.social ul li span {
+	display:none;
+}
 .post .timeline h4 {
 	color:#333;
 	margin-top:1rem;
@@ -529,7 +532,7 @@ a.post-link:hover img {
 }
 .category .post-section {
 	background-color:$darkGray;
-	padding:15px;
+	padding:0 15px;
 	margin-bottom:20px;
 }
 .category .post-section h3 {
