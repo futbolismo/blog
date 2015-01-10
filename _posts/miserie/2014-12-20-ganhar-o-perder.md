@@ -16,6 +16,8 @@ category: miserie
 timeline: 1
 timeline_data: socrates
 
+dialog: transparent white-text left
+
 ---
 Penso, dunque sono!  
 Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi, un brasiliano democratico.<!--more--> Essere campioni è un dettaglio: si vinca o si perda la cosa più importante è essere uomini. Bisogna avere il coraggio delle proprie azioni ed essere forti abbastanza da sopportarne il peso.  

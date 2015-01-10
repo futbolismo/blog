@@ -192,6 +192,22 @@
 		left:10rem;
 		right:auto;
 	}
+	.jumbotron .main-abstract.left5 {
+		left:5rem;
+		right:auto;
+	}
+	.jumbotron .main-abstract.transparent {
+		background:transparent;
+	}
+	.jumbotron .main-abstract.white-text {
+		color:white;
+	}
+	.jumbotron .main-abstract.white-text a{
+		color:inherit;
+	}
+	.jumbotron .main-abstract.white-text a:hover {
+		color:inherit;
+	}
 	.category .content-wrapper {
 		/*position: absolute;*/
 		margin-top: 130px;
