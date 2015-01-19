@@ -237,7 +237,7 @@ function Timeline(options) {
 			"font-size":"10px",
 			"text-anchor":"end"
 		})
-		.html(function(d){
+		.text(function(d){
 			return d["team"]
 		})
 	
