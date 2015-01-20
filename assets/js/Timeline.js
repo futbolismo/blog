@@ -230,7 +230,7 @@ function Timeline(options) {
 		})
 		.append("text")
 		.attr("x",WIDTH-CENTER)
-		.attr("y",11)
+		.attr("y",12)
 		.style({
 			"font-family":"arial",
 			"text-transform":"uppercase",
