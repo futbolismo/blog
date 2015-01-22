@@ -362,7 +362,7 @@
 		font-size:1.3em;
 	}
 	.post .post-body p:first-child:first-letter {
-		font-size: 650%;
+		font-size: 500%;
 		float: left;
 		margin: 10px 5px 0 0;
 		line-height: 0.7;
@@ -412,6 +412,10 @@
 	}
 	
 	/********************* PAGE *******************/
+	
+	.page.post .post-body {
+		border-right:none;
+	}
 
 	.page .content-wrapper {
 		/*position: absolute;*/
