@@ -204,22 +204,54 @@ Dunque sono!
                     {
                         type:"history",
                         category:"event",
-                        timestamps:[new Date(1989,11-1,9)],
+                        timestamps:[new Date(1964,3-1,31)],
                         text:{
                             
-                            body:"9 Novembre 1989, cade il Muro di Berlino.<br/><br/>Il muro divise in due la città di Berlino per 28 anni, dal 13 agosto del 1961 fino al 9 novembre 1989, giorno in cui il governo tedesco-orientale decretò l'apertura delle frontiere con la repubblica federale.",
+                            body:"31 marzo 1964. Colpo di stato militare che destituì João Goulart e instaurò un regime dittatoriale. Il primo presidente militare ad essere eletto fu il maresciallo Humberto de Alencar Castelo Branco che sciolse tutti i partiti politici e inaugurò la dittatura detta dei gorilas.",
                             link:"http://it.wikipedia.org/wiki/Muro_di_Berlino"
                         }
                     },
                     {
                         type:"history",
                         category:"event",
-                        timestamps:[new Date(1992,12-1,26)],
+                        timestamps:[new Date(1984,5-1,26)],
                         text:{
                             
-                            body:"26 Dicembre 1992, si scioglie ufficialmente l'Unione Sovietica.<br/><br/>Nell'agosto 1991 (fra il 19 e il 21), l'Unione Sovietica si dissolse dopo un fallito colpo di Stato, tentato da alcuni elementi dei vertici militari e dello Stato, che osteggiavano la direzione verso cui Gorbačëv stava guidando la nazione e il nuovo patto federativo delle repubbliche sovietiche che doveva essere siglato dopo poche settimane.",
-                            link:"http://it.wikipedia.org/wiki/Muro_di_Berlino"
+                            body:"Il periodo della dittatura militare finì nel 1984, con le grandi manifestazioni di Rio de Janeiro e San Paolo: il governo militare fu da esse costretto a concedere il ritorno ad elezioni democratiche, che la popolazione reclamava.",
+                            link:"http://it.wikipedia.org/wiki/Brasile#La_dittatura_militare"
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1989,5-1,26)],
+                        text:{
+                            
+                            body:"Nel 1989 si svolsero le prime elezioni libere dopo 25 anni di dittatura, che furono vinte da Fernando Collor de Mello, leader del nuovo Partito di Ricostruzione Nazionale, tendenzialmente liberal-conservatore.",
+                            link:"http://it.wikipedia.org/wiki/Brasile#La_dittatura_militare"
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1989,5-1,26)],
+                        text:{
+                            
+                            body:"Nel 1989 si svolsero le prime elezioni libere dopo 25 anni di dittatura, che furono vinte da Fernando Collor de Mello, leader del nuovo Partito di Ricostruzione Nazionale, tendenzialmente liberal-conservatore.",
+                            link:"http://it.wikipedia.org/wiki/Brasile#La_dittatura_militare"
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(2002,10-1,27)],
+                        text:{
+                            
+                            body:"27 Ottobre 2002, Luiz Inácio Lula da Silva viene eletto presidente. Esponente del partito operaio (Partido dos Trabalhadores PT) ha rappresentato una svolta nella politica brasiliana, che ha garantito provvedimenti volti a favorire la giustizia sociale e a risollevare l'economia dissestata, riscosse ampi consensi, in particolare tra i meno agiati.",
+                            link:"http://it.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
                         }
                     }
+                            
+
                 ];
 </script>
