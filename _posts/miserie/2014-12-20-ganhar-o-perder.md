@@ -55,9 +55,6 @@ Ad ogni modo amici cari io ho sempre fumato pur sapendo che fa male, così come 
 Io penso.  
 Dunque sono!  
 
-
-
-
 <div class="post-disclaimer">
     <b>Fotgrafie</b><br/>
     <ol>
