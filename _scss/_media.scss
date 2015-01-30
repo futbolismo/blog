@@ -290,6 +290,12 @@
 		overflow: hidden;
 		/*height: 220px;*/
 		position: relative;
+		background-repeat: no-repeat;
+		background-position:  center center; 
+		background-size: 100% 100%;
+	}
+	.miserie .post-abstract-img img {
+		opacity: 1;
 	}
 	
 	.small-posts li {
