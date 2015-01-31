@@ -17,64 +17,57 @@ timeline_data: chalana
 excerpt: "Avevo un paio di baffi enormi. Stupendi.
 Per questo mi chiamavano Chalanix. In realtà in comune con Asterix oltre ai bei baffoni ho pure la statura. Sono basso."
 ---
-Avevo un paio di baffi enormi. Stupendi.
-
+Avevo un paio di baffi enormi. Stupendi.  
 Per questo mi chiamavano Chalanix. In realtà in comune con Asterix oltre ai bei baffoni ho pure la statura. Sono basso. O meglio, sono alto un metro e sessantacinque. Non è tanto per un giocatore di calcio, ma la storia di questo sport meraviglioso è ricca di talenti un po' fuori standard. Mané Garrincha, ad esempio. Era alto un metro e sessantanove e in più aveva una gamba più corta dell'altra, nonostante tutto è stato il più grande dribblatore della storia del calcio. 
-O Diego Maradona, pure lui alto appena un metro e sessantacinque, come me, ma con un sinistro che gli mancava la parola. 
+O Diego Maradona, pure lui alto appena un metro e sessantacinque, come me, ma con un sinistro che gli mancava la parola.  
+Come vedete le misure non contano.  
+A proposito di misure, ho pure un naso niente male. Guardate qua!   
+Tanto per dire, mi chiamavano pure Cyrano.  
 
-Come vedete le misure non contano.
-
-A proposito di misure, ho pure un naso niente male. Guardate qua! 
-
-Tanto per dire, mi chiamavano pure Cyrano.
-
-All'orecchio portavo un bell'orecchino con un pendente, i capelli lunghi, ma tanto lunghi fin dietro le spalle, la camicia sbottonata fin quasi all'ombelico e non mi sono mai e poi mai separato da mia moglie Anabela. Almeno fino a quando non ci siamo proprio separati. 
-Comunque, mi ricordo che la Nazionale Portoghese, di cui facevo parte, doveva partire per disputare il Campionato d'Europa in Francia, quello del millenovecentoottantaquattro. Non volevano farla venire con me Anabela. Io dissi molto semplicemente che allora in Francia non ci sarei andato nemmeno io. Risultato: Anabela venne con me. La fecero passare per una giornalista al seguito della Nazionale Portoghese.
+All'orecchio portavo un bell'orecchino con un pendente, i capelli lunghi, ma tanto lunghi fin dietro le spalle, la camicia sbottonata fin quasi all'ombelico e non mi sono mai e poi mai separato da mia moglie Anabela. Almeno fino a quando non ci siamo proprio separati.   
+Comunque, mi ricordo che la Nazionale Portoghese, di cui facevo parte, doveva partire per disputare il Campionato d'Europa in Francia, quello del millenovecentoottantaquattro. Non volevano farla venire con me Anabela. Io dissi molto semplicemente che allora in Francia non ci sarei andato nemmeno io. Risultato: Anabela venne con me. La fecero passare per una giornalista al seguito della Nazionale Portoghese.  
 
 Avevo tutto per essere un grandissimo giocatore, un'ala sinistra con i baffi! 
-Ero forte, tecnico, rapido. Avevo una gran propensione al dribbling e un prezioso controllo di palla. A quell'Europeo siamo arrivati in semifinale, contro la Francia padrona di casa, e per poco non gli faccio un brutto scherzo. 
-Quella Francia aveva una squadra incredibile: Alain Giresse, Luis Fernandez, Jean Tigana e poi lui. Michele Platini, l'uomo d'oro del calcio europeo.
+Ero forte, tecnico, rapido. Avevo una gran propensione al dribbling e un prezioso controllo di palla. A quell'Europeo siamo arrivati in semifinale, contro la Francia padrona di casa, e per poco non gli faccio un brutto scherzo.  
+Quella Francia aveva una squadra incredibile: Alain Giresse, Luis Fernandez, Jean Tigana e poi lui. Michele Platini, l'uomo d'oro del calcio europeo.  
 Mi piaceva il pallone. Ne ero innamorato. Non mi perdevo una partitella a Barreiro dove sono nato. Dove c'era un pallone allora lì potevate trovare me, Fernando Albino de Souza Chalana, "O Pequeno Genial". 
 
-All'inizio però nessuno voleva darmi una possibilità con il calcio e allora, visto che ero velocissimo, decisi di dedicarmi all'atletica. In cinque mesi appena ero fra i migliori cinque di Portogallo sulla corta distanza. 
-<img class="responsive-img border w30 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/chalana_benfica.jpg" alt="Fernando Chalana Benfica" align="left">
-Però il pallone mi piaceva troppo. Correre senza la palla tra i piedi non mi dava alcun brivido. Correre senza poter dribblare non mi dava gusto. E così a quattordici anni gli unici a darmi una possibilità sono quelli del Fabril do Barreiro. Non potete crederci, ma ci ho giocato la miseria di sole sei partite. E mica perché non ci sapessi fare, anzi. Milorad "Miša" Pavić che allenava il Benfica mi vide giocare una partita e senza pensarci due volte mi portò con lui. Allo Sport Lisboa e Benfica nelle giovanili ci ho giocato appena tre stagioni, poi all'età di diciassette anni e ventisette giorni faccio il mio esordio in prima squadra, e un mese dopo sono pure già Nazionale Portoghese. 
+All'inizio però nessuno voleva darmi una possibilità con il calcio e allora, visto che ero velocissimo, decisi di dedicarmi all'atletica. In cinque mesi appena ero fra i migliori cinque di Portogallo sulla corta distanza.  
 
-Mi piaceva essere veloce mica solo in campo, io bruciavo le tappe anche nella vita.
-Nel millenovecentosettantasei vengo eletto miglior giocatore di Portogallo e con "As Águias" ho vinto già due campionati. Poi arriva il grave infortunio, quello del settantotto. Saltano i legamenti della gamba destra. Ma quello che poteva essere un colpo terribile non mi abbatte, anzi, torno più forte di prima. Rientro e vinco altri tre campionati con il Benfica. 
+<img class="responsive-img border w30 margin-1em" src="http://lh4.ggpht.com/_V78tgti2DFM/TVP9dew_BxI/AAAAAAAAG4s/5-kA8oY1uVo/chalana_benfica_sn_05_thumb%5B1%5D.jpg?imgmax=800" alt="Fernando Chalana Benfica" align="left">  
+
+Però il pallone mi piaceva troppo. Correre senza la palla tra i piedi non mi dava alcun brivido. Correre senza poter dribblare non mi dava gusto. E così a quattordici anni gli unici a darmi una possibilità sono quelli del Fabril do Barreiro. Non potete crederci, ma ci ho giocato la miseria di sole sei partite. E mica perché non ci sapessi fare, anzi. Milorad "Miša" Pavić che allenava il Benfica mi vide giocare una partita e senza pensarci due volte mi portò con lui. Allo Sport Lisboa e Benfica nelle giovanili ci ho giocato appena tre stagioni, poi all'età di diciassette anni e ventisette giorni faccio il mio esordio in prima squadra, e un mese dopo sono pure già Nazionale Portoghese.  
+
+Mi piaceva essere veloce mica solo in campo, io bruciavo le tappe anche nella vita.  
+Nel millenovecentosettantasei vengo eletto miglior giocatore di Portogallo e con "As Águias" ho vinto già due campionati. Poi arriva il grave infortunio, quello del settantotto. Saltano i legamenti della gamba destra. Ma quello che poteva essere un colpo terribile non mi abbatte, anzi, torno più forte di prima. Rientro e vinco altri tre campionati con il Benfica.  
 
 Eccoci appunto al millenovecentoottantaquattro, l'anno del Campionato d'Europa. Lo sapete già, io c'ero. E c'era pure Anabela. Era una gran bella Nazionale guidata da gente come Frasco, Pacheco e Antonio Sousa. E propio Antonio dirà di quell'Europeo "non eravamo certo fra i favoriti, però avevamo qualità. E Chalana, che brillava per tecnica e dribbling." Dite un po se è poco! 
-La prima partita di quel torneo la pareggiamo zero a zero con la Germania Ovest. Feci impazzire Uli Stielike, mica uno qualunque. "Era abilissimo. Un sinistro magnifico. Era imprevedibile ed era davvero difficile capire cosa volesse fare. In quell'Europeo ci mancò poco che non arrivasse all'altezza di Platini!" Ancora se lo ricorda! Poi fu la volta della Spagna. Il derby della Penisola Iberica si chiuse pure con un pareggio, per uno a uno. "Era classe cristallina allo stato puro. Impressionante. Dopo Platini, che giocava in una squadra piena di talenti, c'era sicuramente Chalana, che giocava da solo." Parole e musica di Manu Sarabia. Poi la terza sfida con la Romania. Decisiva per il passaggio del turno. Vincemmo di misura. Uno a zero. Io però sono uscito al quindicesimo del primo tempo. Mi faceva male la gamba. La solita. Quella dell'infortunio.
+La prima partita di quel torneo la pareggiamo zero a zero con la Germania Ovest. Feci impazzire Uli Stielike, mica uno qualunque. "Era abilissimo. Un sinistro magnifico. Era imprevedibile ed era davvero difficile capire cosa volesse fare. In quell'Europeo ci mancò poco che non arrivasse all'altezza di Platini!" Ancora se lo ricorda! Poi fu la volta della Spagna. Il derby della Penisola Iberica si chiuse pure con un pareggio, per uno a uno. "Era classe cristallina allo stato puro. Impressionante. Dopo Platini, che giocava in una squadra piena di talenti, c'era sicuramente Chalana, che giocava da solo." Parole e musica di Manu Sarabia. Poi la terza sfida con la Romania. Decisiva per il passaggio del turno. Vincemmo di misura. Uno a zero. Io però sono uscito al quindicesimo del primo tempo. Mi faceva male la gamba. La solita. Quella dell'infortunio.  
 
-In semifinale, contro i Francesi ci sono. Eccome. 
-<img class="responsive-img border w30 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/chalana_baffo.jpg" alt="Fernando Chalana" align="right">
-Pronti. Partenza. Via. Prendo palla, dribbling secco sul mio avversario. Convergo verso il centro e metto una palla in area, sul dischetto del rigore, che è un cioccolatino. Avevo visto il nostro attaccante Jordão arrivare con la coda dell'occhio, e lui non ha sbagliato. Pareggiato lo svantaggio. Siamo uno a uno. Via i tempi supplementari. E di nuovo una mia giocata travolgente: cross perfetto sul secondo palo e Joradão ci porta in vantaggio. Il tempo passa e non è galantuomo con noi. Non solo ci facciamo raggiungere. Ma quando già pensiamo ai calci di rigore, lui, Michel Platini, ci manda all'inferno! Ho fatto il possibile e l'impossibile. Ma non è bastato.
-Quello è stato di certo il mio miglior anno. Sono stato giudicato per la seconda volta miglior giocatore di Portogallo e la UEFA mi ha inserito nella squadra ideale del torneo. Assieme a lui, Michel Platini!
+<img class="responsive-img w50 margin-1em border" src="{{site.baseurl}}/assets/pics/illustrazioni/{{page.pid}}.jpg" alt="Socrates al Mondiale di Spagna 1982 - Illustrazione" align="right">
 
+In semifinale, contro i Francesi ci sono. Eccome.  
+Pronti. Partenza. Via. Prendo palla, dribbling secco sul mio avversario. Convergo verso il centro e metto una palla in area, sul dischetto del rigore, che è un cioccolatino. Avevo visto il nostro attaccante Jordão arrivare con la coda dell'occhio, e lui non ha sbagliato. Pareggiato lo svantaggio. Siamo uno a uno. Via i tempi supplementari. E di nuovo una mia giocata travolgente: cross perfetto sul secondo palo e Joradão ci porta in vantaggio. Il tempo passa e non è galantuomo con noi. Non solo ci facciamo raggiungere. Ma quando già pensiamo ai calci di rigore, lui, Michel Platini, ci manda all'inferno! Ho fatto il possibile e l'impossibile. Ma non è bastato.  
+Quello è stato di certo il mio miglior anno. Sono stato giudicato per la seconda volta miglior giocatore di Portogallo e la UEFA mi ha inserito nella squadra ideale del torneo. Assieme a lui, Michel Platini!  
 
+La Francia. Era proprio nel mio destino. Il mio rendimento eccezionale in quel Campionato d'Europa convinse il presidente del Girondins de Bordeaux a assicurarsi le mie mirabolanti prestazioni. Ora quando ho conosciuto il presidente Claude Bez, mi è venuto da ridere. Aveva dei baffoni più importanti dei miei! E i miei erano notevoli!  
+In quella squadra ritrovavo Tigana e Giresse con cui avevo incrociato i tacchetti pochi mesi prima. Però gli infortuni si sono susseguiti senza sosta. Ho provato di tutto. Trattamenti laser e sessioni di agopuntura.  
 
-La Francia. Era proprio nel mio destino. Il mio rendimento eccezionale in quel Campionato d'Europa convinse il presidente del Girondins de Bordeaux a assicurarsi le mie mirabolanti prestazioni. Ora quando ho conosciuto il presidente Claude Bez, mi è venuto da ridere. Aveva dei baffoni più importanti dei miei! E i miei erano notevoli! 
-In quella squadra ritrovavo Tigana e Giresse con cui avevo incrociato i tacchetti pochi mesi prima. Però gli infortuni si sono susseguiti senza sosta. Ho provato di tutto. Trattamenti laser e sessioni di agopuntura.
-<img class="responsive-img border w30 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/FernandoCHALANAPaniniBordeaux1986.png" alt="Fernando Chalana Bordeaux" align="left">
-Addirittura sono arrivato a consultare maghe e fattucchiere nella disperazione. Tre anni ho passato in Francia raggranellando la miseria di dodici presenze! In tre anni! In questa sfortunata parentesi però Platini l'ho incontrato un'altra volta, in Coppa dei Campioni. La Semifinale. Maledette semifinali! Lui giocava con la Juventus e a Torino ce le hanno suonate ben bene. Tre a zero. Al ritorno, quindici giorni dopo, abbiamo vinto due a zero. Ma anche questa volta non è bastato! Era sempre un passo avanti quel Francese.
+Addirittura sono arrivato a consultare maghe e fattucchiere nella disperazione. Tre anni ho passato in Francia raggranellando la miseria di dodici presenze! In tre anni! In questa sfortunata parentesi però Platini l'ho incontrato un'altra volta, in Coppa dei Campioni. La Semifinale. Maledette semifinali! Lui giocava con la Juventus e a Torino ce le hanno suonate ben bene. Tre a zero. Al ritorno, quindici giorni dopo, abbiamo vinto due a zero. Ma anche questa volta non è bastato! Era sempre un passo avanti quel Francese.  
 
-* primo
-* secondo
-* terzo
-
-Nell'ottantasette me ne sono tornato al Benfica, a casa mia. Però ahimè ormai non ero più lo stesso. I dolori erano costanti e così mi sono trascinato fino alla fine della mia carriera. Ho smesso a trentatré anni.
+Nell'ottantasette me ne sono tornato al Benfica, a casa mia. Però ahimè ormai non ero più lo stesso. I dolori erano costanti e così mi sono trascinato fino alla fine della mia carriera. Ho smesso a trentatré anni.  
 
 Di me si ricordano tutti. In Portogallo sono un mito. Nel duemilacinque i Clockwork Boys, una band punk rock portoghese mi ha dedicato una canzone: *Fernando Chalana Era Rock'N'Roll*. 
-Non è roba da tutti! 
+Non è roba da tutti!  
 
 E poi per un breve attimo sono stato davvero rock'n'roll!
 
 <div class="post-disclaimer">
 <b>Fotgrafie</b><br/>
 <ol>
-	<li>Fernando Chalana Bordeaux - <a href="http://www.webgirondins.com/actualite-La-photo-du-jour-Record-de-transfert-16889.php" target="_blank">webgirondins.com - iconsport</a></li>
-	<li>Figurina - oldschoolpanini.com</li>
-	<li>Fernando Chalana – ligaportuguesafutbol.blogspot.com</li>
+	<li>Figurina Fernando Chalana - <a href="http://www.oldschoolpanini.com/2011/01/paninomorphologie-fernando-chalana.html" target="_blank">Old School Panini</a></li>
+	<li>Figurina Chalana N. 22 - <a href="http://www.santanostalgia.com/2011/02/chalana.html" target="_blank">Santa Nostalgia</a></li>
+	<li>Fernando Chalana - Illustrazione - Romualdo Zapponi</li>
 </ol>
 </div>
 
@@ -97,7 +90,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1973,1974],
                         team:"Barreirense",
                         text:{
-                            body:"Giocò per tutta la carriera nel Selangor. Si ritir&ograve; dal calcio giocato nel 1986 dopo aver vinto la Malaysia Cup. Durante la sua lunga carriera gioca 375 partite, segnando 177 reti.",
+                            body:"Inizia la sua carriera nelle giovanili della Barreirense.",
                             link:null
                         }
                     },
@@ -107,7 +100,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1974,1976],
                         team:"Benfica",
                         text:{
-                            body:"Giocò per tutta la carriera nel Selangor. Si ritir&ograve; dal calcio giocato nel 1986 dopo aver vinto la Malaysia Cup. Durante la sua lunga carriera gioca 375 partite, segnando 177 reti.",
+                            body:"Prima di diventare professionista gioca due stagioni nelle giovanili del Benfica.",
                             link:null
                         }
                     },
@@ -117,7 +110,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1976,1984],
                         team:"Benfica",
                         text:{
-                            body:"Nel 1987 interrompe il ritiro dal calcio per giocare un'ultima stagione con il Selangor FA. Gioca 13 partite, segnando 20 goal.",
+                            body:"Dal 1976 al 1984 gioca nel Benfica. Colleziona 193 apparizioni e 32 reti.",
                             link:null
                         }
                     },
@@ -127,7 +120,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1984,1987],
                         team:"Bordeaux",
                         text:{
-                            body:"Nel 1987 interrompe il ritiro dal calcio per giocare un'ultima stagione con il Selangor FA. Gioca 13 partite, segnando 20 goal.",
+                            body:"Nel 1984 emigra in Francia per giocare nel Bordeaux. Gioca solamente 12 partite, segnando un solo goal.",
                             link:null
                         }
                     },
@@ -137,7 +130,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1987,1990],
                         team:"Benfica",
                         text:{
-                            body:"Nel 1987 interrompe il ritiro dal calcio per giocare un'ultima stagione con il Selangor FA. Gioca 13 partite, segnando 20 goal.",
+                            body:"Nel 1987 torna nel Benfica. Gioca 32 partite e segna 4 reti.",
                             link:null
                         }
                     },
@@ -147,7 +140,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1990,1991],
                         team:"Belenenses",
                         text:{
-                            body:"Nel 1987 interrompe il ritiro dal calcio per giocare un'ultima stagione con il Selangor FA. Gioca 13 partite, segnando 20 goal.",
+                            body:"Nel 1990 gioca una stagione per il Belenenses, collezionando 13 presenze.",
                             link:null
                         }
                     },
@@ -157,7 +150,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                         timestamps:[1991,1992],
                         team:"Estrela Amadora",
                         text:{
-                            body:"Nel 1987 interrompe il ritiro dal calcio per giocare un'ultima stagione con il Selangor FA. Gioca 13 partite, segnando 20 goal.",
+                            body:"Nel 1991 gioca per l'Estela Amadora dove chiude la sua carriera di giocatore con un goal in nove presenze.",
                             link:null
                         }
                     },
@@ -175,7 +168,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
 			            team:"Paços Ferreira",
 			            text:{
 			                
-			                body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
+			                body:"Dal 2003 &egrave; assistente allenatore nel Paços Ferreira.",
 			                link:null
 			            }
 			        },
@@ -186,7 +179,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
 			            team:"Oriental",
 			            text:{
 			                
-			                body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
+			                body:"Nel 2004 diventa allenatore del Oriental.",
 			                link:null
 			            }
 			        },
@@ -197,18 +190,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
 			            team:"Benfica",
 			            text:{
 			                
-			                body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
-			                link:null
-			            }
-			        },
-			        {
-			            type:"trainer",
-			            category:"range",
-			            timestamps:[2009,2014],
-			            team:"Benfica Giovanili",
-			            text:{
-			                
-			                body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
+			                body:"Dal 2005 al 2009 &egrave; assistente allenatore nel Benfica.",
 			                link:null
 			            }
 			        },
@@ -242,96 +224,6 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
                             link:"http://it.wikipedia.org/wiki/Rivoluzione_dei_garofani"
                         }
                     }
-                    /*
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1976,6-1,10),new Date(1976,6-1,25)],
-                        cup:"National Athlete Award",
-                        team:"Malesia",
-                        text:{
-                            body:"Nel 1976 gli viene conferito il premio National Athlete Award."
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1975,6-1,10),new Date(1975,6-1,25)],
-                        cup:"Best Asian Striker",
-                        team:"Malesia",
-                        text:{
-                            body:"Nel 1975 la rivista di calcio World Soccer premia Mohtar Dahari con il titolo di Miglior Attaccante Asiatico del 1975."
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1974,6-1,10),new Date(1974,6-1,25)],
-                        cup:"Giochi Asiatici",
-                        team:"Malesia",
-                        text:{
-                            body:"Vince la Medaglia di Bronzo ai Giochi Asiatici del 1974."
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1977,6-1,10),new Date(1977,6-1,25)],
-                        cup:"Giochi Sud Est Asia",
-                        team:"Malesia",
-                        text:{
-                            body:"Vince i Giochi del Sud Est Asiatico, battendo in finale la Tailiandia per 2 a 0."
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1979,6-1,10),new Date(1979,6-1,25)],
-                        cup:"Giochi Sud Est Asia",
-                        team:"Malesia",
-                        text:{
-                            body:"Vince i Giochi del Sud Est Asiatico, battendo in finale la nazionale dell'Indonesia per 1 a 0."
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1981,6-1,10),new Date(1981,6-1,25)],
-                        cup:"Giochi Sud Est Asia",
-                        team:"Malesia",
-                        text:{
-                            body:"Si classifica secondo ai Giochi del Sud Est Asiatico con la nazionale Malesiana. Perde la finale 2 a 1 contro la Tailandia."
-                        }
-                    },
-                    {
-                        type:"history",
-                        category:"event",
-                        timestamps:[new Date(1957,8-1,31)],
-                        text:{
-                            
-                            body:"<b>Indipendenza</b><br/>Dopo decenni di potere Britannico, il 31 Agosto 1957 viene proclamata l'indipendenza della Federazione Malese che, ampliatasi ancora con l'unione di Singapore, Sarawak, Sabah e Sultanato del Brunei si costituì in federazione della Grande Malesia.",
-                            link:"http://it.wikipedia.org/wiki/Guerra_del_calcio"
-                        }
-                    },
-                    {
-                        type:"history",
-                        category:"event",
-                        timestamps:[new Date(1960,6-1,1)],
-                        text:{
-                            
-                            body:"Il governo diretto da José María Lemus viene rovesciato nel 1960 da un colpo di Stato che favorisce la formazione di una giunta militare",
-                            link:"http://it.wikipedia.org/wiki/El_Salvador"
-                        }
-                    },
-                    {
-                        type:"history",
-                        category:"event",
-                        timestamps:[new Date(1979,10-1,1)],
-                        text:{
-                            
-                            body:"Il governo del Generale Romero viene deposto da un colpo di stato nell'Ottobre del 1979. Nei cinque anni precedenti il governo Romero si fece conoscere per il frequente uso della forza e della repressione, che mosse verso la lotta armata gli oppositori.",
-                            link:"http://it.wikipedia.org/wiki/El_Salvador"
-                        }
-                    }*/
+                    
                 ];
 </script>
