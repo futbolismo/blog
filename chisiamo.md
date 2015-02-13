@@ -7,7 +7,7 @@ no_social: true
 pid: chisiamo
 ---
 #### Carlo Z.  
-Avete presente quel lembo ti terra che dalla Lombardia si insinua prepotente fra il Veneto e la Romagna? Quella specie di "no man's land"? Ecco io sono nato lì, dov'è, o se preferite dove non è Sermide. Patria del melone. Era il tre gennaio del millenovecentosettantaquattro e da allora ne è passata di acqua nel gran fiume Po.  
+Avete presente quel lembo ti terra che dalla Lombardia si insinua prepotente fra il Veneto e la Romagna? Quella specie di "no man's land"? Ecco io sono nato lì, dov'è, o se preferite dove non è Sermide. Patria del melone. Era il tre gennaio del millenovecentosettantasei e da allora ne è passata di acqua nel gran fiume Po.  
 Ma ne è passata così tanta che adesso si è trasformata in quella del Tamigi, sulle cui rive vivo con mia moglie.  
 Al calcio ci ho giocato, ma ad oggi, sinceramente, non ho ancora capito quale sia il mio posto in mezzo al campo.  
 Confucio ha detto: "Scegli il lavoro che ami e non lavorerai mai, neanche per un giorno in tutta la tua vita." Ecco, io ho sempre avuto la passione per la visualizzazione dei dati, la curiosità di come renderli più accattivanti agli occhi della gente e l'ho fatta diventare il mio lavoro.  
