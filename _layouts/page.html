@@ -9,7 +9,7 @@
 
 <div class="content-wrapper page post">
     <section>
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="post-section col-xs-12 col-md-offset-1 col-md-2">
                     <div class="row post-info">
@@ -18,9 +18,11 @@
                             <p><em>{{page.description}}</em></p>
                             
                         </div>
+                        {% if page.no_social != true %}
                         <div class="col-xs-12 social">
                             {% include social.html %}
                         </div>
+                        {% endif %}
                     </div>
                 </div>
                 <div class="col-xs-12 col-md-8">

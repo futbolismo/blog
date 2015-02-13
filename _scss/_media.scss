@@ -367,7 +367,7 @@
 	.post .post-body p {
 		font-size:1.3em;
 	}
-	.post .post-body p:first-child:first-letter {
+	html:not(.page) .post .post-body p:first-child:first-letter {
 		font-size: 500%;
 		float: left;
 		margin: 10px 5px 0 0;
@@ -427,6 +427,10 @@
 		/*position: absolute;*/
 		/*margin-top: 130px;*/
 		/*border-top:1px solid #ddd;*/
+	}
+
+	.post h4 {
+		margin: 1em 0;
 	}
 
 }
