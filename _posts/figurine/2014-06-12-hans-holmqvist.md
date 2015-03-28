@@ -2,7 +2,7 @@
 layout: post
 
 pid: holmqvist
-title: Hans-Olof "Hasse" Holmqvist 
+title: Hans-Olof Hasse Holmqvist 
 player: Hans Holmqvist
 wikipedia: Hans_Holmqvist
 life: Centrocampista, nato il 27 Aprile 1960 a Stoccolma, Svezia
@@ -26,7 +26,7 @@ A questo punto, logicamente, vi chiederete: ma chi è questo Hans Holmqvist?
 Sono Svedese, ma in verità non rappresento il cliché dello Svedese classico. Anzi sono tutto l'opposto: un metro e  settantaquattro centimetri per sessantanove chili! Sì, sono piccolo e tozzo, però sono biondo. Tanto basta per essere definito nordico!  
 Sono arrivato in Italia nell'estate del millenovecentoottantotto passando per la Svizzera. Gioco nello Young Boys Berna. Come centravanti. Mi disimpegno bene anche, tant'è che sono arrivato a vestire la maglia della Nazionale Svedese. Così all'età di ventotto anni, ricevo la mia prima telefonata da Cesena: mi viene data l'opportunità di provare ad esprimere il mio talento in uno dei tornei più difficili e belli d'Europa. Almeno allora la Serie A era così!  
 Il Cesena, alla seconda stagione consecutiva nella massima serie, aveva perso uno degli artefici della salvezza, un tale Ruggero Rizzitelli, ed il Presidente Edmeo Lugaresi, con quella telefonata, decide che sono io il "pezzo da novanta" del mercato del cavalluccio. Ecco, la telefonata che ti cambia la vita!  
-<img class="responsive-img border w30 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/chalana_benfica.jpg" alt="Fernando Chalana Benfica" align="left">
+
 Il mister, Albertino Bigon, mi affianca in attacco al condor Agostini, un soprannome che si è guadagnato più per il naso secondo me. Comunque, i risultati stentano ad arrivare, anzi, non arrivano proprio. D'altronde mister Bigon quando mi ha visto deve aver pensato che sarei sgattaiolato tra gli arcigni difensori italiani come faceva il mio collega Rizzitelli, ma, le giornate passano e l'unica certezza è che verrò sostituito sistematicamente intorno all'ora di gioco tra fischi e mugugni. Anche in trasferta!  
 Il millenovecentoottantotto finisce così: il Cesena latita nelle ultime posizioni e io non ho segnato nemmeno lo straccio di una rete!  
 L'anno che verrà, il millenovecentoottantanove, sarà un anno molto particolare, in pochi mesi cambieranno non solo i confini geografici e politici dell'Europa, ma anche mentali. Cadrà il Muro di Berlino, Solidarność vincerà le elezioni in Polonia, il dittatore romeno Ceausescu verrà giustiziato, il mondo intero si libererà dalla paura della Guerra Fredda, gli studenti cinesi inizieranno a protestare in piazza Tienanmen e morirà in un banale incidente stradale in Polonia Gaetano Scirea, grande uomo, colonna della Juventus e della Nazionale Italiana.  
@@ -42,3 +42,125 @@ Sapete com'è finita la partita?
 Il Cesena ha vinto due a zero!  
 Una telefonata può cambiare la vita!  
 In più mi spettano ancora quattordici minuti abbondanti di notorietà!
+
+<div class="post-disclaimer">
+<b>Fotgrafie</b><br/>
+<ol>
+	<li>Figurina Calcio Euroflash 1989 - Con licenza Pubblico dominio <a href="http://it.wikipedia.org/wiki/File:Hans_Holmqvist.jpg" target="_blank">tramite Wikipedia</a></li>
+	</li>
+</ol>
+</div>
+
+<script>
+
+    var holmqvist=[
+                    {
+                        type:"birth",
+                        category:"event",
+                        timestamps:[new Date(1960,4-1,27)],
+                        text:{
+                            body:"Il 27 Aprile 1960, nasce a Stoccolma, Svezia, Hans Holmqvist.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1978,1983],
+                        team:"Djurgårdens IF",
+                        text:{
+                            body:"Inizia la sua carriera nel Djurgårdens IF. Gioca 86 partite e segna 37 goal.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1983,1984],
+                        team:"Hammarby IF",
+                        text:{
+                            body:"Nel 1983 si trasferisce nel Hammarby. Gioca 14 match, segnando 3 volte.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1984,1986],
+                        team:"Fortuna Düsseldorf",
+                        text:{
+                            body:"Nel 1984 va in Germania, nel Fortuna Düsseldorf. Colleziona 59 presenze e va a segno 19 volte.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1986,1987],
+                        team:"Hammarby IF",
+                        text:{
+                            body:"Nel 1986 torna in Svezia nel Hammarby IF, segnando 1 gol in 21 partite.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1987,1988],
+                        team:"Young Boys",
+                        text:{
+                            body:"Nel 1987 si trasferisce in Svizzera per giocare negli Young Boys, colleziona 28 presenze e ben 10 reti.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1988,1990],
+                        team:"Cesena",
+                        text:{
+                            body:"Nel 1988 si traserisce al Cesena, dove colleziona 20 presenze con un solo gol nella sorprendente vittoria dei bianconeri Romagnoli contro il Milan (1-0).",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1990,1993],
+                        team:"Örebro",
+                        text:{
+                            body:"Al termine dell'esperienza italiana, torna a giocare in Svezia nell'Örebro nelle cui file conclude l'attività agonistica nel 1993.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"national",
+                        timestamps:[1983,1988],
+                        team:"Svezia",
+                        apps:27,
+                        goals:4
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1986,2-1,28)],
+                        text:{
+                            
+                            body:"Il 28 Febbraio 1986 viene assassinato nel pieno centro di Stoccolma il primo ministro svedese Olof Palme; questo delitto è rimasto, ad oggi, ancora irrisolto.",
+                            link:"http://it.wikipedia.org/wiki/Olof_Palme"
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1995,1-1,1)],
+                        text:{
+                            
+                            body:"Nel 1995, in Svezia, viene fondato Metro. Il giornale gratuito ideato per i pendolari. Metro viene stampato in 56 edizioni giornaliere, in 15 linguaggi e 19 nazioni.",
+                            link:"http://en.wikipedia.org/wiki/Metro_International"
+                        }
+                    }
+                    
+                    
+                ];
+</script>
