@@ -33,6 +33,7 @@ Il mister, Albertino Bigon, mi affianca in attacco al condor Agostini, un sopran
 Il millenovecentoottantotto finisce così: il Cesena latita nelle ultime posizioni e io non ho segnato nemmeno lo straccio di una rete!  
 
 L'anno che verrà, il millenovecentoottantanove, sarà un anno molto particolare, in pochi mesi cambieranno non solo i confini geografici e politici dell'Europa, ma anche mentali. Cadrà il Muro di Berlino, Solidarnosc vincerà le elezioni in Polonia, il dittatore romeno Ceausescu verrà giustiziato, il mondo intero si libererà dalla paura della Guerra Fredda, gli studenti cinesi inizieranno a protestare in piazza Tienanmen e morirà in un banale incidente stradale in Polonia Gaetano Scirea, grande uomo, colonna della Juventus e della Nazionale Italiana.  
+  
 Ma soprattutto il millenovecentoottantanove sarà il mio anno.  
 È l'otto Gennaio. L'anno è iniziato da soli otto giorni. Il calendario calcistico dice che è la dodicesima giornata. Noi affrontiamo fra le mura amiche del "Dino Manuzzi" il Milan, lo squadrone degli Olandesi capitanati da Franco Baresi. Quel Milan che sarebbe poi diventato campione d'Europa e del mondo sotto la guida di un omino piccino. Scegliete voi l'omino piccino che preferite!  
 Un tale, un americano, un artistoide, qualche tempo fa ha detto che tutti avremmo avuto quindici minuti di celebrità. Ecco, un profeta!  
