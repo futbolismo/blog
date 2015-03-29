@@ -47,6 +47,6 @@ Come ci hanno insegnato Sócrates o Caszély o Mekhloufi attraverso il calcio 
 <div class="post-disclaimer">
     <b>Fotgrafie</b><br/>
     <ol>
-      <li>Francobollo Svizzera 1970 - "switzerland-futbol-soccer-stamp-1970" di Karen Horton - <a href="https://www.flickr.com/photos/karenhorton/4782400042">https://www.flickr.com/photos/karenhorton/4782400042</a>. Licenza CC BY 2.0</li>
+      <li>Mario - via della Posta, Milano di Francesco Mistrulli - <a href="https://www.flickr.com/photos/44375779@N03/6820579966/in/set-72157633381254897">https://www.flickr.com/photos/44375779@N03/6820579966/in/set-72157633381254897</a>. Tutti i diritti riservati.</li>
     </ol>
 </div>
