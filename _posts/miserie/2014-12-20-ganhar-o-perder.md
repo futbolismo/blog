@@ -47,7 +47,8 @@ Voi avete avuto la possibilità di conoscermi attraverso una partita. Una sola. 
 Io per quello sono arrivato in Italia. E nel vostro Bel Paese ho ritrovato tutto quello che volevo combattere nel mio di Paese, compresa una dittatura bigotta, di una Democrazia per giunta, quella Cristiana.   
 Hanno detto e hanno scritto che non voglio allenarmi, che non sopporto i ritiri, che fumo un pacchetto di sigarette al giorno e anche più, che adoro bere birra, tirare tardi la sera e discutere di politica. Bene, è tutto vero. È la sacrosanta verità.  
 E non è, come scrivono sui giornali quei soloni di giornalisti, questione di saudade. È proprio che il mio fisico non è abituato ad allenamenti così intensi e soprattutto non ho mai corso ad alta quota. In Brasile i sistemi sono nettamente diversi. Si va in forma giocando. Non esistono questi periodi massacranti di preparazione atletica. Ecco cos'è. Mi avevano chiesto se volevo fare come Falcão alla Roma, un ritiro più leggero, a parte, non seguendo i compagni in montagna. "No" ho detto "farò esattamente come tutti gli altri". Una volta Antognoni che era infortunato ma era pure lui in ritiro per la riabilitazione mi ha visto steso mezzo morto sul prato, si è avvicinato e mi ha chiesto: "Dottore, tutto bene?".   
-<img class="responsive-img border w30 margin-1em" src="http://upload.wikimedia.org/wikipedia/it/thumb/4/42/Socrates_Fiorentina.jpg/322px-Socrates_Fiorentina.jpg?download" alt="Socrates - Fiorentina" align="left">  
+<img class="responsive-img border" src="http://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Fiorentina%2C_1984_-_Claudio_Gentile%2C_Daniel_Passarella_e_S%C3%B3crates.jpg/1200px-Fiorentina%2C_1984_-_Claudio_Gentile%2C_Daniel_Passarella_e_S%C3%B3crates.jpg" alt="Fiorentina, 1984 - Claudio Gentile, Daniel Passarella e Sócrates.jpg"/>
+
 "Antonio ti devo fare una domanda, ma in Italia anche i campi di calcio sono in salita?".
 Quando sono arrivato ho detto: "Sono proprio quello che sapete, che scrivete, che pubblicizzate". In realtà non mi conoscevate se non per quel Brasile Italia.  
 Non sono come il mio amico Zico, ne tantomeno come quell'Argentino dalla faccia sporca. Loro hanno doti individuali eccelse, io mi metto al servizio del collettivo, ma per farlo devo convincere i miei compagni che sono utile. Loro invece le partite le vincono da soli.   
@@ -63,6 +64,7 @@ Dunque sono!
       <li>"Socrates (futebolista) participando do movimento político Diretas Já" <a href="//commons.wikimedia.org/w/index.php?title=User:Oscarmadison&amp;action=edit&amp;redlink=1">Jorge Henrique Singh</a> - Opera propria. Con Licenza <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> <a href="//commons.wikimedia.org/wiki/">tramite Wikimedia Commons</a>.</li>
       <li>"Sócrates - Mondiale di Spagna 1982 - Romualdo Zapponi</li>
       <li>"Socrates Fiorentina". Con licenza Pubblico dominio - <a href="http://it.wikipedia.org/wiki/File:Socrates_Fiorentina.jpg#mediaviewer/File:Socrates_Fiorentina.jpg" target="_blank">tramite Wikipedia</a></li>
+      <li>"Fiorentina, 1984 - Claudio Gentile, Daniel Passarella e Sócrates" - Pubblico dominio <a href="http://it.wikipedia.org/wiki/File:Fiorentina,_1984_-_Claudio_Gentile,_Daniel_Passarella_e_S%C3%B3crates.jpg#/media/File:Fiorentina,_1984_-_Claudio_Gentile,_Daniel_Passarella_e_S%C3%B3crates.jpg" target="_blank">tramite Wikipedia</a></li>
     </ol>
 </div>
 

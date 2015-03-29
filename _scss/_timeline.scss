@@ -140,7 +140,7 @@
 	float: left;
 	width:260px;
 	background:#000;
-	background-color:rgba(0,0,0,0.8);
+	background-color:rgba(0,0,0,0.9);
 	padding:1rem;
 }
 .timeline-tooltip h3 {
@@ -158,4 +158,9 @@
 .timeline-tooltip a:hover {
 	color:inherit;
 	text-decoration: underline;
+}
+.timeline-tooltip ul {
+	margin:0;
+	padding:0;
+	list-style-position: inside;
 }

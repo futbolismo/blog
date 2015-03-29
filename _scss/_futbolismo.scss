@@ -283,13 +283,14 @@ a:hover .read-more {
 }*/
 .row .post-section {
 	
-	padding:0;	
+	/*padding:0;*/
 }
 .row .post-section h3 {
 	padding-top: 0.4rem;
 	font-size: 1.4em;
 	border-bottom:1px solid #ddd;
 }
+
 .row .post-section h3 a {
 	text-decoration:none;
 }
@@ -465,7 +466,7 @@ a.post-link:hover img {
 	color:#333;
 }
 
-.post .post-body p:first-child:first-letter {
+html:not(.page) .post .post-body p:first-child:first-letter {
 	font-size: 280%;
 	float: left;
 	margin: 10px 5px 0 0;
