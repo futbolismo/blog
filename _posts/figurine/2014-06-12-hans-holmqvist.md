@@ -12,10 +12,6 @@ category: figurine
 timeline: 1
 timeline_data: holmqvist
 
-
-
-excerpt: "Se c'è una cosa che non sopporto è quella di essere considerato un cattivo giocatore. 
-Non cattivo nel senso stretto del termine intendiamoci.Perché cattivo ero cattivo. La gamba non l'ho mai tirata indietro."
 ---
 Una telefonata può cambiare la vita?  
 "Pronto. Casa Holmqvist?"  
