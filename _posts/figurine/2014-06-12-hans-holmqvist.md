@@ -24,12 +24,15 @@ Una telefonata può cambiare la vita?
 Questa telefonata l'ho ricevuta nel mese di Settembre del duemiladieci a casa mia, a Stoccolma.  
 A questo punto, logicamente, vi chiederete: ma chi è questo Hans Holmqvist?  
 Sono Svedese, ma in verità non rappresento il cliché dello Svedese classico. Anzi sono tutto l'opposto: un metro e  settantaquattro centimetri per sessantanove chili! Sì, sono piccolo e tozzo, però sono biondo. Tanto basta per essere definito nordico!  
-Sono arrivato in Italia nell'estate del millenovecentoottantotto passando per la Svizzera. Gioco nello Young Boys Berna. Come centravanti. Mi disimpegno bene anche, tant'è che sono arrivato a vestire la maglia della Nazionale Svedese. Così all'età di ventotto anni, ricevo la mia prima telefonata da Cesena: mi viene data l'opportunità di provare ad esprimere il mio talento in uno dei tornei più difficili e belli d'Europa. Almeno allora la Serie A era così!  
+Sono arrivato in Italia nell'estate del millenovecentoottantotto passando per la Svizzera. Gioco nello Young Boys Berna. Come centravanti. Mi disimpegno bene anche, tant'è che sono arrivato a vestire la maglia della Nazionale Svedese.
+<img class="responsive-img border w30 margin-1em" src="http://media4.allnumis.com/23340/37-hans-holmqvist-isvrec_23340_0896778893560fL.jpg" alt="Holmqvist - Svezia" align="left">
+Così all'età di ventotto anni, ricevo la mia prima telefonata da Cesena: mi viene data l'opportunità di provare ad esprimere il mio talento in uno dei tornei più difficili e belli d'Europa. Almeno allora la Serie A era così!  
 Il Cesena, alla seconda stagione consecutiva nella massima serie, aveva perso uno degli artefici della salvezza, un tale Ruggero Rizzitelli, ed il Presidente Edmeo Lugaresi, con quella telefonata, decide che sono io il "pezzo da novanta" del mercato del cavalluccio. Ecco, la telefonata che ti cambia la vita!  
-<img class="responsive-img border w30 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/chalana_benfica.jpg" alt="Fernando Chalana Benfica" align="left">
+
 Il mister, Albertino Bigon, mi affianca in attacco al condor Agostini, un soprannome che si è guadagnato più per il naso secondo me. Comunque, i risultati stentano ad arrivare, anzi, non arrivano proprio. D'altronde mister Bigon quando mi ha visto deve aver pensato che sarei sgattaiolato tra gli arcigni difensori italiani come faceva il mio collega Rizzitelli, ma, le giornate passano e l'unica certezza è che verrò sostituito sistematicamente intorno all'ora di gioco tra fischi e mugugni. Anche in trasferta!  
 Il millenovecentoottantotto finisce così: il Cesena latita nelle ultime posizioni e io non ho segnato nemmeno lo straccio di una rete!  
-L'anno che verrà, il millenovecentoottantanove, sarà un anno molto particolare, in pochi mesi cambieranno non solo i confini geografici e politici dell'Europa, ma anche mentali. Cadrà il Muro di Berlino, Solidarność vincerà le elezioni in Polonia, il dittatore romeno Ceausescu verrà giustiziato, il mondo intero si libererà dalla paura della Guerra Fredda, gli studenti cinesi inizieranno a protestare in piazza Tienanmen e morirà in un banale incidente stradale in Polonia Gaetano Scirea, grande uomo, colonna della Juventus e della Nazionale Italiana.  
+<img class="responsive-img border w30 margin-1em" src="http://upload.wikimedia.org/wikipedia/it/2/26/Hans_Holmqvist.jpg?download" alt="Hans Holmqvist con la maglia del Cesena (1989)" align="right">
+L'anno che verrà, il millenovecentoottantanove, sarà un anno molto particolare, in pochi mesi cambieranno non solo i confini geografici e politici dell'Europa, ma anche mentali. Cadrà il Muro di Berlino, Solidarnosc vincerà le elezioni in Polonia, il dittatore romeno Ceausescu verrà giustiziato, il mondo intero si libererà dalla paura della Guerra Fredda, gli studenti cinesi inizieranno a protestare in piazza Tienanmen e morirà in un banale incidente stradale in Polonia Gaetano Scirea, grande uomo, colonna della Juventus e della Nazionale Italiana.  
 Ma soprattutto il millenovecentoottantanove sarà il mio anno.  
 È l'otto Gennaio. L'anno è iniziato da soli otto giorni. Il calendario calcistico dice che è la dodicesima giornata. Noi affrontiamo fra le mura amiche del "Dino Manuzzi" il Milan, lo squadrone degli Olandesi capitanati da Franco Baresi. Quel Milan che sarebbe poi diventato campione d'Europa e del mondo sotto la guida di un omino piccino. Scegliete voi l'omino piccino che preferite!  
 Un tale, un americano, un artistoide, qualche tempo fa ha detto che tutti avremmo avuto quindici minuti di celebrità. Ecco, un profeta!  
@@ -42,3 +45,127 @@ Sapete com'è finita la partita?
 Il Cesena ha vinto due a zero!  
 Una telefonata può cambiare la vita!  
 In più mi spettano ancora quattordici minuti abbondanti di notorietà!
+
+<div class="post-disclaimer">
+<b>Fotgrafie</b><br/>
+<ol>
+	<li>Figurina Holmqvist - Cesena  - <a href="http://www.blackwhiteskin.com/2014/01/toccata-e-fuga-hans-holmqvist.html" target="_blank">BlackWhiteSkin.com</a></li>
+	<li>Figurina Holmqvist n.37 - Svezia <a href="http://media4.allnumis.com/23340/37-hans-holmqvist-isvrec_23340_0896778893560fL.jpg" target="_blank">allnumis</a></li>
+	<li>Hans Holmqvist con la maglia del Cesena (1989) - "Hans Holmqvist". Con licenza Pubblico dominio <a href="http://it.wikipedia.org/wiki/File:Hans_Holmqvist.jpg#mediaviewer/File:Hans_Holmqvist.jpg">tramite Wikipedia</a></li>
+</ol>
+</div>
+
+<script>
+
+
+    var holmqvist=[
+            {
+                type:"birth",
+                category:"event",
+                timestamps:[new Date(1960,4-1,27)],
+                text:{
+                    body:"Il 27 Aprile 1960, nasce a Stoccolma, Svezia, Hans Holmqvist.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1978,1983],
+                team:"Djurgården",
+                text:{
+                    body:"Inizia la sua carriera in Svezia nel  della Djurgården, dove gioca 86 partite, segnando 37 reti.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1983,1984],
+                team:"Hammarby",
+                text:{
+                    body:"Nella stagion 1983/84 gioca nell Hammarby, segnando 3 reti in 14 presenze.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1984,1986],
+                team:"F. Düsseldorf",
+                text:{
+                    body:"Nel 1984 si trasferisce in Germania per giocare nel F. Düsseldorf, dove totalizza 59 presenze e 19 goal.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1986,1987],
+                team:"Hammarby",
+                text:{
+                    body:"Nel 1986 torna nell Hammarby. Gioca una stagione, in cui segna solamente una rete in 21 partite.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1987,1988],
+                team:"Young Boys",
+                text:{
+                    body:"Nel 1987 si trasferisce in Svizzera per giocare nelle fila dello Young Boys di Berna. Gioca 30 partite segnando 10 reti.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1988,1990],
+                team:"Cesena",
+                text:{
+                    body:"Nel 1988 sbarca alla corte di Bigon nel Cesena. Gioca 20 partite con una sola rete. Quella della sorprendente vittoria contro il Milan.",
+                    link:null
+                }
+            },
+            {
+                type:"club",
+                category:"range",
+                timestamps:[1990,1993],
+                team:"Örebro",
+                text:{
+                    body:"Nel 1990 torna in Svezia dove gioca nel Örebro per altri tre anni prima di ritirarsi dal calcio professionistico. Colleziona 36 presenze e 7 reti.",
+                    link:null
+                }
+            },
+            {
+                type:"national",
+                timestamps:[1983,1988],
+                team:"Svezia",
+                apps:27,
+                goals:2
+            },
+            
+            {
+                type:"history",
+                category:"event",
+                timestamps:[new Date(1989,11-1,9)],
+                text:{
+                    
+                    body:"<ul><li>18 Aprile, Pechino: cominciano le proteste studentesche in piazza Tienanmen.</li><li>24 Agosto, Polonia: nasce una coalizione di governo formata da Solidarnosc ed altri due partiti.</li><li>9 Novembre, Germani: cade il Muro di Berlino.</li><li>17 Dicembre, Stati Uniti: esce la prima puntata de I Simpson.</li><li>25 Dicembre, Romania: esecuzione del dittatore Nicolae Ceauşescu e della moglie Elena.</li><li>29 Dicembre, Cecoslovacchia: Václav Havel diventa Presidente.</li></ul>",
+                    link:"http://it.wikipedia.org/wiki/1989"
+                }
+            },
+            {
+                type:"history",
+                category:"event",
+                timestamps:[new Date(1986,2-1,28)],
+                text:{
+                    
+                    body:"Il 28 Febbraio 1986 viene assassinato il Primo Ministro Svedese Olof Palme; questo delitto è rimasto, ad oggi, ancora irrisolto.",
+                    link:"http://it.wikipedia.org/wiki/Olof_Palme"
+                }
+            }
+            
+        ];
+</script>
