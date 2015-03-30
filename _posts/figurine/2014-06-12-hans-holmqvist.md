@@ -19,6 +19,7 @@ Una telefonata può cambiare la vita?
 "Chiamo dalla redazione de "Il Resto del Carlino". Lo sa, domenica il Cesena affronterà il Milan. Che cosa consiglierebbe alla sua ex squadra per una partita così difficile?"  
 Questa telefonata l'ho ricevuta nel mese di Settembre del duemiladieci a casa mia, a Stoccolma.  
 A questo punto, logicamente, vi chiederete: ma chi è questo Hans Holmqvist?  
+  
 Sono Svedese, ma in verità non rappresento il cliché dello Svedese classico. Anzi sono tutto l'opposto: un metro e  settantaquattro centimetri per sessantanove chili! Sì, sono piccolo e tozzo, però sono biondo. Tanto basta per essere definito nordico!  
 Sono arrivato in Italia nell'estate del millenovecentoottantotto passando per la Svizzera. Gioco nello Young Boys Berna. Come centravanti. Mi disimpegno bene anche, tant'è che sono arrivato a vestire la maglia della Nazionale Svedese.
 <img class="responsive-img border w30 margin-1em" src="http://media4.allnumis.com/23340/37-hans-holmqvist-isvrec_23340_0896778893560fL.jpg" alt="Holmqvist - Svezia" align="left">
