@@ -47,6 +47,6 @@ Come ci hanno insegnato Sócrates o Caszély o Mekhloufi attraverso il calcio 
 <div class="post-disclaimer">
     <b>Fotgrafie</b><br/>
     <ol>
-      <li>Mario - via della Posta, Milano di Francesco Mistrulli - <a href="https://www.flickr.com/photos/44375779@N03/6820579966/in/set-72157633381254897">https://www.flickr.com/photos/44375779@N03/6820579966/in/set-72157633381254897</a>. Tutti i diritti riservati.</li>
+      <li>Inspirata da "Mario - via della Posta, Milano" di Francesco Mistrulli - <a href="https://www.flickr.com/photos/44375779@N03/6820579966/in/set-72157633381254897">passion (Elliott Erwitt #1)</a>. Tutti i diritti riservati.</li>
     </ol>
 </div>
