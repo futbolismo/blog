@@ -19,7 +19,7 @@ Una telefonata può cambiare la vita?
 "Chiamo dalla redazione de "Il Resto del Carlino". Lo sa, domenica il Cesena affronterà il Milan. Che cosa consiglierebbe alla sua ex squadra per una partita così difficile?"  
 Questa telefonata l'ho ricevuta nel mese di Settembre del duemiladieci a casa mia, a Stoccolma.  
 A questo punto, logicamente, vi chiederete: ma chi è questo Hans Holmqvist?  
-  
+
 Sono Svedese, ma in verità non rappresento il cliché dello Svedese classico. Anzi sono tutto l'opposto: un metro e  settantaquattro centimetri per sessantanove chili! Sì, sono piccolo e tozzo, però sono biondo. Tanto basta per essere definito nordico!  
 Sono arrivato in Italia nell'estate del millenovecentoottantotto passando per la Svizzera. Gioco nello Young Boys Berna. Come centravanti. Mi disimpegno bene anche, tant'è che sono arrivato a vestire la maglia della Nazionale Svedese.
 <img class="responsive-img border w30 margin-1em" src="http://media4.allnumis.com/23340/37-hans-holmqvist-isvrec_23340_0896778893560fL.jpg" alt="Holmqvist - Svezia" align="left">
@@ -32,6 +32,7 @@ Il millenovecentoottantotto finisce così: il Cesena latita nelle ultime posizio
 L'anno che verrà, il millenovecentoottantanove, sarà un anno molto particolare, in pochi mesi cambieranno non solo i confini geografici e politici dell'Europa, ma anche mentali. Cadrà il Muro di Berlino, Solidarnosc vincerà le elezioni in Polonia, il dittatore romeno Ceausescu verrà giustiziato, il mondo intero si libererà dalla paura della Guerra Fredda, gli studenti cinesi inizieranno a protestare in piazza Tienanmen e morirà in un banale incidente stradale in Polonia Gaetano Scirea, grande uomo, colonna della Juventus e della Nazionale Italiana.  
   
 Ma soprattutto il millenovecentoottantanove sarà il mio anno.  
+
 È l'otto Gennaio. L'anno è iniziato da soli otto giorni. Il calendario calcistico dice che è la dodicesima giornata. Noi affrontiamo fra le mura amiche del "Dino Manuzzi" il Milan, lo squadrone degli Olandesi capitanati da Franco Baresi. Quel Milan che sarebbe poi diventato campione d'Europa e del mondo sotto la guida di un omino piccino. Scegliete voi l'omino piccino che preferite!  
 Un tale, un americano, un artistoide, qualche tempo fa ha detto che tutti avremmo avuto quindici minuti di celebrità. Ecco, un profeta!  
 Parola di Svedese, quella domenica faceva freddo.  
