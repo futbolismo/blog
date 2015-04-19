@@ -12,7 +12,7 @@ category: figurine
 timeline: 1
 timeline_data: perdomo
 
-
+remote_sticker: "https://pbs.twimg.com/media/BL_cmUvCIAE0SeB.png"
 
 excerpt: "Se c'è una cosa che non sopporto è quella di essere considerato un cattivo giocatore. 
 Non cattivo nel senso stretto del termine intendiamoci.Perché cattivo ero cattivo. La gamba non l'ho mai tirata indietro."
@@ -37,7 +37,7 @@ Scoglio rimase letteralmente impressionato dal mio tipo di gioco! Voleva costrui
 <img class="responsive-img border margin-1em w40" src="http://genova.repubblica.it/images/2010/12/14/171310698-eae3d809-1bb5-4a18-81d8-bfada394cba9.jpg" alt="Stelle, eroi per caso e flop clamorosi" title="Stelle, eroi per caso e flop clamorosi" align="right">
 Mi ha dato fiducia venticinque volte, non una, il Professore. Venticinque partite senza lasciare traccia. Di me al Genoa si ricordano per la lentezza e la cattiveria. Una traccia l'ho lasciata, meglio, una scia, di cartellini gialli e rossi. Credo che se tornassi a giocare in Italia avrei ancora qualche giornata di squalifica da scontare. Credo.
 Ora se Scoglio aveva di me una grandissima considerazione, l'idea di Vujadin Boškov, l’allenatore della Sampdoria, l'altra squadra di Genova era completamente diversa. Eravamo in Febbraio nella settimana calda che precedeva il derby della Lanterna, e lui, Boškov, decide di spiegare alla stampa cosa pensa di me “Se sciolgo il mio cane in giardino, lui gioca meglio di Perdomo. Io non dire che mio cane gioca meglio di Perdomo. Io dire che lui potere giocare a calcio solo in parco di mia villa con cane.” 
-Quello Slavo, che Dio abbia in gloria anche lui, agli occhi e alle orecchie degli Italini mi ha reso immortale!
+Quello Slavo, che Dio abbia in gloria anche lui, agli occhi e alle orecchie degli Italiani mi ha reso immortale!
 Un po' ci sono rimasto male, vista la mia carriera. Però mi sono detto "José, tu sei uomo di poche parole, la tua rivincita te la prenderai sul campo!" 
 Il derby inizia. L''arbitro ha fischiato l'inizio della gara da trenta secondi appena, e tac! Brutta entrata su un Doriano con conseguente ammonizione! 
 Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qualche parte. Quella volta sulle cosce di un avversario!
