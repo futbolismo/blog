@@ -37,10 +37,14 @@
 					{% endif %}
 				</div>
 				{% if page.life != null %}
+					{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
+					{% if page.remote_sticker %}
+						{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
+					{% endif %}
 				<div class="col-sm-3 col-md-2 hidden-xs no-padding">
 	                <div class="timeline">
 	                    <div class="sticker">
-	                        <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg" alt="{{page.player}}" width="100%">
+	                        <img class="responsive-img" src="{{sticker}}" alt="{{page.player}}" width="100%">
 	                    </div>
 	                    <h4>{{page.player}}</h4>
 	                    <p>{{page.life}}</p>
