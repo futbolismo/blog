@@ -50,6 +50,10 @@
 	                    <p>{{page.life}}</p>
 	                    <div id="timeline" class="timeline-viz"></div>
 	                    <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://en.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+	                    <div id="timelineHowto" class="timeline-viz">
+	                    	<span class="title">Come leggere la timeline:</span>
+	                    	<div></div>
+	                    </div>
 	                </div>
 	            </div>
 	            {% endif %}
@@ -63,6 +67,7 @@
 
 {% if page.timeline %}
 {% include timeline_js.html %}
+{% include timeline_howto.html %}
 {% endif %}
 
 

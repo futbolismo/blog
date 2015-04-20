@@ -42,7 +42,7 @@ function Timeline(options) {
 	})
 
 	var WIDTH = 195,
-		HEIGHT = 1000,
+		HEIGHT = options.height || 1000,
 		margin = {
 			top:10,
 			bottom:10,
@@ -142,6 +142,17 @@ function Timeline(options) {
 
 						return "translate(" + 0 + "," + y + ")";
 					})
+	if(options.howto) {
+		national_bar
+			.append("text")
+				.attr("x", BAR_WIDTH)
+				.attr("y", function(d){
+					return d.y2/2+4;
+				})
+					.text(function(d){
+						return d.label;
+					})
+	}
 
 	national_bar.append("rect")
 	.attr("x", -BAR_WIDTH / 2)
@@ -242,6 +253,9 @@ function Timeline(options) {
 					.attr("class", function(d) {
 						return d["type"]
 					})
+					.classed("howto",function(d){
+						return options.howto;
+					})
 					.attr("transform", function(d) {
 						var y = yscale(d.ts1);
 						
@@ -306,6 +320,19 @@ function Timeline(options) {
 			.attr("cy", 0)
 			.attr("r", 4)
 
+	if(options.howto) {
+		events
+			.filter(function(d) {
+				return d["type"] == "birth"
+			})
+			.append("text")
+				.attr("x", BAR_WIDTH)
+				.attr("y", 4)
+					.text(function(d){
+						return d.label;
+					})
+	}
+
 	events
 		.filter(function(d) {
 			return d["type"] != "birth" && d["type"] != "history"
@@ -357,6 +384,9 @@ function Timeline(options) {
 				if (d["type"] == "cup") {
 					cup = d["cup"];
 				}
+				if(options.howto) {
+					return d["label"];
+				}
 				return cup;//+" "+d.ts1.getFullYear()
 			})
 
@@ -380,6 +410,19 @@ function Timeline(options) {
 			.attr("width", SQUARE_WIDTH)
 			.attr("height", SQUARE_WIDTH)
 			.attr("transform", "rotate(45)translate(" + 5 + "," + 11 + ")")
+	if(options.howto) {
+		events
+			.filter(function(d) {
+				return d["type"] == "history"
+			})
+			.append("text")
+				.attr("x", BAR_WIDTH)
+				.attr("y", 4)
+					.text(function(d){
+						return d.label;
+					})
+	}
+	
 	
 	var year = years.selectAll("g.year")
 				.data(options.data.filter(function(d) {
@@ -442,12 +485,9 @@ function Timeline(options) {
 			return y;
 		})
 		.text(function(d) {
-			//if(d["type"]=="birth") {
-			//	return d3.time.format("%d/%m/%Y")(d.ts1)
-			//}
-			//if(d["team"]) {
-			//	return d["team"]
-			//}
+			if(options.howto) {
+				return "ANNO";
+			}
 			return d.ts1.getFullYear();
 		})
 

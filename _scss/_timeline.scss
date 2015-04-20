@@ -3,6 +3,12 @@
 	position: relative;
 	border-bottom:1px solid #ddd;
 }
+.timeline-viz span.title {
+	font-weight:normal;
+	font-size: 14px;
+	margin: 30px 0 10px;
+	display: block;
+}
 .timeline svg {
 	font-family: sans-serif,serif,"Times New Roman";
 }
@@ -60,6 +66,10 @@
 	fill:#333;
 	fill-opacity:1;
 }
+.timeline g.howto:not(.birth) rect,
+.timeline g.howto:not(.birth) circle {
+	fill:#999;
+}
 
 .timeline g.event line {
 	stroke:#333;
@@ -89,7 +99,10 @@
 .timeline g.worldcup text,
 .timeline g.olympics text,
 .timeline g.uefa text,
-.timeline g.cup text {
+.timeline g.cup text,
+.timeline g.history text,
+.timeline g.birth text,
+.timeline g.national text {
 	font-size:10px;
 	text-anchor:start;
 }
