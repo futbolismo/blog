@@ -85,20 +85,10 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1974,1976],
+                        timestamps:[1989,1990],
                         team:"Genoa",
                         text:{
                             body:"Nel 1989 si trasferisce in Italia, nel Genoa alla corte di Franco Scoglio. Gioca 25 partite, senza segnare...",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[1990,1990],
-                        team:"Coventry City",
-                        text:{
-                            body:"Dal 1976 al 1984 gioca nel Benfica. Colleziona 193 apparizioni e 32 reti.",
                             link:null
                         }
                     },
@@ -115,7 +105,7 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1991,1992],
+                        timestamps:[1991,1993],
                         team:"Gimnasia",
                         text:{
                             body:"Dalla Spagna vola direttamente in Argentina per giocare nel Gimnasia y Esgrima La Plata.",
@@ -125,20 +115,20 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1993,1994],
+                        timestamps:[1993,1995],
                         team:"Peñarol",
                         text:{
-                            body:"Nel 1990 gioca una stagione per il Belenenses, collezionando 13 presenze.",
+                            body:"Nel 1993 torna a giocare in Uruguay per il Peñarol, dove colleziona 12 presenze.",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1991,1992],
-                        team:"Estrela Amadora",
+                        timestamps:[1995,1996],
+                        team:"Basáñez",
                         text:{
-                            body:"Nel 1991 gioca per l'Estela Amadora dove chiude la sua carriera di giocatore con un goal in nove presenze.",
+                            body:"Dall'Ottobre del 1995 gioca nel Basáñez.",
                             link:null
                         }
                     },
@@ -171,37 +161,37 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
 			                link:null
 			            }
 			        },
-			        {
-			            type:"trainer",
-			            category:"range",
-			            timestamps:[2005,2009],
-			            team:"Benfica",
-			            text:{
-			                
-			                body:"Dal 2005 al 2009 &egrave; assistente allenatore nel Benfica.",
-			                link:null
-			            }
-			        },
-			        {
+                    {
                         type:"cup",
                         category:"event",
-                        timestamps:[new Date(2008,3-1,15),new Date(2008,6-1,15)],
-                        cup:"ALLENATORE",
-                        team:"Benfica",
+                        timestamps:[new Date(1992,4-1,5),new Date(1992,4-1,5)],
+                        cup:"GOL DEL TERREMOTO",
+                        team:"Uruguay",
                         text:{
-                            body:"Nel Marzo del 2008 subentra a Josè Antonio Camacho nel ruolo di Allenatore del Benfica fino alla fine della stagione."
+                            body:"Durante la stagione 1991-92 nel Gimnasia, José Perdomo segna il gol più famoso della sua carriera: un calcio di punizione da oltre trenta metri che decise il 5 aprile 1992 la sfida con l'Estudiantes: la rete è passata alla storia come il <i>gol del terremoto</i>, in quanto riportarono i giornali che le vibrazioni per l'esultanza dei tifosi vennero registrate dal vicino Osservatorio di La Plata.",
+                            link:"http://www.futbolprimera.es/2013/09/27/el-gol-que-desencadeno-un-terremoto"
                         }
                     },
 			        {
                         type:"cup",
                         category:"event",
-                        timestamps:[new Date(1984,8-1,15),new Date(1984,8-1,15)],
-                        cup:"EUROPEI",
-                        team:"Portogallo",
+                        timestamps:[new Date(1987,11-1,1),new Date(1987,11-1,1)],
+                        cup:"COPA AMERICA",
+                        team:"Uruguay",
                         text:{
-                            body:"Nel 1984 partecipa ai Campionati Europei in Francia."
+                            body:"Nel 1987 vince con la nazionale Uruguaiana la Copa América, battendo in finale il Cile."
                         }
                     },
+			        {
+                        type:"cup",
+                        category:"event",
+                        timestamps:[new Date(1987,3-1,1),new Date(1987,3-1,1)],
+                        cup:"COPA LIBERTADORES",
+                        team:"Peñarol",
+                        text:{
+                            body:"Dopo aver vinto per due volte il Campionato dell'Uruguay (1985 e 1986), nel 1987 vince la Copa Libertadores con il Peñarol."
+                        }
+                    }/*,
                     {
                         type:"history",
                         category:"event",
@@ -211,7 +201,7 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
                             body:"<b>La Rivoluzione dei Garofani</b><br/>Colpo di Stato incruento attuato nel 1974 da militari dell'ala progressista delle forze armate del Portogallo che pose fine al lungo regime autoritario fondato da António Salazar e che portò al ripristino della democrazia nel Paese dopo due anni di transizione tormentati da aspre lotte politiche.",
                             link:"http://it.wikipedia.org/wiki/Rivoluzione_dei_garofani"
                         }
-                    }
+                    }*/
                     
                 ];
 </script>
