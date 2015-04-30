@@ -46,7 +46,7 @@
 	
 	
     <style>
-    	{% if page.pid %}
+    	{% if (page.pid and page.teamheader_data == blank) %}
 	    	.jumbotron {
 				background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) no-repeat center center; 
 			    background-size: 100% 100%;

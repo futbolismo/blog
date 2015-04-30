@@ -65,6 +65,10 @@
 
 {% include default_js.html %}
 
+{% if page.teamheader_data %}
+{% include team_header_js.html %}
+{% endif %}
+
 {% if page.timeline %}
 {% include timeline_js.html %}
 {% include timeline_howto.html %}

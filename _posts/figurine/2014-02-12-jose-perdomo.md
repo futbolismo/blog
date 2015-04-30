@@ -14,6 +14,10 @@ timeline_data: perdomo
 
 remote_sticker: "https://pbs.twimg.com/media/BL_cmUvCIAE0SeB.png"
 
+teamheader_data: th_perdomo
+
+header: false
+
 excerpt: "Se c'è una cosa che non sopporto è quella di essere considerato un cattivo giocatore. 
 Non cattivo nel senso stretto del termine intendiamoci.Perché cattivo ero cattivo. La gamba non l'ho mai tirata indietro."
 ---
@@ -51,3 +55,163 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
 	</li>
 </ol>
 </div>
+
+<script>
+    var th_perdomo={
+        colors:["#DA2A36","#00295B"],
+        sentence:"“...se sciolgo il mio cane in giardino, lui gioca meglio di Perdomo...”<br/><i>Vujadin Boškov</i>"
+    }
+
+    var perdomo=[
+                    {
+                        type:"birth",
+                        category:"event",
+                        timestamps:[new Date(1965,1-1,5)],
+                        text:{
+                            body:"Il 15 Gennaio 1965, nasce a Salto, Uruguay, José Batlle Perdomo Teixeira.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1983,1989],
+                        team:"Peñarol",
+                        text:{
+                            body:"Dal 1983 al 1989 gioca in Uruguay nel Peñarol.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1974,1976],
+                        team:"Genoa",
+                        text:{
+                            body:"Nel 1989 si trasferisce in Italia, nel Genoa alla corte di Franco Scoglio. Gioca 25 partite, senza segnare...",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1990,1990],
+                        team:"Coventry City",
+                        text:{
+                            body:"Dal 1976 al 1984 gioca nel Benfica. Colleziona 193 apparizioni e 32 reti.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1990,1991],
+                        team:"Real Betis",
+                        text:{
+                            body:"Nel 1990, dopo una breve apparizione nel Coventry (4 partite), si trasferisce in Spagna per giocare nel Real Betis. Dove gioca 6 partite e segna una rete.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1991,1992],
+                        team:"Gimnasia",
+                        text:{
+                            body:"Dalla Spagna vola direttamente in Argentina per giocare nel Gimnasia y Esgrima La Plata.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1993,1994],
+                        team:"Peñarol",
+                        text:{
+                            body:"Nel 1990 gioca una stagione per il Belenenses, collezionando 13 presenze.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1991,1992],
+                        team:"Estrela Amadora",
+                        text:{
+                            body:"Nel 1991 gioca per l'Estela Amadora dove chiude la sua carriera di giocatore con un goal in nove presenze.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"national",
+                        timestamps:[1987,1990],
+                        team:"Uruguay",
+                        apps:27,
+                        goals:2
+                    },
+                    {
+			            type:"trainer",
+			            category:"range",
+			            timestamps:[2000,2001],
+			            team:"Villa Española",
+			            text:{
+			                
+			                body:"Nel 2000 inizia la carriera di allenatore, diventando il manager della squadra uruguaiana di Montevideo, Villa Española (Club Social y Deportivo Villa Española)",
+			                link:null
+			            }
+			        },
+			        {
+			            type:"trainer",
+			            category:"range",
+			            timestamps:[2002,2003],
+			            team:"Tacuarembó F.C.",
+			            text:{
+			                
+			                body:"Nel 2002 diventa allenatore del Tacuarembó F.C.",
+			                link:null
+			            }
+			        },
+			        {
+			            type:"trainer",
+			            category:"range",
+			            timestamps:[2005,2009],
+			            team:"Benfica",
+			            text:{
+			                
+			                body:"Dal 2005 al 2009 &egrave; assistente allenatore nel Benfica.",
+			                link:null
+			            }
+			        },
+			        {
+                        type:"cup",
+                        category:"event",
+                        timestamps:[new Date(2008,3-1,15),new Date(2008,6-1,15)],
+                        cup:"ALLENATORE",
+                        team:"Benfica",
+                        text:{
+                            body:"Nel Marzo del 2008 subentra a Josè Antonio Camacho nel ruolo di Allenatore del Benfica fino alla fine della stagione."
+                        }
+                    },
+			        {
+                        type:"cup",
+                        category:"event",
+                        timestamps:[new Date(1984,8-1,15),new Date(1984,8-1,15)],
+                        cup:"EUROPEI",
+                        team:"Portogallo",
+                        text:{
+                            body:"Nel 1984 partecipa ai Campionati Europei in Francia."
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1974,4-1,25)],
+                        text:{
+                            
+                            body:"<b>La Rivoluzione dei Garofani</b><br/>Colpo di Stato incruento attuato nel 1974 da militari dell'ala progressista delle forze armate del Portogallo che pose fine al lungo regime autoritario fondato da António Salazar e che portò al ripristino della democrazia nel Paese dopo due anni di transizione tormentati da aspre lotte politiche.",
+                            link:"http://it.wikipedia.org/wiki/Rivoluzione_dei_garofani"
+                        }
+                    }
+                    
+                ];
+</script>
