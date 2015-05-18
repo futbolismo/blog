@@ -1,3 +1,4 @@
+/*
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
 	.top2 .post-abstract .post-abstract-img {
 		max-height: 220px;
@@ -6,8 +7,8 @@
 		width: 100%;
 	}
 }
-
-@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+*/
+@media (min-width: $screen-xs-min) and (max-width: $screen-sm-min) {
 	.top6 .row .post-abstract {
 		min-height: 390px;
 	}
@@ -41,7 +42,7 @@
 
 }
 
-@media (min-width: 768px) {
+@media (min-width: $screen-sm-min) {
 	div.navbar {
 		-webkit-transition: all 0.3s;
 	    -moz-transition: all 0.3s;
@@ -249,7 +250,9 @@
 		font-size:2em;
 	}*/
 	
-	
+	.post-sticker {
+		display: none;
+	}
 
 	.miserie .border-bottom .post-abstract {
 		min-height: 460px;
@@ -436,26 +439,25 @@
 	}
 
 }
-
-@media only screen and (min-width: 768px) and (max-width : 992px) {
+/*
+@media only screen and (min-width: $screen-sm-min) and (max-width : 992px) {
 	.post-abstract-img {
 		
 	}
 	.post-abstract-body p {
 		display: block;
-		/*min-height: 12rem;*/
 		overflow: hidden;
 		margin-bottom: 1em;
 	}
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {	
+@media only screen and (min-device-width : $screen-sm-min) and (max-device-width : 1024px) and (orientation : portrait) {	
 	.top2 .post-abstract h2 {
 		font-size:1em !important;
 	}
 }
-
-@media (min-width: 992px) {
+*/
+@media (min-width: $screen-sm-min) {
 	.miserie .post-abstract {
 		min-height: 440px;
 	}
@@ -470,12 +472,12 @@
 	}
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (min-width: $screen-lg-min) {
 	div.navbar-collapse ul {
 		width: 85%;
 	}
 }
-@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+@media (min-width: $screen-xs-min) and (max-width: $screen-sm-min) {
 	.small-posts li {
 		float: left;
 		width: 46%;
@@ -524,7 +526,7 @@
 		min-height:360px;
 	}
 }
-@media (min-width: 769px) and (max-width: 992px) {
+/*@media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
 	
 
 	.category .post-section {
@@ -558,7 +560,8 @@
 	}
 	
 }
-@media (min-width: 992px) {
+*/
+@media (min-width: $screen-sm-min) {
 	
 	.category .social {
 		margin:1rem 0;

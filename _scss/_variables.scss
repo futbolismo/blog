@@ -50,6 +50,11 @@ $grid-gutter-width:         30px !default;
 $screen-xs:                  480px !default;
 $screen-sm:                  768px !default;
 
+$screen-xs-min: 480px; 
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {

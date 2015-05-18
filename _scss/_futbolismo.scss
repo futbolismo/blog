@@ -474,6 +474,25 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	font-weight: bold;
 	text-shadow: 2px 2px 0 #566074;
 }
+.post .post-sticker h4 {
+	font-size: 1em;
+}
+.post-sticker {
+  border-bottom: 1px solid #ddd;
+  margin-left: 0;
+  display: table;
+  width: 100%;
+  /* fix overflow */
+  table-layout: fixed;
+}
+.post-sticker .col-xs-height {
+  display: table-cell;
+  float: none !important;
+  padding:10px;
+}
+.post-sticker .col-xs-height p {
+	margin-bottom:0;
+}
 .post .post-body img {
 	margin:1rem 0;
 }
