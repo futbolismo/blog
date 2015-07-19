@@ -8,11 +8,11 @@
 {% include jumbotron_min.html %}
 
 {% if page.life != null %}
-{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
-{% if page.remote_sticker %}
-	{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
+	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
+	{% if page.remote_sticker %}
+		{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
+	{% endif %}
 {% endif %}
-
 <div class="content-wrapper post">
 	<section>
         <div class="container">
@@ -51,6 +51,7 @@
 						<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
 					{% endif %}
 				</div>
+				{% if page.timeline == 1 %}
 				<div class="col-sm-3 col-md-2 col-xs-12 no-padding hidden-xs">
 	                <div class="timeline">
 	                    <div class="sticker">
@@ -79,7 +80,7 @@
 {% include team_header_js.html %}
 {% endif %}
 
-{% if page.timeline %}
+{% if page.timeline == 1 %}
 {% include timeline_js.html %}
 {% include timeline_howto.html %}
 {% endif %}

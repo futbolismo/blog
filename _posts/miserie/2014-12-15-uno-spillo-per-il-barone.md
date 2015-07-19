@@ -1,7 +1,7 @@
 ---
 layout: post
-
 pid: pallone
+
 title: Uno Spillo per il Barone 
 
 story_type: thoughts
