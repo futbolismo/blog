@@ -19,8 +19,8 @@ E proprio ad una strada semi asfaltata di periferia è legato il mio personaliss
 Poi sarebbe arrivato il campo dell'oratorio, sempre in asfalto. Poi i campi polverosi e gibbosi...</i>"
 
 ---
-I *fell in love with football as I would later fall in love with women: suddenly, uncritically, giving no thought to the pain it would bring.*  
-Nick Hornby, Fever Pitch.  <!--more-->
+I *fell in love with football as I would later fall in love with women: suddenly, uncritically, giving no thought to the pain it would bring*  (Nick Hornby, Fever Pitch)
+<!--more-->
 
 Once upon a time... c'era una volta una strada semi asfaltata di periferia...  
 E proprio ad una strada semi asfaltata di periferia è legato il mio personalissimo ricordo del calcio.
