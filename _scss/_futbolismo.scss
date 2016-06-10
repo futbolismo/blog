@@ -484,6 +484,10 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   width: 100%;
   /* fix overflow */
   table-layout: fixed;
+  
+  img {
+	vertical-align:top;
+  }
 }
 .post-sticker .col-xs-height {
   display: table-cell;
@@ -503,11 +507,12 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	width: 100%;
 }
 .post h1 {
-	font-size:1.4em;
+	font-size:1.8em;
 	margin:1rem 0;
 }
 .post .post-body p {
-	font-size:1.3em;
+	font-size:1.4em;
+	line-height:1.4em;
 	margin-top:1rem;
 }
 .post .post-disclaimer {
@@ -535,12 +540,12 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 .category .social ul li {
 	float: left;
 	margin: 0px 0.8rem 0 0;
-	border: 2px solid #000;
+	//border: 2px solid #000;
 	line-height: 27px;
 	border-radius: 16px;
 	padding-top: 3px;
 	width: 34px;
-	background-color: #eee;
+	//background-color: #eee;
 }
 .social ul li span {
 	display:none;

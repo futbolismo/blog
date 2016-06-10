@@ -219,7 +219,9 @@
 		margin-top:0;
 	}
 	.main h1 {
-		font-size:2.2rem;
+		font-size:2rem;
+		margin-bottom:10px;
+		//font-size:44px;
 	}
 	.row .post-section {
 		padding:1rem;	
@@ -334,7 +336,7 @@
 	/********************* POST *******************/
 
 	.post h1 {
-		font-size:2em;
+		font-size:3.2em;
 	}
 
 	.post .social {
@@ -368,7 +370,8 @@
 		padding-right:2rem;
 	}
 	.post .post-body p {
-		font-size:1.3em;
+		font-size:20px;
+		line-height: 30px;
 	}
 	html:not(.page) .post .post-body p:first-child:first-letter {
 		font-size: 500%;

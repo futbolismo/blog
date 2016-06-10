@@ -37,7 +37,7 @@ Ma soprattutto il millenovecentoottantanove sarà il mio anno.
 È l'otto Gennaio. L'anno è iniziato da soli otto giorni. Il calendario calcistico dice che è la dodicesima giornata. Noi affrontiamo fra le mura amiche del "Dino Manuzzi" il Milan, lo squadrone degli Olandesi capitanati da Franco Baresi. Quel Milan che sarebbe poi diventato campione d'Europa e del mondo sotto la guida di un omino piccino. Scegliete voi l'omino piccino che preferite!  
 Un tale, un americano, un artistoide, qualche tempo fa ha detto che tutti avremmo avuto quindici minuti di celebrità. Ecco, un profeta!  
 Parola di Svedese, quella domenica faceva freddo.  
-<img class="responsive-img border w30 margin-1em" src="http://net-storage.tccstatic.com/storage/tuttocesenaweb.it/img_notizie/thumb1/61969d8722bf586d8c3c4b776aa0719a-22964-1283890857.jpeg" alt="Hans Holmqvist con la maglia del Cesena (1989)" align="right">
+<img class="responsive-img border w30 margin-1em" src="http://net-storage2.tccstatic.com/storage/tuttocesena.it/img_notizie/thumb1/61/61969d8722bf586d8c3c4b776aa0719a-22964-1283890857.jpeg" alt="Hans Holmqvist con la maglia del Cesena (1989)" align="right">
 Corricchiavo su e giù per il campo, più che altro per scaldarmi. Poi, a venti minuti dalla fine, proprio mentre ciondolavo nella metà campo rossonera in attesa di essere sostituito, un ragazzino fa partire un azione di rimessa passando il pallone ad Agostini che si spinge sulla sinistra inseguito da un difensore, il condor crossa la palla in mezzo, proprio dove mi trovo io, che di sinistro trafiggo Giovanni Galli in uscita! Cos'altro potevo fare!  
 Eccolo il mio quarto d'ora di notorietà. Cosa dico? I miei quindici secondi! A me è bastato molto meno. Un goal, un solo goal, non solo per vincere la partita, ma anche per rimanere per sempre nella memoria dei tifosi.  
 Pensate, ogni volta che il Cesena affronta il Milan i quotidiani Romagnoli tirano fuori dall'archivio immagini e i ricordi dell'impresa.  
@@ -54,7 +54,7 @@ In più mi spettano ancora quattordici minuti abbondanti di notorietà!
 	<li>Figurina Calcio Euroflash 1989 - Con licenza Pubblico dominio <a href="http://it.wikipedia.org/wiki/File:Hans_Holmqvist.jpg" target="_blank">tramite Wikipedia</a></li>
     </li>
 	<li>Figurina Holmqvist n.37 - Svezia <a href="http://media4.allnumis.com/23340/37-hans-holmqvist-isvrec_23340_0896778893560fL.jpg" target="_blank">allnumis</a></li>
-	<li>La gioia di Holmqvist e Agostini (Guerin Sportivo, 1989) <a href="http://www.tuttocesenaweb.it/la-storia-siamo-noi/cesena-milan-parla-sempre-svedese-1013" target="_blank">TCW</a></li>
+	<li>La gioia di Holmqvist e Agostini (Guerin Sportivo, 1989) <a href="http://www.tuttocesena.it/la-storia-siamo-noi/cesena-milan-parla-sempre-svedese-1013" target="_blank">TCW</a></li>
 
 </ol>
 </div>
