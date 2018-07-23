@@ -26,11 +26,14 @@ $georgia: Georgia, serif;
 $courgette: 'Courgette';
 $rye: 'Rye';
 $nothing: 'Nothing You Could Do';
+$crimson: 'Crimson Text';
 
-$bodyFont: 'Fanwood Text', Georgia, serif;
+$bodyFont: $crimson, 'Fanwood Text', Georgia, serif;
 $headersFont: 'Playfair Display', Georgia, serif;
 
-$main_article_title_font: $nothing, 'Playfair Display', Georgia, serif;
+$main_article_title_font: 'Playfair Display', Georgia, serif;
+
+
 
 $linux_libertine:"Linux Libertine";
 $roboto: "Roboto";
@@ -50,7 +53,7 @@ $grid-gutter-width:         30px !default;
 $screen-xs:                  480px !default;
 $screen-sm:                  768px !default;
 
-$screen-xs-min: 480px; 
+$screen-xs-min: 480px;
 $screen-sm-min: 768px;
 $screen-md-min: 992px;
 $screen-lg-min: 1200px;

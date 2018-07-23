@@ -3,8 +3,8 @@
 	<channel>
 		<title>futbolismo</title>
 		<description>Storie e grafici del calcio</description>		
-		<link>http://futbolismo.github.io/blog</link>
-		<atom:link href="http://futbolismo.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Ganhar ou Perder, mas sempre com Democracia</title>
@@ -15,8 +15,8 @@ Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi
 </description>
 				
                         	<pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/ganhar-o-perder</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/ganhar-o-perder</guid>
+				<link>http://localhost:4000/ganhar-o-perder</link>
+				<guid isPermaLink="true">http://localhost:4000/ganhar-o-perder</guid>
 			</item>
 		
 			<item>
@@ -25,18 +25,18 @@ Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi
 					<description>Sono nato a Citt&amp;agrave; del Messico. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &amp;egrave; un altra cosa: io sono sempre stato un anticonformista.</description>
 				
                         	<pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/messico-nuvole-e-quelle-scarpe-bianche</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/messico-nuvole-e-quelle-scarpe-bianche</guid>
+				<link>http://localhost:4000/messico-nuvole-e-quelle-scarpe-bianche</link>
+				<guid isPermaLink="true">http://localhost:4000/messico-nuvole-e-quelle-scarpe-bianche</guid>
 			</item>
 		
 			<item>
 				<title>Uno Spillo per il Barone</title>
 				
-					<description>&lt;i&gt;...c&#39;era una volta una strada semi asfaltata di periferia... E proprio ad una strada semi asfaltata di periferia è legato il mio personalissimo ricordo del calcio. Poi sarebbe arrivato il campo dell&#39;oratorio, sempre in asfalto. Poi i campi polverosi e gibbosi...&lt;/i&gt;</description>
+					<description>&lt;i&gt;...c'era una volta una strada semi asfaltata di periferia... E proprio ad una strada semi asfaltata di periferia è legato il mio personalissimo ricordo del calcio. Poi sarebbe arrivato il campo dell'oratorio, sempre in asfalto. Poi i campi polverosi e gibbosi...&lt;/i&gt;</description>
 				
                         	<pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/uno-spillo-per-il-barone</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/uno-spillo-per-il-barone</guid>
+				<link>http://localhost:4000/uno-spillo-per-il-barone</link>
+				<guid isPermaLink="true">http://localhost:4000/uno-spillo-per-il-barone</guid>
 			</item>
 		
 			<item>
@@ -47,21 +47,21 @@ Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi
 </description>
 				
                         	<pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/la-carga-de-ser-magico</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/la-carga-de-ser-magico</guid>
+				<link>http://localhost:4000/la-carga-de-ser-magico</link>
+				<guid isPermaLink="true">http://localhost:4000/la-carga-de-ser-magico</guid>
 			</item>
 		
 			<item>
 				<title>Lo zar venuto dal semi-freddo</title>
 				
 					<description>&lt;p&gt;Non sono pazzo! Io sono stato vittima di un complotto.&lt;br /&gt;
-I maledetti capitalisti hanno sacrificato me, Oleksandr Anatol&amp;rsquo;evic Zavarov, sull&#39;altare dei loro sporchi interessi per mettere in ridicolo la Grande Madre Russia.
+I maledetti capitalisti hanno sacrificato me, Oleksandr Anatol&amp;rsquo;evic Zavarov, sull'altare dei loro sporchi interessi per mettere in ridicolo la Grande Madre Russia.
 
 </description>
 				
                         	<pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/lo-zar-venuto-dal-semifreddo</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/lo-zar-venuto-dal-semifreddo</guid>
+				<link>http://localhost:4000/lo-zar-venuto-dal-semifreddo</link>
+				<guid isPermaLink="true">http://localhost:4000/lo-zar-venuto-dal-semifreddo</guid>
 			</item>
 		
 			<item>
@@ -73,8 +73,8 @@ Certo potrà farvi sorridere. Siete abituati a gente che gioca in paesi in cui i
 </description>
 				
                         	<pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/mokhtar-dahari</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/mokhtar-dahari</guid>
+				<link>http://localhost:4000/mokhtar-dahari</link>
+				<guid isPermaLink="true">http://localhost:4000/mokhtar-dahari</guid>
 			</item>
 		
 			<item>
@@ -83,8 +83,8 @@ Certo potrà farvi sorridere. Siete abituati a gente che gioca in paesi in cui i
 					<description>La sintesi del tifoso azulgrana nelle vignette di Oscar Nebreda Abadía</description>
 				
                         	<pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/jordi-cule</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/jordi-cule</guid>
+				<link>http://localhost:4000/jordi-cule</link>
+				<guid isPermaLink="true">http://localhost:4000/jordi-cule</guid>
 			</item>
 		
 			<item>
@@ -93,8 +93,8 @@ Certo potrà farvi sorridere. Siete abituati a gente che gioca in paesi in cui i
 					<description>La leggenda racconta che i tifosi del Kop possono risucchiare la palla in rete.</description>
 				
                         	<pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/kop</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/kop</guid>
+				<link>http://localhost:4000/kop</link>
+				<guid isPermaLink="true">http://localhost:4000/kop</guid>
 			</item>
 		
 			<item>
@@ -103,8 +103,8 @@ Certo potrà farvi sorridere. Siete abituati a gente che gioca in paesi in cui i
 					<description>La Nazionale di calcio Indiana alla Coppa del Mondo del 1950 in Brasile.</description>
 				
                         	<pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/nazionale-indiana</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/nazionale-indiana</guid>
+				<link>http://localhost:4000/nazionale-indiana</link>
+				<guid isPermaLink="true">http://localhost:4000/nazionale-indiana</guid>
 			</item>
 		
 			<item>
@@ -113,8 +113,8 @@ Certo potrà farvi sorridere. Siete abituati a gente che gioca in paesi in cui i
 					<description>Il più antico club calcistico al mondo.</description>
 				
                         	<pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
-				<link>http://futbolismo.github.io/blog/sheffield-football-club</link>
-				<guid isPermaLink="true">http://futbolismo.github.io/blog/sheffield-football-club</guid>
+				<link>http://localhost:4000/sheffield-football-club</link>
+				<guid isPermaLink="true">http://localhost:4000/sheffield-football-club</guid>
 			</item>
 		
 	</channel>

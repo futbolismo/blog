@@ -15,7 +15,7 @@ layout: landing
                             </div>
                             <div class="col-xs-12 col-md-6 post-abstract-body bg-dark-gray">
                                     <h5 class="hidden-md">{{post.player_short || post.player}}</h5>
-                                    <h2>{{post.title}}</h2>    
+                                    <h2>{{post.title}}</h2>
                                     <p class="{{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </div>
                         </div>
@@ -25,77 +25,6 @@ layout: landing
         </div>
     </div>
 </section>
-<section class="bg-info">
-    <div class="container bg-white50">
-        <div class="dataviz top6 row">
-            <div class="col-md-2">
-                <div class="post-section">
-                    <h3>Dati e grafici</h3>
-                    <p class="hidden-xs"><em>Le leggende del calcio e i suoi interpreti visualizzati graficamente</em></p>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-9">
-                <div class="row">
-                    <div class="col-ms-4 col-sm-4 border-bottom">
-                        <div class="post-abstract">
-                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="row">
-                                    <div class="col-xs-6 col-ms-12 col-sm-12">
-                                        <div class="post-abstract-img">
-                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/chart1.png" alt="grafico1" width="100%">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-6 col-ms-12 col-sm-12">
-                                        <h2>Grafico 1</h2>
-                                        <p class="hidden-xs">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                                        <p class="hidden-sm hidden-md hidden-lg">Donec id elit non mi porta gravida at eget metus.</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-ms-4 col-sm-4 border-bottom">
-                        <div class="post-abstract">
-                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="row">
-                                    <div class="col-xs-6 col-ms-12 col-sm-12">
-                                        <div class="post-abstract-img">
-                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/chart1.png" alt="grafico1" width="100%">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-6 col-ms-12 col-sm-12">
-                                        <h2>Grafico 1</h2>
-                                        <p class="hidden-xs">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                                        <p class="hidden-sm hidden-md hidden-lg">Donec id elit non mi porta gravida at eget metus.</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-ms-4 col-sm-4 border-bottom">
-                        <div class="post-abstract">
-                            <a href="#" class="post-link" alt="Messico nuvole e quelle scarpe bianche">
-                                <div class="row">
-                                    <div class="col-xs-6 col-ms-12 col-sm-12">
-                                        <div class="post-abstract-img">
-                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/chart1.png" alt="grafico1" width="100%">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-6 col-ms-12 col-sm-12">
-                                        <h2>Grafico 1</h2>
-                                        <p class="hidden-xs">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                                        <p class="hidden-sm hidden-md hidden-lg">Donec id elit non mi porta gravida at eget metus.</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>                
-        </div>
-    </div>
-</section>
-
 <section>
     <div class="container border-bottom">
         <div class="top6 miserie row">
@@ -107,7 +36,7 @@ layout: landing
             </div>
             <div class="col-xs-12 col-md-9">
                 <div class="row">
-                    {% for post in site.categories.miserie offset: 0 limit: 6 %} 
+                    {% for post in site.categories.miserie offset: 0 limit: 6 %}
                     <div class="post col-ms-6 col-sm-4 col-md-4 border-bottom">
                         <div class="post-abstract bg-light-gray">
                             <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
@@ -121,7 +50,7 @@ layout: landing
                                         <h2>{{post.title}}</h2>
                                         <p class="margin-bottom-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short || post.player}}</b></p>
                                         <p class="descr {{post.story_type}} hidden-xs">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -187,10 +116,10 @@ layout: landing
                                 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </a>
                         </li>
-                        {% endfor %}                        
+                        {% endfor %}
                     </ul>
                 </div>
-            </div>                                        
+            </div>
         </div>
     </div>
 </section>
@@ -221,7 +150,7 @@ layout: landing
                     <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
                 </div>
             </div>
-                                
+
         </div>
     </div>
 </section>

@@ -41,11 +41,11 @@
   }
 
   .col-ms-1 {
-    width: 8.33333%;
+    width: 8.3333333333%;
   }
 
   .col-ms-2 {
-    width: 16.66667%;
+    width: 16.6666666667%;
   }
 
   .col-ms-3 {
@@ -53,11 +53,11 @@
   }
 
   .col-ms-4 {
-    width: 33.33333%;
+    width: 33.3333333333%;
   }
 
   .col-ms-5 {
-    width: 41.66667%;
+    width: 41.6666666667%;
   }
 
   .col-ms-6 {
@@ -65,11 +65,11 @@
   }
 
   .col-ms-7 {
-    width: 58.33333%;
+    width: 58.3333333333%;
   }
 
   .col-ms-8 {
-    width: 66.66667%;
+    width: 66.6666666667%;
   }
 
   .col-ms-9 {
@@ -77,11 +77,11 @@
   }
 
   .col-ms-10 {
-    width: 83.33333%;
+    width: 83.3333333333%;
   }
 
   .col-ms-11 {
-    width: 91.66667%;
+    width: 91.6666666667%;
   }
 
   .col-ms-12 {
@@ -89,11 +89,11 @@
   }
 
   .col-ms-push-1 {
-    left: 8.33333%;
+    left: 8.3333333333%;
   }
 
   .col-ms-push-2 {
-    left: 16.66667%;
+    left: 16.6666666667%;
   }
 
   .col-ms-push-3 {
@@ -101,11 +101,11 @@
   }
 
   .col-ms-push-4 {
-    left: 33.33333%;
+    left: 33.3333333333%;
   }
 
   .col-ms-push-5 {
-    left: 41.66667%;
+    left: 41.6666666667%;
   }
 
   .col-ms-push-6 {
@@ -113,11 +113,11 @@
   }
 
   .col-ms-push-7 {
-    left: 58.33333%;
+    left: 58.3333333333%;
   }
 
   .col-ms-push-8 {
-    left: 66.66667%;
+    left: 66.6666666667%;
   }
 
   .col-ms-push-9 {
@@ -125,19 +125,19 @@
   }
 
   .col-ms-push-10 {
-    left: 83.33333%;
+    left: 83.3333333333%;
   }
 
   .col-ms-push-11 {
-    left: 91.66667%;
+    left: 91.6666666667%;
   }
 
   .col-ms-pull-1 {
-    right: 8.33333%;
+    right: 8.3333333333%;
   }
 
   .col-ms-pull-2 {
-    right: 16.66667%;
+    right: 16.6666666667%;
   }
 
   .col-ms-pull-3 {
@@ -145,11 +145,11 @@
   }
 
   .col-ms-pull-4 {
-    right: 33.33333%;
+    right: 33.3333333333%;
   }
 
   .col-ms-pull-5 {
-    right: 41.66667%;
+    right: 41.6666666667%;
   }
 
   .col-ms-pull-6 {
@@ -157,11 +157,11 @@
   }
 
   .col-ms-pull-7 {
-    right: 58.33333%;
+    right: 58.3333333333%;
   }
 
   .col-ms-pull-8 {
-    right: 66.66667%;
+    right: 66.6666666667%;
   }
 
   .col-ms-pull-9 {
@@ -169,19 +169,19 @@
   }
 
   .col-ms-pull-10 {
-    right: 83.33333%;
+    right: 83.3333333333%;
   }
 
   .col-ms-pull-11 {
-    right: 91.66667%;
+    right: 91.6666666667%;
   }
 
   .col-ms-offset-1 {
-    margin-left: 8.33333%;
+    margin-left: 8.3333333333%;
   }
 
   .col-ms-offset-2 {
-    margin-left: 16.66667%;
+    margin-left: 16.6666666667%;
   }
 
   .col-ms-offset-3 {
@@ -189,11 +189,11 @@
   }
 
   .col-ms-offset-4 {
-    margin-left: 33.33333%;
+    margin-left: 33.3333333333%;
   }
 
   .col-ms-offset-5 {
-    margin-left: 41.66667%;
+    margin-left: 41.6666666667%;
   }
 
   .col-ms-offset-6 {
@@ -201,11 +201,11 @@
   }
 
   .col-ms-offset-7 {
-    margin-left: 58.33333%;
+    margin-left: 58.3333333333%;
   }
 
   .col-ms-offset-8 {
-    margin-left: 66.66667%;
+    margin-left: 66.6666666667%;
   }
 
   .col-ms-offset-9 {
@@ -213,11 +213,11 @@
   }
 
   .col-ms-offset-10 {
-    margin-left: 83.33333%;
+    margin-left: 83.3333333333%;
   }
 
   .col-ms-offset-11 {
-    margin-left: 91.66667%;
+    margin-left: 91.6666666667%;
   }
 
   .hidden-ms {
@@ -285,10 +285,11 @@ html {
 }
 
 body {
-  font-family: "Fanwood Text", Georgia, serif;
+  font-family: "Crimson Text", "Fanwood Text", Georgia, serif;
   font-weight: normal;
   color: #333;
-  font-size: 1.4em;
+  font-size: 14px;
+  line-height: 18px;
   quotes: "“" "”" "“" "”";
 }
 
@@ -298,6 +299,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #000;
   margin: 0;
   padding: 0;
+  letter-spacing: 1.2px;
 }
 
 nav ul,
@@ -547,11 +549,12 @@ div.navbar {
 
 .main h1 {
   font-size: 1.6rem;
-  font-family: "Nothing You Could Do", "Playfair Display", Georgia, serif;
+  font-family: "Playfair Display", Georgia, serif;
 }
 
 .main p.abstract {
-  font-size: 1.6rem;
+  font-size: 2rem;
+  line-height: 2.2rem;
 }
 
 .main .jumbo-post {
@@ -611,7 +614,7 @@ a:hover .read-more {
 }
 
 .post-abstract h5 {
-  font-family: "Fanwood Text", Georgia, serif;
+  font-family: "Crimson Text", "Fanwood Text", Georgia, serif;
   color: #888;
   text-transform: uppercase;
   font-size: 1em;
@@ -646,6 +649,10 @@ a.post-link:hover h3 {
 
 .post-abstract .post-abstract-body {
   padding: 1rem 1rem 0px;
+}
+.post-abstract .post-abstract-body p {
+  font-size: 1.8rem;
+  line-height: 2rem;
 }
 
 .top2 .post-abstract .post-abstract-img {
@@ -752,6 +759,8 @@ a.post-link:hover img {
 .small-posts li a p {
   margin: 0;
   color: #666;
+  font-size: 1.6rem;
+  line-height: 2rem;
 }
 
 .small-posts li a:hover {
@@ -948,7 +957,8 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   background-color: #222;
   color: #ddd;
   border-top: 3px solid #ff6a00;
-  font-size: 1.1em;
+  font-size: 1.15em;
+  padding-bottom: 5rem;
 }
 
 .footer .row > div {
@@ -959,11 +969,14 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   border-left: none;
 }
 
+.logo-footer {
+  margin: 10px 0;
+}
 .logo-footer h4 {
   color: #eee;
-  margin: 0;
+  margin: 5px 0;
   padding: 0;
-  font-size: 2rem;
+  font-size: 2.2rem;
   border: none;
 }
 
@@ -1277,7 +1290,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   }
 
   .main h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-bottom: 10px;
   }
 
@@ -1289,6 +1302,11 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     font-size: 1.2em;
     border-bottom: none;
     margin-bottom: 1rem;
+  }
+
+  .title p {
+    font-size: 1.6rem;
+    line-height: 1.8rem;
   }
 
   .top2 .post-abstract .post-abstract-body {
@@ -1305,6 +1323,8 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   .top6 p.descr {
     display: inline-block;
     min-height: 8.4em;
+    font-size: 1.7rem;
+    line-height: 1.9rem;
   }
 
   /*.top6 p.descr span.quote {
@@ -1330,6 +1350,11 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   .top2 .post-abstract h2 {
     font-size: 1.6em;
     /*min-height: 2em;*/
+  }
+
+  .post-section p {
+    font-size: 1.6rem;
+    line-height: 1.8rem;
   }
 
   .category .post-section {
@@ -1440,8 +1465,8 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   }
 
   .post .post-body p {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 22px;
+    line-height: 32px;
   }
 
   html:not(.page) .post .post-body p:first-child:first-letter {
@@ -1523,7 +1548,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 /*
 @media only screen and (min-width: $screen-sm-min) and (max-width : 992px) {
 	.post-abstract-img {
-		
+
 	}
 	.post-abstract-body p {
 		display: block;
@@ -1532,7 +1557,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	}
 }
 
-@media only screen and (min-device-width : $screen-sm-min) and (max-device-width : 1024px) and (orientation : portrait) {	
+@media only screen and (min-device-width : $screen-sm-min) and (max-device-width : 1024px) and (orientation : portrait) {
 	.top2 .post-abstract h2 {
 		font-size:1em !important;
 	}
@@ -1615,7 +1640,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   }
 }
 /*@media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
-	
+
 
 	.category .post-section {
 		padding:0;
@@ -1642,11 +1667,11 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	.category .post-section .social ul {
 		float:right;
 	}
-	
+
 	.category .top6 .post-abstract {
 		min-height: 400px;
 	}
-	
+
 }
 */
 @media (min-width: 768px) {
@@ -1884,7 +1909,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   transform-style: preserve-3d;
 }
 .team-header .sentence h1 {
-  font-family: "Fanwood Text", Georgia, serif;
+  font-family: "Crimson Text", "Fanwood Text", Georgia, serif;
   font-weight: normal;
   text-align: center;
   color: #fff;
