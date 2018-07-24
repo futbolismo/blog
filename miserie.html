@@ -17,7 +17,7 @@ permalink: /miserie-e-splendori/
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-4 post-abstract-body bg-dark-gray">
-                                <h2>{{post.title}}</h2>    
+                                <h2>{{post.title}}</h2>
                                 <p class="{{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ permalink: /miserie-e-splendori/
                             </div>
                         </div>
                         <div class="col-xs-12 post-abstract-body bg-dark-gray">
-                                <h2>{{post.title}}</h2>    
+                                <h2>{{post.title}}</h2>
                                 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ permalink: /miserie-e-splendori/
 </section>-->
 <section>
     <div class="top6 row">
-        {% for post in site.categories.miserie offset: 1 %} 
+        {% for post in site.categories.miserie offset: 1 %}
             <div class="post col-ms-12 col-sm-6 col-md-4 border-bottom">
                 <div class="post-abstract bg-lighter-gray">
                     <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
@@ -60,11 +60,11 @@ permalink: /miserie-e-splendori/
                                 </div>
                             </div>
                             <div class="col-xs-7 col-ms-6 col-sm-12">
-                                <p class="hidden-sm hidden-md hidden-lg"><b>{{post.player_short || post.player}}</b></p>
-                                
+                                <p class="hidden-sm hidden-md hidden-lg"><b>{{post.player_short}}</b></p>
+
                                 <h2>{{post.title}}</h2>
                                 <p class="hidden-xs visible-ms {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-                                
+
                             </div>
                         </div>
                     </a>

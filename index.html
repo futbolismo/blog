@@ -14,7 +14,7 @@ layout: landing
                                 </div>
                             </div>
                             <div class="col-xs-12 col-md-6 post-abstract-body bg-dark-gray">
-                                    <h5 class="hidden-md">{{post.player_short || post.player}}</h5>
+                                    <h5 class="hidden-md">{{post.player_short}}</h5>
                                     <h2>{{post.title}}</h2>
                                     <p class="{{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </div>
@@ -48,7 +48,7 @@ layout: landing
                                     </div>
                                     <div class="col-xs-7 col-ms-12 col-sm-12">
                                         <h2>{{post.title}}</h2>
-                                        <p class="margin-bottom-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short || post.player}}</b></p>
+                                        <p class="margin-bottom-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short}}</b></p>
                                         <p class="descr {{post.story_type}} hidden-xs">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
                                     </div>
@@ -73,7 +73,7 @@ layout: landing
             </div>
             <div class="col-xs-12 col-md-9">
                 <div class="row">
-                    {% for post in site.categories.figurine limit: 4 %}
+                    {% for post in site.categories.figurine limit: 40 %}
                     <div class="post col-ms-6 col-sm-3 col-md-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
                         <div class="post-abstract bg-light-gray">
                             <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">

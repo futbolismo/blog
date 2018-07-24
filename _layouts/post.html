@@ -2,7 +2,7 @@
 <html lang="en" class="{{page.category}}">
 
 	{% include head.html %}
-	
+
 	<body>
 {% include header.html %}
 {% include jumbotron_min.html %}
@@ -51,23 +51,30 @@
 						<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
 					{% endif %}
 				</div>
-				{% if page.timeline == 1 %}
+
 				<div class="col-sm-3 col-md-2 col-xs-12 no-padding hidden-xs">
 	                <div class="timeline">
+											{% if sticker %}
 	                    <div class="sticker">
 	                        <img class="responsive-img" src="{{sticker}}" alt="{{page.player}}" width="100%">
 	                    </div>
+											{% endif %}
+											{% if page.player %}
 	                    <h4>{{page.player}}</h4>
+											{% endif %}
+											{% if page.life %}
 	                    <p>{{page.life}}</p>
+											{% endif %}
+											{% if page.timeline == 1 %}
 	                    <div id="timeline" class="timeline-viz hidden-xs"></div>
 	                    <p class="post-disclaimer hidden-xs">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://it.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
 	                    <div id="timelineHowto" class="timeline-viz hidden-xs">
 	                    	<span class="title">Come leggere la timeline:</span>
 	                    	<div></div>
 	                    </div>
+											{% endif %}
 	                </div>
 	            </div>
-	            {% endif %}
 			</div>
 		</div>
 	</section>
