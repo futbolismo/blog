@@ -2,7 +2,7 @@
 layout: post
 
 pid: chalana
-title: Fernando Albino de Souza Chalana test
+title: Fernando Albino de Souza Chalana
 player: Fernando Chalana
 wikipedia: Fernando_Chalana
 life: Centrocampista, nato il 10 Febbraio 1959 a Barreiro, Portogallo
@@ -17,7 +17,7 @@ timeline_data: chalana
 excerpt: "Avevo un paio di baffi enormi. Stupendi.
 Per questo mi chiamavano Chalanix. In realtà in comune con Asterix oltre ai bei baffoni ho pure la statura. Sono basso."
 ---
-test Avevo un paio di baffi enormi. Stupendi.  
+Avevo un paio di baffi enormi. Stupendi.  
 Per questo mi chiamavano Chalanix. In realtà in comune con Asterix oltre ai bei baffoni ho pure la statura. Sono basso. O meglio, sono alto un metro e sessantacinque. Non è tanto per un giocatore di calcio, ma la storia di questo sport meraviglioso è ricca di talenti un po' fuori standard. Mané Garrincha, ad esempio. Era alto un metro e sessantanove e in più aveva una gamba più corta dell'altra, nonostante tutto è stato il più grande dribblatore della storia del calcio. 
 O Diego Maradona, pure lui alto appena un metro e sessantacinque, come me, ma con un sinistro che gli mancava la parola.  
 Come vedete le misure non contano.  
