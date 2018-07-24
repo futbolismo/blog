@@ -12,7 +12,7 @@ timeline: 0
 
 remote_sticker: "https://pbs.twimg.com/media/BL_cmUvCIAE0SeB.png"
 
-excerpt: "Avevo un paio di baffi enormi. Stupendi.
-Per questo mi chiamavano Chalanix. In realtà in comune con Asterix oltre ai bei baffoni ho pure la statura. Sono basso."
+
+excerpt: "Avevo dei capelli bellissimi. Poi ho iniziato a vendere il vino. Si sono accorciati."
 ---
 La storia di Rocco Faina Filardi è una storia singolare: da Campo Maggiore al trono di vinaio di Milano, passando per le notti al Naxos di Torino e alle risse con machete di via Montagani.
