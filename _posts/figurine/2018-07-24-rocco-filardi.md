@@ -10,8 +10,6 @@ author: Francesco Mistrulli
 category: figurine
 timeline: 0
 
-remote_sticker: "https://pbs.twimg.com/media/BL_cmUvCIAE0SeB.png"
-
 
 excerpt: "Avevo dei capelli bellissimi. Poi ho iniziato a vendere il vino. Si sono accorciati."
 ---
