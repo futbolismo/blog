@@ -1,7 +1,7 @@
 # Figurine	
 
 ## Creare una nuova figurina
-Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due parti, una per la creazione dell'articolo, l'altra per upload dell'immagine della figurina. Le figurine vengono aggiunte automaticamente alla sezione `figurine` non appena il pulsante `Commit new file` viene cliccato.
+Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due parti, una per la creazione dell'articolo, l'altra per upload dell'immagine della figurina.
 
 ### File articolo
 
@@ -14,6 +14,8 @@ Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due 
  4. Scrivere il contenuto del file seguendo il formato descritto di seguito
  5. Cliccare il pulsante `Commit new file`
  ![Commit new file](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/commit_new_file.png)
+ 
+ Le figurine vengono aggiunte automaticamente alla sezione `figurine` non appena il pulsante `Commit new file` viene cliccato.
 
 #### Formato
 ```
@@ -54,7 +56,7 @@ Se non e' esattamente uguale, il sito automaticamente adattera' il file alla lar
  4. Cliccare il pulsante verde `Commit changes`
   ![Commit changes](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/commit_changes_img.png)
 
-Il file sara' caricato nel suo folder.
+Il file sara' caricato nel suo folder. E se l'articolo e' gia' stato creato, la figurina sara' aggiornata nel sito web.
 
 ## Modificare una figurina
 
