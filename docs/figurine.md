@@ -49,3 +49,14 @@ Se non e' esattamente uguale, il sito automaticamente adattera' il file alla lar
 
 Il file sara' caricato nel suo folder.
 
+## Modificare una figurina
+
+### Contenuti
+1. Aprire il folder `_posts/figurine/` https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine
+2. Cliccare il nome del file che si vuol modificare
+3. Cliccare il pulsante con l'icona della matita
+4. Modificare il contenuto del file seguendo il formato descritto precedentemente
+5. Cliccare il pulsante verde `Commit changes`
+
+### Figurina
+Seguire la stessa procedura della creazione mantenendo la stesso nome del file, il file verra' sovrascritto.
