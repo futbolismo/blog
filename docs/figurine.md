@@ -36,7 +36,7 @@ TESTO DELL'ARTICOLO
 ```
 
 #### File d'esempio
-Aprire e copiare il file: https://raw.githubusercontent.com/futbolismo/blog/gh-pages/_posts/figurine/2018-07-24-rocco-filardi.md
+Aprire e copiare il file: https://raw.githubusercontent.com/futbolismo/blog/gh-pages/docs/2018-07-24-rocco-filardi.md
 
 ### Immagine
 
