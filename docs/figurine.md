@@ -5,7 +5,7 @@ Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due 
 
 ### File articolo
 
- 1. Aprire il folder `_posts/figurine/` https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine
+ 1. Aprire il folder `_posts/figurine/` <a href="https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine" target="_blank">https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine</a>
  ![Folder](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/folder.png)
  2. Cliccare il pulsante `Create new file`
  3. Inserire il nome del file seguendo il formato YYYY-MM-DD-nome_giocatore.md (ad esempio `2018-07-25-antonio-cabrini.md`) 
@@ -36,7 +36,7 @@ TESTO DELL'ARTICOLO
 ```
 
 #### File d'esempio
-Aprire e copiare il file: https://raw.githubusercontent.com/futbolismo/blog/gh-pages/docs/2018-07-24-rocco-filardi.md
+Aprire e copiare il file: <a href="https://raw.githubusercontent.com/futbolismo/blog/gh-pages/docs/2018-07-24-rocco-filardi.md" target="_blank">https://raw.githubusercontent.com/futbolismo/blog/gh-pages/docs/2018-07-24-rocco-filardi.md</a>
 
 ### Immagine
 
@@ -48,7 +48,7 @@ Il file dell'immagine deve essere JPG e avere una dimensione piu' o meno standar
 Se non e' esattamente uguale, il sito automaticamente adattera' il file alla larghezza richiesta e tagliera' in verticale la foto.
 
 #### Procedura per il caricamento dell'immagine
- 1. Aprire il folder `stickers` https://github.com/futbolismo/blog/tree/gh-pages/assets/pics/stickers
+ 1. Aprire il folder `stickers` <a href="https://github.com/futbolismo/blog/tree/gh-pages/assets/pics/stickers" target="_blank">https://github.com/futbolismo/blog/tree/gh-pages/assets/pics/stickers</a>
   ![Folder stickers](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/stickers_folder.png)
  2. Cliccare il pulsante `Upload files`
  3. Aggiungere trascinando i file o cliccando `choose your files`
@@ -61,7 +61,7 @@ Il file sara' caricato nel suo folder. E se l'articolo e' gia' stato creato, la 
 ## Modificare una figurina
 
 ### Contenuti
-1. Aprire il folder `_posts/figurine/` https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine
+1. Aprire il folder `_posts/figurine/` <a href="https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine" target="_blank">https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine</a>
  ![Folder](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/folder.png)
 2. Cliccare il nome del file che si vuol modificare
 3. Cliccare il pulsante con l'icona della matita
