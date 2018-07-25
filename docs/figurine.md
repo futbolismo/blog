@@ -1,7 +1,7 @@
 # Figurine	
 
 ## Creare una nuova figurina
-Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due parti, una per la creazione dell'articolo, l'altra upload dell'immagine della figurina. Le figurine vengono aggiunte automaticamente alla sezione `figurine` non appena il pulsante `Commit new file` viene cliccato.
+Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due parti, una per la creazione dell'articolo, l'altra per upload dell'immagine della figurina. Le figurine vengono aggiunte automaticamente alla sezione `figurine` non appena il pulsante `Commit new file` viene cliccato.
 
 ### File articolo
 
