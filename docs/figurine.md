@@ -6,10 +6,14 @@ Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due 
 ### File articolo
 
  1. Aprire il folder `_posts/figurine/` https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine
+ ![Folder](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/folder.png)
  2. Cliccare il pulsante `Create new file`
- 3. Inserire il nome del file seguendo il formato YYYY-MM-DD-nome_giocatore.md (ad esempio `2018-07-25-antonio-cabrini.md`) nel campo di testo
+ 3. Inserire il nome del file seguendo il formato YYYY-MM-DD-nome_giocatore.md (ad esempio `2018-07-25-antonio-cabrini.md`) 
+ nel campo di testo
+ ![Campo testo per il nome](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/filename.png)
  4. Scrivere il contenuto del file seguendo il formato descritto di seguito
  5. Cliccare il pulsante `Commit new file`
+ ![Commit new file](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/commit_new_file.png)
 
 #### Formato
 ```
@@ -43,9 +47,12 @@ Se non e' esattamente uguale, il sito automaticamente adattera' il file alla lar
 
 #### Procedura per il caricamento dell'immagine
  1. Aprire il folder `stickers` https://github.com/futbolismo/blog/tree/gh-pages/assets/pics/stickers
+  ![Folder stickers](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/stickers_folder.png)
  2. Cliccare il pulsante `Upload files`
  3. Aggiungere trascinando i file o cliccando `choose your files`
+  ![Upload files](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/upload_files.png)
  4. Cliccare il pulsante verde `Commit changes`
+  ![Commit changes](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/commit_changes_img.png)
 
 Il file sara' caricato nel suo folder.
 
@@ -53,10 +60,12 @@ Il file sara' caricato nel suo folder.
 
 ### Contenuti
 1. Aprire il folder `_posts/figurine/` https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine
+ ![Folder](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/folder.png)
 2. Cliccare il nome del file che si vuol modificare
 3. Cliccare il pulsante con l'icona della matita
+![Icona matita](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/pencil.png)
 4. Modificare il contenuto del file seguendo il formato descritto precedentemente
-5. Cliccare il pulsante verde `Commit changes`
+5. Cliccare il pulsante verde `Commit changes` ![Commit changes](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/commit_changes.png)
 
 ### Figurina
 Seguire la stessa procedura della creazione mantenendo la stesso nome del file, il file verra' sovrascritto.
