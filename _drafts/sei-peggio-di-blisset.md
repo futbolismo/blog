@@ -2,7 +2,7 @@
 layout: post
 
 pid: blisset
-title: "Sei peggio di Blisset!"
+postTitle: "Sei peggio di Blisset!"
 player: Luther Blisset
 player_short: Luther Blisset
 
