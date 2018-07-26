@@ -162,7 +162,7 @@ In più mi spettano ancora quattordici minuti abbondanti di notorietà!
                         timestamps:[new Date(1989,11-1,9)],
                         text:{
 
-                            body:"<ul><li>18 Aprile, Pechino: cominciano le proteste studentesche in piazza Tienanmen.</li><li>24 Agosto, Polonia: nasce una coalizione di governo formata da Solidarnosc ed altri due partiti.</li><li>9 Novembre, Germani: cade il Muro di Berlino.</li><li>17 Dicembre, Stati Uniti: esce la prima puntata de I Simpson.</li><li>25 Dicembre, Romania: esecuzione del dittatore Nicolae Ceauşescu e della moglie Elena.</li><li>29 Dicembre, Cecoslovacchia: Václav Havel diventa Presidente.</li></ul>",
+                            body:"<ul><li>18 Aprile 1989, Pechino: cominciano le proteste studentesche in piazza Tienanmen.</li><li>24 Agosto, Polonia: nasce una coalizione di governo formata da Solidarnosc ed altri due partiti.</li><li>9 Novembre, Germani: cade il Muro di Berlino.</li><li>17 Dicembre, Stati Uniti: esce la prima puntata de I Simpson.</li><li>25 Dicembre, Romania: esecuzione del dittatore Nicolae Ceauşescu e della moglie Elena.</li><li>29 Dicembre, Cecoslovacchia: Václav Havel diventa Presidente.</li></ul>",
                             link:"http://it.wikipedia.org/wiki/1989"
                         }
                     },
