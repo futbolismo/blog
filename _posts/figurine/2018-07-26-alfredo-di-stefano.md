@@ -2,7 +2,7 @@
 layout: post-sticker
 
 pid: di_stefano
-title: Alfredo di Stéfano
+
 player: Alfredo di Stéfano
 life: Attaccante, nato il 4 Luglio 1926 a Buenos Aires, Argentina
 

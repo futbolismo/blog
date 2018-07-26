@@ -8,6 +8,11 @@ body {
 
 	quotes: "“" "”" "“" "”";
 }
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
 h1,h2,h3,h4,h5,h6 {
 	font-family: $headersFont;
 	font-weight: 700;
@@ -593,6 +598,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	background-color:$darkGray;
 	padding:0 15px;
 	margin-bottom:20px;
+	color: #fff;
 }
 .category .post-section h3 {
 	color: $white;

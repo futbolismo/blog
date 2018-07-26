@@ -1,10 +1,9 @@
 ---
 layout: post-sticker
 
-pid: puskas
+pid: hasanagic
 
-postTitle: Ferenc Puskás
-player: Ferenc Puskás
+player: Mustafa Hasanagić
 life: Attaccante, nato il 2 aprile 1927 a Budapest, 1927
 
 wikipedia: Ferenc_Pusk%C3%A1s

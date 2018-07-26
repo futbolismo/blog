@@ -2,7 +2,7 @@
 layout: post-simple
 
 pid: penalty
-title: Il primo Penalty
+postTitle: Il primo Penalty
 
 category: non-tutti-sanno-che
 timeline: 0
@@ -17,7 +17,7 @@ Joseph Health, giocatore del Wolverhampton Wanderers si presenta sul dischetto d
 
 L'idea del rigore è dell'irlandese William McCrum. Ci pensa l'anno prima, mentre gioca nel Milford Everton. La sua idea è difendere lo spirito del gioco, danneggiato dai troppi falli di mano in prossimità della porta.
 L'idea però viene accantonata sino al milleottocentonovantuno, anche se qualche calcio di rigore era già stato tirato in Irlanda e in Scozia. Gli inglesi si oppongono al cambiamento. Ma, nella primavera di quel fatidico milleottocentonovantuno, ci sarà quell'episodio che farà cambiare idea agli inventori del calcio: Coppa d'Inghilterra, quarti di finale, Stoke City contro Notts County. Il Notts è in vantaggio per uno a zero e lo Stoke attacca per rimontare, un giocatore del Notts ferma il pallone con la mano sulla linea di porta. Punizione. Tutti i giocatori del Notts si mettono davanti alla porta, il portiere devia e lo Stoke perde la partita.
-Quest'episodio, considerato da tutti una vera ingiustizia, indigna tutti e spinge gli Inglesi a modificare le regole del gioco. 
+Quest'episodio, considerato da tutti una vera ingiustizia, indigna tutti e spinge gli Inglesi a modificare le regole del gioco.
 
 È nato il calcio di rigore!
 

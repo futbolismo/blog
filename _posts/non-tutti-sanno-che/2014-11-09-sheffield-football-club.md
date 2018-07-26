@@ -2,7 +2,7 @@
 layout: post-simple
 
 pid: sheffield
-title: Sheffield Football Club
+postTitle: Sheffield Football Club
 
 category: non-tutti-sanno-che
 timeline: 0

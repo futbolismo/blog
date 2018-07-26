@@ -1,7 +1,7 @@
-{% assign title = page.title %}
+{% assign title = page.postTitle %}
 {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
 {% if page.player_short != null %}
-	{% capture title %}{{ page.player_short }} - {{ page.title }}{% endcapture %}
+	{% capture title %}{{ page.player_short }} - {{ page.postTitle }}{% endcapture %}
 {% endif %}
 <ul class="list-unstyled">
     <li>

@@ -2,8 +2,9 @@
 layout: post-sticker
 
 pid: garrincha
-title: Garrincha
-player: Manuel Francisco dos Santos
+
+postTitle: Manuel Francisco dos Santos
+player: Garrincha
 life: Ala destra, nato il 28 Ottobre 1933 a Magé, RJ, Brazil
 
 wikipedia: Garrincha

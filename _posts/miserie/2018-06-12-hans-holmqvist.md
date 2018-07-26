@@ -2,7 +2,7 @@
 layout: post
 
 pid: holmqvist
-title: Hans-Olof Hasse Holmqvist
+postTitle: Hans-Olof Hasse Holmqvist
 player: Hans Holmqvist
 wikipedia: Hans_Holmqvist
 life: Centrocampista, nato il 27 Aprile 1960 a Stoccolma, Svezia

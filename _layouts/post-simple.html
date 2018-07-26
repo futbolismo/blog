@@ -2,7 +2,7 @@
 <html lang="en" class="page {{page.category}}">
 
 	{% include head.html %}
-	
+
 	<body>
 {% include header.html %}
 
@@ -11,7 +11,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-2 post-title">
-                    <h1>{{page.title}}</h1>
+                    <h1>
+											{%if page.postTitle and page.postTitle != "" and page.postTitle != nil %}
+												{{page.postTitle}}
+											{% else %}
+												{{page.player}}
+											{% endif %}
+										</h1>
                 </div>
             </div>
             <div class="row">
@@ -27,7 +33,7 @@
                                     <li><a href="#" target="_blank" title="Share on Google+"><i class="icon-gplus" title="Share on Google+"></i> <span class="hidden-xs">Google+</span></a></li>
                                     <li><a href="#" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i> <span class="hidden-xs">Facebook</span></a></li>
                                 </ul>
-                        </div>        
+                        </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-10">

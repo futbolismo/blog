@@ -14,8 +14,7 @@ layout: landing
                                 </div>
                             </div>
                             <div class="col-xs-12 col-md-6 post-abstract-body bg-dark-gray">
-                                    <h5 class="hidden-md">{{post.player_short}}</h5>
-                                    <h2>{{post.title}}</h2>
+                                    <h2>{{post.postTitle}}</h2>
                                     <p class="{{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </div>
                         </div>
@@ -47,7 +46,13 @@ layout: landing
                                         </div>
                                     </div>
                                     <div class="col-xs-7 col-ms-12 col-sm-12">
-                                        <h2>{{post.title}}</h2>
+                                        <h3>
+                                          {%if post.postTitle and post.postTitle != "" and post.postTitle != nil %}
+                                            {{post.postTitle}}
+                                          {% else %}
+                                            {{post.player}}
+                                          {% endif %}
+                                        </h3>
                                         <p class="margin-bottom-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short}}</b></p>
                                         <p class="descr {{post.story_type}} hidden-xs">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
@@ -72,8 +77,8 @@ layout: landing
                 </div>
             </div>
             <div class="col-xs-12 col-md-9">
-                <div class="row">
-                    {% for post in site.categories.figurine limit: 40 %}
+                <div class="row flex-container">
+                    {% for post in site.categories.figurine limit: 8 %}
                     <div class="post col-ms-6 col-sm-3 col-md-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
                         <div class="post-abstract bg-light-gray">
                             <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
@@ -84,7 +89,7 @@ layout: landing
                                         </div>
                                     </div>
                                     <div class="col-xs-7 col-ms-6 col-sm-12">
-                                        <h3>{{post.title}}</h3>
+                                        <h3>{{post.player}}</h3>
                                         <p class="hidden-md hidden-lg">{{post.life}}</p>
                                     </div>
                                 </div>
@@ -112,7 +117,7 @@ layout: landing
                         {% for post in site.categories.non-tutti-sanno-che %}
                         <li>
                             <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
-                                <h4>{{post.title}}</h4>
+                                <h4>{{post.postTitle}}</h4>
                                 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </a>
                         </li>

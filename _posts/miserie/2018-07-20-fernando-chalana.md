@@ -2,7 +2,7 @@
 layout: post
 
 pid: chalana
-title: Fernando Albino de Souza Chalana
+postTitle: Fernando Albino de Souza Chalana
 player: Fernando Chalana
 wikipedia: Fernando_Chalana
 life: Centrocampista, nato il 10 Febbraio 1959 a Barreiro, Portogallo

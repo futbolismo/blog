@@ -2,7 +2,7 @@
 layout: post
 
 pid: perdomo
-title: José Batlle Perdomo Teixeira
+postTitle: José Batlle Perdomo Teixeira
 player: José Perdomo
 wikipedia: Jos%C3%A9_Perdomo
 life: Centrocampista, nato il 5 Gennaio 1965 a Salto, Uruguay

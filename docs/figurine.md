@@ -1,4 +1,4 @@
-# Figurine	
+# Figurine
 
 ## Creare una nuova figurina
 Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due parti, una per la creazione dell'articolo, l'altra per upload dell'immagine della figurina.
@@ -8,13 +8,13 @@ Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due 
  1. Aprire il folder `_posts/figurine/` <a href="https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine" target="_blank">https://github.com/futbolismo/blog/tree/gh-pages/_posts/figurine</a>
  ![Folder](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/folder.png)
  2. Cliccare il pulsante `Create new file`
- 3. Inserire il nome del file seguendo il formato YYYY-MM-DD-nome_giocatore.md (ad esempio `2018-07-25-antonio-cabrini.md`) 
+ 3. Inserire il nome del file seguendo il formato YYYY-MM-DD-nome_giocatore.md (ad esempio `2018-07-25-antonio-cabrini.md`)
  nel campo di testo
  ![Campo testo per il nome](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/filename.png)
  4. Scrivere il contenuto del file seguendo il formato descritto di seguito
  5. Cliccare il pulsante `Commit new file`
  ![Commit new file](https://github.com/futbolismo/blog/raw/gh-pages/docs/img/commit_new_file.png)
- 
+
  Le figurine vengono aggiunte automaticamente alla sezione `figurine` non appena il pulsante `Commit new file` viene cliccato.
 
 #### Formato
@@ -23,11 +23,13 @@ Guida per la creazione di una nuova figurina. Questa procedura e' divisa in due 
 layout: post-sticker
 
 pid: ID_UNICO_DEL_GIOCATORE
-title: TITOLO_DELL_ARTICOLO
+postTitle: TITOLO_DELL_ARTICOLO # opzionale
 player: NOME_COGNOME_GIOCATORE
 life: RUOLO, nato il DATA_DI_NASCITA a LUOGO_DI_NASCITA
 
-author: AUTORE_DELL_ARTICOLO
+wikipedia: ULTIMA_PARTE_DELL'URL SU WIKIPEDIA # opzionale
+
+author: AUTORE_DELL_ARTICOLO # opzionale (non viene mostrato nelle figurine)
 category: figurine
 timeline: 0
 

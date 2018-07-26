@@ -2,7 +2,7 @@
 layout: post-simple
 
 pid: india
-title: A piedi nudi
+postTitle: A piedi nudi
 
 category: non-tutti-sanno-che
 timeline: 0

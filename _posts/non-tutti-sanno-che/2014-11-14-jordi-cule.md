@@ -2,7 +2,7 @@
 layout: post-simple
 
 pid: cule
-title: Jordi Culé
+postTitle: Jordi Culé
 
 category: non-tutti-sanno-che
 timeline: 0
@@ -12,19 +12,19 @@ excerpt: "La sintesi del tifoso azulgrana nelle vignette di Oscar Nebreda Abadí
 <img class="responsive-img border margin-1em w40" src="{{site.baseurl}}/assets/pics/{{page.pid}}/jordi_cule.jpg" alt="{{page.title}}" align="right">
 Jordi Culé è un personaggio creato dal popolare vignettista satirico catalano Oscar Nebreda Abadía, più noto al grande pubblico semplicemente come Oscar.
 
-  Il suo creatore, grande sostenitore del FC Barcelona, voleva 
-  dar vita ad un personaggio che fosse la sintesi del tifoso del 
+  Il suo creatore, grande sostenitore del FC Barcelona, voleva
+  dar vita ad un personaggio che fosse la sintesi del tifoso del
   club catalano, già a partire dal nome: Jordi Culé.
 
-  Jordi infatti sta per san Jordi o san Giorgio, la cui festa si celebra il 23 aprile, ed è il santo patrono della città di 
-  Barcelona. Secondo la tradizione sconfisse il drago e dal 
-  cespuglio germogliato dal sangue del mostro colse una rosa 
+  Jordi infatti sta per san Jordi o san Giorgio, la cui festa si celebra il 23 aprile, ed è il santo patrono della città di
+  Barcelona. Secondo la tradizione sconfisse il drago e dal
+  cespuglio germogliato dal sangue del mostro colse una rosa
   da donare a Sabra, la principessa liberata; Culé è invece una parola che in catalano significa letteralmente
-  "culo", e sta ad identificare i tifosi dell'FC Barcelona. 
-  L'origine del termine risale all'epoca in cui lo stadio del Barcelona si trovava a Les Corts, zona che si trova a circa un 
-  chilometro a sud da dov'è ora l'attuale Camp Nou. Il vecchio 
-  impianto sportivo aveva gli spalti in legno, con una seduta 
-  ed una spalliera, così la gente che ci passava sotto poteva 
+  "culo", e sta ad identificare i tifosi dell'FC Barcelona.
+  L'origine del termine risale all'epoca in cui lo stadio del Barcelona si trovava a Les Corts, zona che si trova a circa un
+  chilometro a sud da dov'è ora l'attuale Camp Nou. Il vecchio
+  impianto sportivo aveva gli spalti in legno, con una seduta
+  ed una spalliera, così la gente che ci passava sotto poteva
   vedere i tifosi dal di dietro: ad ogni partita casalinga chi
   passava nella strada sottostante lo stadio poteva vedere migliaia di "cules". Il termine divenne così sinonimo di tifoso del Barcelona, tanto che ancora oggi nel linguaggio corrente quando si dice "culé" ci si riferisce a un appassionato tifoso del club catalano.
 
