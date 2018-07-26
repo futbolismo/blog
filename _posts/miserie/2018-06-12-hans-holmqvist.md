@@ -51,8 +51,7 @@ In più mi spettano ancora quattordici minuti abbondanti di notorietà!
 <b>Fotgrafie</b><br/>
 <ol>
 
-	<li>Figurina Calcio Euroflash 1989 - Con licenza Pubblico dominio <a href="http://it.wikipedia.org/wiki/File:Hans_Holmqvist.jpg" target="_blank">tramite Wikipedia</a></li>
-    </li>
+	<li>Figurina Calcio Holmqvist nel Cesena</li>
 	<li>Figurina Holmqvist n.37 - Svezia <a href="http://media4.allnumis.com/23340/37-hans-holmqvist-isvrec_23340_0896778893560fL.jpg" target="_blank">allnumis</a></li>
 	<li>La gioia di Holmqvist e Agostini (Guerin Sportivo, 1989) <a href="http://www.tuttocesena.it/la-storia-siamo-noi/cesena-milan-parla-sempre-svedese-1013" target="_blank">TCW</a></li>
 
