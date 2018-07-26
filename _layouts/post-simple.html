@@ -44,6 +44,32 @@
 			</div>
 		</div>
 	</section>
+	<section class="small-posts">
+	    <div class="container bg-white50">
+	        <div class="top6 row">
+	            <div class="col-md-2">
+	                <div class="post-section">
+	                    <h3><a href="{{site.baseurl}}/non-tutti-sanno-che">Non tutti sanno che</a></h3>
+	                    <p class="hidden-xs"><em>Fatti, curiosit&agrave; e racconti brevi dal mondo del calcio</em></p>
+	                </div>
+	            </div>
+	            <div class="col-md-9">
+	                <div class="post-abstract">
+	                    <ul class="list-unstyled">
+	                        {% for post in site.categories.non-tutti-sanno-che %}
+	                        <li>
+	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+	                                <h4>{{post.postTitle}}</h4>
+	                                <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+	                            </a>
+	                        </li>
+	                        {% endfor %}
+	                    </ul>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
 </div>
 {% include footer.html %}
 

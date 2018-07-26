@@ -81,6 +81,41 @@
 			</div>
 		</div>
 	</section>
+	<section>
+	    <div class="container border-bottom">
+	        <div class="top6 stickers row">
+	            <div class="col-md-2">
+	                <div class="post-section">
+	                    <h3><a href="{{site.baseurl}}/figurine-parlanti">Figurine parlanti</a></h3>
+	                    <p class="hidden-xs"><em>Perch&egrave; un figurina non &egrave; solo una cosa da bambini</em></p>
+	                </div>
+	            </div>
+	            <div class="col-xs-12 col-md-9">
+	                <div class="row flex-container">
+	                    {% for post in site.categories.figurine limit: 8 %}
+	                    <div class="post col-ms-6 col-sm-3 col-md-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
+	                        <div class="post-abstract bg-light-gray">
+	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+	                                <div class="row sticker">
+	                                    <div class="col-xs-5 col-ms-6 col-sm-12">
+	                                        <div class="post-abstract-img">
+	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}.jpg" alt="{{post.title}}" width="100%">
+	                                        </div>
+	                                    </div>
+	                                    <div class="col-xs-7 col-ms-6 col-sm-12">
+	                                        <h3>{{post.player}}</h3>
+	                                        <p class="hidden-md hidden-lg">{{post.life}}</p>
+	                                    </div>
+	                                </div>
+	                            </a>
+	                        </div>
+	                    </div>
+	                    {% endfor %}
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
 </div>
 {% include footer.html %}
 

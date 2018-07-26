@@ -2,11 +2,12 @@
 layout: post-sticker
 
 pid: rocco
-title: Rocco Faina Filardi
+
+postTitle: Rocco Faina Washington Filardi
 player: Rocco Filardi
+
 life: Centrocampista, nato il 10 Febbraio 1959 a Campomaggiore, Italia
 
-author: Francesco Mistrulli
 category: figurine
 timeline: 0
 
