@@ -2,7 +2,7 @@
 layout: post
 pid: pallone
 
-title: Uno Spillo per il Barone 
+title: Uno Spillo per il Barone
 
 story_type: thoughts
 
@@ -12,7 +12,7 @@ timeline: 0
 
 header: pallone_alt
 
-dialog: left
+dialog: transparent black-text left
 
 excerpt: "<i>...c'era una volta una strada semi asfaltata di periferia...  
 E proprio ad una strada semi asfaltata di periferia è legato il mio personalissimo ricordo del calcio.
@@ -61,7 +61,7 @@ Chi lo sa.
 Io sono semplicemente "pazzo" di calcio.  
 Pensavo fossi io solo ad avere questa patologia, ma poi nel corso degli anni ho scoperto che siamo tanti. Ma tanti tanti. E a tutte le latitudini.  
 Ho trovato così i miei amici fraterni, quelli con cui parlo di calcio. Quelli con cui vedo le partite in TV. Quelli con cui vado allo stadio. Quelli con cui commento le partite... anche via WhatsApp (Londra - Parigi - Torino). Quelli che per festeggiare insieme il primo scudetto dell'era Conte ci si chiama via Skype da una sperduta stanza d'albergo in Finlandia.  
-Nel libro “Parliamo di calcio” di Michel Platini con Gérard Ernault si legge: 
+Nel libro “Parliamo di calcio” di Michel Platini con Gérard Ernault si legge:
 *"Il calcio sarà quel che sarà e questo non mi coinvolge molto, ma quello che resterà sarà il pallone. E lui tornerà davanti alla saracinesca di un garage, ai suoi sabati e alle sue domeniche. Non c'è l'ultima parola, il calcio è un viaggio senza fine. Da tempo immemore il pallone rotola, rotola, rotola dovunque nel mondo. Così rotola la vita. E il calcio ne segue la traccia. Come può."*  
 **Amen!**
 

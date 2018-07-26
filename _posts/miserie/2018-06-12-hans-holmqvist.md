@@ -2,13 +2,13 @@
 layout: post
 
 pid: holmqvist
-title: Hans-Olof Hasse Holmqvist 
+title: Hans-Olof Hasse Holmqvist
 player: Hans Holmqvist
 wikipedia: Hans_Holmqvist
 life: Centrocampista, nato il 27 Aprile 1960 a Stoccolma, Svezia
 
 author: Francesco Mistrulli
-category: figurine
+category: miserie
 timeline: 1
 timeline_data: holmqvist
 
@@ -31,7 +31,7 @@ Il mister, Albertino Bigon, mi affianca in attacco al condor Agostini, un sopran
 Il millenovecentoottantotto finisce così: il Cesena latita nelle ultime posizioni e io non ho segnato nemmeno lo straccio di una rete!  
 
 L'anno che verrà, il millenovecentoottantanove, sarà un anno molto particolare, in pochi mesi cambieranno non solo i confini geografici e politici dell'Europa, ma anche mentali. Cadrà il Muro di Berlino, Solidarnosc vincerà le elezioni in Polonia, il dittatore romeno Ceausescu verrà giustiziato, il mondo intero si libererà dalla paura della Guerra Fredda, gli studenti cinesi inizieranno a protestare in piazza Tienanmen e morirà in un banale incidente stradale in Polonia Gaetano Scirea, grande uomo, colonna della Juventus e della Nazionale Italiana.  
-  
+
 Ma soprattutto il millenovecentoottantanove sarà il mio anno.  
 
 È l'otto Gennaio. L'anno è iniziato da soli otto giorni. Il calendario calcistico dice che è la dodicesima giornata. Noi affrontiamo fra le mura amiche del "Dino Manuzzi" il Milan, lo squadrone degli Olandesi capitanati da Franco Baresi. Quel Milan che sarebbe poi diventato campione d'Europa e del mondo sotto la guida di un omino piccino. Scegliete voi l'omino piccino che preferite!  
@@ -152,7 +152,7 @@ In più mi spettano ancora quattordici minuti abbondanti di notorietà!
                         category:"event",
                         timestamps:[new Date(1986,2-1,28)],
                         text:{
-                            
+
                             body:"Il 28 Febbraio 1986 viene assassinato nel pieno centro di Stoccolma il primo ministro svedese Olof Palme; questo delitto è rimasto, ad oggi, ancora irrisolto.",
                             link:"http://it.wikipedia.org/wiki/Olof_Palme"
                         }
@@ -162,7 +162,7 @@ In più mi spettano ancora quattordici minuti abbondanti di notorietà!
                         category:"event",
                         timestamps:[new Date(1989,11-1,9)],
                         text:{
-                            
+
                             body:"<ul><li>18 Aprile, Pechino: cominciano le proteste studentesche in piazza Tienanmen.</li><li>24 Agosto, Polonia: nasce una coalizione di governo formata da Solidarnosc ed altri due partiti.</li><li>9 Novembre, Germani: cade il Muro di Berlino.</li><li>17 Dicembre, Stati Uniti: esce la prima puntata de I Simpson.</li><li>25 Dicembre, Romania: esecuzione del dittatore Nicolae Ceauşescu e della moglie Elena.</li><li>29 Dicembre, Cecoslovacchia: Václav Havel diventa Presidente.</li></ul>",
                             link:"http://it.wikipedia.org/wiki/1989"
                         }
@@ -172,12 +172,12 @@ In più mi spettano ancora quattordici minuti abbondanti di notorietà!
                         category:"event",
                         timestamps:[new Date(1995,1-1,1)],
                         text:{
-                            
+
                             body:"Nel 1995, in Svezia, viene fondato Metro. Il giornale gratuito ideato per i pendolari. Metro viene stampato in 56 edizioni giornaliere, in 15 linguaggi e 19 nazioni.",
                             link:"http://en.wikipedia.org/wiki/Metro_International"
                         }
                     }
-                    
-                    
+
+
                 ];
 </script>

@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
 	{% assign title = site.title %}
-	
+
 	{% if page.title != null %}
 		{% capture title %}{{ page.title }} - {{title}}{% endcapture %}
 		{% if page.player_short != null %}
@@ -19,10 +19,10 @@
 	<meta name="description" content="{{description}}">
 
     {% include css.html %}
-    
+
     <meta property="og:url" content="{{site.url}}{{ page.url }}"/>
 	<meta property="og:description" content="{{description}}"/>
-	
+
 	{% if page.pid != null %}
 		{% capture image %}{{site.url}}/assets/pics/header/{{ page.pid }}.jpg{% endcapture %}
 		<meta property="og:image" content="{{image}}"/>
@@ -39,34 +39,36 @@
 	<meta property="og:site_name" content="Futbolismo"/>
 	<meta name="twitter:site" content="@ftblsm"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-    
+
     {% if page.timeline %}
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     {% endif %}
-	
-	
+
+
     <style>
     	{% if (page.pid and page.teamheader_data == blank) %}
 	    	.jumbotron {
-				background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) no-repeat center center; 
+				background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) no-repeat center center;
 			    background-size: 100% 100%;
 			}
-			
+
 			.jumbotron .main-bg {
-				background: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg) no-repeat center center; 
+				background: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg) no-repeat center center;
 			    background-size: auto 100%;
 			}
 		{% else %}
+      {% for post in site.categories.miserie limit:1 %}
 			.jumbotron {
-				background: url({{site.baseurl}}/assets/pics/bg/{{ site.data.info.latest_pid }}.jpg) no-repeat center center; 
+				background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
 			    background-size: 100% 100%;
 			}
 			.jumbotron .main-bg {
-				background: url({{site.baseurl}}/assets/pics/header/{{ site.data.info.latest_pid }}.jpg) no-repeat center center; 
+				background: url({{site.baseurl}}/assets/pics/header/{{ post.pid }}.jpg) no-repeat center center; 
 			    background-size: auto 100%;
 			}
+      {% endfor %}
 		{% endif %}
     </style>
-    
+
 
 </head>
