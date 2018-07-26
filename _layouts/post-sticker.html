@@ -59,6 +59,9 @@
 											{% if page.life %}
 	                    <p>{{page.life}}</p>
 											{% endif %}
+											{% if page.wikipedia %}
+											<p class="post-disclaimer hidden-xs">Per maggiori informazioni puoi leggere la pagina di {{page.player}} su <a href="http://it.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+											{% endif %}
 											{% if page.timeline == 1 %}
 	                    <div id="timeline" class="timeline-viz hidden-xs"></div>
 	                    <p class="post-disclaimer hidden-xs">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://it.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
