@@ -1,25 +1,17 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script>
+    (function() {
+      var header = document.querySelector("#header"),
+          fixed=false;
 
-    (function($){
+      window.addEventListener("scroll", function(e) {
+          var scroll=window.pageYOffset || document.documentElement.scrollTop;
 
-        
-        var header = $("#header")
-            fixed=false;
+          if (scroll > 300) {
+              header.classList.add("smaller");
+          } else {
+            header.classList.remove("smaller");
+          }
 
-        $(window).on("scroll", function(e) {
-            var scroll=window.pageYOffset || document.documentElement.scrollTop;
-
-            if (scroll > 300) {
-                header.addClass("smaller");
-            } else {
-                header.removeClass("smaller");
-            }
-          
-        });
-        
-
-    }(jQuery));
-
+      });
+    }())
 </script>
