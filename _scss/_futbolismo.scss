@@ -201,16 +201,17 @@ div.navbar.smaller > .container {
     position: relative;
 
     background-color: #333; /*#E5E1B7;*/
-
+		background-size: auto 100%;
 
 
     padding:0;
     margin-bottom: 0;
 
     border-bottom: 1px solid #ddd;
-}
-.jumbotron {
-    background-size: auto 100%;
+
+		&.jumbotron-post {
+			height: calc(90vh - 140px - 60px);
+		}
 }
 
 .post .jumbotron {
