@@ -13,5 +13,20 @@
           }
 
       });
+
+      var menuNodes = document.querySelectorAll(".navbar-collapse")
+      document.querySelector("button.navbar-toggle").addEventListener("click",function(e) {
+        if(menuNodes[0].classList.contains('in')) {
+            menuNodes.forEach(function(node) {
+              node.classList.remove('in');
+            })
+        } else {
+          menuNodes.forEach(function(node) {
+            node.classList.add('in');
+          })
+        }
+
+      })
+
     }())
 </script>

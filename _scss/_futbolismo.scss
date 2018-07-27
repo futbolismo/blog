@@ -7,6 +7,8 @@ body {
 	line-height: 18px;
 
 	quotes: "“" "”" "“" "”";
+
+	overflow-x: hidden;
 }
 .flex-container {
 	display: flex;
@@ -111,6 +113,10 @@ p.quote:before {
 }
 /********************* HEADER *******************/
 
+.navbar-collapse {
+	transition: all 0.5s ease;
+}
+
 div.navbar {
 	background-color:#fff;
 	border-bottom:1px solid #ddd;
@@ -119,6 +125,9 @@ div.navbar {
 	/*height:60px;*/
 	margin-bottom:0;
 	width: 100%;
+
+
+
 
 
 }
@@ -181,8 +190,8 @@ div.navbar.smaller > .container {
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    /*height: 88%;*/
-    height:360px;
+    height: 85vh;
+    // height:360px;
 
 
     /*top: 0;*/
@@ -254,12 +263,14 @@ div.navbar.smaller > .container {
 	padding-bottom: 1rem;
 }
 .main h1 {
-	font-size:1.6rem;
+	font-size:2rem;
 	font-family: $main_article_title_font;
+	margin-bottom: 1.2rem
 }
 .main p.abstract {
 	font-size:2rem;
 	line-height: 2.2rem;
+	argin-bottom: 0.5rem;
 }
 .main .jumbo-post {
 	height: 100%;
@@ -678,7 +689,6 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 .footer li:before {
     content:"·";
     font-size:20px;
-    vertical-align:middle;
     line-height:20px;
     margin-right:0.5rem;
 }
