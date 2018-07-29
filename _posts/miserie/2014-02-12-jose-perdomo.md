@@ -38,7 +38,7 @@ Tutto ha inizio in Italia. Per la precisione nella città di Genova.
 Il Genoa, guidato da Franco Scoglio meglio noto come il Professore, che Dio l'abbia in gloria, era stato appena promosso in Serie A. Il campionato Italiano all'epoca era uno dei più belli e avvincenti, se non il più bello. La eco delle gesta di Maradona a Napoli e quelle del Milan degli Olandesi arrivava anche oltre Oceano. Il Professore di Lipari, che era professore non a caso perché amante di certi tatticismi, non voleva essere da meno. Così prese il primo volo disponibile dall'Italia con destinazione Sudamerica. A quei tempi con poco potevi portarti a casa il fenomeno che ti faceva fare il salto di qualità, e al Professore l'occhio esperto non mancava di certo. Ecco che in un batter d'occhio mi ritrovo a Genova insieme ad altri due Uruguaiani, Rubén Paz e Carlos "Pato" Aguilera.
 Così il Professore aveva creato il Genoa degli Uruguaiani per contrastare il Milan degli Olandesi!
 Scoglio rimase letteralmente impressionato dal mio tipo di gioco! Voleva costruirmi intorno il suo Genoa, il perfetto volante central che detta i tempi di gioco, recupera palloni e ha tanta grinta. Ma tanta da vendere.
-<img class="responsive-img border margin-1em w40" src="http://genova.repubblica.it/images/2010/12/14/171310698-eae3d809-1bb5-4a18-81d8-bfada394cba9.jpg" alt="Stelle, eroi per caso e flop clamorosi" title="Stelle, eroi per caso e flop clamorosi" align="right">
+<img class="responsive-img border margin-1em w40" src="{{site.baseurl}}/assets/pics/perdomo/perdomo_repubblica.png" alt="Stelle, eroi per caso e flop clamorosi" title="Stelle, eroi per caso e flop clamorosi" align="right">
 Mi ha dato fiducia venticinque volte, non una, il Professore. Venticinque partite senza lasciare traccia. Di me al Genoa si ricordano per la lentezza e la cattiveria. Una traccia l'ho lasciata, meglio, una scia, di cartellini gialli e rossi. Credo che se tornassi a giocare in Italia avrei ancora qualche giornata di squalifica da scontare. Credo.
 Ora se Scoglio aveva di me una grandissima considerazione, l'idea di Vujadin Boškov, l’allenatore della Sampdoria, l'altra squadra di Genova era completamente diversa. Eravamo in Febbraio nella settimana calda che precedeva il derby della Lanterna, e lui, Boškov, decide di spiegare alla stampa cosa pensa di me “Se sciolgo il mio cane in giardino, lui gioca meglio di Perdomo. Io non dire che mio cane gioca meglio di Perdomo. Io dire che lui potere giocare a calcio solo in parco di mia villa con cane.”
 Quello Slavo, che Dio abbia in gloria anche lui, agli occhi e alle orecchie degli Italiani mi ha reso immortale!
@@ -49,10 +49,8 @@ Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qu
 <div class="post-disclaimer">
 <b>Fotgrafie</b><br/>
 <ol>
-	<li>Figurina - <a href="https://twitter.com/oldschoolpanini/status/342234647658373120" target="_blank">@OldSchoolPanini</a></li>
 	<li>José Perdomo - <a title="By Chapamanya (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AJos%C3%A9_Perdomo.jpg" target="_blank">By Chapamanya (Own work) CC BY-SA 3.0</a></li>
 	<li>"Stelle, eroi per caso e flop clamorosi" <a href="http://genova.repubblica.it/sport/2010/12/14/foto/stelle_e_eroi_per_un_giorno-10197735/8/" target="_blank">La Repubblica</a></li>
-	</li>
 </ol>
 </div>
 
