@@ -120,7 +120,7 @@ p.quote:before {
 div.navbar {
 	background-color:#fff;
 	border-bottom:1px solid #ddd;
-	z-index:999;
+	z-index:99999999;
 	border-radius: 0;
 	/*height:60px;*/
 	margin-bottom:0;
@@ -500,29 +500,6 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	font-weight: bold;
 	text-shadow: 2px 2px 0 #566074;
 }
-.post .post-sticker h4 {
-	font-size: 1em;
-}
-.post-sticker {
-  border-bottom: 1px solid #ddd;
-  margin-left: 0;
-  display: table;
-  width: 100%;
-  /* fix overflow */
-  table-layout: fixed;
-
-  img {
-	vertical-align:top;
-  }
-}
-.post-sticker .col-xs-height {
-  display: table-cell;
-  float: none !important;
-  padding:10px;
-}
-.post-sticker .col-xs-height p {
-	margin-bottom:0;
-}
 .post .post-body img {
 	margin:1rem 0;
 }
@@ -576,13 +553,55 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 .social ul li span {
 	display:none;
 }
-.post .timeline h4 {
-	color:#333;
-	margin-top:1rem;
+.post .timeline {
+
+
 }
-.post .timeline .post-abstract-img img {
+.post-abstract-img img {
 	max-width: 180px;
 	border:1px solid #ddd;
+}
+.post {
+	.sticker {
+		padding: 15px;
+
+		.sticker-pic {}
+
+		h4 {
+			color:#333;
+			margin-top: 0;
+			margin-bottom: 0.5rem;
+			font-size: 1.3rem;
+		}
+	}
+
+	.timeline-show-btn {
+		height: 32px;
+		line-height: 32px;
+		font-size: 18px;
+		background-color: #eee;
+		color: #333;
+		margin: 0 15px;
+		text-align: center;
+		border: 1px solid #ddd;
+		border-radius: 4px;
+
+		#showTimeline {
+			display: inline-block;
+		}
+		#hideTimeline {
+			display: none;
+		}
+
+		&.hide-timeline {
+			#showTimeline {
+				display: none;
+			}
+			#hideTimeline {
+				display: inline-block;
+			}
+		}
+	}
 }
 
 

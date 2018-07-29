@@ -27,6 +27,17 @@
         }
 
       })
+      var hideShowTimeline = document.querySelector('.timeline-show-btn');
+      hideShowTimeline.addEventListener('click', function(d) {
+          var timeline = document.querySelector('.timeline');
+          if(timeline.classList.contains('hidden-xs')) {
+            timeline.classList.remove('hidden-xs')
+            hideShowTimeline.classList.add('hide-timeline');
+          } else {
+            timeline.classList.add('hidden-xs')
+            hideShowTimeline.classList.remove('hide-timeline');
+          }
+      })
 
     }())
 </script>

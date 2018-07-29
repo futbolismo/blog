@@ -258,13 +258,6 @@
 		font-size: 1.7rem;
 		line-height: 1.9rem;
 	}
-	/*.top6 p.descr span.quote {
-		font-size:2em;
-	}*/
-
-	.post-sticker {
-		display: none;
-	}
 
 	.miserie .border-bottom .post-abstract {
 		min-height: 460px;
@@ -388,7 +381,21 @@
 	.post .post-body p {
 		font-size:22px;
 		line-height: 32px;
+		margin-top: 0;
 	}
+
+	.post .sticker {
+		padding: 5px;
+
+		h4 {
+			color:#333;
+			margin-top: 1em;
+			margin-bottom: 0.5em;
+			font-size: 2rem;
+		}
+
+	}
+
 	html:not(.page) .post .post-body p:first-child:first-letter {
 		font-size: 500%;
 		float: left;
@@ -496,55 +503,7 @@
 		width: 85%;
 	}
 }
-@media (min-width: $screen-xs-min) and (max-width: $screen-sm-min) {
-	.small-posts li {
-		float: left;
-		width: 46%;
-		padding: 0 1rem;
-		margin-bottom: 1rem;
-		height: 7em;
-		border-bottom: 1px solid #ddd;
-		margin: 0 2% 1rem;
-	}
-	.small-posts li a {
-		border-bottom:none !important;
-	}
-	.small-posts li:last-child {
-		border-bottom: 1px solid #ddd;
-	}
 
-
-
-	.category .post-section {
-		padding:0;
-		margin-bottom: 20px;
-	}
-	.category .post-section .title {
-		background-color:$darkGray;
-		padding:15px 30px;
-	}
-	.category .post-section h3 {
-		color: $white;
-		border-bottom:none;
-		font-size:2em;
-	}
-	.category .post-section p {
-		color: $white;
-		font-size:1.5em;
-		margin:0;
-	}
-	.category .post-section .social {
-		padding: 15px 0px 15px 30px;;
-		position: absolute;
-	}
-	.category .post-section .social ul {
-		float:right;
-	}
-
-	.category.figurine .post-abstract {
-		min-height:360px;
-	}
-}
 /*@media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
 
 

@@ -1,0 +1,49 @@
+// IPAD
+@media (min-width: $screen-xs-min) and (max-width: $screen-sm-min) {
+	.small-posts li {
+		float: left;
+		width: 46%;
+		padding: 0 1rem;
+		margin-bottom: 1rem;
+		height: 7em;
+		border-bottom: 1px solid #ddd;
+		margin: 0 2% 1rem;
+	}
+	.small-posts li a {
+		border-bottom:none !important;
+	}
+	.small-posts li:last-child {
+		border-bottom: 1px solid #ddd;
+	}
+
+
+
+	.category .post-section {
+		padding:0;
+		margin-bottom: 20px;
+	}
+	.category .post-section .title {
+		background-color: inherit;
+		padding:15px 30px;
+	}
+	.category .post-section h3 {
+		color: $darkGray;
+		border-bottom:none;
+		font-size:2em;
+	}
+	.category .post-section p {
+		color: $darkGray;
+		font-size:1.5em;
+		margin:0;
+	}
+	.category .post-section .social {
+		padding: 15px 0px 15px 30px;;
+	}
+	.category .post-section .social ul {
+		// float:right;
+	}
+
+	.category.figurine .post-abstract {
+		min-height:360px;
+	}
+}

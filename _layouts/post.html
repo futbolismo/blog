@@ -15,42 +15,65 @@
 {% endif %}
 <div class="content-wrapper post">
 	<section>
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-7 col-sm-offset-2 post-title">
-                    <h1>
-											{%if page.postTitle and page.postTitle != "" and page.postTitle != nil %}
-												{{page.postTitle}}
-											{% else %}
-												{{page.player}}
-											{% endif %}
-										</h1>
+    <div class="container">
+      <div class="row">
+          <div class="col-xs-12 col-sm-7 col-sm-offset-2 post-title">
+              <h1>
+								{%if page.postTitle and page.postTitle != "" and page.postTitle != nil %}
+									{{page.postTitle}}
+								{% else %}
+									{{page.player}}
+								{% endif %}
+							</h1>
+          </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-2">
+            <div class="row post-info">
+                <div class="col-xs-12">
+                    <h5>di {{page.author}}</h5>
+                    <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
+                    <h5>{{ page.date | date: "%B %Y" }}</h5>
+                </div>
+                <div class="col-xs-12 social">
+                    {% include social.html %}
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-2">
-                    <div class="row post-info">
-                        <div class="col-xs-12">
-                            <h5>di {{page.author}}</h5>
-                            <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
-                            <h5>{{ page.date | date: "%B %Y" }}</h5>
-                        </div>
-                        <div class="col-xs-12 social">
-                            {% include social.html %}
-                        </div>
-                    </div>
+        </div>
+
+				<div class="col-sm-3 col-md-2 col-xs-12 no-padding col-sm-push-7" style="z-index:9999">
+					{% if sticker %}
+					<div class="sticker row">
+						<div class="sticker-pic col-xs-6 col-sm-12">
+								<img class="responsive-img" src="{{sticker}}" alt="{{page.player}}" width="100%">
+						</div>
+						<div class="col-xs-6 col-xs-height col-sm-12">
+							{% if page.player %}
+							<h4>{{page.player}}</h4>
+							{% endif %}
+							{% if page.life %}
+							<p>{{page.life}}</p>
+							{% endif %}
+						</div>
+					</div>
+					{% endif %}
+						<div class="timeline-show-btn hidden-sm hidden-md hidden-lg">
+							<span class="glyphicon glyphicon-stats" aria-hidden="true"></span> <span id="showTimeline">Mostra</span><span id="hideTimeline">Nascondi</span> timeline
+						</div>
+            <div class="timeline hidden-xs">
+								{% if page.timeline == 1 %}
+                <div id="timeline" class="timeline-viz"></div>
+                <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://it.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+                <div id="timelineHowto" class="timeline-viz hidden-xs">
+                	<span class="title">Come leggere la timeline:</span>
+                	<div></div>
                 </div>
-                <div class="col-xs-12 {% if page.life != null %}col-sm-7{%else%}col-sm-8{% endif %}">
-                	<div class="post-sticker row">
-	                	<div class="sticker col-xs-6 col-xs-height">
-	                        <img class="responsive-img" src="{{sticker}}" alt="{{page.player}}" width="100%">
-	                    </div>
-	                    <div class="col-xs-6 col-xs-height">
-		                    <h4>{{page.player}}</h4>
-		                    <p>{{page.life}}</p>
-	                    </div>
-                	</div>
-                    <div class="post-body">
+								{% endif %}
+            </div>
+        </div>
+
+        <div class="col-xs-12 {% if page.life != null %}col-sm-7{%else%}col-sm-8{% endif %} col-sm-pull-2">
+          <div class="post-body">
 						{{ content }}
 					</div>
 					{% if page.life != null %}
@@ -58,29 +81,7 @@
 					{% endif %}
 				</div>
 
-				<div class="col-sm-3 col-md-2 col-xs-12 no-padding hidden-xs">
-	                <div class="timeline">
-											{% if sticker %}
-	                    <div class="sticker">
-	                        <img class="responsive-img" src="{{sticker}}" alt="{{page.player}}" width="100%">
-	                    </div>
-											{% endif %}
-											{% if page.player %}
-	                    <h4>{{page.player}}</h4>
-											{% endif %}
-											{% if page.life %}
-	                    <p>{{page.life}}</p>
-											{% endif %}
-											{% if page.timeline == 1 %}
-	                    <div id="timeline" class="timeline-viz hidden-xs"></div>
-	                    <p class="post-disclaimer hidden-xs">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://it.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
-	                    <div id="timelineHowto" class="timeline-viz hidden-xs">
-	                    	<span class="title">Come leggere la timeline:</span>
-	                    	<div></div>
-	                    </div>
-											{% endif %}
-	                </div>
-	            </div>
+
 			</div>
 		</div>
 	</section>
