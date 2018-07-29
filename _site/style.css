@@ -291,6 +291,12 @@ body {
   font-size: 14px;
   line-height: 18px;
   quotes: "“" "”" "“" "”";
+  overflow-x: hidden;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -406,10 +412,14 @@ p.quote:before {
 }
 
 /********************* HEADER *******************/
+.navbar-collapse {
+  transition: all 0.5s ease;
+}
+
 div.navbar {
   background-color: #fff;
   border-bottom: 1px solid #ddd;
-  z-index: 999;
+  z-index: 99999999;
   border-radius: 0;
   /*height:60px;*/
   margin-bottom: 0;
@@ -477,21 +487,20 @@ div.navbar {
   overflow: hidden;
   /* The following styles are required for the "scroll-over" effect */
   width: 100%;
-  /*height: 88%;*/
-  height: 360px;
+  height: 85vh;
   /*top: 0;*/
   left: 0;
   /*position: absolute;*/
   position: relative;
   background-color: #333;
   /*#E5E1B7;*/
+  background-size: auto 100%;
   padding: 0;
   margin-bottom: 0;
   border-bottom: 1px solid #ddd;
 }
-
-.jumbotron {
-  background-size: auto 100%;
+.jumbotron.jumbotron-post {
+  height: calc(90vh - 140px - 60px);
 }
 
 .post .jumbotron {
@@ -534,6 +543,7 @@ div.navbar {
   /*position: absolute;
   top: 520px;*/
   width: 100%;
+  overflow-x: hidden;
   z-index: 999;
   background: none repeat scroll 0% 0% #FFF;
 }
@@ -548,13 +558,15 @@ div.navbar {
 }
 
 .main h1 {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-family: "Playfair Display", Georgia, serif;
+  margin-bottom: 1.2rem;
 }
 
 .main p.abstract {
   font-size: 2rem;
   line-height: 2.2rem;
+  margin-bottom: 0.5rem;
 }
 
 .main .jumbo-post {
@@ -810,35 +822,9 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   font-size: 280%;
   float: left;
   margin: 10px 5px 0 0;
-  line-height: 0.7;
+  line-height: 1;
   font-weight: bold;
   text-shadow: 2px 2px 0 #566074;
-}
-
-.post .post-sticker h4 {
-  font-size: 1em;
-}
-
-.post-sticker {
-  border-bottom: 1px solid #ddd;
-  margin-left: 0;
-  display: table;
-  width: 100%;
-  /* fix overflow */
-  table-layout: fixed;
-}
-.post-sticker img {
-  vertical-align: top;
-}
-
-.post-sticker .col-xs-height {
-  display: table-cell;
-  float: none !important;
-  padding: 10px;
-}
-
-.post-sticker .col-xs-height p {
-  margin-bottom: 0;
 }
 
 .post .post-body img {
@@ -903,14 +889,37 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   display: none;
 }
 
-.post .timeline h4 {
-  color: #333;
-  margin-top: 1rem;
+.post .sticker {
+  padding: 15px;
 }
-
-.post .timeline .post-abstract-img img {
-  max-width: 180px;
+.post .sticker h4 {
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+.post .timeline-show-btn {
+  height: 32px;
+  line-height: 32px;
+  font-size: 18px;
+  background-color: #eee;
+  color: #333;
+  margin: 0 15px;
+  text-align: center;
   border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.post .timeline-show-btn #showTimeline {
+  display: inline-block;
+}
+.post .timeline-show-btn #hideTimeline {
+  display: none;
+}
+.post .timeline-show-btn.hide-timeline #showTimeline {
+  display: none;
+}
+.post .timeline-show-btn.hide-timeline #hideTimeline {
+  display: inline-block;
 }
 
 /********************* CATEGORY *******************/
@@ -934,6 +943,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   background-color: #333;
   padding: 0 15px;
   margin-bottom: 20px;
+  color: #fff;
 }
 
 .category .post-section h3 {
@@ -1030,7 +1040,6 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 .footer li:before {
   content: "·";
   font-size: 20px;
-  vertical-align: middle;
   line-height: 20px;
   margin-right: 0.5rem;
 }
@@ -1296,6 +1305,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 
   .row .post-section {
     padding: 1rem;
+    color: inherit;
   }
 
   .row .post-section h3 {
@@ -1325,13 +1335,6 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     min-height: 8.4em;
     font-size: 1.7rem;
     line-height: 1.9rem;
-  }
-
-  /*.top6 p.descr span.quote {
-  	font-size:2em;
-  }*/
-  .post-sticker {
-    display: none;
   }
 
   .miserie .border-bottom .post-abstract {
@@ -1467,13 +1470,24 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   .post .post-body p {
     font-size: 22px;
     line-height: 32px;
+    margin-top: 0;
+  }
+
+  .post .sticker {
+    padding: 5px;
+  }
+  .post .sticker h4 {
+    color: #333;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-size: 2rem;
   }
 
   html:not(.page) .post .post-body p:first-child:first-letter {
     font-size: 500%;
     float: left;
     margin: 10px 5px 0 0;
-    line-height: 0.7;
+    line-height: 1;
     font-weight: bold;
     text-shadow: 2px 2px 0 #566074;
   }
@@ -1585,60 +1599,6 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     width: 85%;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
-  .small-posts li {
-    float: left;
-    width: 46%;
-    padding: 0 1rem;
-    margin-bottom: 1rem;
-    height: 7em;
-    border-bottom: 1px solid #ddd;
-    margin: 0 2% 1rem;
-  }
-
-  .small-posts li a {
-    border-bottom: none !important;
-  }
-
-  .small-posts li:last-child {
-    border-bottom: 1px solid #ddd;
-  }
-
-  .category .post-section {
-    padding: 0;
-    margin-bottom: 20px;
-  }
-
-  .category .post-section .title {
-    background-color: #333;
-    padding: 15px 30px;
-  }
-
-  .category .post-section h3 {
-    color: #fff;
-    border-bottom: none;
-    font-size: 2em;
-  }
-
-  .category .post-section p {
-    color: #fff;
-    font-size: 1.5em;
-    margin: 0;
-  }
-
-  .category .post-section .social {
-    padding: 15px 0px 15px 30px;
-    position: absolute;
-  }
-
-  .category .post-section .social ul {
-    float: right;
-  }
-
-  .category.figurine .post-abstract {
-    min-height: 360px;
-  }
-}
 /*@media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
 
 
@@ -1694,10 +1654,58 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     display: inline;
   }
 }
+@media (min-width: 480px) and (max-width: 768px) {
+  .small-posts li {
+    float: left;
+    width: 46%;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+    height: 7em;
+    border-bottom: 1px solid #ddd;
+    margin: 0 2% 1rem;
+  }
+
+  .small-posts li a {
+    border-bottom: none !important;
+  }
+
+  .small-posts li:last-child {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .category .post-section {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+
+  .category .post-section .title {
+    background-color: inherit;
+    padding: 15px 30px;
+  }
+
+  .category .post-section h3 {
+    color: #333;
+    border-bottom: none;
+    font-size: 2em;
+  }
+
+  .category .post-section p {
+    color: #333;
+    font-size: 1.5em;
+    margin: 0;
+  }
+
+  .category .post-section .social {
+    padding: 15px 0px 15px 30px;
+  }
+
+  .category.figurine .post-abstract {
+    min-height: 360px;
+  }
+}
 .timeline-viz {
   overflow: visible;
   position: relative;
-  border-bottom: 1px solid #ddd;
 }
 
 .timeline-viz span.title {
