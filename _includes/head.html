@@ -49,12 +49,10 @@
 
   gtag('config', 'UA-364839-39');
 </script>
-
-
-    {% if page.timeline %}
-    <script src='<script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>'></script>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    {% endif %}
+<script src="https://unpkg.com/intersection-observer@0.5.0/intersection-observer.js"></script>
+{% if page.timeline %}
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+{% endif %}
 
 
     <style>

@@ -55,7 +55,7 @@ function Timeline(options) {
 		};
 
 	d3.select('.timeline').style('height', HEIGHT + 'px')
-	console.log('HEIGHT', HEIGHT)
+	// console.log('HEIGHT', HEIGHT)
 	var container = d3.select(options.container);
 
 

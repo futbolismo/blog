@@ -31,56 +31,65 @@
 
       })
 
+      var timelineData = {%if page.timeline_data %}{{page.timeline_data}}{% else %} null {% endif %};
+      console.log(timelineData)
+      if(timelineData) {
 
-      var timeline = new Timeline({
-          container:"#timeline",
-          data:{{page.timeline_data}}
-      });
-
-      var hideShowTimeline = document.querySelector('.timeline-show-btn');
-      hideShowTimeline.addEventListener('click', function(d) {
-          var timeline = document.querySelector('.timeline');
-          if(timeline.classList.contains('timeline-hidden')) {
-            timeline.classList.remove('timeline-hidden')
-            hideShowTimeline.classList.add('hide-timeline');
-          } else {
-            timeline.classList.add('timeline-hidden')
-            hideShowTimeline.classList.remove('hide-timeline');
-          }
-      })
-
-
-      function handleIntersect(entries, observer) {
-        console.log('entries', entries)
-        entries.filter(function(d){return d.isIntersecting && d.boundingClientRect.y > 0}).forEach(function(entry) {
-          console.log(entry);
-          var data = d3.select(entry.target).data()[0];
-          console.log(data)
-          if(typeof data.text !== 'undefined') {
-              timeline.showTooltip(data.text, 0, data.y1);
-          }
-
-          // console.log('####')
+        var timeline = new Timeline({
+            container:"#timeline",
+            data: timelineData
         });
-      }
 
-      var timelineIXNodes = document.querySelectorAll('.ix-container .ix');
-      createObserver();
+        var hideShowTimeline = document.querySelector('.timeline-show-btn');
+        hideShowTimeline.addEventListener('click', function(d) {
+            var timelineDOM = document.querySelector('.timeline');
+            if(timelineDOM) {
+              if(timelineDOM.classList.contains('timeline-hidden')) {
+                timelineDOM.classList.remove('timeline-hidden')
+                hideShowTimeline.classList.add('hide-timeline');
+              } else {
+                timelineDOM.classList.add('timeline-hidden')
+                hideShowTimeline.classList.remove('hide-timeline');
+              }
+            }
 
-      function createObserver() {
-        var observer;
+        })
 
-        var options = {
-          root: null,
-          rootMargin: "0px",
-          threshold: 0.9
-        };
 
-        observer = new IntersectionObserver(handleIntersect, options);
+        function handleIntersect(entries, observer) {
+          // console.log('entries', entries)
+          entries.filter(function(d){return d.isIntersecting && d.boundingClientRect.y > 0}).forEach(function(entry) {
+            console.log(entry);
+            var data = d3.select(entry.target).data()[0];
+            console.log(data)
+            if(typeof data.text !== 'undefined') {
+                timeline.showTooltip(data.text, 0, data.y1);
+            }
 
-        timelineIXNodes.forEach(function(node) {observer.observe(node)})
+            // console.log('####')
+          });
+        }
 
-      }
+        var timelineIXNodes = document.querySelectorAll('.ix-container .ix');
+        createObserver();
+
+        function createObserver() {
+          var observer;
+
+          var options = {
+            root: null,
+            rootMargin: "0px",
+            threshold: 0.9
+          };
+
+          observer = new IntersectionObserver(handleIntersect, options);
+
+          timelineIXNodes.forEach(function(node) {observer.observe(node)})
+
+        }
+     }
+
+
 
 
 
