@@ -442,6 +442,35 @@
 		width: 25%;
 	}
 
+	.post {
+		.timeline {
+			padding-bottom: 0;
+			&.timeline-hidden {
+				visibility: visible;
+				height: auto;
+			}
+
+			.timeline-tooltip {
+				position: absolute;
+				width:260px;
+				left:0;
+				transform: translateX(-100%);
+				right: auto;
+			}
+
+			svg {
+				* {
+					pointer-events: auto;
+				}
+			}
+		}
+		.post-disclaimer {
+			padding: 0;
+		}
+
+
+	}
+
 	.footer .row > div {
 		border-left: 1px solid #444;
 	}

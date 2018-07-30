@@ -12,7 +12,7 @@ function Timeline(options) {
 				d.ts1 = d.timestamps[0];
 				d.ts2 = d.ts1;
 			break;
-			case "olympics":	
+			case "olympics":
 			case "worldcup":
 			case "uefa":
 			case "cup":
@@ -54,7 +54,14 @@ function Timeline(options) {
 			bottom:0
 		};
 
-	var svg = d3.select(options.container)
+	d3.select('.timeline').style('height', HEIGHT + 'px')
+	console.log('HEIGHT', HEIGHT)
+	var container = d3.select(options.container);
+
+
+
+
+	var svg = container
 	.append("svg")
 	.attr("width", WIDTH)
 	.attr("height", HEIGHT)
@@ -115,13 +122,15 @@ function Timeline(options) {
 	.rangeRound([padding.top, HEIGHT - (margin.top + margin.bottom + padding.top + padding.bottom)])
 	.domain([years_min, years_max]);
 
+
+
 	timeline.append("line")
 	.attr("class", "time-axis")
 	.attr("x1", 0)
 	.attr("y1", 0)
 	.attr("x2", 0)
 	.attr("y2", yscale.range()[1]);
-	
+
 	var national_bar = timeline.selectAll("g.club")
 				.data(options.data.filter(function(d) {
 					return d["type"] == "national"
@@ -165,6 +174,11 @@ function Timeline(options) {
 				fill:"url(#diagonalHatch)"
 			})
 
+	var BAR_STROKE = 2
+	BAR_WIDTH = 14 + BAR_STROKE * 2,
+	SQUARE_WIDTH = 7;
+
+
 	var clubs = timeline.selectAll("g.club")
 				.data(options.data.filter(function(d) {
 					return d["type"] == "club" || d["type"] == "trainer"
@@ -197,6 +211,7 @@ function Timeline(options) {
 						tooltip.update(d.text, 0, d.y1);
 						timeline.selectAll(".hover").classed("hover", false);
 						d3.select(this).classed("hover", true);
+						alert("!")
 					})
 					.on("touchend", function(d) {
 						d3.event.preventDefault();
@@ -205,9 +220,7 @@ function Timeline(options) {
 						//d3.select(this).classed("hover",false);
 					})
 
-	var BAR_STROKE = 2
-	BAR_WIDTH = 14 + BAR_STROKE * 2,
-	SQUARE_WIDTH = 7;
+
 
 	clubs.append("rect")
 	.attr("class", "ix")
@@ -215,8 +228,17 @@ function Timeline(options) {
 	.attr("width", (WIDTH))
 	.attr("y", 0)
 			.attr("height", function(d) {
-				return d.y2;
+				return 15; // d.y2;
 			})
+
+	clubs.append("rect")
+		.attr("class", "ix")
+		.attr("x", -BAR_WIDTH / 2)
+		.attr("width", BAR_WIDTH)
+		.attr("y", 0)
+				.attr("height", function(d) {
+					return d.y2;
+				})
 
 	clubs.append("rect")
 	.attr("x", -BAR_WIDTH / 2)
@@ -225,7 +247,7 @@ function Timeline(options) {
 			.attr("height", function(d) {
 				return d.y2;
 			})
-	
+
 	clubs
 		.filter(function(d) {
 			return d["team"];
@@ -242,7 +264,7 @@ function Timeline(options) {
 		.text(function(d) {
 			return d["team"]
 		})
-	
+
 	var events = timeline.selectAll("g.event")
 				.data(options.data.filter(function(d) {
 					//return d["type"]=="birth" || d["type"]=="worldcup" || d["type"]=="olympics"
@@ -258,7 +280,7 @@ function Timeline(options) {
 					})
 					.attr("transform", function(d) {
 						var y = yscale(d.ts1);
-						
+
 						d.y1 = y;
 
 						d.x1 = 0;
@@ -280,7 +302,7 @@ function Timeline(options) {
 						}
 						if (d["type"] == "history") {
 							x -= BAR_WIDTH + SQUARE_WIDTH * 3;
-							
+
 						}
 						tooltip.update(d.text, x, y);
 					})
@@ -307,7 +329,8 @@ function Timeline(options) {
 		})
 		.append("rect")
 			.attr("class", "ix")
-			.attr("x", -CENTER - BAR_WIDTH)
+			// .attr("x", -CENTER - BAR_WIDTH)
+			.attr("x", -CENTER)
 			.attr("width", (WIDTH))
 			.attr("y", -10)
 			.attr("height", 20)
@@ -338,9 +361,9 @@ function Timeline(options) {
 			return d["type"] != "birth" && d["type"] != "history"
 		})
 		.append("rect")
-			.attr("class", "ix")
-			.attr("x", -BAR_WIDTH / 2)
-			.attr("width", BAR_WIDTH * 2)
+			.attr("class", "ix aa")
+			.attr("x", -SQUARE_WIDTH)
+			.attr("width", SQUARE_WIDTH * 2)
 			.attr("y", -10)
 			.attr("height", 20)
 
@@ -350,8 +373,8 @@ function Timeline(options) {
 		})
 		.append("rect")
 			.attr("class", "ix")
-			.attr("x", -SQUARE_WIDTH)
-			.attr("width", (WIDTH))
+			.attr("x", -CENTER)
+			.attr("width", WIDTH)
 			.attr("y", -SQUARE_WIDTH)
 			.attr("height", function(d) {
 				return SQUARE_WIDTH * 2;
@@ -396,8 +419,8 @@ function Timeline(options) {
 		})
 		.append("rect")
 			.attr("class", "ix")
-			.attr("x", -(BAR_WIDTH + SQUARE_WIDTH * 2))
-			.attr("width", SQUARE_WIDTH * 4)
+			.attr("x", -CENTER)
+			.attr("width", SQUARE_WIDTH * 4 + CENTER)
 			.attr("y", -SQUARE_WIDTH * 1.5)
 			.attr("height", SQUARE_WIDTH * 3)
 	events
@@ -422,8 +445,8 @@ function Timeline(options) {
 						return d.label;
 					})
 	}
-	
-	
+
+
 	var year = years.selectAll("g.year")
 				.data(options.data.filter(function(d) {
 					return d["type"] == "club" || d["type"] == "trainer" || d["type"] == "birth" ||  d["type"] == "worldcup" || d["type"] == "olympics"
@@ -439,7 +462,7 @@ function Timeline(options) {
 						if (d["category"] == "range") {
 							delta = BAR_STROKE;
 						}
-						
+
 						return "translate(" + x + "," + (d.y1 + delta) + ")";
 					})
 
@@ -472,7 +495,7 @@ function Timeline(options) {
 				return -CENTER;
 				return -((WIDTH - (margin.left + margin.right)) / 2)
 			}
-			
+
 			return -CENTER;//WIDTH-CENTER;//(WIDTH-(margin.left+margin.right));//(WIDTH-(margin.left+margin.right))/2;
 		})
 		.attr("y", function(d) {
@@ -491,7 +514,22 @@ function Timeline(options) {
 			return d.ts1.getFullYear();
 		})
 
-	var tooltip = new Tooltip();
+	container.select('.ix-container')
+				.selectAll("div.ix")
+				.data(options.data)
+				.enter()
+				.append("div")
+					.attr("rel", function(d) {
+						return d.type+" "+d.category+" "+d.timestamps.join(',');
+					})
+					.attr('data-text',function(d){return d.text})
+					.attr("class","ix")
+					.style("left", 0 + 'px')
+					.style("top", function(d) {return (margin.top + yscale(d.ts1)) + 'px'})
+					// .attr("width", WIDTH + 'px')
+
+
+
 
 	function Tooltip() {
 		var tooltip = d3.select(options.container)
@@ -504,7 +542,7 @@ function Timeline(options) {
 			.on("mouseover", function(d) {
 				d3.select(this).classed("hidden", false)
 			})
-				
+
 		var container = tooltip.append("div").attr("class", "clearfix");
 		var body = container.append("p").html(""),
 		link = container.append("a")
@@ -515,11 +553,11 @@ function Timeline(options) {
 
 		this.update = function(text, x, y) {
 
-			var x = Math.round(x) - 218 - 42,
+			// var x = Math.round(x); //  - 218 - 42,
 			y = Math.round(y);
 
-			tooltip.style("top", (y + margin.top) + "px").style("left", x + "px").classed("hidden", false)
-			
+			tooltip.style("top", (y + margin.top) + "px").classed("hidden", false)
+
 			body.html(text.body);
 
 			link.attr("href", text.link ? text.link : "#").style("display", function(d) {
@@ -535,6 +573,15 @@ function Timeline(options) {
 			tooltip.classed("hidden", true)
 		}
 
+	}
+
+	var tooltip = new Tooltip();
+	this.showTooltip = function(text,x,y) {
+		console.log('showTooltip', arguments)
+		tooltip.update(text,x,y);
+	}
+	this.hideTooltip = function() {
+		tooltip.hide();
 	}
 
 }

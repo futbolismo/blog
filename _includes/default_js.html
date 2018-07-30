@@ -1,5 +1,8 @@
+<script src="{{site.baseurl}}/assets/js/Timeline.js"></script>
 <script>
-    (function() {
+    window.addEventListener("load", function(event) {
+
+
       var header = document.querySelector("#header"),
           fixed=false;
 
@@ -7,7 +10,7 @@
           var scroll=window.pageYOffset || document.documentElement.scrollTop;
 
           if (scroll > 300) {
-              header.classList.add("smaller");
+            header.classList.add("smaller");
           } else {
             header.classList.remove("smaller");
           }
@@ -27,17 +30,59 @@
         }
 
       })
+
+
+      var timeline = new Timeline({
+          container:"#timeline",
+          data:{{page.timeline_data}}
+      });
+
       var hideShowTimeline = document.querySelector('.timeline-show-btn');
       hideShowTimeline.addEventListener('click', function(d) {
           var timeline = document.querySelector('.timeline');
-          if(timeline.classList.contains('hidden-xs')) {
-            timeline.classList.remove('hidden-xs')
+          if(timeline.classList.contains('timeline-hidden')) {
+            timeline.classList.remove('timeline-hidden')
             hideShowTimeline.classList.add('hide-timeline');
           } else {
-            timeline.classList.add('hidden-xs')
+            timeline.classList.add('timeline-hidden')
             hideShowTimeline.classList.remove('hide-timeline');
           }
       })
 
-    }())
+
+      function handleIntersect(entries, observer) {
+        console.log('entries', entries)
+        entries.filter(function(d){return d.isIntersecting && d.boundingClientRect.y > 0}).forEach(function(entry) {
+          console.log(entry);
+          var data = d3.select(entry.target).data()[0];
+          console.log(data)
+          if(typeof data.text !== 'undefined') {
+              timeline.showTooltip(data.text, 0, data.y1);
+          }
+
+          // console.log('####')
+        });
+      }
+
+      var timelineIXNodes = document.querySelectorAll('.ix-container .ix');
+      createObserver();
+
+      function createObserver() {
+        var observer;
+
+        var options = {
+          root: null,
+          rootMargin: "0px",
+          threshold: 0.9
+        };
+
+        observer = new IntersectionObserver(handleIntersect, options);
+
+        timelineIXNodes.forEach(function(node) {observer.observe(node)})
+
+      }
+
+
+
+    }, false);
 </script>

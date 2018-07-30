@@ -288,7 +288,7 @@ Avete una sigaretta?
                         text:{
 
                             body:"Il 16 Maggio 1974, la nuova Costituzione della Repubblica Socialista Federale di Jugoslavia (SFRJ) venne approvata, e Josip Broz Tito fu nominato Presidente a vita.",
-                            link:"http://it.wikipedia.org/wiki/Josip_Broz_Titoe"
+                            link:"http://it.wikipedia.org/wiki/Josip_Broz_Tito"
                         }
                     },
 
