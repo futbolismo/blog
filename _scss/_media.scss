@@ -183,6 +183,12 @@
 		padding: 30px;
 		height:360px !important;
 		margin-top:130px;
+		background-size: 100% 100%;
+
+		.main-bg {
+			background-size: auto 100%;
+			background-position: calc(50% + 80px) center;
+		}
 	}
 	.jumbotron .main-abstract {
 		bottom: 2rem;

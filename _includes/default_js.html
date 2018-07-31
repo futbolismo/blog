@@ -138,12 +138,13 @@
           console.log(window.pageYOffset)
           var y = window.pageYOffset - deltaTimeline;
           //console.log(y,y - halfHeight, y - window.outerHeight)
+          // y - window.outerHeight < window.outerHeight*1.2
           var boxes = timelineIXBoxes.filter(function(d) {
-            return ((d.top - timelineIXContainerBox.top) < y - halfHeight) && (y - window.outerHeight < window.outerHeight*1.2);
+            return ((d.top - timelineIXContainerBox.top) < y - halfHeight);
           });
           var box = boxes.length ? boxes[boxes.length-1] : timelineIXBoxes[0];
 
-          //console.log(boxes);
+          console.log(boxes);
 
           var data = box.dom.data()[0];
           //console.log(data)

@@ -201,8 +201,7 @@ div.navbar.smaller > .container {
     position: relative;
 
     background-color: #333; /*#E5E1B7;*/
-		background-size: auto 100%;
-
+		background-size: 100% 100%;
 
     padding:0;
     margin-bottom: 0;
@@ -238,6 +237,9 @@ div.navbar.smaller > .container {
 	right: 0;
 	z-index:-1;
 	text-align: center;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 .jumbotron .main-bg img {
 	position: relative;
@@ -565,7 +567,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 		.ix {
 			position: absolute;
 			right: 0;
-			height: 50vh;
+			height: 1px;
 			pointer-events: none;
 		}
 	}
