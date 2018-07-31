@@ -110,8 +110,8 @@
           timelineIXContainerBox = timelineIXContainer.getBoundingClientRect();
 
           timeLineY = timelineIXContainerBox.top + window.scrollY;
-          deltaTimeline = timeLineY - window.outerHeight;
-          halfHeight = window.outerHeight / 2;
+          deltaTimeline = timeLineY - (window.outerHeight || window.innerHeight);
+          halfHeight = (window.outerHeight || window.innerHeight) / 2;
 
           console.log(timelineIXContainerBox);
 
