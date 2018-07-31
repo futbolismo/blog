@@ -99,19 +99,23 @@
             deltaTimeline,
             halfHeight,
             timelineIXNodes,
-            timelineIXBoxes;
+            timelineIXBoxes,
+            height;
 
         function hideTimeline() {
           document.removeEventListener('scroll', detectScroll);
         }
         function showTimeline() {
 
+          height = window.outerHeight || window.innerHeight;
+          halfHeight = height / 2;
+
           timelineIXContainer = document.querySelector('.ix-container');
           timelineIXContainerBox = timelineIXContainer.getBoundingClientRect();
 
           timeLineY = timelineIXContainerBox.top + window.scrollY;
-          deltaTimeline = timeLineY - (window.outerHeight || window.innerHeight);
-          halfHeight = (window.outerHeight || window.innerHeight) / 2;
+          deltaTimeline = timeLineY - height;
+
 
           console.log(timelineIXContainerBox);
 
@@ -135,16 +139,20 @@
           // console.log(window.pageYOffset,window.outerHeight,timelineIXContainerBox.top,(window.pageYOffset + window.outerHeight) - timelineIXContainerBox.top)
           //console.log(deltaTimeline, timeLineY);
           // console.log(window.outerHeight,window.pageYOffset,timelineIXContainerBox.top)
-          console.log(window.pageYOffset)
+          // console.log(window.pageYOffset)
           var y = window.pageYOffset - deltaTimeline;
           //console.log(y,y - halfHeight, y - window.outerHeight)
-          // y - window.outerHeight < window.outerHeight*1.2
+          // console.log(y - height,' > ',height*1.2);
+          if(y - height > height*1.2) {
+            timeline.hideTooltip();
+            return;
+          }
           var boxes = timelineIXBoxes.filter(function(d) {
             return ((d.top - timelineIXContainerBox.top) < y - halfHeight);
           });
           var box = boxes.length ? boxes[boxes.length-1] : timelineIXBoxes[0];
 
-          console.log(boxes);
+          // console.log(boxes);
 
           var data = box.dom.data()[0];
           //console.log(data)
