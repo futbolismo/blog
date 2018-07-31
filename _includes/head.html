@@ -19,11 +19,15 @@
 	<meta name="description" content="{{description | strip_html}}">
 
     {% include css.html %}
-
   <meta property="og:url" content="{{site.url}}{{ page.url }}"/>
 	<meta property="og:description" content="{{description | strip_html}}"/>
 	{% if page.pid != null %}
-		<meta property="og:image" content="{{site.url}}/assets/pics/header/{{ page.pid }}.jpg"/>
+    {% if page.category == "figurine" %}
+      <meta property="og:image" content="{{site.url}}/assets/pics/stickers/{{ page.pid }}.jpg"/>
+    {% else %}
+      <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ page.pid }}.jpg"/>
+    {% endif %}
+
   {% else %}
     {% for post in site.categories.miserie limit:1 %}
     <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ post.pid }}.jpg"/>
