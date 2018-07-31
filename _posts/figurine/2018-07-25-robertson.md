@@ -12,6 +12,8 @@ wikipedia: John_Robertson_(calciatore_1953)
 category: figurine
 timeline: 0
 
+excerpt: "Robertson può crossare una palla dalla fascia con la precisione di un giocatore di biliardo (Bill Shakily)"
+
 ---
 “R _obbo era un giovane niente affatto attraente, basso e tarchiato: se fossi stato giù mi sarei seduto di fianco a lui per sentirmi Errol Flynn al paragone. Ma dategli un metro di terreno e si trasforma in un artista: il Picasso del calcio_”.<br/>
 (Brian Clough)

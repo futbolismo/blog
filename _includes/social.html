@@ -1,14 +1,23 @@
 {% assign title = page.postTitle %}
 {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
 {% if page.player_short != null %}
-	{% capture title %}{{ page.player_short }} - {{ page.postTitle }}{% endcapture %}
+	{% capture title %}{{ page.player_short }}{% endcapture %}
 {% endif %}
+{% if title == null %}
+	{% capture title %}{{ page.title }}{% endcapture %}
+{% endif %}
+{% if page.description != null %}
+	{% capture description %}{{ page.description }}{% endcapture %}
+{% endif %}
+
+{{slug}}
 <ul class="list-unstyled">
+
     <li>
 	{% if page.layout == "page" %}
     <a class="twitter_link" href="https://twitter.com/intent/tweet?text=Futbolismo%20-%20{{title}}&url={{site.url}}{{ page.url }}&via=ftblsm" title="Condividi via Twitter" target="_blank">
     {% else %}
-    <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}&url={{site.url}}{{ page.url }}&via=ftblsm" title="Condividi via Twitter" target="_blank">
+    <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}%20-%20{{description | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm" title="Condividi via Twitter" target="_blank">
 	{% endif %}
     <i class="icon-twitter"></i> <span class="hidden-xs hidden-ms">Twitter</span></a></li>
     <!-- <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Condividi via Google+"><i class="icon-gplus" title="Share on Google+"></i> <span class="hidden-xs hidden-ms">Google+</span></a></li> -->

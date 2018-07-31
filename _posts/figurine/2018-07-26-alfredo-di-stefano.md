@@ -14,6 +14,8 @@ author: none
 category: figurine
 timeline: 0
 
+excerpt: "La Saeta Rubia."
+
 ---
 Correva l’anno 1953. La _Saeta Rubia_ giocava con i Milionarios Club di Bogotà, in Colombia, dove si era trasferito dal River Plate (ancora detentore del cartellino del giocatore) nel 1949 a causa della crisi in cui versava il calcio argentino funestato da scioperi che portarono allo stop del campionato… ma in verità anche per la pioggia di denaro che gli venne offerto.
 

@@ -4,6 +4,7 @@ layout: post
 pid: sliskovic
 postTitle: Blaž "Baka" Slišković
 player: Blaz Sliskovic
+player_short: Blaz Sliskovic
 wikipedia: Bla%C5%BE_Sli%C5%A1kovi%C4%87
 life: Centrocampista, nato il 30 Maggio 1959 a Mostar, Yugoslavia
 

@@ -16,12 +16,12 @@
 	{% if page.excerpt != null %}
 		{% capture description %}{{ page.excerpt | remove: '<p>' | remove: '</p>' | remove: '<br/>' | remove: '<br />' }}{% endcapture %}
 	{% endif %}
-	<meta name="description" content="{{description}}">
+	<meta name="description" content="{{description | strip_html}}">
 
     {% include css.html %}
 
   <meta property="og:url" content="{{site.url}}{{ page.url }}"/>
-	<meta property="og:description" content="{{description}}"/>
+	<meta property="og:description" content="{{description | strip_html}}"/>
 	{% if page.pid != null %}
 		<meta property="og:image" content="{{site.url}}/assets/pics/header/{{ page.pid }}.jpg"/>
   {% else %}

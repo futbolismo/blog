@@ -494,7 +494,7 @@ div.navbar {
   position: relative;
   background-color: #333;
   /*#E5E1B7;*/
-  background-size: auto 100%;
+  background-size: 100% 100%;
   padding: 0;
   margin-bottom: 0;
   border-bottom: 1px solid #ddd;
@@ -509,6 +509,7 @@ div.navbar {
 
 .jumbotron .container {
   height: 100%;
+  position: relative;
 }
 
 .main-abstract {
@@ -530,6 +531,9 @@ div.navbar {
   right: 0;
   z-index: -1;
   text-align: center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .jumbotron .main-bg img {
@@ -855,6 +859,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   font-size: 1em;
   font-style: italic;
   color: #666;
+  padding: 0 1em;
 }
 
 .post .comments {
@@ -889,6 +894,22 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   display: none;
 }
 
+.post .timeline {
+  position: relative;
+}
+.post .timeline .ix-container {
+  position: absolute;
+  width: 100%;
+  overflow: visible;
+  height: 1px;
+}
+.post .timeline .ix-container .ix {
+  position: absolute;
+  right: 0;
+  height: 1px;
+  pointer-events: none;
+}
+
 .post .sticker {
   padding: 15px;
 }
@@ -899,15 +920,20 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   font-size: 1.3rem;
 }
 .post .timeline-show-btn {
-  height: 32px;
-  line-height: 32px;
-  font-size: 18px;
-  background-color: #eee;
+  height: 44px;
+  line-height: 44px;
+  font-size: 22px;
+  background-color: #ddd;
   color: #333;
   margin: 0 15px;
   text-align: center;
-  border: 1px solid #ddd;
+  border: 1px solid #aaa;
   border-radius: 4px;
+  position: relative;
+}
+.post .timeline-show-btn:active {
+  background-color: #000;
+  color: #fff;
 }
 .post .timeline-show-btn #showTimeline {
   display: inline-block;
@@ -920,6 +946,19 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 }
 .post .timeline-show-btn.hide-timeline #hideTimeline {
   display: inline-block;
+}
+.post .timeline {
+  height: auto;
+  transition: height 0.5s linear;
+  margin-bottom: 75px;
+}
+.post .timeline.timeline-hidden {
+  visibility: hidden;
+  height: 0 !important;
+  margin-bottom: 0;
+}
+.post .timeline svg * {
+  pointer-events: none;
 }
 
 /********************* CATEGORY *******************/
@@ -988,6 +1027,13 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   padding: 0;
   font-size: 2.2rem;
   border: none;
+}
+
+.footer .disclaimer {
+  margin-top: 2em;
+}
+.footer .disclaimer a:hover {
+  color: #ff6a00;
 }
 
 .footer .social {
@@ -1254,6 +1300,11 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     padding: 30px;
     height: 360px !important;
     margin-top: 130px;
+    background-size: 100% 100%;
+  }
+  .jumbotron .main-bg {
+    background-size: auto 100%;
+    background-position: calc(50% + 80px) center;
   }
 
   .jumbotron .main-abstract {
@@ -1263,7 +1314,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
   }
 
   .jumbotron .main-abstract.left {
-    left: 10rem;
+    left: 1rem;
     right: auto;
   }
 
@@ -1540,6 +1591,27 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     width: 25%;
   }
 
+  .post .timeline {
+    padding-bottom: 0;
+  }
+  .post .timeline.timeline-hidden {
+    visibility: visible;
+    height: auto;
+  }
+  .post .timeline .timeline-tooltip {
+    position: absolute;
+    width: 260px;
+    left: 0;
+    transform: translateX(-100%);
+    right: auto;
+  }
+  .post .timeline svg * {
+    pointer-events: auto;
+  }
+  .post .post-disclaimer {
+    padding: 0;
+  }
+
   .footer .row > div {
     border-left: 1px solid #444;
   }
@@ -1553,6 +1625,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
     /*position: absolute;*/
     /*margin-top: 130px;*/
     /*border-top:1px solid #ddd;*/
+    min-height: 600px;
   }
 
   .post h4 {
@@ -1849,10 +1922,10 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 
 .timeline-tooltip {
   position: absolute;
-  width: 260px;
+  width: calc(100% - 200px);
   overflow: visible;
   height: 1px;
-  left: -185px;
+  right: 0;
   top: 0;
   color: #fff;
   margin: 0;
@@ -1862,7 +1935,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 .timeline-tooltip > div {
   position: relative;
   float: left;
-  width: 260px;
+  width: 100%;
   background: #000;
   background-color: rgba(0, 0, 0, 0.9);
   padding: 1rem;

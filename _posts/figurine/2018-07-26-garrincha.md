@@ -13,6 +13,7 @@ author: none
 category: figurine
 timeline: 0
 
+excerpt: "L'angelo dalle gambe storte. Il Chaplin del calcio. Alegria do Povo (Gioia del Popolo)"
 ---
 L'angelo dalle gambe storte.<br/>
 Il Chaplin del calcio.<br/>
