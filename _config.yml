@@ -1,7 +1,7 @@
 name: "futbolismo"
 title: "Futbolismo"
 description: "Storie e grafici del calcio"
-url: http://futbolismo.github.io/blog
+url: http://futbolismo.it
 paginate: 10
 
 excerpt_separator: <!--more-->
