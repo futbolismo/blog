@@ -14,7 +14,7 @@ La città di Sheffield, nello Yorkshire del Sud, non è famosa solo per la produ
 
 Fondato nel milleottocentocinquantasette milita attualmente nella Northern Premier League Division One South, ottavo livello del campionato di calcio Inglese.
 
-L'unico trofeo di rilievo che la società può vantare è la FA La prima formazione dello Sheffield Football Club Amateur Cup, risalente al millenovecentoquattro. Esattamente cento anni dopo l'unica vittoria, allo Sheffield FC è stato conferito il FIFA Order of Merit per il loro contributo al gioco del calcio e inseriti nella English Football Hall of Fame. L'unica altra squadra al mondo a potersi fregiare di questo titolo è il Real Madrid.
+L'unico trofeo di rilievo che la società può vantare è la FA Cup. La prima formazione dello Sheffield Football Club Amateur Cup, risalente al millenovecentoquattro. Esattamente cento anni dopo l'unica vittoria, allo Sheffield FC è stato conferito il FIFA Order of Merit per il loro contributo al gioco del calcio e inseriti nella English Football Hall of Fame. L'unica altra squadra al mondo a potersi fregiare di questo titolo è il Real Madrid.
 
 <div class="post-disclaimer">
 Fonte: <a href="http://en.wikipedia.org/wiki/Sheffield_F.C." target="_blank">Wikipedia</a>

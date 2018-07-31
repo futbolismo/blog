@@ -16,7 +16,11 @@ timeline: 0
 ---
 L'angelo dalle gambe storte.<br/>
 Il Chaplin del calcio.<br/>
-Alegria do Povo (Gioia del Popolo).<br/>
+Alegria do Povo (Gioia del Popolo).<br
+<br/>
+"_La rivoluzione sociale in marcia si ferma meravigliata a vedere il signor Mané palleggiare e poi prosegue il cammino_".
+<br/>
+(Vinicius de Moraes)
 
 Semplicemente Mané.
 
