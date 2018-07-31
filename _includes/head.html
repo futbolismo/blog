@@ -12,7 +12,7 @@
 	{% endif %}
     <title>{{title}}</title>
 
-	{% assign description = site.description %}
+	{% assign description = site.long_description %}
 	{% if page.excerpt != null %}
 		{% capture description %}{{ page.excerpt | remove: '<p>' | remove: '</p>' | remove: '<br/>' | remove: '<br />' }}{% endcapture %}
 	{% endif %}
@@ -20,14 +20,16 @@
 
     {% include css.html %}
 
-    <meta property="og:url" content="{{site.url}}{{ page.url }}"/>
+  <meta property="og:url" content="{{site.url}}{{ page.url }}"/>
 	<meta property="og:description" content="{{description}}"/>
-
 	{% if page.pid != null %}
-		{% capture image %}{{site.url}}/assets/pics/header/{{ page.pid }}.jpg{% endcapture %}
-		<meta property="og:image" content="{{image}}"/>
+		<meta property="og:image" content="{{site.url}}/assets/pics/header/{{ page.pid }}.jpg"/>
+  {% else %}
+    {% for post in site.categories.miserie limit:1 %}
+    <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ post.pid }}.jpg"/>
+    {% endfor %}
 	{% endif %}
-	<meta property="article:publisher" content="https://www.facebook.com/ftblsm"/>
+	<meta property="article:publisher" content="futbolismo.it"/>
 	<meta property="og:type" content="article"/>
 	<meta property="article:section" content="Sport"/>
 	{% assign time = site.time %}
@@ -38,7 +40,7 @@
 	<meta property="og:title" content="{{title}}"/>
 	<meta property="og:site_name" content="Futbolismo"/>
 	<meta name="twitter:site" content="@ftblsm"/>
-	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:card" content="summary"/>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-364839-39"></script>
