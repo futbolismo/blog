@@ -113,10 +113,12 @@
           deltaTimeline = timeLineY - window.outerHeight;
           halfHeight = window.outerHeight / 2;
 
+          console.log(timelineIXContainerBox);
+
           timelineIXNodes = document.querySelectorAll('.ix-container .ix');
           timelineIXBoxes = [];
           timelineIXNodes.forEach(function(d,i){
-            // console.log('adding',i,'top',d.getBoundingClientRect().top)
+            console.log('adding',i,'top',d.getBoundingClientRect().top)
             timelineIXBoxes.push({
               dom: d3.select(d),
               top: d.getBoundingClientRect().top + i/10
@@ -125,7 +127,7 @@
           timelineIXBoxes=timelineIXBoxes.sort(function(a,b){
             return a.top - b.top;
           })
-
+          console.log('all boxes',timelineIXBoxes);
           document.addEventListener('scroll', detectScroll);
         }
 
@@ -133,6 +135,7 @@
           // console.log(window.pageYOffset,window.outerHeight,timelineIXContainerBox.top,(window.pageYOffset + window.outerHeight) - timelineIXContainerBox.top)
           //console.log(deltaTimeline, timeLineY);
           // console.log(window.outerHeight,window.pageYOffset,timelineIXContainerBox.top)
+          console.log(window.pageYOffset)
           var y = window.pageYOffset - deltaTimeline;
           //console.log(y,y - halfHeight, y - window.outerHeight)
           var boxes = timelineIXBoxes.filter(function(d) {
