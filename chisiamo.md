@@ -7,13 +7,13 @@ no_social: true
 pid: chisiamo
 ---
 #### Carlo Z.  
-Avete presente quel lembo ti terra che dalla Lombardia si insinua prepotente fra il Veneto e la Romagna? Quella specie di "no man's land"? Ecco io sono nato lì, dov'è, o se preferite dove non è Sermide. Patria del melone. Era il tre gennaio del millenovecentosettantasei e da allora ne è passata di acqua nel gran fiume Po.  
+Avete presente quel lembo ti terra che dalla Lombardia si insinua prepotente fra il Veneto e la Romagna? Quella specie di "no man's land"? Ecco io sono nato lì, dov'è, o se preferite dove non è Sermide. Patria del melone. Era il millenovecentosettantasei e da allora ne è passata di acqua nel gran fiume Po.  
 Ma ne è passata così tanta che adesso si è trasformata in quella del Tamigi, sulle cui rive vivo con tutta la famiglia al seguito.  
 Al calcio ci ho giocato, ma ad oggi, sinceramente, non ho ancora capito quale sia il mio posto in mezzo al campo.  
 Confucio ha detto: "Scegli il lavoro che ami e non lavorerai mai, neanche per un giorno in tutta la tua vita." Ecco, io ho sempre avuto la passione per la visualizzazione dei dati, la curiosità di come renderli più accattivanti agli occhi della gente e l'ho fatta diventare il mio lavoro.  
 Tra un dato e un numero poi seguo la mia squadra del cuore, la Juventus, sempre e comunque!  
 Sogno di incontrare Roberto Baggio.  
-Lo trovi su Twitter come <a href="http://twitter.com/littleark" class="text-danger" title="Carlo Z. su Twitter" target="_blank">@littleark</a>
+Lo trovi su Twitter come <a href="http://twitter.com/littleark" class="text-danger" title="Carlo Z. su Twitter" target="_blank">@littleark</a> o, se ti va di vedere i suoi progetti, vai su <a href="http://makinguse.com" class="text-danger" title="Carlo Z. e i suoi progetti" target="_blank">makinguse.com</a>
 
 #### Francesco M.  
 Nasce nel capoluogo di regione più alto d'Italia il sei agosto del millenovecentosettantaquattro. Libero pensatore delle risorse umane per campare amante di calcio in generale, innamorato della "Vecchia Signora" in particolare. Ha un sinistro molto molto educato, a stento arriva a calzare il trentotto, una grande visione di gioco e una certa confidenza con il goal.  
@@ -32,6 +32,6 @@ Lo trovi su Facebook come <a href="https://www.facebook.com/iltorchio.roccofilar
 <div class="post-disclaimer">
     <b>Fotgrafie</b><br/>
     <ol>
-      <li>I tre di Montegani</li>
+      <li>"the real rules of the game: the person who's ball it is decides who plays" di Francesco Mistrulli - <a href="https://www.flickr.com/photos/44375779@N03/14841886959/in/album-72157634193847570/" target="_blank">flickr</a></li>
     </ol>
 </div>

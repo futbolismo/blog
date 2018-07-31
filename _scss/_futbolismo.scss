@@ -707,7 +707,13 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 		border:none;
 	}
 }
+.footer .disclaimer {
+	margin-top: 2em;
 
+	a:hover {
+		color:#ff6a00;
+	}
+}
 .footer .social {
 	font-size: 1.4em;
 	border-top:none;
