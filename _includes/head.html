@@ -58,14 +58,12 @@
 
     <style>
     	{% if (page.pid and page.teamheader_data == blank) %}
-	    	.jumbotron {
-				background: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg) no-repeat center center;
-			    background-size: 100% 100%;
+	    .jumbotron {
+				background-image: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg);
 			}
 
 			.jumbotron .main-bg {
-				background: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg) no-repeat center center;
-			    background-size: auto 100%;
+				background-image: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg);
 			}
 		{% else %}
       {% for post in site.categories.miserie limit:1 %}

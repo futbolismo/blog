@@ -577,7 +577,7 @@ function Timeline(options) {
 
 	var tooltip = new Tooltip();
 	this.showTooltip = function(text,x,y) {
-		console.log('showTooltip', arguments)
+		//console.log('showTooltip', arguments)
 		tooltip.update(text,x,y);
 	}
 	this.hideTooltip = function() {
