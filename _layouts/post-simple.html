@@ -23,10 +23,6 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-2">
                     <div class="row post-info">
-                        <div class="col-xs-12">
-                            <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
-                            <h5>{{ page.date | date: "%B %Y" }}</h5>
-                        </div>
                         <div class="col-xs-12 social">
                           {% include social.html %}
                         </div>
