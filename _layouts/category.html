@@ -2,11 +2,14 @@
 <html lang="en" class="page category">
 
 {% include head.html %}
-    
+
 <body>
 {% include header.html %}
+{% if page.header %}
+{% include jumbotron_min.html %}
+{% endif %}
 
-<div class="content-wrapper category {{page.category}}">
+<div class="content-wrapper category {{page.category}} {% if page.header %}no-margin{% endif %}">
     <section>
         <div class="container-fluid">
             <div class="row">
@@ -15,7 +18,7 @@
                         <div class="title col-xs-12">
                             <h3>{{page.title}}</h3>
                             <p><em>{{page.description}}</em></p>
-                            
+
                         </div>
                         <div class="col-xs-12 social">
                             {% include social.html %}
@@ -24,7 +27,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-8">
                     {{ content }}
-                </div>    
+                </div>
             </div>
         </div>
     </section>

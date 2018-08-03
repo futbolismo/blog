@@ -219,6 +219,10 @@
 		/*position: absolute;*/
 		margin-top: 130px;
 		/*border-top:1px solid #ddd;*/
+
+		&.no-margin {
+			margin-top: 0;
+		}
 	}
 
 	.content-wrapper {
