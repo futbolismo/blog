@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>futbolismo</title>
+		<description>Storie e grafici del calcio</description>		
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Ganhar ou Perder, mas sempre com Democracia</title>
+				
+					<description>&lt;p&gt;Penso, dunque sono!&lt;br /&gt;
+Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi, un brasiliano democratico.&lt;/p&gt;
+
+</description>
+				
+                        	<pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/ganhar-o-perder</link>
+				<guid isPermaLink="true">http://localhost:4000/ganhar-o-perder</guid>
+			</item>
+		
+			<item>
+				<title>Messico nuvole e quelle scarpe bianche</title>
+				
+					<description>Sono nato a Citt&amp;agrave; del Messico. Quello che mi rende speciale, diverso dai miei connazionali, almeno da quelli della mia generazione, &amp;egrave; un altra cosa: io sono sempre stato un anticonformista.</description>
+				
+                        	<pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/messico-nuvole-e-quelle-scarpe-bianche</link>
+				<guid isPermaLink="true">http://localhost:4000/messico-nuvole-e-quelle-scarpe-bianche</guid>
+			</item>
+		
+			<item>
+				<title>Uno Spillo per il Barone</title>
+				
+					<description>&lt;i&gt;...c'era una volta una strada semi asfaltata di periferia... E proprio ad una strada semi asfaltata di periferia è legato il mio personalissimo ricordo del calcio. Poi sarebbe arrivato il campo dell'oratorio, sempre in asfalto. Poi i campi polverosi e gibbosi...&lt;/i&gt;</description>
+				
+                        	<pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/uno-spillo-per-il-barone</link>
+				<guid isPermaLink="true">http://localhost:4000/uno-spillo-per-il-barone</guid>
+			</item>
+		
+			<item>
+				<title>La carga de ser M&amp;aacute;gico</title>
+				
+					<description>&lt;p&gt;Non mi piace considerare il balonpié come un lavoro. Se lo facessi mancherei di rispetto a me stesso. Soprattutto mancherei di rispetto a chi lavora per davvero, a chi si alza prima del sorgere del sole, a chi si spezza la schiena. Io gioco solo per divertirmi.&lt;/p&gt;
+
+</description>
+				
+                        	<pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/la-carga-de-ser-magico</link>
+				<guid isPermaLink="true">http://localhost:4000/la-carga-de-ser-magico</guid>
+			</item>
+		
+			<item>
+				<title>Lo zar venuto dal semi-freddo</title>
+				
+					<description>&lt;p&gt;Non sono pazzo! Io sono stato vittima di un complotto.&lt;br /&gt;
+I maledetti capitalisti hanno sacrificato me, Oleksandr Anatol&amp;rsquo;evic Zavarov, sull'altare dei loro sporchi interessi per mettere in ridicolo la Grande Madre Russia.
+
+</description>
+				
+                        	<pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/lo-zar-venuto-dal-semifreddo</link>
+				<guid isPermaLink="true">http://localhost:4000/lo-zar-venuto-dal-semifreddo</guid>
+			</item>
+		
+			<item>
+				<title>SUPERMOKH</title>
+				
+					<description>&lt;p&gt;Più letale di un cobra. Non sto scherzando. Io sotto porta ero letale.
+Certo potrà farvi sorridere. Siete abituati a gente che gioca in paesi in cui il calcio ha una tradizione più radicata, più forte. Io sono Malese, della Malesia.
+
+</description>
+				
+                        	<pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/mokhtar-dahari</link>
+				<guid isPermaLink="true">http://localhost:4000/mokhtar-dahari</guid>
+			</item>
+		
+			<item>
+				<title>Jordi Culé</title>
+				
+					<description>La sintesi del tifoso azulgrana nelle vignette di Oscar Nebreda Abadía</description>
+				
+                        	<pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/jordi-cule</link>
+				<guid isPermaLink="true">http://localhost:4000/jordi-cule</guid>
+			</item>
+		
+			<item>
+				<title>Kop (Spion Kop)</title>
+				
+					<description>La leggenda racconta che i tifosi del Kop possono risucchiare la palla in rete.</description>
+				
+                        	<pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/kop</link>
+				<guid isPermaLink="true">http://localhost:4000/kop</guid>
+			</item>
+		
+			<item>
+				<title>A piedi nudi</title>
+				
+					<description>La Nazionale di calcio Indiana alla Coppa del Mondo del 1950 in Brasile.</description>
+				
+                        	<pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/nazionale-indiana</link>
+				<guid isPermaLink="true">http://localhost:4000/nazionale-indiana</guid>
+			</item>
+		
+			<item>
+				<title>Sheffield Football Club</title>
+				
+					<description>Il più antico club calcistico al mondo.</description>
+				
+                        	<pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/sheffield-football-club</link>
+				<guid isPermaLink="true">http://localhost:4000/sheffield-football-club</guid>
+			</item>
+		
+	</channel>
+</rss>

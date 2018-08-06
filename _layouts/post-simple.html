@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" class="page {{page.category}}">
+
+	{% include head.html %}
+
+	<body>
+{% include header.html %}
+
+<div class="content-wrapper post post-simple">
+	<section>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-2 post-title">
+                    <h1>
+											{%if page.postTitle and page.postTitle != "" and page.postTitle != nil %}
+												{{page.postTitle}}
+											{% else %}
+												{{page.player}}
+											{% endif %}
+										</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-2">
+                    <div class="row post-info">
+                        <div class="col-xs-12 social">
+                          {% include social.html %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-10">
+                    <div class="post-body">
+						{{ content }}
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="small-posts">
+	    <div class="container bg-white50">
+	        <div class="top6 row">
+	            <div class="col-md-2">
+	                <div class="post-section">
+	                    <h3><a href="{{site.baseurl}}/non-tutti-sanno-che">Non tutti sanno che</a></h3>
+	                    <p class="hidden-xs"><em>Fatti, curiosit&agrave; e racconti brevi dal mondo del calcio</em></p>
+	                </div>
+	            </div>
+	            <div class="col-md-9">
+	                <div class="post-abstract">
+	                    <ul class="list-unstyled">
+	                        {% for post in site.categories.non-tutti-sanno-che %}
+	                        <li>
+	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+	                                <h4>{{post.postTitle}}</h4>
+	                                <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+	                            </a>
+	                        </li>
+	                        {% endfor %}
+	                    </ul>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+</div>
+{% include footer.html %}
+
+{% include default_js.html %}
+
+{% if page.timeline %}
+{% include timeline_js.html %}
+{% endif %}
+
+
+
+</body>
+</html>

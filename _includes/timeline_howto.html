@@ -1,0 +1,79 @@
+<script>
+	new Timeline({
+        container:"#timelineHowto div",
+        height:240,
+        howto:true,
+        data:[
+		        {
+		            type:"birth",
+		            category:"event",
+		            label: "NASCITA",
+		            timestamps:[new Date(1978,1-1,1)],
+		            text:{
+		                body:"Nascita del calciatore",
+		                link:null
+		            }
+		        },
+		        {
+		            type:"club",
+		            category:"range",
+		            timestamps:[1980,1986],
+		            team:"GIOCATORE",
+		            text:{
+		                body:"Periodo di permanenza in una squadra del calciatore come giocatore",
+		                link:null
+		            }
+		        },
+		        {
+		            type:"worldcup",
+		            category:"event",
+		            timestamps:[new Date(1987,1-1,1),new Date(1987,1-1,1)],
+		            team:"EVENTO PERSONALE",
+		            label:"EVENTO PERSONALE",
+		            text:{
+		                
+		                body:"Evento personale avvenuto durante la <i>vita calcistica</i> del calciatore (es. partecipazione ad un campionato mondiale, europeo, vittoria di un premio personale)"
+		            }
+		        },
+		        {
+		            type:"history",
+		            category:"event",
+		            timestamps:[new Date(1989,3-1,24)],
+		            label:"EVENTO STORICO",
+		            text:{
+		                
+		                body:"Evento storico avvenuto durante la <i>vita calcistica</i> del calciatore"
+		            }
+		        },
+		        {
+		            type:"national",
+		            timestamps:[1983,1986],
+		            team:"Mexico",
+		            label:"NAZIONALE",
+		            apps:41,
+		            goals:0
+		        },
+		        {
+		            type:"trainer",
+		            category:"range",
+		            timestamps:[1991,1994],
+		            team:"ALLENATORE",
+		            text:{
+		                
+		                body:"Periodo di permanenza in una squadra del calciatore come giocatore"
+		            }
+		        },
+		        {
+		            type:"birth",
+		            category:"event",
+		            label: "MORTE",
+		            timestamps:[new Date(1996,1-1,1)],
+		            text:{
+		                body:"Morte del calciatore",
+		                link:null
+		            }
+		        }
+		    ]
+    })
+
+</script>
