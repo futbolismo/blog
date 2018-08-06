@@ -21,7 +21,7 @@ Vive a Milano e oltre al pallone, lo appassiona l'antropologia, la letteratura a
 Lo trovi su Twitter come <a href="http://twitter.com/framis74" class="text-danger" title="Francesco M. su Twitter" target="_blank">@framis74 </a>
 
 #### Rocco F.  
-Io non centro niente, o quasi, lo giuro.  
+Io non c'entro niente, o quasi, lo giuro.  
 Poi io sono "nerazzurro", dell'Internazionale.  
 Facevo il difensore centrale. Una volta, giocavo nella squadra del mio paese, Campomaggiore in provincia di Potenza, dovevo marcare un attaccante che era una cosa terribile. Finte, controfinte. L'arbitro non mi dava tregua. Durante un calcio d'angolo l'arbitro mi dice: "Cinque non usare le mani! Questa è l'ultima volta che te lo dico!" Cosa potevo fare? Ho avuto un lampo di genio! Ho allargato le braccia che sembravo il Cristo del Corcovado e ho messo il mio piede su quello dell'attaccante. Il pallone è partito e io ho schiacciato. Quello cercava di muoversi, sbraitava, gridava. L'arbitro ha visto che avevo le braccia larghe. Ha fischiato un fallo. In nostro favore, e l'ha pure ammonito!  
 Ecco, non li ho certo ispirati con le mie gesta calcistiche questi due nerd! Io, da buon vinaio, li ho tirati su a Montepulciano e Cabernet Sauvignon. Questi due Fútbolismo lo hanno trovato sul fondo delle mie bottiglie. Credete a me. Sul fondo di ogni bicchiere ce n'era un pezzetto. Seduti nella mia cantina milanese, <a href="http://www.iltorchio33.it" title="Il Torchio" target="_blank">Il Torchio</a> si chiama, è nato questo progetto... ecco perché in parte lo sento anche un po' mio!  
