@@ -14,7 +14,7 @@
 {% endif %}
 <div class="content-wrapper post post-simple">
 	<section>
-    <div class="container">
+    <div class="container" style="min-height: 60vh;">
       <div class="row">
           <div class="col-xs-12 col-sm-7 col-sm-offset-2 post-title">
               <h1>
@@ -51,6 +51,9 @@
 							{% if page.life %}
 							<p>{{page.life}}</p>
 							{% endif %}
+							{% if page.wikipedia %}
+							<p class="post-disclaimer">Se vuoi scoprire altre informazioni su {{page.player}}, visita la sua pagina su <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+							{% endif %}
 						</div>
 					</div>
 					{% endif %}
@@ -60,7 +63,7 @@
 						</div>
             <div class="timeline timeline-hidden">
                 <div id="timeline" class="timeline-viz"><div class="ix-container hidden-sm hidden-md hidden-lg"></div></div>
-                <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://it.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+                <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
                 <div id="timelineHowto" class="timeline-viz hidden-xs">
                 	<span class="title">Come leggere la timeline:</span>
                 	<div></div>
@@ -81,6 +84,41 @@
 
 			</div>
 		</div>
+	</section>
+	<section>
+	    <div class="container border-bottom">
+	        <div class="top6 stickers row">
+	            <div class="col-md-2">
+	                <div class="post-section">
+	                    <h3><a href="{{site.baseurl}}/figurine-parlanti">Figurine parlanti</a></h3>
+	                    <p class="hidden-xs"><em>Perch&egrave; un figurina non &egrave; solo una cosa da bambini</em></p>
+	                </div>
+	            </div>
+	            <div class="col-xs-12 col-md-9">
+	                <div class="row flex-container">
+	                    {% for post in site.categories.figurine limit: 8 %}
+	                    <div class="post col-ms-6 col-sm-3 col-md-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
+	                        <div class="post-abstract bg-light-gray">
+	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+	                                <div class="row sticker">
+	                                    <div class="col-xs-5 col-ms-6 col-sm-12">
+	                                        <div class="post-abstract-img">
+	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}.jpg" alt="{{post.title}}" width="100%">
+	                                        </div>
+	                                    </div>
+	                                    <div class="col-xs-7 col-ms-6 col-sm-12">
+	                                        <h3>{{post.player}}</h3>
+	                                        <p class="hidden-md hidden-lg">{{post.life}}</p>
+	                                    </div>
+	                                </div>
+	                            </a>
+	                        </div>
+	                    </div>
+	                    {% endfor %}
+	                </div>
+	            </div>
+	        </div>
+	    </div>
 	</section>
 	<section>
 	    <div class="container border-bottom">
