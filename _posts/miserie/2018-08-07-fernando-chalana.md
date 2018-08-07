@@ -12,7 +12,7 @@ category: miserie
 timeline: 1
 timeline_data: chalana
 
-
+dialog: transparent white-text
 
 excerpt: "Avevo un paio di baffi enormi. Stupendi.
 Per questo mi chiamavano Chalanix. In realtà in comune con Asterix oltre ai bei baffoni ho pure la statura. Sono basso."
@@ -62,12 +62,15 @@ Non è roba da tutti!
 
 E poi per un breve attimo sono stato davvero rock'n'roll!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hIZ6_1k2sMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <div class="post-disclaimer">
-<b>Fotgrafie</b><br/>
+<b>Fotgrafie e video</b><br/>
 <ol>
 	<li>Figurina Fernando Chalana - <a href="http://www.oldschoolpanini.com/2011/01/paninomorphologie-fernando-chalana.html" target="_blank">Old School Panini</a></li>
 	<li>Figurina Chalana N. 22 - <a href="http://www.santanostalgia.com/2011/02/chalana.html" target="_blank">Santa Nostalgia</a></li>
 	<li>Fernando Chalana - Illustrazione - Romualdo Zapponi</li>
+	<li><a href="https://www.youtube.com/watch?v=hIZ6_1k2sMM" target="_blank">Clockwork boys - fernando chalana era rock'n'roll</a></li>
 </ol>
 </div>
 
