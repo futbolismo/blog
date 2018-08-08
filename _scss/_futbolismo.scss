@@ -296,6 +296,7 @@ a:hover .read-more {
 	margin:0;
 	padding:1rem;
 	overflow: hidden;
+	height: 100%
 }
 /*.miserie.row .post-abstract p {
 	display:block;
@@ -493,6 +494,8 @@ a.post-link:hover img {
 	font-size:1.1em;
 	margin:0.5rem 0;
 	color:#333;
+	min-height: 32px;
+  line-height: 32px;
 }
 
 html:not(.page) .post .post-body p:first-child:first-letter {
@@ -580,14 +583,21 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	.sticker {
 		padding: 15px;
 
-		.sticker-pic {}
+		.sticker-pic {
+			img.rotated-img {
+				transform: rotate(-90deg);
+			}
+			margin-bottom: 10px;
+		}
 
 		h4 {
 			color:#333;
 			margin-top: 0;
 			margin-bottom: 0.5rem;
-			font-size: 1.3rem;
+			font-size: 1.8rem;
 		}
+
+		border-bottom: 1px solid #ddd;
 	}
 
 	.timeline-show-btn {
