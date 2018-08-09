@@ -41,7 +41,7 @@
 					{% if sticker %}
 					<div class="sticker row">
 						<div class="sticker-pic col-xs-12 col-sm-12 {% if page.sticker_type == "double" %}text-center{% endif %}">
-								<img class="responsive-img {% if page.sticker_type == "double" %}rotated-img{% endif %}" src="{{sticker}}" alt="{{page.player}}">
+								<img class="responsive-img" src="{{sticker}}" alt="{{page.player}}">
 						</div>
 						<div class="col-xs-12 col-xs-height col-sm-12">
 							{% if page.player %}
@@ -105,7 +105,7 @@
 	                                <div class="row sticker">
 	                                    <div class="col-xs-5 col-ms-6 col-sm-12">
 	                                        <div class="post-abstract-img">
-	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}.jpg" alt="{{post.title}}" width="100%">
+	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}{% if post.sticker_type == "double" %}_90deg{% endif %}.jpg" alt="{{post.title}}" width="100%">
 	                                        </div>
 	                                    </div>
 	                                    <div class="col-xs-7 col-ms-6 col-sm-12">
