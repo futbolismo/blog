@@ -17,7 +17,7 @@ excerpt: Perchè una figurina non è solo una cosa da bambini
                         <div class="row sticker">
                             <div class="col-xs-5 col-ms-12 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}.jpg?1" alt="{{post.title}}" width="100%">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}{% if post.sticker_type == "double" %}{{sticker}}_90deg{% endif %}.jpg?1" alt="{{post.title}}" width="100%">
                                 </div>
                             </div>
                             <div class="col-xs-7 col-ms-12 col-sm-12">
