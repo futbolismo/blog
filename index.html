@@ -85,7 +85,7 @@ layout: landing
                                 <div class="row sticker">
                                     <div class="col-xs-5 col-ms-6 col-sm-12">
                                         <div class="post-abstract-img">
-                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}.jpg" alt="{{post.title}}" width="100%">
+                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}{% if post.sticker_type == "double" %}{{sticker}}_90deg{% endif %}.jpg" alt="{{post.title}}" width="100%">
                                         </div>
                                     </div>
                                     <div class="col-xs-7 col-ms-6 col-sm-12">
