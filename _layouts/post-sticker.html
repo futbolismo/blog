@@ -5,6 +5,9 @@
 
 	<body>
 {% include header.html %}
+{% if page.header != null %}
+{% include jumbotron_min.html %}
+{% endif %}
 
 {% if page.life != null %}
 	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
@@ -12,7 +15,7 @@
 		{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
 	{% endif %}
 {% endif %}
-<div class="content-wrapper post post-simple">
+<div class="content-wrapper post {% if page.header == null %}post-simple{% endif %}">
 	<section>
     <div class="container" style="min-height: 60vh;">
       <div class="row hidden-xs">
