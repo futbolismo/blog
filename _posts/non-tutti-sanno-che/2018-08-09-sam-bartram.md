@@ -2,6 +2,8 @@
 layout: post-simple
 
 pid: bartram
+header: bartram
+
 postTitle: Samuel Bartram
 
 category: non-tutti-sanno-che
@@ -52,5 +54,10 @@ Il 18 luglio del 1981, il giorno dopo che sono morto “The Observer” mi descr
 Meglio tardi che mai dico io.
 
 <div class="post-disclaimer">
-Fotografia: <a href="https://en.wikipedia.org/wiki/Sam_Bartram" target="_blank">Wikipedia</a>
+
+<div class="post-disclaimer">
+<ol>
+	<li>Illustrazione <b>Samuel Bartram</b> gentilmente concessa da <a title="Samuel Bartram - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a></li>
+  <li>Fotografia: <a href="https://en.wikipedia.org/wiki/Sam_Bartram" target="_blank">Wikipedia</a></li>
+</ol>
 </div>

@@ -5,8 +5,11 @@
 
 	<body>
 {% include header.html %}
+{% if page.header != null %}
+{% include jumbotron_min.html %}
+{% endif %}
 
-<div class="content-wrapper post post-simple">
+<div class="content-wrapper post {% if page.header == null %}post-simple{% endif %}">
 	<section>
         <div class="container">
             <div class="row">
