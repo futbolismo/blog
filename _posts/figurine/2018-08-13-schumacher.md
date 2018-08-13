@@ -2,6 +2,7 @@
 layout: post-sticker
 
 pid: schumacher
+header: schumacher
 
 postTitle: Harald Anton Schumacher
 player: Harald Anton Schumacher
@@ -46,3 +47,9 @@ Ad ogni modo se c’è una cosa che rimpiango con tutto me stesso è quella stup
 
 
 Così il primo match della storia dei Mondiali di calcio deciso ai rigori, una delle più belle partite di sempre della Coppa del Mondo, verrà ricordato per sempre per il mio fallo su Patrick.
+
+<div class="post-disclaimer">
+<ol>
+	<li>Illustrazione <b>Harald Anton Schumacher</b> gentilmente concessa da <a title="Harald Anton Schumacher - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a></li>
+</ol>
+</div>
