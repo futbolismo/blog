@@ -15,7 +15,7 @@ author: none
 category: figurine
 timeline: 0
 
-excerpt: "Siviglia. 8 luglio del 1982. Mondiali di Spagna. Semifinale, Germania Ovest contro Francia, finita ai rigori 5-4"
+excerpt: "Nacht von Seville. 8 luglio del 1982. Mondiali di Spagna. Semifinale, Germania Ovest contro Francia, finita ai rigori 5-4"
 
 ---
 Nacht von Seville
