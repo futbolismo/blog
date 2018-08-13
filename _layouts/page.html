@@ -2,29 +2,33 @@
 <html lang="en" class="page {{page.pid}}">
 
 {% include head.html %}
-    
+
 <body>
 {% include header.html %}
+{% if page.header == 'large-picture' %}
+{% include jumbotron_large_picture.html %}
+{% else %}
 {% include jumbotron_min.html %}
+{% endif %}
 
 <div class="content-wrapper page post">
     <section>
         <div class="container">
             <div class="row">
-                <div class="post-section col-xs-12 col-md-offset-1 col-md-2">
-                    <div class="row post-info">
-                        <div class="title col-xs-12">
-                            <h3>{{page.title}}</h3>
-                            <p><em>{{page.description}}</em></p>
-                            
-                        </div>
-                        {% if page.no_social != true %}
-                        <div class="col-xs-12 social">
-                            {% include social.html %}
-                        </div>
-                        {% endif %}
-                    </div>
-                </div>
+              <div class="post-section col-xs-12 col-md-offset-1 col-sm-2">
+                  <div class="row post-info">
+                      <div class="col-xs-12">
+                        <h3>{{page.title}}</h3>
+                        <p><em>{{page.description}}</em></p>
+                      </div>
+                      {% if page.no_social != true %}
+                      <div class="col-xs-12 social">
+                          {% include social.html %}
+                      </div>
+                      {% endif %}
+                  </div>
+              </div>
+                
                 <div class="col-xs-12 col-md-8">
                 	<div class="post-body">
     					{{ content }}

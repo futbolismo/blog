@@ -1,5 +1,6 @@
 ---
 layout: page
+header: large-picture
 title: Chi siamo
 description: Tutto sul team che ha creato Fútbolismo
 permalink: /chi-siamo/

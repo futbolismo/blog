@@ -190,6 +190,14 @@
 			background-size: auto 100%;
 			background-position: center center;
 		}
+
+		&.large-picture {
+			height: 100%;
+			padding: 0!important;
+			height: 470px !important;
+			background: transparent !important;
+			border-bottom: none;
+		}
 	}
 	.jumbotron .main-abstract {
 		bottom: 2rem;
