@@ -240,9 +240,10 @@
 	}
 
 	.row .post-section h3 {
-		font-size:1.2em;
+		font-size:18px;
 		border-bottom:none;
 		margin-bottom: 1rem;
+		padding-top: 1em;
 	}
 
 	.title {
@@ -383,16 +384,32 @@
 	.post .post-info {
 		border-top:none;
 		border-bottom:1px solid #ddd;
+
+		h5 {
+			line-height: 1.8rem;
+
+			&:first-child {
+				margin-top: 33px;
+			}
+		}
 	}
 
 	.post .post-body {
 		border-right:1px solid #ddd;
+		padding-top: 1rem;
 		padding-right:2rem;
+
+		&.no-border {
+			border-right: none;
+		}
 	}
 	.post .post-body p {
 		font-size:22px;
 		line-height: 32px;
 		margin-top: 0;
+		&:first-child {
+			margin-top: 11px;
+		}
 	}
 
 	.post .sticker {

@@ -260,6 +260,10 @@ div.navbar.smaller > .container {
 }
 .content-wrapper section {
 	margin:0 0 2.5rem;
+
+	&.border-top .container {
+		border-top: 1px solid #ddd;
+	}
 }
 
 .content-wrapper section > div.border-bottom {
