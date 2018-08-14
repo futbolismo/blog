@@ -14,7 +14,7 @@ author: none
 category: figurine
 timeline: 0
 
-excerpt: "Siviglia. 8 luglio del 1982. Mondiali di Spagna. Semifinale, Germania Ovest contro Francia, finita ai rigori 5-4"
+excerpt: "Nuit de Séville. 8 luglio del 1982. Mondiali di Spagna. Semifinale, Germania Ovest contro Francia, finita ai rigori 5-4"
 
 ---
 Nuit de Séville
@@ -45,3 +45,7 @@ Tutto è dimenticato. L’ho perdonato. E’ un gioco il calcio e queste cose po
 
 
 Così il primo match della storia dei Mondiali di calcio deciso ai rigori, una delle più belle partite di sempre della Coppa del Mondo, verrà ricordato per sempre per il fatto che a momenti Toni mi ammazza!
+
+<a href="/schumacher">Nacht von Seville</a>
+
+<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
