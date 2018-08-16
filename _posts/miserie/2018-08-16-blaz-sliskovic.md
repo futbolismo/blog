@@ -14,7 +14,7 @@ category: miserie
 timeline: 1
 timeline_data: sliskovic
 
-
+dialog: black-text left
 
 excerpt: "L'ultima boccata di sigaretta. Poi inizierò a raccontare.
 Guardate. Quello è lo Stari Most, il famoso Ponte Vecchio. E quelli alle due estremità sono i Mostari, le  due torri che sembrano essere dei guardiani."
