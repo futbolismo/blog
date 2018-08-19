@@ -6,7 +6,11 @@
 	<body>
 {% include header.html %}
 {% if page.header != null %}
+{% if page.header == 'large-picture' %}
+{% include jumbotron_large_picture.html %}
+{% else %}
 {% include jumbotron_min.html %}
+{% endif %}
 {% endif %}
 
 <div class="content-wrapper post {% if page.header == null %}post-simple{% endif %}">

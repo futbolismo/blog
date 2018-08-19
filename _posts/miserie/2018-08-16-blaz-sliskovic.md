@@ -2,7 +2,7 @@
 layout: post
 
 pid: sliskovic
-postTitle: Blaž "Baka" Slišković
+postTitle: Blaž Baka Slišković
 player: Blaz Sliskovic
 player_short: Blaz Sliskovic
 wikipedia: Bla%C5%BE_Sli%C5%A1kovi%C4%87
