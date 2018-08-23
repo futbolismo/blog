@@ -17,3 +17,9 @@
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css" />
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml">
+
+{% if page.addStyles %}
+{% for style in page.addStyles %}
+  <link href="{{ site.baseurl }}/assets{{ style }}" rel="stylesheet">
+{% endfor %}
+{% endif %}
