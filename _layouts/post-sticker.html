@@ -4,10 +4,14 @@
 	{% include head.html %}
 
 	<body>
-{% include header.html %}
-{% if page.header != null %}
-{% include jumbotron_min.html %}
-{% endif %}
+	{% include header.html %}
+	{% if page.header != null %}
+	{% if page.header == 'large-picture' %}
+	{% include jumbotron_large_picture.html %}
+	{% else %}
+	{% include jumbotron_min.html %}
+	{% endif %}
+	{% endif %}
 
 {% if page.life != null %}
 	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
