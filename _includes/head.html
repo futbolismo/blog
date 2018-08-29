@@ -74,6 +74,9 @@
 
 			.jumbotron .main-bg {
 				background-image: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg);
+        {% if (page.header_mobile) %}
+        background-position: center {{ page.header_mobile }}
+        {% endif %}
 			}
 		{% else %}
       {% for post in site.categories.miserie limit:1 %}
