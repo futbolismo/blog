@@ -1,0 +1,172 @@
+.timeline-viz {
+	overflow: visible;
+	position: relative;
+}
+.timeline-viz span.title {
+	font-weight:normal;
+	font-size: 14px;
+	margin: 30px 0 10px;
+	display: block;
+}
+.timeline svg {
+	font-family: sans-serif,serif,"Times New Roman";
+}
+
+.timeline line.time-axis {
+	stroke:#ddd;
+	stroke-width:1;
+	fill:none;
+	shape-rendering: crispEdges;
+}
+
+.timeline g rect {
+	stroke:#fff;
+	stroke-width:2;
+	fill:#888;
+	fill-opacity:0.5;
+	shape-rendering: crispEdges;
+}
+.timeline g.national rect {
+	fill:url(#diagonalHatch);
+	fill-opacity:1;
+
+}
+.timeline g.trainer rect {
+	fill:#FFDA77;
+	fill-opacity:0.6;
+}
+.timeline g.worldcup rect,
+.timeline g.worldcup circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:gold;
+}
+.timeline g.olympics rect,
+.timeline g.olympics circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:#00A5FF;
+}
+.timeline g.uefa rect,
+.timeline g.uefa circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:#336699;
+}
+.timeline g.cup rect,
+.timeline g.cup circle {
+	stroke:#666;
+	stroke-width:1;
+	fill:#92cf00;
+}
+.timeline g.history rect {
+	stroke:none;
+	stroke-width:1;
+	fill:#333;
+	fill-opacity:1;
+}
+.timeline g.howto:not(.birth) rect,
+.timeline g.howto:not(.birth) circle {
+	fill:#999;
+}
+
+.timeline g.event line {
+	stroke:#333;
+	stroke-width:1;
+	fill:none;
+	shape-rendering: crispEdges;
+}
+
+.timeline g.event line.ix {
+	stroke-opacity:0;
+	stroke-width:10;
+}
+.timeline g g:hover rect,
+.timeline g g:hover circle,
+.timeline g g.hover rect,
+.timeline g g.hover circle {
+	fill:#ff6600;
+}
+.timeline g g:hover text,
+.timeline g g.hover text {
+	font-weight: bold;
+}
+.timeline g g rect.ix {
+	fill-opacity:0;
+	stroke:none;
+}
+.timeline g.worldcup text,
+.timeline g.olympics text,
+.timeline g.uefa text,
+.timeline g.cup text,
+.timeline g.history text,
+.timeline g.birth text,
+.timeline g.national text {
+	font-size:10px;
+	text-anchor:start;
+}
+
+
+.timeline g.year.worldcup,
+.timeline g.year.olympics,
+.timeline g.year.uefa,
+.timeline g.year.cup {
+	display: none;
+}
+
+.timeline g.year text {
+	font-size:10px;
+	text-anchor:start;
+}
+.timeline g.year.history text {
+	text-anchor:start;
+}
+.timeline g.year line {
+	stroke:#ddd;
+	stroke-width:1;
+	fill:none;
+	shape-rendering: crispEdges;
+}
+
+.timeline-tooltip {
+
+	position: absolute;
+	width: calc(100% - 200px);
+	overflow: visible;
+	height: 1px;
+	right: 0;
+	top:0;
+	color:#fff;
+	margin:0;
+	height:auto;
+
+}
+.timeline-tooltip > div {
+	position: relative;
+	float: left;
+	width:100%;
+	background:#000;
+	background-color:rgba(0,0,0,0.9);
+	padding:1rem;
+}
+.timeline-tooltip h3 {
+	font-family: inherit;
+	font-weight: normal;
+	font-size:1.5rem;
+	color:#fff;
+	border-bottom:1px solid #fff;
+	margin-bottom:1rem;
+}
+.timeline-tooltip a {
+	color: inherit;
+	text-decoration: none;
+}
+.timeline-tooltip a:hover {
+	color:inherit;
+	text-decoration: underline;
+}
+.timeline-tooltip ul {
+	margin:0;
+	padding:0;
+	list-style-position: inside;
+}

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" class="{{page.category}}">
+
+	{% include head.html %}
+
+	<body>
+	{% include header.html %}
+	{% if page.header != null %}
+	{% if page.header == 'large-picture' %}
+	{% include jumbotron_large_picture.html %}
+	{% else %}
+	{% include jumbotron_min.html %}
+	{% endif %}
+	{% endif %}
+
+{% if page.life != null %}
+	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
+	{% if page.remote_sticker %}
+		{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
+	{% endif %}
+{% endif %}
+<div class="content-wrapper post {% if page.header == null %}post-simple{% endif %}">
+	<section>
+    <div class="container" style="min-height: 60vh;">
+      <div class="row hidden-xs">
+          <div class="col-xs-12 col-sm-7 col-sm-offset-2 post-title">
+              <h1>
+								{%if page.postTitle and page.postTitle != "" and page.postTitle != nil %}
+									{{page.postTitle}}
+								{% else %}
+									{{page.player}}
+								{% endif %}
+							</h1>
+          </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-2">
+            <div class="row post-info">
+                <div class="col-xs-12">
+                    <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
+										<p class="hidden-xs"><em>Perch&egrave; una figurina non &egrave; solo una cosa da bambini</em></p>
+                </div>
+                <div class="col-xs-12 social">
+                    {% include social.html %}
+                </div>
+            </div>
+        </div>
+				<div class="{% if page.sticker_type == "double" %}col-sm-3 col-sm-push-7{% else %}col-sm-2 col-sm-push-8{% endif %} col-xs-12 no-padding" style="z-index:9999">
+					{% if sticker %}
+					<div class="sticker row">
+						<div class="sticker-pic col-xs-12 col-sm-12 {% if page.sticker_type == "double" %}text-center{% endif %}">
+								<img class="responsive-img" src="{{sticker}}" alt="{{page.player}}">
+						</div>
+						<div class="col-xs-12 col-xs-height col-sm-12">
+							{% if page.player %}
+							<h4>{{page.player}}</h4>
+							{% endif %}
+							{% if page.life %}
+							<p>{{page.life}}</p>
+							{% endif %}
+							{% if page.wikipedia %}
+							<p class="post-disclaimer hidden-xs">Se vuoi scoprire altre informazioni su {{page.player}}, visita la sua pagina su <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+							{% endif %}
+						</div>
+					</div>
+					{% endif %}
+						{% if page.timeline == 1 %}
+						<div class="timeline-show-btn hidden-sm hidden-md hidden-lg" role="button">
+							<span class="glyphicon glyphicon-option-vertical" aria-hidden="true"></span> <span id="showTimeline">Mostra</span><span id="hideTimeline">Nascondi</span> timeline
+						</div>
+            <div class="timeline timeline-hidden">
+                <div id="timeline" class="timeline-viz"><div class="ix-container hidden-sm hidden-md hidden-lg"></div></div>
+                <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+                <div id="timelineHowto" class="timeline-viz hidden-xs">
+                	<span class="title">Come leggere la timeline:</span>
+                	<div></div>
+                </div>
+            </div>
+						{% endif %}
+        </div>
+
+        <div class="col-xs-12 {% if page.sticker_type == "double" %}col-sm-7 col-sm-pull-3{% else %}col-sm-8 col-sm-pull-2{% endif %}">
+          <div class="post-body">
+						{{ content }}
+					</div>
+					{% if page.category == "miserie" %}
+						<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
+					{% endif %}
+					{% if page.wikipedia %}
+					<p class="post-disclaimer hidden-sm hidden-md hidden-lg">Se vuoi scoprire altre informazioni su {{page.player}}, visita la sua pagina su <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+					{% endif %}
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+	<section>
+	    <div class="container border-bottom">
+	        <div class="top6 stickers row">
+	            <div class="col-md-2">
+	                <div class="post-section">
+	                    <h3><a href="{{site.baseurl}}/figurine-parlanti">Figurine parlanti</a></h3>
+	                    <p class="hidden-xs"><em>Perch&egrave; un figurina non &egrave; solo una cosa da bambini</em></p>
+	                </div>
+	            </div>
+	            <div class="col-xs-12 col-md-9">
+	                <div class="row flex-container">
+	                    {% for post in site.categories.figurine limit: 8 %}
+	                    <div class="post col-ms-6 col-sm-3 col-md-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
+	                        <div class="post-abstract bg-light-gray">
+	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+	                                <div class="row sticker">
+	                                    <div class="col-xs-5 col-ms-6 col-sm-12">
+	                                        <div class="post-abstract-img">
+	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}{% if post.sticker_type == "double" %}_90deg{% endif %}.jpg" alt="{{post.title}}" width="100%">
+	                                        </div>
+	                                    </div>
+	                                    <div class="col-xs-7 col-ms-6 col-sm-12">
+	                                        <h3>{{post.player}}</h3>
+	                                        <p class="hidden-md hidden-lg">{{post.life}}</p>
+	                                    </div>
+	                                </div>
+	                            </a>
+	                        </div>
+	                    </div>
+	                    {% endfor %}
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+	<section>
+	    <div class="container border-bottom">
+	        <div class="top6 miserie row">
+	            <div class="col-xs-12 col-md-2">
+	                <div class="post-section">
+	                    <h3><a href="{{site.baseurl}}/miserie-e-splendori">Miserie e Splendori</a></h3>
+	                    <p class="hidden-xs"><em>Il calcio raccontato dalle mitologiche imprese dei suoi interpreti</em></p>
+	                </div>
+	            </div>
+	            <div class="col-xs-12 col-md-9">
+	                <div class="row">
+	                    {% for post in site.categories.miserie offset: 3  %}
+	                    <div class="post col-ms-6 col-sm-4 col-md-4 border-bottom">
+	                        <div class="post-abstract bg-light-gray">
+	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+	                                <div class="row">
+	                                    <div class="col-xs-5 col-ms-12 col-sm-12">
+	                                        <div class="post-abstract-img">
+	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.jpg" alt="{{post.title}}" width="100%">
+	                                        </div>
+	                                    </div>
+	                                    <div class="col-xs-7 col-ms-12 col-sm-12">
+	                                        <h3>
+	                                          {%if post.postTitle and post.postTitle != "" and post.postTitle != nil %}
+	                                            {{post.postTitle}}
+	                                          {% else %}
+	                                            {{post.player}}
+	                                          {% endif %}
+	                                        </h3>
+	                                        <p class="margin-bottom-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short}}</b></p>
+	                                        <p class="descr {{post.story_type}} hidden-xs">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+
+	                                    </div>
+	                                </div>
+	                            </a>
+	                        </div>
+	                    </div>
+	                    {% endfor %}
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+</div>
+{% include footer.html %}
+
+{% include default_js.html %}
+
+{% if page.teamheader_data %}
+{% include team_header_js.html %}
+{% endif %}
+
+{% if page.timeline == 1 %}
+{% include timeline_howto.html %}
+{% endif %}
+
+</body>
+</html>
