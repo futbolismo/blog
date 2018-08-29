@@ -12,6 +12,8 @@ category: miserie
 timeline: 1
 timeline_data: holmqvist
 
+dialog: black-text left
+
 excerpt: "Sono Svedese, ma in verità non rappresento il cliché dello Svedese classico. Anzi sono tutto l'opposto: un metro e  settantaquattro centimetri per sessantanove chili"
 ---
 Una telefonata può cambiare la vita?  
