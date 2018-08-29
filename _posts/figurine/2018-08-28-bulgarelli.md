@@ -7,7 +7,7 @@ header: large-picture
 postTitle: Giacomo Bulgarelli
 player: Giacomo Bulgarelli
 
-life: Attaccante, nato a Portonovo di Medicina, il 24 ottobre 1940
+life: Centrocampista, nato a Portonovo di Medicina, il 24 ottobre 1940
 
 wikipedia: Giacomo_Bulgarelli
 
