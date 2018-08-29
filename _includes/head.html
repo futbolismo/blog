@@ -2,15 +2,19 @@
     <meta charset="utf-8">
     <!-- <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	{% assign title = site.title %}
+	{% assign siteTitle = site.title %}
 
-	{% if page.title != null %}
-		{% capture title %}{{ page.title }} - {{title}}{% endcapture %}
+  {% if page.title != null %}
+    {% capture title %}{{ page.title }}{% endcapture %}
+  {% endif %}
+
+	{% if page.postTitle != null %}
+		{% capture title %}{{ page.postTitle }}{% endcapture %}
 		{% if page.player_short != null %}
-			{% capture title %}{{ page.player_short }} - {{title}}{% endcapture %}
+			{% capture title %}{{ page.player_short }}{% endcapture %}
 		{% endif %}
 	{% endif %}
-    <title>{{title}}</title>
+    <title>{{title}} - {{siteTitle}}</title>
 
 	{% assign description = site.long_description %}
 	{% if page.excerpt != null %}
