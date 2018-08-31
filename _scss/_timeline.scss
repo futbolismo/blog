@@ -139,7 +139,12 @@
 	color:#fff;
 	margin:0;
 	height:auto;
-
+}
+@media (max-width: $screen-xs320) {
+	.timeline-tooltip {
+		width: calc(100% - 100px);
+		margin-top: 15px;
+	}
 }
 .timeline-tooltip > div {
 	position: relative;
