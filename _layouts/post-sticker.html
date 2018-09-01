@@ -140,8 +140,8 @@
 	                </div>
 	            </div>
 	            <div class="col-xs-12 col-md-9">
-	                <div class="row">
-	                    {% for post in site.categories.miserie offset: 3  %}
+	                <div class="row  flex-container">
+	                    {% for post in site.categories.miserie limit: 3  %}
 	                    <div class="post col-ms-6 col-sm-4 col-md-4 border-bottom">
 	                        <div class="post-abstract bg-light-gray">
 	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
