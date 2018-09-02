@@ -13,8 +13,11 @@
 			{% capture title %}{{ page.player_short }}{% endcapture %}
 		{% endif %}
 	{% endif %}
+  {% if title %}
     <title>{{title}} - {{siteTitle}}</title>
-
+  {% else %}
+    <title>{{siteTitle}}</title>
+  {% endif %}
 	{% assign description = site.long_description %}
 	{% if page.excerpt != null %}
 		{% capture description %}{{ page.excerpt | remove: '<p>' | remove: '</p>' | remove: '<br/>' | remove: '<br />' }}{% endcapture %}
