@@ -18,7 +18,7 @@ category: figurine
 timeline: 0
 
 excerpt: "“Il colombiano Carlos Valderrama ha i piedi storti, e la stortura gli serve per nascondere meglio il pallone.” (Eduardo Galeano)"
-hashtags: ElPibe, Colombia, Cafetros
+hashtags: ElPibe, Colombia, Cafeteros
 ---
 Nasce a Santa Marta, comune portuale nel nord della Colombia, ed è il più piccolo di dieci figli, un bimbo vispo che da subito respira calcio, suo padre, Carlos Valderrama pure lui, oltre ad essere professore di matematica è anche giocatore a livello professionistico nell'Unión Magdalena, dove gioca come difensore, e ha un ruolo fondamentale per il piccolo Carlos: gli trasmette l’amore per il calcio. A proposito è proprio Carlos Valderrama padre a coniare il soprannome Pibe per Carlos Valderrama figlio.
 
