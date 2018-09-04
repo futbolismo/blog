@@ -26,7 +26,7 @@ Siviglia. 8 luglio del 1982. Stiamo partendo io e i miei compagni della Francia 
 Sapevo già che non sarei partito titolare.
 
 
-Ore 21.00.  Entriamo in campo. Mi dirigo verso la panchina. La prima cosa che noto, e come non notarlo, è che il nostro Jean-Luc Ettori ha la stessa maglia di Toni! Rossa! Ma lui non gioca sempre con la maglia blu?
+Ore 21.00.  Entriamo in campo. Mi dirigo verso la panchina. La prima cosa che noto, e come non notarlo, è che il nostro <a href="ettori" title="Figurina Jean-Luc Ettori">Jean-Luc Ettori</a> ha la stessa maglia di Toni! Rossa! Ma lui non gioca sempre con la maglia blu?
 
 
 Ad un certo punto Michel Hidalgo, il mister, mi chiama e mi dice di iniziare il riscaldamento. Tra poco toccherà a me. Ero sulla linea laterale e avevo già notato che Toni era piuttosto aggressivo quel giorno. Aveva addirittura fatto finta di calciare il pallone contro i nostri tifosi dietro di lui!
@@ -36,7 +36,7 @@ Al 52’ entro in campo al posto di Genghini. In campo ci sono rimasto solo poch
 
 Mi sono svegliato in ospedale. Ho perso due denti. Ho tre costole incrinate e due vertebre fratturate.
 
-L’Equipe titola il giorno seguente Tony Schumacher, Beruf Unmensch "Toni Schumacher, mostro professionista".
+L’Equipe titola il giorno seguente <a href="schumacher" title="Figurina Schumacher">Tony Schumacher</a>, Beruf Unmensch "Toni Schumacher, mostro professionista".
 
 
 Ho ricevuto una chiamata non molto tempo dopo da qualcuno molto vicino a Toni, voleva incontrarmi. Mi è stato detto che le cose erano state molto spiacevoli per lui e la sua famiglia. Volevo incontrarlo per vedere se potevo calmare la situazione. Ci siamo incontrati e abbiamo parlato di come ci siamo sentiti. Per me è finita lì. Non ricordo se si è scusato, non ne sono sicuro, ma di certo averne parlato ha fatto bene a tutti e due. Una cosa la so. Toni è uno che vuole vincere a tutti i costi e quella sera è andato un po’ oltre.
