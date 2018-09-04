@@ -31,14 +31,14 @@ Devo uscire. Senza pensarci due volte apro le porte dell’ascensore con quanta 
 Nella fretta poi ho lasciato la borsa in quel cazzo di ascensore. E nella borsa c’è la maglietta blu, quella con cui ho giocato tutte le partite, fino ad oggi.  Perché oggi giocherò con la maglia rossa.
 
 
-Ore 21.00. Entriamo in campo. La prima cosa che noto, e come non notarlo, è il portiere francese, Jean-Luc Ettori. Abbiamo la stessa maglia!
+Ore 21.00. Entriamo in campo. La prima cosa che noto, e come non notarlo, è il portiere francese, <a href="ettori" title="Figurina Jean-Luc Ettori">Jean-Luc Ettori</a>. Abbiamo la stessa maglia!
 
 Ci sono 70.000 spettatori questa sera. Non mi sento tranquillo. L’ascensore. La maglia rossa. C’è qualcosa che no mi quadra. Sono insolitamente nervoso. Nel primo tempo, ho dato pure una manata ad un giocatore francese, non ricordo nemmeno chi. Adesso poi ci sono dietro di me i tifosi francesi. Mi stanno mandando fuori di testa. Così prendo un pallone e faccio finta di calciarlo con forza verso di loro.
 
-Poi vedo partire un lancio millimetrico. Di sicuro sarà stato Platini. Pesca Patrick al millimetro. E’ lanciato a tutta verso l’area. I miei compagni non lo tengono. Gli arrivo davanti lanciato come un treno. Lui mi salta con un pallonetto. Boom. Lo centro in pieno. La palla è finita fuori. Meno male!
+Poi vedo partire un lancio millimetrico. Di sicuro sarà stato <a href="/platini" title="Figurina Platini">Platini</a>. Pesca <a href="/battiston" title="Figurina Battiston">Patrick</a> al millimetro. E’ lanciato a tutta verso l’area. I miei compagni non lo tengono. Gli arrivo davanti lanciato come un treno. Lui mi salta con un pallonetto. Boom. Lo centro in pieno. La palla è finita fuori. Meno male!
 
 
-Patrick è rimasto a terra. Privo di sensi, completamente immobile. Io non so bene cosa mi sia successo. Non mi sono fatto niente eppure me ne sto qui in area a palleggiare e fare stretching. Me ne sto con le braccia poggiate sui fianchi e non riesco nemmeno ad avvicinarmi. Sono nervoso.
+<a href="/battiston" title="Figurina Battiston">Patrick</a> è rimasto a terra. Privo di sensi, completamente immobile. Io non so bene cosa mi sia successo. Non mi sono fatto niente eppure me ne sto qui in area a palleggiare e fare stretching. Me ne sto con le braccia poggiate sui fianchi e non riesco nemmeno ad avvicinarmi. Sono nervoso.
 
 Non volevo colpirlo, tantomeno fargli del male, ma rifarei la stessa cosa se l'azione dovesse ripetersi. Era l'unico modo secondo me per prendere la palla. Segretamente, però temo che Patrick sia gravemente ferito, forse in coma.
 
@@ -48,7 +48,7 @@ Ad ogni modo se c’è una cosa che rimpiango con tutto me stesso è quella stup
 
 Così il primo match della storia dei Mondiali di calcio deciso ai rigori, una delle più belle partite di sempre della Coppa del Mondo, verrà ricordato per sempre per il mio fallo su Patrick.
 
-<a href="/battiston">Nuit de Séville</a>
+<a href="/battiston" title="Figurina Battiston">Nuit de Séville</a>
 
 <div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
 <div class="post-disclaimer">
