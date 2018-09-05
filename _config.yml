@@ -1,0 +1,25 @@
+name: "futbolismo"
+title: "Fútbolismo - Storie e grafici del calcio"
+description: "Storie e grafici del calcio"
+long_description: "È un progetto nato dalla passione per il calcio raccontato attraverso storie, fatti e grafici. È un ritorno romantico al calcio dell'infanzia con una lettura più matura e critica dei personaggi e degli avvenimenti politici, culturali e storici."
+url: http://futbolismo.it
+wikipedia_lang: it
+
+excerpt_separator: <!--more-->
+
+markdown: kramdown
+permalink: /:title
+
+highlighter: rouge
+encoding: utf-8
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+# baseurl: "/blog"
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+   sass_dir: _scss
+   style: :compressed # You might prefer to minify using :compressed
