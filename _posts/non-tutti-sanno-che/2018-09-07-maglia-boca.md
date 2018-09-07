@@ -51,5 +51,4 @@ Fotografie:
   <li>Boca Juniors 1908 - See page for author [Public domain], <a href="https://commons.wikimedia.org/wiki/File:Boca_juniors_1908.jpg">via Wikimedia Commons</a></li>
 	<li>Maradona - Tekijä: Tuntematon (El Gráfico n° 3203) [Public domain], <a href="https://commons.wikimedia.org/wiki/File:Maradona_eg_3203.jpg">lähde: Wikimedia Commons</a></li>
 </ol>
-Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.
 </div>
