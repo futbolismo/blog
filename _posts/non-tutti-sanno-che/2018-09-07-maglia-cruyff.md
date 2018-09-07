@@ -52,7 +52,6 @@ divise di gioco. Uniche!
 Fotografie:
 <ol>
 	<li>Finale wereldkampioenschap voetbal 1974 in Munchen, West Duitsland tegen Nederla - By Bert Verhoeff / Anefo [<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>], <a href="https://commons.wikimedia.org/wiki/File:Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederla,_Bestanddeelnr_927-3090.jpg">via Wikimedia Commons</a></li>
-  <li>Perfumo and Cruyff 1974 - See page for author [Public domain], <a href="https://commons.wikimedia.org/wiki/File:Perfumo_cruyff_1974.jpg">via Wikimedia Commons</a></li>
+  <li>Perfumo and Cruyff 1974 - Public domain <a href="https://commons.wikimedia.org/wiki/File:Perfumo_cruyff_1974.jpg">via Wikimedia Commons</a></li>
 </ol>
-Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.
 </div>

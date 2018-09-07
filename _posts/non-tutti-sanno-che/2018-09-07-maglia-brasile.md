@@ -58,9 +58,8 @@ e Progresso**.
 Fotografie:
 <ol>
 	<li>Brazil World Cup 1982 <a href="https://www.flickr.com/photos/oyosan/2306287069" target="_blank">Flickr</a> (con licenza CC BY-ND 2.0)</li>
-  <li>Brazil 1914 - See page for author [Public domain or Public domain], <a href="https://commons.wikimedia.org/wiki/File:Brazil_national_1914.jpg" target="_blank">via Wikimedia Commons</a></li>
-	<li>Brazil 1950 - See page for author [Public domain], <a href="https://commons.wikimedia.org/wiki/File:Bra_par1959ca.jpg" target="_blank">via Wikimedia Commons</a></li>
-	<li>Brazil 1970 - See page for author [Public domain or Public domain], <a href="https://commons.wikimedia.org/wiki/File:Brazil_1970.JPG" target="_blank">via Wikimedia Commons</a></li>
+  <li>Brazil 1914 - Public domain, <a href="https://commons.wikimedia.org/wiki/File:Brazil_national_1914.jpg" target="_blank">via Wikimedia Commons</a></li>
+	<li>Brazil 1950 - Public domain, <a href="https://commons.wikimedia.org/wiki/File:Bra_par1959ca.jpg" target="_blank">via Wikimedia Commons</a></li>
+	<li>Brazil 1970 - Public domain, <a href="https://commons.wikimedia.org/wiki/File:Brazil_1970.JPG" target="_blank">via Wikimedia Commons</a></li>
 </ol>
-Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.
 </div>
