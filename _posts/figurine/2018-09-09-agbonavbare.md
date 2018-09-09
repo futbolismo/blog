@@ -80,3 +80,6 @@ Poi mi sono addormentato.
 I miei figli non li ho rivisti, nonostante il gesto nobile della signora Carmen.
 
 <div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
+<div class="post-disclaimer">
+Illustrazione <b>Harald Anton Schumacher</b> gentilmente concessa da <a title="Harald Anton Schumacher - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a>
+</div>
