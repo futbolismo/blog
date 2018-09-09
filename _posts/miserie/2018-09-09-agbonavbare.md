@@ -1,10 +1,9 @@
 ---
-layout: post-sticker
+layout: post
 
 pid: agbonavbare
 header: agbonavbare
 # header_mobile: "35%"
-sticker_type: double
 
 postTitle: Wilfred Agbonavbare
 player: Wilfred Agbonavbare
@@ -14,9 +13,12 @@ life: Portiere, nato a (Lagos Nigeria), il 5 ottobre 1966
 wikipedia: Wilfred_Agbonavbare
 # instagram: BnWpojihlAG
 
-author: none
-category: figurine
-timeline: 0
+dialog: transparent black-text left5
+
+author: Francesco Mistrulli
+category: miserie
+timeline: 1
+timeline_data: agbonavbare
 
 excerpt: "“Se Agbonavbare difenderà la propria porta nei mondiali di calcio Americani, forse la Nigeria vincerà questi campionati di calcio mondiali Americani” (Elio e lo storie tese)"
 hashtags:   Nigeria, RayoVallecano, Vallecas, WAFU, CAF
@@ -79,7 +81,88 @@ Poi mi sono addormentato.
 
 I miei figli non li ho rivisti, nonostante il gesto nobile della signora Carmen.
 
-<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
+
 <div class="post-disclaimer">
-Illustrazione <b>Harald Anton Schumacher</b> gentilmente concessa da <a title="Harald Anton Schumacher - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a>
+Illustrazione <b>{{page.player}}</b> gentilmente concessa da <a title="Harald Anton Schumacher - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a>
 </div>
+
+<script>
+
+
+    var agbonavbare=[
+                    {
+                        type:"birth",
+                        category:"event",
+                        timestamps:[new Date(1966,10-1,5)],
+                        text:{
+                            body:"Il 5 Ottobre 1966, nasce a Lagos, Nigeria Wilfred Agbonavbare",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1983,1989],
+                        team:"New Nigeria Bank",
+                        text:{
+                            body:"Debutta nella squadra locale di Benin City, il New Nigeria Banks nel 1983, a 17 anni",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1989,1990],
+                        team:"BCC Lions",
+                        text:{
+                            body:"Fugace passaggio ai BCC Lions di Gboko",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1990,1995],
+                        team:"Rayo Vallecano",
+                        text:{
+                            body:"Viene ingaggiato nel 1990 dallo spagnolo Rayo Vallecano, giocando così in Segunda Division. Giochera nel Rayo fino al 1995, collezionando 107 presenze.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"club",
+                        category:"range",
+                        timestamps:[1995,1997],
+                        team:"Écija Balompié",
+                        text:{
+                            body:"A metà della sua ultima stagione al Rayo, si trasferisce all'Écija Balompié, all'epoca in Segunda Division, con cui resta dal 1995 al 1997. Al termine di quest'anno abbandona il calcio giocato.",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"national",
+                        timestamps:[1983,1995],
+                        team:"Nigeria",
+                        apps:14,
+                        goals:0
+                    },
+                    {
+                        type:"cup",
+                        category:"event",
+                        timestamps:[new Date(1994,6-1,10),new Date(1994,6-1,25)],
+                        cup:"Coppa d'Africa 1994",
+                        text:{
+                            body:"Partecipa alla Coppa d'Africa del 1994 in Tunisia con la nazionale nigeriana.<br/><br/>Si laurea campione d'Africa battendo in finale lo Zambia per 2-1.<br/><br/>Nello stesso anno partecipa ai mondiali degli Stati Uniti."
+                        }
+                    },
+                    {
+                        type:"death",
+                        category:"event",
+                        timestamps:[new Date(2015,1-1,27)],
+                        text:{
+                            body:"Ci lascia 27 gennaio 2015 ad Alcalá de Henares (Spagna)",
+                            link:null
+                        }
+                    },
+                ];
+</script>

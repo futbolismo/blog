@@ -5,6 +5,7 @@ function Timeline(options) {
 	options.data.forEach(function(d) {
 		switch (d["type"]) {
 			case "birth":
+			case "death":
 				d.ts1 = d.timestamps[0];
 				d.ts2 = d.ts1;
 			break;
@@ -267,7 +268,6 @@ function Timeline(options) {
 
 	var events = timeline.selectAll("g.event")
 				.data(options.data.filter(function(d) {
-					//return d["type"]=="birth" || d["type"]=="worldcup" || d["type"]=="olympics"
 					return d["category"] == "event"
 				}))
 				.enter()
@@ -297,7 +297,7 @@ function Timeline(options) {
 					.on("mouseover", function(d) {
 						var x = CENTER + BAR_WIDTH - 5,
 						y = d.y1 - 10;
-						if (d["type"] == "birth") {
+						if (d["type"] == "birth" || d["type"] == "death") {
 							x -= BAR_WIDTH;
 						}
 						if (d["type"] == "history") {
@@ -325,7 +325,7 @@ function Timeline(options) {
 
 	events
 		.filter(function(d) {
-			return d["type"] == "birth"
+			return d["type"] == "birth" || d["type"] == "death"
 		})
 		.append("rect")
 			.attr("class", "ix")
@@ -336,7 +336,7 @@ function Timeline(options) {
 			.attr("height", 20)
 	events
 		.filter(function(d) {
-			return d["type"] == "birth"
+			return d["type"] == "birth" || d["type"] == "death"
 		})
 		.append("circle")
 			.attr("cx", 0)
@@ -346,7 +346,7 @@ function Timeline(options) {
 	if(options.howto) {
 		events
 			.filter(function(d) {
-				return d["type"] == "birth"
+				return d["type"] == "birth" || d["type"] == "death"
 			})
 			.append("text")
 				.attr("x", BAR_WIDTH)
@@ -358,7 +358,7 @@ function Timeline(options) {
 
 	events
 		.filter(function(d) {
-			return d["type"] != "birth" && d["type"] != "history"
+			return d["type"] != "birth" && d["type"] != "death" && d["type"] != "history"
 		})
 		.append("rect")
 			.attr("class", "ix aa")
@@ -449,7 +449,7 @@ function Timeline(options) {
 
 	var year = years.selectAll("g.year")
 				.data(options.data.filter(function(d) {
-					return d["type"] == "club" || d["type"] == "trainer" || d["type"] == "birth" ||  d["type"] == "worldcup" || d["type"] == "olympics"
+					return d["type"] == "club" || d["type"] == "trainer" || d["type"] == "birth" || d["type"] == "death" ||  d["type"] == "worldcup" || d["type"] == "olympics"
 				}))
 				.enter()
 				.append("g")
