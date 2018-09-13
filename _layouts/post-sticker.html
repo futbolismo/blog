@@ -14,11 +14,14 @@
 	{% endif %}
 
 {% if page.life != null %}
-	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
+	{% capture stickerPNG %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.png{% endcapture %}
+	{% capture stickerJPG %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
 	{% if page.remote_sticker %}
 		{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
 	{% endif %}
 {% endif %}
+
+{% assign sticker_image = sticker %}
 <div class="content-wrapper post {% if page.header == null %}post-simple{% endif %}">
 	<section>
     <div class="container" style="min-height: 60vh;">
@@ -46,6 +49,16 @@
             </div>
         </div>
 				<div class="{% if page.sticker_type == "double" %}col-sm-3 col-sm-push-7{% else %}col-sm-2 col-sm-push-8{% endif %} col-xs-12 no-padding" style="z-index:9999">
+					{% for image in site.static_files %}
+						{% if image.path contains stickerJPG %}
+							{% assign sticker = stickerJPG %}
+						{% endif %}
+					{% endfor %}
+					{% for image in site.static_files %}
+						{% if image.path contains stickerPNG %}
+							{% assign sticker = stickerPNG %}
+						{% endif %}
+					{% endfor %}
 					{% if sticker %}
 					<div class="sticker row">
 						<div class="sticker-pic col-xs-12 col-sm-12 {% if page.sticker_type == "double" %}text-center{% endif %}">
@@ -116,7 +129,7 @@
 	                                <div class="row sticker">
 	                                    <div class="col-xs-5 col-ms-6 col-sm-12">
 	                                        <div class="post-abstract-img">
-	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}{% if post.sticker_type == "double" %}_90deg{% endif %}.jpg" alt="{{post.title}}" width="100%">
+	                                            {% include sticker.html %}
 	                                        </div>
 	                                    </div>
 	                                    <div class="col-xs-7 col-ms-6 col-sm-12">

@@ -11,13 +11,13 @@ excerpt: Perchè una figurina non è solo una cosa da bambini
 <section>
     <div class="top6 stickers row flex-container">
         {% for post in site.categories.figurine %}
-            <div class="post col-ms-4 col-sm-4 col-md-4 col-lg-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
+            <div class="post col-ms-4 col-sm-4 col-md-4 col-lg-3 border-bottom">
                 <div class="post-abstract bg-light-gray">
                     <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
                         <div class="row sticker">
                             <div class="col-xs-5 col-ms-12 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/stickers/{{post.pid}}{% if post.sticker_type == "double" %}{{sticker}}_90deg{% endif %}.jpg?1" alt="{{post.title}}" width="100%">
+                                  {% include sticker.html %}
                                 </div>
                             </div>
                             <div class="col-xs-7 col-ms-12 col-sm-12">
