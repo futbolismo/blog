@@ -86,6 +86,10 @@ I miei figli non li ho rivisti, nonostante il gesto nobile della signora Carmen.
 Illustrazione <b>{{page.player}}</b> gentilmente concessa da <a title="Harald Anton Schumacher - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a>
 </div>
 
+<div class="post-disclaimer">
+Pubblicato in precedenza su <a href="http://allafacciadelcalcio.blogspot.com/2018/01/se-agbonavbare-difendera-la-propria.html" target="_blank">ALLA FACCIA DEL CALCIO</a>
+</div>
+
 <script>
 
 

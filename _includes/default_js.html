@@ -117,21 +117,24 @@
           deltaTimeline = timeLineY - height;
 
 
-          console.log(timelineIXContainerBox);
+          // console.log(timelineIXContainerBox);
 
           timelineIXNodes = document.querySelectorAll('.ix-container .ix');
           timelineIXBoxes = [];
           timelineIXNodes.forEach(function(d,i){
-            console.log('adding',i,'top',d.getBoundingClientRect().top)
-            timelineIXBoxes.push({
-              dom: d3.select(d),
-              top: d.getBoundingClientRect().top + i/10
-            });
+            // console.log('adding',i,d,'top',d.getBoundingClientRect().top)
+            var dom = d3.select(d);
+            if(dom.data()[0].text) {
+              timelineIXBoxes.push({
+                dom: dom,
+                top: d.getBoundingClientRect().top + i/10
+              });
+            }
           })
           timelineIXBoxes=timelineIXBoxes.sort(function(a,b){
             return a.top - b.top;
           })
-          console.log('all boxes',timelineIXBoxes);
+          // console.log('all boxes',timelineIXBoxes);
           document.addEventListener('scroll', detectScroll);
         }
 
@@ -155,7 +158,7 @@
           // console.log(boxes);
 
           var data = box.dom.data()[0];
-          //console.log(data)
+          // console.log(data)
           if(typeof data.text !== 'undefined') {
               timeline.showTooltip(data.text, 0, data.y1);
           }
