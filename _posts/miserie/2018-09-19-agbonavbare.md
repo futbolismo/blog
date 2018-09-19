@@ -160,7 +160,7 @@ Illustrazione <b>{{page.player}}</b> gentilmente concessa da <a title="Harald An
                         category:"event",
                         timestamps:[new Date(2015,1-1,27)],
                         text:{
-                            body:"Ci lascia 27 gennaio 2015 ad Alcalá de Henares (Spagna)",
+                            body:"Ci lascia il 27 gennaio 2015 ad Alcalá de Henares (Spagna)",
                             link:null
                         }
                     },
