@@ -21,7 +21,7 @@ timeline: 1
 timeline_data: agbonavbare
 
 excerpt: "“Se Agbonavbare difenderà la propria porta nei mondiali di calcio Americani, forse la Nigeria vincerà questi campionati di calcio mondiali Americani” (Elio e lo storie tese)"
-hashtags:   Nigeria, RayoVallecano, Vallecas, WAFU, CAF
+hashtags: Nigeria, RayoVallecano, WAFU, CAF
 ---
 A "Vallecas", il barrio operaio di Madrid, la signora Carmen Martinez Ayuso, arzilla ottantacinquenne, riceve l'ordine di sfratto: non riesce a pagare l'affitto delle stanze nel condominio popolare in cui abita.
 
