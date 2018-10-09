@@ -1,0 +1,130 @@
+---
+layout: landing
+---
+<section>
+    <div class="container">
+        <div class="top2 row">
+            {% for post in site.categories.miserie offset: 1 limit: 2 %}
+                <div class="col-xs-12 col-ms-6 col-sm-6 col-md-6">
+                    <a href="{{site.baseurl}}{{ post.url }}" class="post-link" alt="{{post.title}}">
+                        <div class="row post-abstract bg-dark-gray color-invert no-padding">
+                            <div class="col-xs-12 col-md-6 post-abstract-img no-padding pull-right">
+                                <div class="post-abstract-img">
+                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_top.jpg" alt="{{post.title}}" width="100%">
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-6 post-abstract-body bg-dark-gray">
+                                    <h2>{{post.postTitle}}</h2>
+                                    <p class="{{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container border-bottom">
+        <div class="top6 miserie row">
+            <div class="col-xs-12 col-md-2">
+                <div class="post-section">
+                    <h3><a href="{{site.baseurl}}/miserie-e-splendori">Miserie e Splendori</a></h3>
+                    <p class="hidden-xs"><em>Il calcio raccontato dalle mitologiche imprese dei suoi interpreti</em></p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-9">
+                <div class="row flex-container">
+                    {% for post in site.categories.miserie offset: 3 limit: 3 %}
+                    <div class="post col-ms-6 col-sm-4 col-md-4 border-bottom">
+                        <div class="post-abstract bg-light-gray">
+                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+                                <div class="row">
+                                    <div class="col-xs-5 col-ms-12 col-sm-12">
+                                        <div class="post-abstract-img">
+                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.jpg" alt="{{post.title}}" width="100%">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-ms-12 col-sm-12">
+                                        <h3>
+                                          {%if post.postTitle and post.postTitle != "" and post.postTitle != nil %}
+                                            {{post.postTitle}}
+                                          {% else %}
+                                            {{post.player}}
+                                          {% endif %}
+                                        </h3>
+                                        <p class="margin-bottom-1em hidden-sm hidden-md hidden-lg"><b>{{post.player_short}}</b></p>
+                                        <p class="descr {{post.story_type}} hidden-xs">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                                        <p class="hidden-md hidden-lg">{{post.life}}</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container border-bottom">
+        <div class="top6 stickers row">
+            <div class="col-md-2">
+                <div class="post-section">
+                    <h3><a href="{{site.baseurl}}/figurine-parlanti">Figurine parlanti</a></h3>
+                    <p class="hidden-xs"><em>Perch&egrave; una figurina non &egrave; solo una cosa da bambini</em></p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-9">
+                <div class="row flex-container">
+                    {% for post in site.categories.figurine limit: 8 %}
+                    <div class="post col-ms-6 col-sm-3 col-md-3 border-bottom {% if forloop.index0 > 3 %}hidden-sm{%endif%}">
+                        <div class="post-abstract bg-light-gray">
+                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+                                <div class="row sticker">
+                                    <div class="col-xs-5 col-ms-6 col-sm-12">
+                                        <div class="post-abstract-img">
+                                          {% include sticker.html %}
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-ms-6 col-sm-12">
+                                        <h3>{{post.player}}</h3>
+                                        <p class="hidden-md hidden-lg">{{post.life}}</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="small-posts">
+    <div class="container bg-white50">
+        <div class="top6 row">
+            <div class="col-md-2">
+                <div class="post-section">
+                    <h3><a href="{{site.baseurl}}/non-tutti-sanno-che">Non tutti sanno che</a></h3>
+                    <p class="hidden-xs"><em>Fatti, curiosit&agrave; e racconti brevi dal mondo del calcio</em></p>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="post-abstract">
+                    <ul class="list-unstyled flex-container">
+                        {% for post in site.categories.non-tutti-sanno-che %}
+                        <li>
+                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
+                                <h4>{{post.postTitle}}</h4>
+                                <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

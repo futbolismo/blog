@@ -1,0 +1,68 @@
+//
+// VARIABLES
+//
+
+// jumbotron images
+$cuellar: 'assets/pics/leo2.png';
+$zavarov: 'assets/pics/zavarov.jpg';
+$current: $cuellar;
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$lighterGray: #f8f8f8;
+$white: #fff;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+$courgette: 'Courgette';
+$rye: 'Rye';
+$nothing: 'Nothing You Could Do';
+$crimson: 'Crimson Text';
+
+$bodyFont: $crimson, 'Fanwood Text', Georgia, serif;
+$headersFont: 'Playfair Display', Georgia, serif;
+
+$main_article_title_font: 'Playfair Display', Georgia, serif;
+
+
+
+$linux_libertine:"Linux Libertine";
+$roboto: "Roboto";
+$eb_garamond: "EB Garamond";
+
+//margins + paddings
+$wrapperPaddingLeft: 12px;
+$wrapperPaddingRight: 12px;
+$layoutMargin: 0px 0px 0px 0px;
+
+// FROM BOOTSTRAP
+//** Number of columns in the grid.
+$grid-columns:              12 !default;
+//** Padding between columns. Gets divided in half for the left and right.
+$grid-gutter-width:         30px !default;
+
+$screen-xs:                  480px !default;
+$screen-sm:                  768px !default;
+
+$screen-xs-min: 480px;
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+
+$screen-xs320: 320px !default;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
