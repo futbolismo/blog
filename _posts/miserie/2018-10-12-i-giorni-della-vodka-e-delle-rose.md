@@ -73,6 +73,7 @@ La verità.
     <b>Immagini</b><br/>
 
     <ol>
+      <li>Illustrazione <b>{{page.player}}</b> gentilmente concessa da <a title="Harald Anton Schumacher - The Art of Goalkeeping" href="http://theartofgoalkeeping.com/" target="_blank">The Art of Goalkeeping</a></li>
       <li>Nazionale di calcio URSS - Bari, stadio della Vittoria, 20 febbraio 1988 - Onze, nº 148, aprile 1988 <a href="//it.wikipedia.org/wiki/File:Nazionale_di_calcio_dell%27URSS,_1988.jpg" target="_blank">via Wikipedia</a></li>
     </ol>
 </div>
