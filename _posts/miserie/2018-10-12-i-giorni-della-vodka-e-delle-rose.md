@@ -73,7 +73,7 @@ La verità.
     <b>Immagini</b><br/>
 
     <ol>
-      <li>Nazional di calcio URSS - Bari, stadio della Vittoria, 20 febbraio 1988 - Di sconosciuto - Onze, nº&nbsp;148, aprile 1988 <a href="//it.wikipedia.org/wiki/File:Nazionale_di_calcio_dell%27URSS,_1988.jpg" target="_blank">via Wikipedia</a></li>
+      <li>Nazionale di calcio URSS - Bari, stadio della Vittoria, 20 febbraio 1988 - Onze, nº 148, aprile 1988 <a href="//it.wikipedia.org/wiki/File:Nazionale_di_calcio_dell%27URSS,_1988.jpg" target="_blank">via Wikipedia</a></li>
     </ol>
 </div>
 
@@ -87,7 +87,7 @@ La verità.
             category:"event",
             timestamps:[new Date(1957,6-1,13)],
             text:{
-                body:"Il 13 Giudno 1957, nasce Ad Astrachan', città sul Mar Caspio, Rinat Fajzrachmanovič Dasaev.",
+                body:"Il 13 Giugno 1957, nasce Ad Astrachan', città sul Mar Caspio, Rinat Fajzrachmanovič Dasaev.",
                 link:null
             }
         },
