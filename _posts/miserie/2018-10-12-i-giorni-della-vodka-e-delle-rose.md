@@ -26,7 +26,7 @@ Quel maledetto, stramaledetto, stramaledettissimo goal!
 
 Io sono un gran portiere. Forte, ma forte per davvero, tanto che da voi nell’opulento e sfacciato Occidente sono conosciuto come “**Cortina d'Acciaio**".
 
-Ma quel pomeriggio sul prato verde dell’Olympiastadion di Berlino si aprì una piccola crepa in quella cortina d'acciaio!
+Ma quel pomeriggio sul prato verde dell’Olympiastadion di Monaco di Baviera si aprì una piccola crepa in quella cortina d'acciaio!
 
 Al 54’ minuto della finale del Campionato d’Europa del 1988 quella che sembrava una piccola scalfittura ha iniziato ad allargarsi e a scendere in profondità, fin nei più reconditi meandri della mia coscienza. E così ho iniziato a lenire la ferita con sempre più generose sorsate di vodka! O delizioso distillato di patate! L’alcolismo! Il mio alcolismo, non dico sia solo tutta colpa di quel cazzo di goal, ma ha fatto tanto!
 
