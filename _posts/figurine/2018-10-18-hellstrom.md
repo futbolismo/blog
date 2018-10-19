@@ -3,7 +3,7 @@ layout: post-sticker
 
 pid: hellstrom
 header: large-picture
-header_mobile: "0%"
+header_mobile: "10%"
 
 postTitle: Ronnie Carl Hellström
 player: Ronnie Carl Hellström
