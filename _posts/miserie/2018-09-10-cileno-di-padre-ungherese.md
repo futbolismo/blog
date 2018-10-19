@@ -7,6 +7,7 @@ player: Carlos Humberto Caszely Garrido
 player_short: Carlos Caszely
 
 wikipedia: Carlos_Caszely
+instagram: BouRq3pggZs
 
 life: Attaccante, nato a Santiago del Cile, il 5 luglio 1950
 

@@ -11,6 +11,7 @@ player: Oscar Miguel Malbernat Candela
 life: Difensore nato a La Plata (Argentina), il 2 febbraio 1944
 
 wikipedia: Oscar_Malbernat
+instagram: BpElAaMBtzy
 
 author: none
 category: figurine

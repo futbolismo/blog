@@ -10,6 +10,8 @@ life: Portiere, nato ad Astrachan' (Russia), il 13 giugno 1957
 
 story_type: quote
 
+instagram: Bo_4jn5BARC
+
 author: Francesco Mistrulli
 category: miserie
 timeline: 1
