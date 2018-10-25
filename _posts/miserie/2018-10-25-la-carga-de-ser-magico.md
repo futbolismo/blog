@@ -15,8 +15,13 @@ category: miserie
 timeline: 1
 timeline_data: gonzalez
 
+dialog: transparent black-text left5
+
+description: "“Quello che fa con il pallone fra i piedi questo ragazzino lo può fare solo un mago. Il mago ero io!” - La storia del Magico Gonzalez su Futbolismo.it"
+hashtags: MagicoGonzalez, Cadiz_CF, ELMÁGICO11, ElSalvador, LaLiga
 ---
-Non mi piace considerare il balonpié come un lavoro. Se lo facessi mancherei di rispetto a me stesso. Soprattutto mancherei di rispetto a chi lavora per davvero, a chi si alza prima del sorgere del sole, a chi si spezza la schiena. Io gioco solo per divertirmi.<!--more-->Che cazzo, altrimenti dove sarebbe il divertimento? Mica ci si diverte lavorando!
+Non mi piace considerare il balonpié come un lavoro. Se lo facessi mancherei di rispetto a me stesso. Soprattutto mancherei di rispetto a chi lavora per davvero, a chi si alza prima del sorgere del sole, a chi si spezza la schiena. Io gioco solo per divertirmi.<!--more-->
+Che cazzo, altrimenti dove sarebbe il divertimento? Mica ci si diverte lavorando!
 
 Sono nato a San Salvador, la capitale di un piccolo staterello del Centro America nel
 millenovecentocinquantotto. El Salvador era uno dei paesi politicamente più instabili dell’America
@@ -92,6 +97,14 @@ Oggi ho smesso con il calcio. Sono come Henry Houdini, un mago, e come per lui s
 
 Guido pacifico il mio taxi, così posso dedicarmi elle cose che più amo: vivere la notte e dormire il giorno. Non mi frega un cazzo di nulla, non sono un santo e amo la notte!
 In fin dei conti gliel'avevo detto o no a quel cazzone di allenatore al Cádiz che il mio sogno era fare l'autista!
+<br/><br/>
+### Documentario: Destino Fútbol Cádiz Mágico ESPN
+<br/>
+<div class="text-center">
+  <div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cce7eI_mfeU?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+</div>
 
 <div class="post-disclaimer">
 <b>Fotgrafie</b><br/>
