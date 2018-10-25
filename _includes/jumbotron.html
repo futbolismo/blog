@@ -1,0 +1,21 @@
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+    {% for post in site.categories.miserie: 0 limit: 1 %}
+    <div class="container main">
+        <div class="row jumbo-post">
+            <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract {{post.dialog}}">
+                <a href="{{site.baseurl}}{{post.url}}" class="post-link" alt="{{post.title}}">
+                    <h1>{{post.postTitle}}</h1>
+                    <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                    <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="main-bg">
+        {% if post.header %}
+            <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.header }}.jpg" alt="">
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>

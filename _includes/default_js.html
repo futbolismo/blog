@@ -1,0 +1,175 @@
+<script src="{{site.baseurl}}/assets/js/Timeline.js"></script>
+<script>
+    window.addEventListener("load", function(event) {
+
+
+      var header = document.querySelector("#header"),
+          fixed=false;
+
+      window.addEventListener("scroll", function(e) {
+          var scroll=window.pageYOffset || document.documentElement.scrollTop;
+
+          if (scroll > 300) {
+            header.classList.add("smaller");
+          } else {
+            header.classList.remove("smaller");
+          }
+
+      });
+
+      var menuNodes = document.querySelectorAll(".navbar-collapse")
+      document.querySelector("button.navbar-toggle").addEventListener("click",function(e) {
+        if(menuNodes[0].classList.contains('in')) {
+            menuNodes.forEach(function(node) {
+              node.classList.remove('in');
+            })
+        } else {
+          menuNodes.forEach(function(node) {
+            node.classList.add('in');
+          })
+        }
+
+      })
+
+      var timelineData = {%if page.timeline_data %}{{page.timeline_data}}{% else %} null {% endif %};
+      //console.log(timelineData)
+      if(timelineData) {
+
+        var timeline = new Timeline({
+            container:"#timeline",
+            data: timelineData
+        });
+
+        var hideShowTimeline = document.querySelector('.timeline-show-btn');
+        hideShowTimeline.addEventListener('click', function(d) {
+            var timelineDOM = document.querySelector('.timeline');
+            if(timelineDOM) {
+              if(timelineDOM.classList.contains('timeline-hidden')) {
+                timelineDOM.classList.remove('timeline-hidden')
+                hideShowTimeline.classList.add('hide-timeline');
+                showTimeline();
+              } else {
+                timelineDOM.classList.add('timeline-hidden')
+                hideShowTimeline.classList.remove('hide-timeline');
+                hideTimeline();
+              }
+            }
+
+        })
+
+
+        // function handleIntersect(entries, observer) {
+        //   // console.log('entries', entries)
+        //   entries.filter(function(d){return d.isIntersecting && d.boundingClientRect.y > 0}).forEach(function(entry) {
+        //     console.log(entry);
+        //     var data = d3.select(entry.target).data()[0];
+        //     console.log(data)
+        //     if(typeof data.text !== 'undefined') {
+        //         timeline.showTooltip(data.text, 0, data.y1);
+        //     }
+        //
+        //     // console.log('####')
+        //   });
+        // }
+
+        // var timelineIXNodes = document.querySelectorAll('.ix-container .ix');
+        // // createObserver();
+        //
+        // function createObserver() {
+        //   var options = {
+        //     root: null,
+        //     rootMargin: "0px",
+        //     threshold: 0.9
+        //   };
+        //
+        //   var observer = new IntersectionObserver(handleIntersect, options);
+        //   observer.POLL_INTERVAL = 100;
+        //
+        //   console.log('observer', observer);
+        //   timelineIXNodes.forEach(function(node) {
+        //     observer.observe(node);
+        //     console.log('observing',node)
+        //   })
+        //
+        // }
+
+        var timelineIXContainer,
+            timelineIXContainerBox,
+            timeLineY,
+            deltaTimeline,
+            halfHeight,
+            timelineIXNodes,
+            timelineIXBoxes,
+            height;
+
+        function hideTimeline() {
+          document.removeEventListener('scroll', detectScroll);
+        }
+        function showTimeline() {
+
+          height = window.outerHeight || window.innerHeight;
+          halfHeight = height / 2;
+
+          timelineIXContainer = document.querySelector('.ix-container');
+          timelineIXContainerBox = timelineIXContainer.getBoundingClientRect();
+
+          timeLineY = timelineIXContainerBox.top + window.scrollY;
+          deltaTimeline = timeLineY - height;
+
+
+          // console.log(timelineIXContainerBox);
+
+          timelineIXNodes = document.querySelectorAll('.ix-container .ix');
+          timelineIXBoxes = [];
+          timelineIXNodes.forEach(function(d,i){
+            // console.log('adding',i,d,'top',d.getBoundingClientRect().top)
+            var dom = d3.select(d);
+            if(dom.data()[0].text) {
+              timelineIXBoxes.push({
+                dom: dom,
+                top: d.getBoundingClientRect().top + i/10
+              });
+            }
+          })
+          timelineIXBoxes=timelineIXBoxes.sort(function(a,b){
+            return a.top - b.top;
+          })
+          // console.log('all boxes',timelineIXBoxes);
+          document.addEventListener('scroll', detectScroll);
+        }
+
+        function detectScroll(e) {
+          // console.log(window.pageYOffset,window.outerHeight,timelineIXContainerBox.top,(window.pageYOffset + window.outerHeight) - timelineIXContainerBox.top)
+          //console.log(deltaTimeline, timeLineY);
+          // console.log(window.outerHeight,window.pageYOffset,timelineIXContainerBox.top)
+          // console.log(window.pageYOffset)
+          var y = window.pageYOffset - deltaTimeline;
+          //console.log(y,y - halfHeight, y - window.outerHeight)
+          // console.log(y - height,' > ',height*1.2);
+          if(y - height > height*1.2) {
+            timeline.hideTooltip();
+            return;
+          }
+          var boxes = timelineIXBoxes.filter(function(d) {
+            return ((d.top - timelineIXContainerBox.top) < y - halfHeight);
+          });
+          var box = boxes.length ? boxes[boxes.length-1] : timelineIXBoxes[0];
+
+          // console.log(boxes);
+
+          var data = box.dom.data()[0];
+          // console.log(data)
+          if(typeof data.text !== 'undefined') {
+              timeline.showTooltip(data.text, 0, data.y1);
+          }
+
+        }
+
+     }
+
+
+
+
+
+    }, false);
+</script>
