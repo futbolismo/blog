@@ -109,7 +109,6 @@ In fin dei conti gliel'avevo detto o no a quel cazzone di allenatore al Cádiz c
 <div class="post-disclaimer">
 <b>Fotgrafie</b><br/>
 <ol>
-  <li>Gonz&aacute;ez Torero - oldschoolpanini.com</li>
   <li>Gonz&aacute;lez <a href="http://www.elbaloncuscatleco.com/galeria80-89.html">ElBalonCuscateclo.com</a></li>
   <li>Gonz&aacute;lez e Juan Jos&eacute; Jiménez -  oldschoolpanini.com</li>
   <li>Figurina Gonz&aacute;lez - oldschoolpanini.com</li>
