@@ -13,7 +13,7 @@ timeline: 0
 excerpt: "Diego nuestro que estás en las canchas. Santificada sea a tu zurda, venga a nosotros tu magia."
 hashtags: Maradona, D10S, IglesiaMaradoniana, Argentina, Napoli
 ---
-Oggi, ventiquattro settembre dell'anno cinquantaquattro dopo Diego, ho trovato D10S!  
+Oggi, trenta ottobre dell'anno cinquantotto dopo Diego, ho trovato D10S!  
 
 Ho abbracciato il "**Maradonesimo**".
 
@@ -32,7 +32,7 @@ Avete presente com'è rappresentato Dio nella Cappella Sistina? Esatto! Nell'att
 Che Diego avesse qualcosa di divino l'ho sempre sospettato, dopo quell'evento ne ho avuto la certezza!  
 
 
-Così amici cari, il ventitdue giugno dell'anno cinquantacinque dopo Diego, riceverò il battesimo. Nella data in cui il "pibe de oro" si è manifestato al Mondo in tutta la sua potenza, nel giorno della fatidica partita contro gli Inglesi, il giorno della "Pasqua Maradoniana", giurerò la mia fedeltà sul libro sacro, la mia Bibbia, "Yo soy el Diego".
+Così amici cari, il ventitdue giugno dell'anno cinquantanove dopo Diego, riceverò il battesimo. Nella data in cui il "pibe de oro" si è manifestato al Mondo in tutta la sua potenza, nel giorno della fatidica partita contro gli Inglesi, il giorno della "Pasqua Maradoniana", giurerò la mia fedeltà sul libro sacro, la mia Bibbia, "Yo soy el Diego".
 
 Quel giorno farò miei i suoi comandamenti!
 
