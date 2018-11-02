@@ -36,3 +36,7 @@ hashtags: VanBasten,acmilan,acmilan1899,ajax,ajaxamsterdam
 (Fabio Capello)
 
 “_Il lutto in me per il suo precoce ritiro non si estingue ancora e mai si estinguerà._”   (Carmelo Bene)
+
+<div class="post-disclaimer">Fotografia:
+Marco Van Basten - Germania Ovest - Paesi Bassi 2-1 <a href="//it.wikipedia.org/wiki/File:Italia_%2790,_Germania_Ovest-Paesi_Bassi_2-1,_Marco_van_Basten.jpg" target="_blank">via Wikipedia</a>
+</div>
