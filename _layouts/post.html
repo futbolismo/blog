@@ -9,6 +9,9 @@
 
 {% if page.life != null %}
 	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
+	{% if page.sticker %}
+		{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.sticker}}.jpg{% endcapture %}
+	{% endif %}
 	{% if page.remote_sticker %}
 		{% capture sticker %}{{page.remote_sticker}}{% endcapture %}
 	{% endif %}
