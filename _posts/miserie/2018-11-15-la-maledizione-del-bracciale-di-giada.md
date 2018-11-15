@@ -1,7 +1,7 @@
 ---
 layout: post
 pid: bogota
-sticker: bobby-moore
+sticker: bobby-moore-1970
 
 postTitle: La maledizione del bracciale di giada
 player: Bobby Moore
@@ -164,9 +164,9 @@ stato un semplice indumento: la tuta del Millionarios!
             type:"cup",
             category:"event",
             timestamps:[new Date(1967,12-1,11),new Date(1967,12-1,20)],
-            cup:"Baronetto",
+            cup:"OBE",
             text:{
-                body:"Fu nominato baronetto nel 1967, da quel giorno viene ricordato come <i>Sir Bobby Moore</i>",
+                body:"Viene insignito del titolo di <i>Officer of the Most Excellent Order of the British Empire</i> per la vittoria nel mondiale del 1966.",
             }
         },
         {
