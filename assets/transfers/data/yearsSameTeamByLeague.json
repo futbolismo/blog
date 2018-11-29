@@ -1,0 +1,639 @@
+[
+  {
+    "max": 9,
+    "avg": 2.8412698412698414,
+    "index": 63,
+    "league": "philippines-football-league",
+    "median": 3
+  },
+  {
+    "max": 4,
+    "avg": 1.1477272727272727,
+    "index": 44,
+    "league": "ipko-superliga",
+    "median": 2
+  },
+  {
+    "max": 14,
+    "avg": 2.755434782608696,
+    "index": 552,
+    "league": "danske-bank-premiership",
+    "median": 3
+  },
+  {
+    "max": 16,
+    "avg": 2.344664031620553,
+    "index": 1265,
+    "league": "egyptian-premier-league",
+    "median": 9
+  },
+  {
+    "max": 7,
+    "avg": 2.4941176470588236,
+    "index": 42,
+    "league": "nuti-cafe-v-league-1",
+    "median": 4
+  },
+  {
+    "max": 10,
+    "avg": 2.2777017783857727,
+    "index": 365,
+    "league": "bardsragujn-chumb",
+    "median": 4
+  },
+  {
+    "max": 15,
+    "avg": 2.8585397653194264,
+    "index": 767,
+    "league": "veikkausliiga",
+    "median": 1
+  },
+  {
+    "max": 11,
+    "avg": 1.8960709759188847,
+    "index": 394,
+    "league": "hong-kong-premier-league",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.807584269662921,
+    "index": 712,
+    "league": "chinese-super-league",
+    "median": 2
+  },
+  {
+    "max": 5,
+    "avg": 2.836734693877551,
+    "index": 24,
+    "league": "bangladesh-premier-league",
+    "median": 3
+  },
+  {
+    "max": 11,
+    "avg": 2.2756097560975608,
+    "index": 205,
+    "league": "ozbekiston-superligasi",
+    "median": 1
+  },
+  {
+    "max": 15,
+    "avg": 2.843490304709141,
+    "index": 722,
+    "league": "bgl-ligue",
+    "median": 6
+  },
+  {
+    "max": 12,
+    "avg": 1.9615170105967652,
+    "index": 896,
+    "league": "persian-gulf-pro-league",
+    "median": 1
+  },
+  {
+    "max": 16,
+    "avg": 2.646221248630887,
+    "index": 1369,
+    "league": "het-liga",
+    "median": 1
+  },
+  {
+    "max": 10,
+    "avg": 2.0971698113207546,
+    "index": 530,
+    "league": "prva-crnogorska-liga",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.3086294416243653,
+    "index": 492,
+    "league": "singapore-premier-league",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 1.6972772277227723,
+    "index": 2020,
+    "league": "1-division",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.1340752517223107,
+    "index": 943,
+    "league": "premijer-liga",
+    "median": 1
+  },
+  {
+    "max": 12,
+    "avg": 1.9801375095492744,
+    "index": 654,
+    "league": "prva-makedonska-fudbalska-liga",
+    "median": 2
+  },
+  {
+    "max": 12,
+    "avg": 2.3357487922705316,
+    "index": 1035,
+    "league": "1-hnl",
+    "median": 2
+  },
+  {
+    "max": 12,
+    "avg": 2.3878887070376433,
+    "index": 611,
+    "league": "league-of-ireland",
+    "median": 7
+  },
+  {
+    "max": 8,
+    "avg": 2.1267123287671232,
+    "index": 146,
+    "league": "malaysia-super-league",
+    "median": 2
+  },
+  {
+    "max": 4,
+    "avg": 1.8666666666666667,
+    "index": 30,
+    "league": "welsh-premier-league",
+    "median": 1
+  },
+  {
+    "max": 9,
+    "avg": 1.9559471365638768,
+    "index": 567,
+    "league": "toyota-thai-league",
+    "median": 2
+  },
+  {
+    "max": 13,
+    "avg": 2.4921875,
+    "index": 896,
+    "league": "absa-premiership",
+    "median": 2
+  },
+  {
+    "max": 11,
+    "avg": 1.664073550212164,
+    "index": 7070,
+    "league": "serie-b",
+    "median": 1
+  },
+  {
+    "max": 6,
+    "avg": 1.3005249343832022,
+    "index": 762,
+    "league": "ledman-liga-pro",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.35061873895109,
+    "index": 848,
+    "league": "fortuna-liga",
+    "median": 2
+  },
+  {
+    "max": 21,
+    "avg": 2.5614561027837257,
+    "index": 1167,
+    "league": "scottish-premiership",
+    "median": 6
+  },
+  {
+    "max": 14,
+    "avg": 2.371584699453552,
+    "index": 915,
+    "league": "prva-liga",
+    "median": 1
+  },
+  {
+    "max": 18,
+    "avg": 2.8522050059594757,
+    "index": 839,
+    "league": "premium-liiga",
+    "median": 2
+  },
+  {
+    "max": 17,
+    "avg": 3.7149606299212596,
+    "index": 317,
+    "league": "betri-deildin",
+    "median": 6
+  },
+  {
+    "max": 10,
+    "avg": 1.8619603483416713,
+    "index": 2698,
+    "league": "ligue-2",
+    "median": 1
+  },
+  {
+    "max": 12,
+    "avg": 2.3947169811320754,
+    "index": 662,
+    "league": "virsliga",
+    "median": 7
+  },
+  {
+    "max": 11,
+    "avg": 2.4231200897867566,
+    "index": 445,
+    "league": "uae-arabian-gulf-league",
+    "median": 1
+  },
+  {
+    "max": 17,
+    "avg": 2.2991021324354657,
+    "index": 1782,
+    "league": "ligue-professionnelle-1",
+    "median": 2
+  },
+  {
+    "max": 11,
+    "avg": 2.1586337760910816,
+    "index": 1317,
+    "league": "liga-aguila-i",
+    "median": 1
+  },
+  {
+    "max": 24,
+    "avg": 2.776750142287991,
+    "index": 3514,
+    "league": "eredivisie",
+    "median": 2
+  },
+  {
+    "max": 13,
+    "avg": 2.379194630872483,
+    "index": 745,
+    "league": "saudi-professional-league",
+    "median": 1
+  },
+  {
+    "max": 20,
+    "avg": 3.223750419322375,
+    "index": 1490,
+    "league": "j1-league",
+    "median": 1
+  },
+  {
+    "max": 14,
+    "avg": 1.9933774834437086,
+    "index": 2189,
+    "league": "campeonato-brasileiro-serie-a",
+    "median": 1
+  },
+  {
+    "max": 15,
+    "avg": 2.0198817839871035,
+    "index": 1861,
+    "league": "liga-1",
+    "median": 4
+  },
+  {
+    "max": 15,
+    "avg": 1.8517757557968888,
+    "index": 1703,
+    "league": "liga-nos",
+    "median": 1
+  },
+  {
+    "max": 10,
+    "avg": 3.4237288135593222,
+    "index": 206,
+    "league": "lebanese-premier-league",
+    "median": 2
+  },
+  {
+    "max": 9,
+    "avg": 2.1887034659820284,
+    "index": 389,
+    "league": "erovnuli-liga",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.4442386068914415,
+    "index": 1349,
+    "league": "liga-mx-apertura",
+    "median": 1
+  },
+  {
+    "max": 14,
+    "avg": 2.154112554112554,
+    "index": 2310,
+    "league": "keuken-kampioen-divisie",
+    "median": 10
+  },
+  {
+    "max": 6,
+    "avg": 2.0568181818181817,
+    "index": 44,
+    "league": "gibraltar-premier-division",
+    "median": 1
+  },
+  {
+    "max": 1,
+    "avg": 1,
+    "index": 42,
+    "league": "liga-aguila-ii",
+    "median": 1
+  },
+  {
+    "max": 14,
+    "avg": 2.9915188897455667,
+    "index": 1297,
+    "league": "major-league-soccer",
+    "median": 2
+  },
+  {
+    "max": 5,
+    "avg": 1.880952380952381,
+    "index": 21,
+    "league": "myanmar-national-league",
+    "median": 5
+  },
+  {
+    "max": 11,
+    "avg": 1.9684921230307577,
+    "index": 666,
+    "league": "kategoria-superiore",
+    "median": 6
+  },
+  {
+    "max": 18,
+    "avg": 2.438320209973753,
+    "index": 2095,
+    "league": "jupiler-pro-league",
+    "median": 1
+  },
+  {
+    "max": 20,
+    "avg": 2.4182845040593013,
+    "index": 4249,
+    "league": "super-league",
+    "median": 1
+  },
+  {
+    "max": 16,
+    "avg": 1.792329661362709,
+    "index": 1225,
+    "league": "first-division",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.265311580636534,
+    "index": 1869,
+    "league": "primera-division-clausura",
+    "median": 1
+  },
+  {
+    "max": 23,
+    "avg": 3.269189954014857,
+    "index": 1413,
+    "league": "eliteserien",
+    "median": 3
+  },
+  {
+    "max": 14,
+    "avg": 2.464968152866242,
+    "index": 1962,
+    "league": "primera-division",
+    "median": 6
+  },
+  {
+    "max": 12,
+    "avg": 3.3055555555555554,
+    "index": 72,
+    "league": "fiji-premier-league",
+    "median": 4
+  },
+  {
+    "max": 14,
+    "avg": 2.12241653418124,
+    "index": 943,
+    "league": "ligat-haal",
+    "median": 1
+  },
+  {
+    "max": 12,
+    "avg": 2.158173395102581,
+    "index": 755,
+    "league": "torneo-de-verano",
+    "median": 2
+  },
+  {
+    "max": 13,
+    "avg": 2.158196721311475,
+    "index": 610,
+    "league": "a-lyga",
+    "median": 3
+  },
+  {
+    "max": 11,
+    "avg": 2.7861189801699715,
+    "index": 706,
+    "league": "campeonato-scotiabank-primera-division",
+    "median": 2
+  },
+  {
+    "max": 15,
+    "avg": 2.6416758544652703,
+    "index": 907,
+    "league": "alka-superligaen",
+    "median": 8
+  },
+  {
+    "max": 16,
+    "avg": 2.320501853435985,
+    "index": 1753,
+    "league": "lotto-ekstraklasa",
+    "median": 1
+  },
+  {
+    "max": 24,
+    "avg": 2.895240901723884,
+    "index": 3393,
+    "league": "premier-league",
+    "median": 5
+  },
+  {
+    "max": 25,
+    "avg": 2.3109256683665587,
+    "index": 6471,
+    "league": "serie-a",
+    "median": 1
+  },
+  {
+    "max": 14,
+    "avg": 3.16583912611718,
+    "index": 503,
+    "league": "pepsideild",
+    "median": 1
+  },
+  {
+    "max": 18,
+    "avg": 2.801484230055659,
+    "index": 4312,
+    "league": "laliga",
+    "median": 2
+  },
+  {
+    "max": 17,
+    "avg": 1.8387713636906897,
+    "index": 4183,
+    "league": "laliga2",
+    "median": 3
+  },
+  {
+    "max": 12,
+    "avg": 2.424743892828999,
+    "index": 634,
+    "league": "k-league-1",
+    "median": 4
+  },
+  {
+    "max": 13,
+    "avg": 2.304123711340206,
+    "index": 291,
+    "league": "divizia-nationala",
+    "median": 1
+  },
+  {
+    "max": 18,
+    "avg": 2.1312623925974883,
+    "index": 3782,
+    "league": "2-bundesliga",
+    "median": 1
+  },
+  {
+    "max": 12,
+    "avg": 2.003473729917499,
+    "index": 1151,
+    "league": "parva-liga",
+    "median": 5
+  },
+  {
+    "max": 23,
+    "avg": 2.423958669680336,
+    "index": 4645,
+    "league": "premier-liga",
+    "median": 2
+  },
+  {
+    "max": 19,
+    "avg": 2.65149921094161,
+    "index": 3802,
+    "league": "ligue-1",
+    "median": 5
+  },
+  {
+    "max": 6,
+    "avg": 1.6850574712643678,
+    "index": 217,
+    "league": "indian-super-league",
+    "median": 4
+  },
+  {
+    "max": 20,
+    "avg": 2.922344225426644,
+    "index": 3779,
+    "league": "1-bundesliga",
+    "median": 2
+  },
+  {
+    "max": 4,
+    "avg": 1.5625,
+    "index": 32,
+    "league": "campionato-sammarinese",
+    "median": 1
+  },
+  {
+    "max": 18,
+    "avg": 2.526315789473684,
+    "index": 1415,
+    "league": "nemzeti-bajnoksag",
+    "median": 1
+  },
+  {
+    "max": 12,
+    "avg": 2.8505942275042444,
+    "index": 589,
+    "league": "qatar-stars-league",
+    "median": 1
+  },
+  {
+    "max": 19,
+    "avg": 2.377237641648875,
+    "index": 3044,
+    "league": "super-lig",
+    "median": 6
+  },
+  {
+    "max": 11,
+    "avg": 2.1695859872611467,
+    "index": 628,
+    "league": "serie-a-segunda-etapa",
+    "median": 1
+  },
+  {
+    "max": 19,
+    "avg": 2.1107351984385168,
+    "index": 3842,
+    "league": "championship",
+    "median": 3
+  },
+  {
+    "max": 13,
+    "avg": 2.4990892531876137,
+    "index": 549,
+    "league": "a-league",
+    "median": 2
+  },
+  {
+    "max": 12,
+    "avg": 2.951541850220264,
+    "index": 908,
+    "league": "allsvenskan",
+    "median": 4
+  },
+  {
+    "max": 17,
+    "avg": 1.9947229551451187,
+    "index": 1516,
+    "league": "superliga",
+    "median": 1
+  },
+  {
+    "max": 20,
+    "avg": 2.9110101549973275,
+    "index": 1871,
+    "league": "bundesliga",
+    "median": 2
+  },
+  {
+    "max": 10,
+    "avg": 2,
+    "index": 161,
+    "league": "go-jek-traveloka-liga-1",
+    "median": 1
+  },
+  {
+    "max": 13,
+    "avg": 2.6365248226950353,
+    "index": 282,
+    "league": "new-zealand-premiership",
+    "median": 1
+  },
+  {
+    "max": 16,
+    "avg": 2.6980014803849,
+    "index": 1351,
+    "league": "vysheyshaya-liga",
+    "median": 2
+  }
+]

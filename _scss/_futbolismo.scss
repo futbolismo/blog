@@ -255,6 +255,9 @@ div.navbar.smaller > .container {
 	top: 520px;*/
 	width: 100%;
 	overflow-x: hidden;
+	@media (min-width: 768px) {
+		overflow-x: unset;
+	}
 	z-index: 999;
 	background: none repeat scroll 0% 0% #FFF;
 
