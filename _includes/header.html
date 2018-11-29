@@ -1,4 +1,8 @@
-<div id="header" class="navbar" role="navigation">
+{% if page.header_type == "small" %}
+<div id="header" class="navbar smaller" role="navigation">
+{% else %}
+<div id="header" class="navbar " role="navigation">
+{% endif %}
   <div class="container">
     <div class="navbar-header">
             <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
