@@ -1,0 +1,806 @@
+{
+  "long": [
+    {
+      "_id": {
+        "key": "Francesco Totti-Sep 27, 1976",
+        "name": "Francesco Totti",
+        "dob": "Sep 27, 1976"
+      },
+      "count": 25,
+      "minYear": 1992,
+      "maxYear": 2016,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 25,
+      "longestTeam": {
+        "team": "as-rom",
+        "years": 25,
+        "index": 1,
+        "teamName": "AS Roma"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Paolo Maldini-Jun 26, 1968",
+        "name": "Paolo Maldini",
+        "dob": "Jun 26, 1968"
+      },
+      "count": 25,
+      "minYear": 1984,
+      "maxYear": 2008,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 25,
+      "longestTeam": {
+        "team": "ac-mailand",
+        "years": 25,
+        "index": 0,
+        "teamName": "AC Milan"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Sander Boschker-Oct 20, 1970",
+        "name": "Sander Boschker",
+        "dob": "Oct 20, 1970"
+      },
+      "count": 25,
+      "minYear": 1989,
+      "maxYear": 2013,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 24,
+      "longestTeam": {
+        "team": "fc-twente-enschede",
+        "years": 24,
+        "index": 0,
+        "teamName": "SC Enschede"
+      },
+      "numberOfTeams": 2
+    },
+    {
+      "_id": {
+        "key": "Ryan Giggs-Nov 29, 1973",
+        "name": "Ryan Giggs",
+        "dob": "Nov 29, 1973"
+      },
+      "count": 24,
+      "minYear": 1990,
+      "maxYear": 2013,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 24,
+      "longestTeam": {
+        "team": "manchester-united",
+        "years": 24,
+        "index": 0,
+        "teamName": "Manchester United"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Oleksandr Shovkovsky-Jan 2, 1975",
+        "name": "Oleksandr Shovkovsky",
+        "dob": "Jan 2, 1975"
+      },
+      "count": 23,
+      "minYear": 1994,
+      "maxYear": 2016,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 23,
+      "longestTeam": {
+        "team": "dynamo-kiew",
+        "years": 23,
+        "index": 1,
+        "teamName": "Dynamo Kyiv"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Alessandro Costacurta-Apr 24, 1966",
+        "name": "Alessandro Costacurta",
+        "dob": "Apr 24, 1966"
+      },
+      "count": 22,
+      "minYear": 1985,
+      "maxYear": 2006,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 22,
+      "longestTeam": {
+        "team": "ac-mailand",
+        "years": 22,
+        "index": 0,
+        "teamName": "AC Milan"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Uwe Kamps-Jun 12, 1964",
+        "name": "Uwe Kamps",
+        "dob": "Jun 12, 1964"
+      },
+      "count": 22,
+      "minYear": 1982,
+      "maxYear": 2003,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 22,
+      "longestTeam": {
+        "team": "borussia-monchengladbach",
+        "years": 22,
+        "index": 0,
+        "teamName": "Borussia Mönchengladbach"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Ola By Rise-Nov 14, 1960",
+        "name": "Ola By Rise",
+        "dob": "Nov 14, 1960"
+      },
+      "count": 22,
+      "minYear": 1976,
+      "maxYear": 1997,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 22,
+      "longestTeam": {
+        "team": "rosenborg-trondheim",
+        "years": 22,
+        "index": 1,
+        "teamName": "Rosenborg BK"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Paul Scholes-Nov 16, 1974",
+        "name": "Paul Scholes",
+        "dob": "Nov 16, 1974"
+      },
+      "count": 21,
+      "minYear": 1992,
+      "maxYear": 2012,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 21,
+      "longestTeam": {
+        "team": "manchester-united",
+        "years": 21,
+        "index": 0,
+        "teamName": "Manchester United"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Bobby Lennox-Aug 30, 1943",
+        "name": "Bobby Lennox",
+        "dob": "Aug 30, 1943"
+      },
+      "count": 21,
+      "minYear": 1961,
+      "maxYear": 1981,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 21,
+      "longestTeam": {
+        "team": "celtic-glasgow",
+        "years": 21,
+        "index": 0,
+        "teamName": "Celtic FC"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Hitoshi Sogahata-Aug 2, 1979",
+        "name": "Hitoshi Sogahata",
+        "dob": "Aug 2, 1979"
+      },
+      "count": 20,
+      "minYear": 1997,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "kashima-antlers",
+        "years": 20,
+        "index": 1,
+        "teamName": "Kashima Antlers"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "John Terry-Dec 7, 1980",
+        "name": "John Terry",
+        "dob": "Dec 7, 1980"
+      },
+      "count": 21,
+      "minYear": 1997,
+      "maxYear": 2017,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "fc-chelsea",
+        "years": 20,
+        "index": 0,
+        "teamName": "Chelsea FC"
+      },
+      "numberOfTeams": 2
+    },
+    {
+      "_id": {
+        "key": "Oka Nikolov-May 25, 1974",
+        "name": "Oka Nikolov",
+        "dob": "May 25, 1974"
+      },
+      "count": 21,
+      "minYear": 1993,
+      "maxYear": 2012,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "eintracht-frankfurt",
+        "years": 20,
+        "index": 0,
+        "teamName": "Eintracht Frankfurt"
+      },
+      "numberOfTeams": 2
+    },
+    {
+      "_id": {
+        "key": "Giuseppe Bergomi-Dec 22, 1963",
+        "name": "Giuseppe Bergomi",
+        "dob": "Dec 22, 1963"
+      },
+      "count": 20,
+      "minYear": 1979,
+      "maxYear": 1998,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "inter-mailand",
+        "years": 20,
+        "index": 1,
+        "teamName": "FC Internazionale"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Pat Bonner-May 24, 1960",
+        "name": "Pat Bonner",
+        "dob": "May 24, 1960"
+      },
+      "count": 20,
+      "minYear": 1978,
+      "maxYear": 1997,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "celtic-glasgow",
+        "years": 20,
+        "index": 0,
+        "teamName": "Celtic FC"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Franco Baresi-May 8, 1960",
+        "name": "Franco Baresi",
+        "dob": "May 8, 1960"
+      },
+      "count": 20,
+      "minYear": 1977,
+      "maxYear": 1996,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "ac-mailand",
+        "years": 20,
+        "index": 0,
+        "teamName": "AC Milan"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Karl Grob-May 30, 1946",
+        "name": "Karl Grob",
+        "dob": "May 30, 1946"
+      },
+      "count": 20,
+      "minYear": 1967,
+      "maxYear": 1986,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "fc-zurich",
+        "years": 20,
+        "index": 0,
+        "teamName": "FC Zürich"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Robert Sara-Jun 9, 1946",
+        "name": "Robert Sara",
+        "dob": "Jun 9, 1946"
+      },
+      "count": 21,
+      "minYear": 1965,
+      "maxYear": 1984,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 20,
+      "longestTeam": {
+        "team": "fk-austria-wien",
+        "years": 20,
+        "index": 1,
+        "teamName": "Austria Vienna"
+      },
+      "numberOfTeams": 2
+    },
+    {
+      "_id": {
+        "key": "Daniele De Rossi-Jul 24, 1983",
+        "name": "Daniele De Rossi",
+        "dob": "Jul 24, 1983"
+      },
+      "count": 19,
+      "minYear": 2000,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 19,
+      "longestTeam": {
+        "team": "as-rom",
+        "years": 19,
+        "index": 0,
+        "teamName": "AS Roma"
+      },
+      "numberOfTeams": 1
+    },
+    {
+      "_id": {
+        "key": "Javier Zanetti-Aug 10, 1973",
+        "name": "Javier Zanetti",
+        "dob": "Aug 10, 1973"
+      },
+      "count": 19,
+      "minYear": 1995,
+      "maxYear": 2013,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 19,
+      "longestTeam": {
+        "team": "inter-mailand",
+        "years": 19,
+        "index": 0,
+        "teamName": "FC Internazionale"
+      },
+      "numberOfTeams": 1
+    }
+  ],
+  "short": [
+    {
+      "_id": {
+        "key": "Cristian Pasquato-Jul 20, 1989",
+        "name": "Cristian Pasquato",
+        "dob": "Jul 20, 1989"
+      },
+      "count": 19,
+      "minYear": 2007,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 2,
+      "longestTeam": {
+        "team": "juventus-turin",
+        "years": 2,
+        "index": 0,
+        "teamName": "Juventus FC"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Moussa Maazou-Aug 25, 1988",
+        "name": "Moussa Maazou",
+        "dob": "Aug 25, 1988"
+      },
+      "count": 20,
+      "minYear": 2007,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 2,
+      "longestTeam": {
+        "team": "ksc-lokeren",
+        "years": 2,
+        "index": 1,
+        "teamName": "KSC Lokeren"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Nikola Vasiljevic-Dec 19, 1983",
+        "name": "Nikola Vasiljevic",
+        "dob": "Dec 19, 1983"
+      },
+      "count": 21,
+      "minYear": 2006,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "schachtjor-karaganda",
+        "years": 3,
+        "index": 1,
+        "teamName": "Shakhter Karagandy"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Marco Borriello-Jun 18, 1982",
+        "name": "Marco Borriello",
+        "dob": "Jun 18, 1982"
+      },
+      "count": 25,
+      "minYear": 2000,
+      "maxYear": 2017,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 6,
+      "longestTeam": {
+        "team": "ac-mailand",
+        "years": 6,
+        "index": 0,
+        "teamName": "AC Milan"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Mauricio Pinilla-Feb 4, 1984",
+        "name": "Mauricio Pinilla",
+        "dob": "Feb 4, 1984"
+      },
+      "count": 22,
+      "minYear": 2003,
+      "maxYear": 2016,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "cagliari-calcio",
+        "years": 3,
+        "index": 1,
+        "teamName": "Unione Sportiva Cagliari"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Miljan Mrdakovic-May 6, 1982",
+        "name": "Miljan Mrdakovic",
+        "dob": "May 6, 1982"
+      },
+      "count": 19,
+      "minYear": 2001,
+      "maxYear": 2015,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 2,
+      "longestTeam": {
+        "team": "metalist-kharkiv",
+        "years": 2,
+        "index": 0,
+        "teamName": "Metalist Kharkiv"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Vitali Bulyga-Jan 12, 1980",
+        "name": "Vitali Bulyga",
+        "dob": "Jan 12, 1980"
+      },
+      "count": 27,
+      "minYear": 1999,
+      "maxYear": 2015,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "dnepr-mogilev",
+        "years": 3,
+        "index": 0,
+        "teamName": "Dnepr Mogilev"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Kaba Diawara-Dec 16, 1975",
+        "name": "Kaba Diawara",
+        "dob": "Dec 16, 1975"
+      },
+      "count": 21,
+      "minYear": 1995,
+      "maxYear": 2010,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "fc-girondins-bordeaux",
+        "years": 3,
+        "index": 0,
+        "teamName": "FC Girondins Bordeaux"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Davide Dionigi-Jan 10, 1974",
+        "name": "Davide Dionigi",
+        "dob": "Jan 10, 1974"
+      },
+      "count": 24,
+      "minYear": 1990,
+      "maxYear": 2006,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "piacenza-calcio-1919",
+        "years": 3,
+        "index": 1,
+        "teamName": "Piacenza FC"
+      },
+      "numberOfTeams": 17
+    },
+    {
+      "_id": {
+        "key": "Santiago Silva-Dec 9, 1980",
+        "name": "Santiago Silva",
+        "dob": "Dec 9, 1980"
+      },
+      "count": 26,
+      "minYear": 2001,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "club-de-gimnasia-y-esgrima-la-plata",
+        "years": 3,
+        "index": 0,
+        "teamName": "Club de Gimnasia y Esgrima La Plata"
+      },
+      "numberOfTeams": 16
+    },
+    {
+      "_id": {
+        "key": "Kalu Uche-Nov 15, 1982",
+        "name": "Kalu Uche",
+        "dob": "Nov 15, 1982"
+      },
+      "count": 25,
+      "minYear": 2000,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 6,
+      "longestTeam": {
+        "team": "ud-almeria",
+        "years": 6,
+        "index": 0,
+        "teamName": "UD Almería"
+      },
+      "numberOfTeams": 16
+    },
+    {
+      "_id": {
+        "key": "Paolo Hernán Dellafiore-Feb 2, 1985",
+        "name": "Paolo Hernán Dellafiore",
+        "dob": "Feb 2, 1985"
+      },
+      "count": 19,
+      "minYear": 2004,
+      "maxYear": 2017,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "us-latina-calcio",
+        "years": 3,
+        "index": 0,
+        "teamName": "US Latina Calcio"
+      },
+      "numberOfTeams": 16
+    },
+    {
+      "_id": {
+        "key": "Sebastián Abreu-Oct 17, 1976",
+        "name": "Sebastián Abreu",
+        "dob": "Oct 17, 1976"
+      },
+      "count": 19,
+      "minYear": 1997,
+      "maxYear": 2015,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "botafogo-fr-rio-de-janeiro",
+        "years": 3,
+        "index": 1,
+        "teamName": "Botafogo Rio de Janeiro"
+      },
+      "numberOfTeams": 16
+    },
+    {
+      "_id": {
+        "key": "Benny Carbone-Aug 14, 1971",
+        "name": "Benny Carbone",
+        "dob": "Aug 14, 1971"
+      },
+      "count": 22,
+      "minYear": 1988,
+      "maxYear": 2006,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 4,
+      "longestTeam": {
+        "team": "sheffield-wednesday",
+        "years": 4,
+        "index": 0,
+        "teamName": "Sheffield Wednesday"
+      },
+      "numberOfTeams": 16
+    },
+    {
+      "_id": {
+        "key": "Scott Sinclair-Mar 25, 1989",
+        "name": "Scott Sinclair",
+        "dob": "Mar 25, 1989"
+      },
+      "count": 21,
+      "minYear": 2006,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "swansea-city",
+        "years": 3,
+        "index": 0,
+        "teamName": "Swansea City"
+      },
+      "numberOfTeams": 15
+    },
+    {
+      "_id": {
+        "key": "Colin Kazim-Richards-Aug 26, 1986",
+        "name": "Colin Kazim-Richards",
+        "dob": "Aug 26, 1986"
+      },
+      "count": 19,
+      "minYear": 2005,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "fenerbahce-istanbul",
+        "years": 3,
+        "index": 0,
+        "teamName": "Fenerbahce SK"
+      },
+      "numberOfTeams": 15
+    },
+    {
+      "_id": {
+        "key": "Marvin Ogunjimi-Oct 12, 1987",
+        "name": "Marvin Ogunjimi",
+        "dob": "Oct 12, 1987"
+      },
+      "count": 22,
+      "minYear": 2005,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 4,
+      "longestTeam": {
+        "team": "krc-genk",
+        "years": 4,
+        "index": 2,
+        "teamName": "KRC Genk"
+      },
+      "numberOfTeams": 15
+    },
+    {
+      "_id": {
+        "key": "Tamás Priskin-Sep 27, 1986",
+        "name": "Tamás Priskin",
+        "dob": "Sep 27, 1986"
+      },
+      "count": 21,
+      "minYear": 2004,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "gy%C5%91ri-eto-fc",
+        "years": 3,
+        "index": 1,
+        "teamName": "ETO FC Győr "
+      },
+      "numberOfTeams": 15
+    },
+    {
+      "_id": {
+        "key": "Jajá-Feb 28, 1986",
+        "name": "Jajá",
+        "dob": "Feb 28, 1986"
+      },
+      "count": 22,
+      "minYear": 2004,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 4,
+      "longestTeam": {
+        "team": "metalist-kharkiv",
+        "years": 4,
+        "index": 1,
+        "teamName": "Metalist Kharkiv"
+      },
+      "numberOfTeams": 15
+    },
+    {
+      "_id": {
+        "key": "Andrija Kaludjerovic-Jul 5, 1987",
+        "name": "Andrija Kaludjerovic",
+        "dob": "Jul 5, 1987"
+      },
+      "count": 19,
+      "minYear": 2006,
+      "maxYear": 2018,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 3,
+      "longestTeam": {
+        "team": "ofk-belgrad",
+        "years": 3,
+        "index": 0,
+        "teamName": "OFK Beograd"
+      },
+      "numberOfTeams": 15
+    }
+  ]
+}

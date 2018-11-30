@@ -6,13 +6,14 @@
     position: relative;
     width: 100%;
     height: calc(100vh - 62px);
-    @media (min-width: $screen-xs-min) {
-      height: 100vh;
-    }
-    // top: 50px;
-    background: #fff url(assets/pics/transfers/header.jpg) no-repeat center center;
+    background: #fff url(assets/pics/transfers/header_mobile.jpg) no-repeat center bottom;
     background-size: 100%;
     background-position: center 100%;
+    @media (min-width: $screen-xs-min) {
+      height: 100vh;
+      background-image: url(assets/pics/transfers/header.jpg);
+    }
+
     // height: calc(100vh - 50px);
     .header {
       height: 100%;
