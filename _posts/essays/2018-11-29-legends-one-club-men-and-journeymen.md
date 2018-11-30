@@ -16,7 +16,6 @@ excerpt: "The history of football told through the careers<br/> of its players f
   <div class="row fixed-header">
     <div class="header col-xs-12">
       <section>
-        <h5>Visual Essay</h5>
         <h1>Legends, <br/>One-club men <br/>and Journeymen</h1>
         <p>The history of football told through the careers<br/> of its players from 1920 till today.</p>
         <div class="note">

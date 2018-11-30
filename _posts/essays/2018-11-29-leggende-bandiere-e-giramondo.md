@@ -17,7 +17,6 @@ excerpt: "La storia del calcio raccontata attraverso le carriere<br/> dei suoi i
   <div class="row fixed-header">
     <div class="header col-xs-12">
       <section>
-        <h5>Visual Essay</h5>
         <h1>Leggende, <br/>bandiere <br/>e giramondo</h1>
         <p>
           La storia del calcio raccontata attraverso le carriere<br/> dei suoi interpreti dal 1920 ad oggi.
