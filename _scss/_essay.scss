@@ -12,8 +12,8 @@
   }
 
   @media (min-width: 768px) {
-    font-size: 20px;
-    line-height: 26px;
+    // font-size: 20px;
+    // line-height: 26px;
   }
 
   .header {
@@ -50,20 +50,20 @@
       top: 50%;
       transform: translateY(-50%);
       @media (min-width: 768px) {
-        max-width: 50%;
+        max-width: 55%;
         margin: 0 auto;
       }
     }
 
     h1 {
-      font-size: 4rem;
-      line-height: 4.3rem;
+      // font-size: 4rem;
+      // line-height: 4.3rem;
       text-align: left;
       margin-bottom: 2rem;
       @media (min-width: 768px) {
         width: auto;
-        font-size: 4rem;
-        line-height: 4.5rem;
+        font-size: 5rem;
+        line-height: 5.5rem;
         margin-bottom: 1rem;
         text-align: center;
 
@@ -132,12 +132,12 @@
     margin-bottom: 10rem;
     h1,
     h2 {
-      font-size: 3rem;
-      line-height: 3.5rem;
+      // font-size: 3rem;
+      // line-height: 3.5rem;
 
       @media (min-width: 768px) {
-        font-size: 3rem;
-        line-height: 3.5rem;
+        // font-size: 3rem;
+        // line-height: 3.5rem;
         margin-bottom: 1rem;
       }
     }

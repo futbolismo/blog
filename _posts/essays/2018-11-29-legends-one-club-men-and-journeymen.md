@@ -2,7 +2,7 @@
 layout: essay
 lang: en
 pid: careers_en
-postTitle: Heroes, One-team-men and Journeymen
+postTitle: Legends, One-club men and Journeymen
 header_type: small
 
 author: Author
@@ -18,7 +18,7 @@ excerpt: "The history of football told through the careers<br/> of its players f
     <div class="header col-xs-12">
       <section>
         <h5>Visual Essay</h5>
-        <h1>Heroes, <br/>One-team-men <br/>and Journeymen</h1>
+        <h1>Legends, <br/>One-club men <br/>and Journeymen</h1>
         <p>The history of football told through the careers<br/> of its players from 1920 till today.</p>
         <div class="note">
           by <a href="https://twitter.com/littleark" target="_blank" title="Carlo on twitter">Carlo Zapponi</a> and
@@ -28,9 +28,8 @@ excerpt: "The history of football told through the careers<br/> of its players f
             <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}&url={{site.url}}&via=ftblsm&hashtags=calcio,football" title="Condividi via Twitter" target="_blank"><i class="icon-twitter"></i></a>
             <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.url}}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
         </div>
-      </section>
-      <section>
-        <a href="/leggende-bandiere-e-giramondo" title="Leggende, bandiere e giramondo">In italiano</a>
+        <br/><br/>
+        <a href="/leggende-bandiere-e-giramondo" title="Leggende, bandiere e giramondo">Italian version</a>
       </section>
     </div>
   </div>

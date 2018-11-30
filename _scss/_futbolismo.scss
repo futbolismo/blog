@@ -175,13 +175,16 @@ div.navbar.smaller > .container {
 .navbar-nav li a {
 	text-decoration:none;
 }
-.navbar.smaller h4 {
-	font-size:2.2em;
-	line-height: 60px;
+@media (min-width: $screen-xs-min) {
+	.navbar.smaller h4 {
+		font-size:2.2em;
+		line-height: 60px;
+	}
+	.navbar.smaller .navbar-brand span {
+		display: none;
+	}
 }
-.navbar.smaller .navbar-brand span {
-	display: none;
-}
+
 
 
 /********************* HOMEPAGE *******************/
@@ -255,7 +258,7 @@ div.navbar.smaller > .container {
 	top: 520px;*/
 	width: 100%;
 	overflow-x: hidden;
-	@media (min-width: 768px) {
+	@media (min-width: $screen-xs-min) {
 		overflow-x: unset;
 	}
 	z-index: 999;
