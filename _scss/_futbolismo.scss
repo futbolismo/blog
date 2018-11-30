@@ -702,6 +702,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 }
 /********************* FOOTER *******************/
 .footer {
+	position: relative;
 	margin-top:3rem;
 	padding-top:3rem;
 	min-height: 10rem;

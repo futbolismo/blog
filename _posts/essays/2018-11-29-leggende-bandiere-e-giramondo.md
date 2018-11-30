@@ -13,8 +13,8 @@ dialog: black-text left
 
 excerpt: "La storia del calcio raccontata attraverso le carriere<br/> dei suoi interpreti dal 1920 ad oggi."
 ---
-<div>
-  <div class="row">
+
+  <div class="row fixed-header">
     <div class="header col-xs-12">
       <section>
         <h5>Visual Essay</h5>
@@ -35,8 +35,8 @@ excerpt: "La storia del calcio raccontata attraverso le carriere<br/> dei suoi i
       </section>
     </div>
   </div>
-  <div id="transfersRoot"></div>
-</div>
+  <div id="transfersRoot" class="overlapping-content"></div>
+
 <script>
   fetch("{{ site.baseurl }}/assets/transfers/asset-manifest.json")
   .then(function(response) {

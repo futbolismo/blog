@@ -2,6 +2,27 @@
   font-size: 16px;
   line-height: 22px;
 
+  .fixed-header {
+    position:fixed;
+    width: 100%;
+    top: 50px;
+    background: #fff url(assets/pics/transfers/header.jpg) no-repeat center center;
+    background-size: 100%;
+    background-position: center 100%;
+    height: calc(100vh - 50px);
+  }
+  .overlapping-content {
+    position: relative;
+    margin-top: 100vh;
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+    margin-bottom: -30px;
+    padding-top: 10px;
+    @media (min-width: $screen-xs-min) {
+      padding-top: 0;
+    }
+  }
+
   .row {
     margin-left: 0;
     margin-right: 0;
@@ -11,11 +32,6 @@
     padding-right: 0;
   }
 
-  @media (min-width: 768px) {
-    // font-size: 20px;
-    // line-height: 26px;
-  }
-
   .header {
     position: relative;
     height: 100vh;
@@ -23,7 +39,7 @@
     margin-left: 15px;
     margin-right: 15px;
     width: calc(100% - 30px);
-    @media (min-width: 768px) {
+    @media (min-width: $screen-xs-min) {
       text-align: center;
     }
     hr {
@@ -31,7 +47,7 @@
       margin: 20px 0;
       width: 40%;
 
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         margin: 20px auto;
         width: unset;
       }
@@ -41,7 +57,7 @@
       font-size: 22px;
       // margin: 10px;
 
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         font-size: 30px;
       }
     }
@@ -49,7 +65,7 @@
       position: relative;
       top: 50%;
       transform: translateY(-50%);
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         max-width: 55%;
         margin: 0 auto;
       }
@@ -60,7 +76,7 @@
       // line-height: 4.3rem;
       text-align: left;
       margin-bottom: 2rem;
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         width: auto;
         font-size: 5rem;
         line-height: 5.5rem;
@@ -81,7 +97,7 @@
       text-align: left;
       color: #000;
       margin-bottom: 4rem;
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         text-align: center;
       }
     }
@@ -94,7 +110,7 @@
         display: none;
       }
 
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         font-size: 1.8rem;
         line-height: 2.6rem;
         text-align: center;
@@ -109,7 +125,7 @@
       display: inline-block;
       margin: 0;
       padding: 1em 0;
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         margin: 0 auto;
       }
     }
@@ -120,7 +136,7 @@
     margin-top: 3rem;
     font-size: 1.4rem;
     font-weight: bold;
-    @media (min-width: 768px) {
+    @media (min-width: $screen-xs-min) {
       text-align: center;
     }
   }
@@ -135,7 +151,7 @@
       // font-size: 3rem;
       // line-height: 3.5rem;
 
-      @media (min-width: 768px) {
+      @media (min-width: $screen-xs-min) {
         // font-size: 3rem;
         // line-height: 3.5rem;
         margin-bottom: 1rem;
