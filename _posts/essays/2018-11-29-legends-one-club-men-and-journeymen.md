@@ -43,14 +43,14 @@ excerpt: "The history of football told through the careers<br/> of its players f
     var newCSS = document.createElement("link");
     newCSS.setAttribute("rel","stylesheet");
     newCSS.setAttribute("href","{{ site.baseurl }}/assets/transfers/"+mainCSS)
-    console.log('css',newCSS)
+    // console.log('css',newCSS)
     document.querySelector("head").appendChild(newCSS);
 
     var mainJS = json['main.js'];
     var newJS = document.createElement("script");
     newJS.setAttribute("type","text/javascript");
     newJS.setAttribute("src","{{ site.baseurl }}/assets/transfers/"+mainJS);
-    console.log('js',newJS)
+    // console.log('js',newJS)
     document.querySelector("body").appendChild(newJS);
 
   })
