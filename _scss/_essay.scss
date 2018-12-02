@@ -1,7 +1,9 @@
 .essay {
   font-size: 16px;
   line-height: 22px;
-
+  .dataviz-container {
+    margin-top: 50px;
+  }
   .fixed-header {
     position: relative;
     width: 100%;
