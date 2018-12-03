@@ -4,11 +4,17 @@ onmessage = function(e) {
 
     const dataList = e.data.data.map(d => {
         const label = d.replace(/ †/gi, "");
+        const name = label.replace(/-.{3}\s.*$/i, '').replace(/-n\/a/gi, '');
+        let value = label;
+        try {
+          value = label.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        } catch(e) {
+          console.log('string.normalize(\'NFD\') not supported');
+        }
         return {
           label,
-          name: label.replace(/-.{3}\s.*$/i, '').replace(/-n\/a/gi, ''),
-          value: label, // .normalize("NFD").replace(/[\u0300-\u036f]/g, ""),
-          // unknownDOB: d.search(/N\/A/gi) > -1
+          name,
+          value,
         };
       }).sort((a, b) => {
         const wordA = a.name;
