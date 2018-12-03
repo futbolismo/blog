@@ -18,7 +18,7 @@
   .fixed-header {
     position: relative;
     width: 100%;
-    height: calc(100vh - 62px);
+    height: calc(100vh - 62px - 44px);
     background: #fff url(assets/pics/transfers/header_mobile.jpg) no-repeat center bottom;
     background-size: 100%;
     background-position: center 100%;

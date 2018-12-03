@@ -17,6 +17,8 @@ timeline: 1
 timeline_data: socrates
 
 dialog: transparent white-text left
+excerpt: "“Penso, dunque sono! Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi, un brasiliano democratico.”"
+hashtags: Sócrates,Timão,Corinthians
 
 ---
 Penso, dunque sono!  
@@ -29,7 +31,7 @@ Vedete io poi medico lo sono per davvero. Ho iniziato la facoltà di Medicina al
 Fu mio padre Raimundo a parlare con i dirigenti. "Lo studio per il Gordo viene prima di ogni cosa" disse loro. "Se volete giochi per voi questa è la condizione". Accettarono. Mi allenavo una volta alla settimana e giocavo le partite. Ai miei compagni di squadra non dava così fastidio, sapevano quanto amore mettessi nello studio e quanto in mezzo al campo. Con me vincevano ed erano certi di prendere i premi partita. A ventiquattro anni sono diventato dottore in medicina, e solo allora ho fatto il grande salto nel calcio che conta. Se adesso i laureati nel nostro mondo si contano sulle dita di una mano, allora era ancora peggio. In Brasile poi!  
 Io mi ritengo un buon giocatore eppure in Brasile mi considerano un gran calciatore. Ma così tanto che il São Paulo e il Corinthians si contendono i miei servigi sportivi. Alla fine accetto di giocare per il Corinthians. Uno dei club più importanti del Brasile assieme al Flamengo di Rio e al Santos, la squadra per cui ho sempre fatto il tifo sin da piccolo. Soprattutto squadra del popolo, fondata nel millenovecentodieci dai proletari della città di São Paolo per sottrarre il calcio all’elite cittadina. Come posso rinunciare ad una chiamata del Timão!  
 Si dice che il Diavolo ci mette lo zampino. Beh, nel mio caso è proprio vero! Arrivo al Timão in concomitanza del cambio di dirigenza, insieme a un gruppo di giocatori, Casagrande, Palhinha,  Wladimir, Zenon, Biro-Biro, capaci di pensare e mettersi in discussione, e con un direttore tecnico, Adílson Monteiro Alves, che di calcio non capisce letteralmente nulla perché è un sociologo e continua a farlo il sociologo.  
- <img class="responsive-img border w60 margin-1em" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/S%C3%B3crates_-_Democracia_Corintiana.jpg/640px-S%C3%B3crates_-_Democracia_Corintiana.jpg?download" alt="Socrates - Democracia" align="left">
+ <img class="responsive-img border w60 margin-1em" src="{{site.baseurl}}/assets/pics/socrates/democracia_corintiana.jpeg" alt="Socrates - Democracia" align="left">
 Queste particolari circostanze hanno creato l'humus perfetto per qualcosa di unico e grande: in un paese che sogna la democrazia ed è governato dalla dittatura, noi, una squadra di futebol, realizziamo questo sogno. La democrazia, appunto.  
 Siamo un gruppo di persone, né idoli né altro, uomini in carne ed ossa, ogni testa un voto. Costituiamo un’assemblea che si incontra, sul prato verde del campo o all'interno dello spogliatoio, e che ha qualcosa di cui parlare e di cui decidere. Niente più gerarchia, l’allenatore, io, il presidente, il secondo portiere, il magazziniere, tutti abbiamo lo stesso peso. Così ha preso corpo una delle illusioni più ricorrenti nella storia umana, per poco, questo è vero, ma di sicuro la nostra democrazia, la "Democracia Corinthiana" è stata la più divertente, leggera e meglio riuscita di tutte.
 La parola d'ordine è autogestione. Ogni decisione in seno al club viene presa in maniera collettiva: dagli orari degli allenamenti alla campagna acquisti-cessioni alla formazione che deve scendere in campo. Una delle prime cose che decidiamo è quella di abolire le regole ferree e l'obbligo del ritiro. Dico, non siamo in prigione! Già di per se stesso è offensivo obbligare qualcuno a fare qualcosa, noi poi ci divertiamo con il pallone, perché dovremmo sottostare a regole dittatoriali, noi che la dittatura la combattiamo! Decidiamo semplicemente che chi non vuole raggiungere la squadra in albergo può presentarsi direttamente al campo di gioco per la partita.   
@@ -60,7 +62,8 @@ Dunque sono!
 <div class="post-disclaimer">
     <b>Fotgrafie</b><br/>
     <ol>
-      <li>"Sócrates - Democracia Corintiana" di Sergio Goncalves Chicago - http://www.flickr.com/photos/sergiohsg/6455639943/. Con licenza CC BY-SA 2.0 <a href="http://commons.wikimedia.org/wiki/File:S%C3%B3crates_-_Democracia_Corintiana.jpg#mediaviewer/File:S%C3%B3crates_-_Democracia_Corintiana.jpg" target="_blank">tramite Wikimedia Commons</a></li>
+      <li>Corinthians estampa no uniforme a chamada para eleições diretas de 15 de novembro de 1982 , para a escolha do Governador do Estado. Foto: Trecho do filme “Democracia em Preto e Branco”.
+  <a href="https://medium.com/o-contra-ataque/a-democracia-corintiana-12b9bae7d48c" target="_blank">A Democracia Corintiana</a></li>
       <li>"Socrates (futebolista) participando do movimento político Diretas Já" <a href="//commons.wikimedia.org/w/index.php?title=User:Oscarmadison&amp;action=edit&amp;redlink=1">Jorge Henrique Singh</a> - Opera propria. Con Licenza <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> <a href="//commons.wikimedia.org/wiki/">tramite Wikimedia Commons</a>.</li>
       <li>"Sócrates - Mondiale di Spagna 1982 - Romualdo Zapponi</li>
       <li>"Socrates Fiorentina". Con licenza Pubblico dominio - <a href="http://it.wikipedia.org/wiki/File:Socrates_Fiorentina.jpg#mediaviewer/File:Socrates_Fiorentina.jpg" target="_blank">tramite Wikipedia</a></li>
