@@ -1,6 +1,17 @@
 .essay {
   font-size: 16px;
   line-height: 22px;
+
+  a.lang-link {
+    display: block;
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0px 0px 3px rgba(0, 0, 0, 1);
+  }
+
   .dataviz-container {
     margin-top: 50px;
   }

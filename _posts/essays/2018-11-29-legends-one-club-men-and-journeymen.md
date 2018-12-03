@@ -26,9 +26,8 @@ excerpt: "The history of football told through the careers<br/> of its players f
             <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}&url={{site.url}}&via=ftblsm&hashtags=calcio,football" title="Condividi via Twitter" target="_blank"><i class="icon-twitter"></i></a>
             <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.url}}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
         </div>
-        <br/><br/>
-        <a href="/leggende-bandiere-e-giramondo" title="Leggende, bandiere e giramondo">Italian version</a>
       </section>
+      <a class="lang-link" href="/leggende-bandiere-e-giramondo" title="Leggende, bandiere e giramondo">Italian version</a>
     </div>
   </div>
   <div id="transfersRoot" class="overlapping-content"></div>

@@ -29,9 +29,8 @@ excerpt: "La storia del calcio raccontata attraverso le carriere<br/> dei suoi i
             <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}&url={{site.url}}&via=ftblsm&hashtags=calcio,football" title="Condividi via Twitter" target="_blank"><i class="icon-twitter"></i></a>
             <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.url}}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
         </div>
-        <br/><br/>
-        <a href="/legends-one-club-men-and-journeymen" title="Legends, One-team-men and Journeymen">English version</a>
       </section>
+      <a href="/legends-one-club-men-and-journeymen" title="Legends, One-team-men and Journeymen" class="lang-link">English version</a>
     </div>
   </div>
   <div id="transfersRoot" class="overlapping-content"></div>
