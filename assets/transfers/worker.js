@@ -2,8 +2,11 @@ onmessage = function(e) {
   console.log('Worker: Message received from main script');
   if(e.data.type === 'autocomplete-sorting') {
 
+    // fetch(
+    //   `https://raw.githubusercontent.com/futbolismo/blog/gh-pages/assets/data/listMajorFromCareers.json` // ?${+new Date()}
+    // )
     fetch(
-      `https://raw.githubusercontent.com/futbolismo/blog/gh-pages/assets/data/listMajorFromCareers.json` // ?${+new Date()}
+      `https://raw.githubusercontent.com/futbolismo/blog/gh-pages/assets/data/${e.data.file}?${+new Date()}` // ?${+new Date()}
     )
     .then(response => {
       if (response.ok) {
@@ -58,6 +61,7 @@ onmessage = function(e) {
       });
       console.log('Worker: Posting sorted list back');
       postMessage({
+        file: e.data.file,
         listLength: sortedItems.length,
         sortedItems,
         flatList: sortedItems.map(d => d.value)
