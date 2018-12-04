@@ -9,12 +9,16 @@ player_short: Socrates
 story_type: quote
 
 wikipedia: S%C3%B3crates
+instagram: Bq9r6kBhWCF
+
 life: Centrocampista, nato il 19 Febbraio 1954 a Belém, Pará, Brasile. Morto il 4 Dicembre 2011 a São Paulo, Brasile
 
 author: Francesco Mistrulli
 category: miserie
 timeline: 1
 timeline_data: socrates
+
+
 
 dialog: transparent white-text left
 excerpt: "“Penso, dunque sono! Non tengo tanto ad essere un campione di calcio quanto un uomo democratico, anzi, un brasiliano democratico.”"
