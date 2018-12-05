@@ -15,7 +15,10 @@ onmessage = function(e) {
       throw new Error("Network response was not ok.");
     })
     .then(json => {
-      const dataList = json.map(d => {
+
+      const extraList = ['Ada Hegerberg-Jul 10, 1995','Said Altınordu-Jul 24, 1912'];
+
+      const dataList = [...json, ...extraList].map(d => {
           const label = d.replace(/ †/gi, "");
           const name = label.replace(/-.{3}\s.*$/i, '').replace(/-n\/a/gi, '');
           let value = label;
