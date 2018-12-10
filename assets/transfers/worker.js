@@ -32,17 +32,19 @@ onmessage = function(e) {
             name,
             value,
           };
-        }).sort((a, b) => {
-          const wordA = a.name;
-          const wordB = b.name;
-          if (wordB.match(wordA)) return -1;
-          if (wordA.match(wordB)) return 1;
-          if (wordA < wordB) return -1;
-          if (wordA > wordB) return 1;
-          return 0;
-        });
+        })
+        // .sort((a, b) => {
+        //   const wordA = a.name;
+        //   const wordB = b.name;
+        //   if (wordB.match(wordA)) return -1;
+        //   if (wordA.match(wordB)) return 1;
+        //   if (wordA < wordB) return -1;
+        //   if (wordA > wordB) return 1;
+        //   return 0;
+        // });
 
-      const sortedItems = dataList.sort((a, b) => {
+      const sortedItems = dataList
+      /*.sort((a, b) => {
         a.name =
           a.name || (a.label && a.label.replace(/-.{3}\s.*$/i, '').replace(/-n\/a/gi, '')); //  || a.value.split("-")[0];
         b.name =
@@ -61,7 +63,7 @@ onmessage = function(e) {
 
         // return a.name.length - b.name.length;
         return 0;
-      });
+      });*/
       console.log('Worker: Posting sorted list back');
       postMessage({
         file: e.data.file,

@@ -62,6 +62,26 @@
     },
     {
       "_id": {
+        "key": "Rogério Ceni-Jan 22, 1973",
+        "name": "Rogério Ceni",
+        "dob": "Jan 22, 1973"
+      },
+      "count": 25,
+      "minYear": 1990,
+      "maxYear": 2015,
+      "teams": [],
+      "teamsStats": {},
+      "longest": 25,
+      "longestTeam": {
+        "team": "fc-sao-paulo",
+        "years": 25,
+        "index": 0,
+        "teamName": "São Paulo Futebol Clube"
+      },
+      "numberOfTeams": 2
+    },
+    {
+      "_id": {
         "key": "Sander Boschker-Oct 20, 1970",
         "name": "Sander Boschker",
         "dob": "Oct 20, 1970"

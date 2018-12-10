@@ -17,7 +17,7 @@ excerpt: "The history of football told through the careers<br/> of its players f
     <div class="header col-xs-12">
       <section>
         <h1>Legends, <br/>One-club men <br/>and Journeymen</h1>
-        <p>The history of football told through the careers<br/> of its players from 1920 till today.</p>
+        <p>The history of football through the careers<br/> of its players from 1920 till today.</p>
         <div class="note">
           by <a href="https://twitter.com/littleark" target="_blank" title="Carlo on twitter">Carlo Zapponi</a> and
           <a href="https://twitter.com/framis74" target="_blank" title="Francesco on twitter">Francesco Mistrulli</a>

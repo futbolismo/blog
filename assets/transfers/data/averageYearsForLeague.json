@@ -1,0 +1,182 @@
+[
+  {
+    "league": "laliga",
+    "players": 16447,
+    "avg": 3.8658376005852233,
+    "max": 22,
+    "name": "LaLiga",
+    "country": "Spain",
+    "leagueID": "ES1"
+  },
+  {
+    "league": "scottish-premiership",
+    "players": 6880,
+    "avg": 3.8513463666543712,
+    "max": 21,
+    "name": "Scottish Premiership",
+    "country": "Scotland",
+    "leagueID": "SC1"
+  },
+  {
+    "league": "premier-league",
+    "players": 30507,
+    "avg": 3.833970925784239,
+    "max": 23,
+    "name": "Premier League",
+    "country": "England",
+    "leagueID": "GB1"
+  },
+  {
+    "league": "1-bundesliga",
+    "players": 18490,
+    "avg": 3.824552781600157,
+    "max": 24,
+    "name": "1.Bundesliga",
+    "country": "Germany",
+    "leagueID": "L1"
+  },
+  {
+    "league": "eredivisie",
+    "players": 14902,
+    "avg": 3.7863736835261994,
+    "max": 24,
+    "name": "Eredivisie",
+    "country": "Netherlands",
+    "leagueID": "NL1"
+  },
+  {
+    "league": "allsvenskan",
+    "players": 5739,
+    "avg": 3.776218870571729,
+    "max": 23,
+    "name": "Allsvenskan",
+    "country": "Sweden",
+    "leagueID": "SE1"
+  },
+  {
+    "league": "eliteserien",
+    "players": 5798,
+    "avg": 3.7241862093104654,
+    "max": 19,
+    "name": "Eliteserien",
+    "country": "Norway",
+    "leagueID": "NO1"
+  },
+  {
+    "league": "nemzeti-bajnoksag",
+    "players": 7908,
+    "avg": 3.661028893587033,
+    "max": 19,
+    "name": "Nemzeti Bajnokság",
+    "country": "Hungary",
+    "leagueID": "UNG1"
+  },
+  {
+    "league": "alka-superligaen",
+    "players": 4248,
+    "avg": 3.6134751773049647,
+    "max": 24,
+    "name": "Alka Superligaen",
+    "country": "Denmark",
+    "leagueID": "DK1"
+  },
+  {
+    "league": "bundesliga",
+    "players": 9258,
+    "avg": 3.5705128205128207,
+    "max": 20,
+    "name": "Bundesliga",
+    "country": "Austria",
+    "leagueID": "A1"
+  },
+  {
+    "league": "liga-mx-apertura",
+    "players": 8826,
+    "avg": 3.524093620927031,
+    "max": 17,
+    "name": "Liga MX Apertura",
+    "country": "Mexico",
+    "leagueID": "MEXA"
+  },
+  {
+    "league": "jupiler-pro-league",
+    "players": 10103,
+    "avg": 3.4842406876790832,
+    "max": 21,
+    "name": "Jupiler Pro League",
+    "country": "Belgium",
+    "leagueID": "BE1"
+  },
+  {
+    "league": "het-liga",
+    "players": 7725,
+    "avg": 3.481240981240981,
+    "max": 19,
+    "name": "HET Liga",
+    "country": "Czech Republic",
+    "leagueID": "TS1"
+  },
+  {
+    "league": "ligue-1",
+    "players": 18625,
+    "avg": 3.473360655737705,
+    "max": 22,
+    "name": "Ligue 1",
+    "country": "France",
+    "leagueID": "FR1"
+  },
+  {
+    "league": "super-league",
+    "players": 22270,
+    "avg": 3.4450938937943043,
+    "max": 24,
+    "name": "Super League",
+    "country": "Greece",
+    "leagueID": "GR1"
+  },
+  {
+    "league": "bardsragujn-chumb",
+    "players": 514,
+    "avg": 3.4210526315789473,
+    "max": 9,
+    "name": "Bardsragujn chumb",
+    "country": "Armenia",
+    "leagueID": "ARM1"
+  },
+  {
+    "league": "pepsideild",
+    "players": 1009,
+    "avg": 3.4023529411764706,
+    "max": 11,
+    "name": "Pepsideild",
+    "country": "Iceland",
+    "leagueID": "IS1"
+  },
+  {
+    "league": "ligat-haal",
+    "players": 5492,
+    "avg": 3.3957391865719817,
+    "max": 22,
+    "name": "Ligat ha'Al",
+    "country": "Israel",
+    "leagueID": "ISR1"
+  },
+  {
+    "league": "fortuna-liga",
+    "players": 4768,
+    "avg": 3.342473745624271,
+    "max": 19,
+    "name": "Fortuna Liga",
+    "country": "Slovakia",
+    "leagueID": "SLO1"
+  },
+  {
+    "league": "premier-liga",
+    "players": 20284,
+    "avg": 3.3328822733423547,
+    "max": 23,
+    "name": "Premier Liga",
+    "country": "Russia",
+    "leagueID": "RU1"
+  }
+]
