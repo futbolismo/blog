@@ -1,3 +1,4 @@
+{% assign headerPosts = site.categories.essays | concat: site.categories.miserie %}
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -35,7 +36,7 @@
     {% endif %}
 
   {% else %}
-    {% for post in site.categories.miserie limit:1 %}
+    {% for post in headerPosts limit:1 %}
     <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ post.pid }}.jpg"/>
     {% endfor %}
 	{% endif %}
@@ -80,7 +81,7 @@
         {% endif %}
 			}
 		{% else %}
-      {% for post in site.categories.miserie limit:1 %}
+      {% for post in headerPosts limit:1 %}
 			.jumbotron {
 				background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
 			    background-size: 100% 100%;

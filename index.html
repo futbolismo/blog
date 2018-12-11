@@ -4,7 +4,7 @@ layout: landing
 <section>
     <div class="container">
         <div class="top2 row">
-            {% for post in site.categories.miserie offset: 1 limit: 2 %}
+            {% for post in site.categories.miserie offset: 0 limit: 2 %}
                 <div class="col-xs-12 col-ms-6 col-sm-6 col-md-6">
                     <a href="{{site.baseurl}}{{ post.url }}" class="post-link" alt="{{post.title}}">
                         <div class="row post-abstract bg-dark-gray color-invert no-padding">
@@ -24,7 +24,6 @@ layout: landing
         </div>
     </div>
 </section>
-{% include grafici_home_single.html %}
 <section>
     <div class="container border-bottom">
         <div class="top6 miserie row">

@@ -1,6 +1,7 @@
+{% assign headerPosts = site.categories.essays | concat: site.categories.miserie %}
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
-    {% for post in site.categories.miserie: 0 limit: 1 %}
+    {% for post in headerPosts: 0 limit: 1 %}
     <div class="container main">
         <div class="row jumbo-post">
             <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract {{post.dialog}}">
