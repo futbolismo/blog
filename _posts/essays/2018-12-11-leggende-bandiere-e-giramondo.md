@@ -25,8 +25,8 @@ excerpt: "La storia del calcio visualizzata attraverso le carriere dei suoi inte
           <a href="https://twitter.com/framis74" target="_blank" title="Francesco su twitter">Francesco Mistrulli</a>
         </div>
         <div class="social">
-            <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{page.postTitle}}%20-%20{{page.excerpt | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags=football,dataviz" title="Condividi su Twitter" target="_blank"><i class="icon-twitter"></i></a>
-            <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.url}}{{ page.url }}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Condividi su Facebook"></i></a>
+            <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{page.postTitle}}%20-%20{{page.excerpt | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags=calcio,dataviz" title="Condividi su Twitter" target="_blank"><i class="icon-twitter"></i></a>
+            <a href="https://www.facebook.com/sharer/sharer.php?t={{page.postTitle}}&u={{site.url}}{{ page.url }}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Condividi su Facebook"></i></a>
         </div>
       </section>
       <a href="/legends-one-club-men-and-journeymen" title="Legends, One-team-men and Journeymen" class="lang-link">English version</a>

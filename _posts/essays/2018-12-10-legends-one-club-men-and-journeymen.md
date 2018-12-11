@@ -23,8 +23,8 @@ excerpt: "The history of football visualized through the careers of its players 
           <a href="https://twitter.com/framis74" target="_blank" title="Francesco on twitter">Francesco Mistrulli</a>
         </div>
         <div class="social">
-            <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{page.postTitle}}%20-%20{{page.excerpt | strip_html}}&url={{site.baseurl}}{{ post.url }}&via=ftblsm&hashtags=calcio,football" title="Share on Twitter" target="_blank"><i class="icon-twitter"></i></a>
-            <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.baseurl}}{{ post.url }}" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
+            <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{page.postTitle}}%20-%20{{page.excerpt | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags=football,dataviz" title="Share on Twitter" target="_blank"><i class="icon-twitter"></i></a>
+            <a href="https://www.facebook.com/sharer/sharer.php?t={{page.postTitle}}&u={{site.url}}{{ page.url }}" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
         </div>
       </section>
       <a class="lang-link" href="/leggende-bandiere-e-giramondo" title="Leggende, bandiere e giramondo">Italian version</a>
