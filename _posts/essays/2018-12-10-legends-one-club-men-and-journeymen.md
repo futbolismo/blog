@@ -9,22 +9,22 @@ author: Author
 category: essays
 timeline: 1
 
-dialog: black-text left
+dialog: black-text left transparent
 
-excerpt: "The history of football told through the careers<br/> of its players from 1920 till today."
+excerpt: "The history of football visualized through the careers of its players from 1920 to today"
 ---
   <div class="row fixed-header">
     <div class="header col-xs-12">
       <section>
-        <h1>Legends, <br/>One-club men <br/>and Journeymen</h1>
-        <p>The history of football through the careers<br/> of its players from 1920 till today.</p>
+        <h1>Legends, <br class="hide"/>One-club men <br/>and Journeymen</h1>
+        <p>The history of football through the careers<br/> of its players from 1920 to today.</p>
         <div class="note">
           by <a href="https://twitter.com/littleark" target="_blank" title="Carlo on twitter">Carlo Zapponi</a> and
           <a href="https://twitter.com/framis74" target="_blank" title="Francesco on twitter">Francesco Mistrulli</a>
         </div>
         <div class="social">
-            <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}&url={{site.url}}&via=ftblsm&hashtags=calcio,football" title="Condividi via Twitter" target="_blank"><i class="icon-twitter"></i></a>
-            <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.url}}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
+            <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{page.postTitle}}%20-%20{{page.excerpt | strip_html}}&url={{site.baseurl}}{{ post.url }}&via=ftblsm&hashtags=calcio,football" title="Share on Twitter" target="_blank"><i class="icon-twitter"></i></a>
+            <a href="https://www.facebook.com/sharer/sharer.php?t={{title}}&u={{site.baseurl}}{{ post.url }}" target="_blank" title="Share on Facebook"><i class="icon-facebook" title="Share on Facebook"></i></a>
         </div>
       </section>
       <a class="lang-link" href="/leggende-bandiere-e-giramondo" title="Leggende, bandiere e giramondo">Italian version</a>
