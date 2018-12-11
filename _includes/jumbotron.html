@@ -1,4 +1,4 @@
-{% assign headerPosts = site.categories.miserie %}
+{% assign headerPosts = site.categories.essays | concat: site.categories.miserie %}
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     {% for post in headerPosts: 0 limit: 1 %}
