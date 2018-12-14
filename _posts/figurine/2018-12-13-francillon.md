@@ -28,3 +28,8 @@ Tornato in patria viene eletto in Parlamento e contemporaneamente continua a gio
 Agli inizi degli anni '80 poi fugge negli Stati Uniti.
 
 Con Les Grenadiers disputa 26 incontri, compresi i 3 disputati al Mondiale di Germania (dove incassa ben 14 reti).
+
+
+
+<div class="post-disclaimer">Fotografia: Goalkeeper Henry Francillon and defender Philippe Vorbe inefficiently saving 7:0 shot of Grzegorz Lato during match Poland-Haiti, 1974 FIFA World Cup - Bundesarchiv, Bild 183-N0619-0038 / CC-BY-SA 3.0 <a href="https://en.wikipedia.org/wiki/Henri_Fran%C3%A7illon#/media/File:Bundesarchiv_Bild_183-N0619-0038,_Fu%C3%9Fball-WM,_Haiti_-_VR_Polen_0-7.jpg" target="_blank">via Wikipedia</a>
+</div>
