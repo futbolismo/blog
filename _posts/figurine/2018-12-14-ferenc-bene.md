@@ -33,7 +33,7 @@ Nel 1966 fa parte della spedizione Ungherese per i Mondiali in Inghilterra, dove
 
 
 <div style="margin-top: 50px;">
-<h3>La carriera di Ferenc Bene visualizzata in un grafico</h3>
+<h3>La carriera di {{page.player}} visualizzata in un grafico</h3>
 <a href="/leggende-bandiere-e-giramondo" title="La carriera di {{page.player}} visualizzata in un grafico"><img class="responsive-img w100 border" src="{{site.baseurl}}/assets/pics/careers/{{page.pid}}.png" alt="La carriera di {{page.player}} in un grafico"/></a>
 </div>
 Apri <a href="/leggende-bandiere-e-giramondo" title="La carriera di {{page.player}} visualizzata in un grafico">Leggende, bandiere e giramondo</a> per consultare le carriere di altri giocatori.
