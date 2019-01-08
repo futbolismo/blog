@@ -1,17 +1,26 @@
+{% assign headerPosts = site.categories.essays %}
+<!-- Main jumbotron for a primary marketing message or call to action -->
 <section>
-    <div class="container border-bottom">
-        <div class="dataviz top6 row">
-            <div class="col-xs-12">
-                  <img class="responsive-img" src="{{site.baseurl}}/assets/pics/transfers/header.jpg" alt="grafico1" width="100%">
-                  <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract transparent white-text left5">
-                      <a href="/leggende-bandiere-e-giramondo" class="post-link" alt="La Maledizione Del Bracciale Di Giada">
-                          <h5>Il pallone in un grafico</h5>
-                          <h1>Leggende, bandiere e giramondo</h1>
-                          <p class="abstract left quote">La storia del calcio raccontata attraverso le carriere dei suoi interpreti dal 1920 ad oggi.</p>
-                          <div class="read-more">Apri <span class="glyphicon glyphicon-chevron-right"></span></div>
-                      </a>
-                  </div>
-              </div>
+  <div class="container">
+    <div class="jumbotron jumbotron-section">
+        {% for post in headerPosts: 0 limit: 1 %}
+        <div class="container main">
+            <div class="row jumbo-post">
+                <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract black-text left">
+                    <a href="{{site.baseurl}}{{post.url}}" class="post-link" alt="{{post.title}}">
+                        <h1>{{post.postTitle}}</h1>
+                        <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                        <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                    </a>
+                </div>
+            </div>
         </div>
+        <div class="main-bg">
+            {% if post.header %}
+                <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.header }}.jpg" alt="">
+            {% endif %}
+        </div>
+        {% endfor %}
     </div>
+  </div>
 </section>
