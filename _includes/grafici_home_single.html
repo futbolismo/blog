@@ -2,8 +2,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <section>
   <div class="container">
-    <div class="jumbotron jumbotron-section">
-        {% for post in headerPosts: 0 limit: 1 %}
+    {% for post in headerPosts: 0 limit: 1 %}
+    <div class="jumbotron jumbotron-section" style="background-image: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg);" >
         <div class="container main">
             <div class="row jumbo-post">
                 <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract black-text left">
@@ -15,12 +15,10 @@
                 </div>
             </div>
         </div>
-        <div class="main-bg">
-            {% if post.header %}
-                <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.header }}.jpg" alt="">
-            {% endif %}
+        <div class="main-bg" style="background-image: url({{site.baseurl}}/assets/pics/header/{{ post.pid }}.jpg);">
+          <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.pid }}.jpg" alt="">
         </div>
-        {% endfor %}
     </div>
+    {% endfor %}
   </div>
 </section>
