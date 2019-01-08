@@ -224,6 +224,14 @@
 	.jumbotron .main-abstract.white-text a:hover {
 		color:inherit;
 	}
+	.jumbotron.jumbotron-section {
+		padding-left: 0;
+		padding-right: 0;
+		width: calc(100% - 20px);
+		margin: 0 10px;
+		border-top: 1px solid #333;
+		border-bottom: 1px solid #333;
+	}
 	.category .content-wrapper {
 		/*position: absolute;*/
 		margin-top: 130px;
