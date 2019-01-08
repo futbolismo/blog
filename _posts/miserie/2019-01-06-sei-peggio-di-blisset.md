@@ -6,7 +6,7 @@ postTitle: "Sei peggio di Blisset!"
 player: Luther Loide Blissett
 player_short: Luther Blisset
 
-wikipedia: Luther_Blissett
+wikipedia: Luther_Blissett_(calciatore)
 life: Attaccante, nato a Falmouth (Giamaica) il 1º febbraio 1958
 
 story_type: quote
@@ -18,10 +18,11 @@ timeline_data: blisset
 
 dialog: transparent white-text left5
 
-excerpt: "La mia vita è un grande paradosso.<br/>Per i tifosi del Watford United sono il <i>Bombardiere nero</i>.<br/>Miglior marcatore con ventisette reti nella stagione agonistica 1982-83 in First Division. Dico, 27 reti! Mica roba da ridere."
+excerpt: "La mia vita è un grande paradosso. Per i tifosi del Watford sono il <i>Bombardiere nero</i>..."
+hashtags: WatfordFC,MilanAC,afcbu21s,
 ---
 La mia vita è un grande paradosso.  
-Per i tifosi del Watford United sono il "_Bombardiere nero_". Miglior marcatore con ventisette reti nella stagione agonistica millenovecentoottantadue/ottantatre in First Division. Dico, ventisette reti! Mica roba da ridere.
+Per i tifosi del Watford sono il "_Bombardiere nero_". Miglior marcatore con ventisette reti nella stagione agonistica millenovecentoottantadue/ottantatre in First Division. Dico, ventisette reti! Mica roba da ridere.<!--more-->
 
 Quell'anno siamo arrivati secondi dietro il grande Liverpool, al nostro secondo anno in First. Riuscite a crederci! L'anno prima le reti erano state diciannove!
 
@@ -81,7 +82,7 @@ Ed io, di reti, quella dannata stagione, ne ho sbagliate a bizzeffe. Però cinqu
 
 "_Me lo ha consigliato un giardiniere di Londra!_". Questo diceva il presidente del Milan.
 
-Ma quello che più mi ha fatto incazzare è stato scoprire che gli osservatori del Milan si erano confusi tra me è John Barnes, mio compagno al Watford. Ma come si fa, dico io? Siamo diversi. Non ci somigliamo nemmeno un po'. Poi io segno reti a raffica e lui no. Non aveva futuro quel ragazzino. Volevano o no un bomber. Secondo me questa voce l'anno messa in giro per ferirmi.  
+Ma quello che più mi ha fatto incazzare è stato scoprire che gli osservatori del Milan si erano confusi tra me è <a href="/barnes" title="Figurina John Barnes">John Barnes</a>, mio compagno al Watford. Ma come si fa, dico io? Siamo diversi. Non ci somigliamo nemmeno un po'. Poi io segno reti a raffica e lui no. Non aveva futuro quel ragazzino. Volevano o no un bomber. Secondo me questa voce l'anno messa in giro per ferirmi.  
 
 Ve lo avevo già detto che i miei compagni erano gelosi, no!
 
@@ -162,7 +163,7 @@ Ve lo avevo già detto che i miei compagni erano gelosi, no!
                         type:"club",
                         category:"range",
                         timestamps:[1993,1994],
-                        team:"Ritiro",
+                        team:"Bury",
                         text:{
                             body:"Nel 1993 dopo alcune effimere apparizioni con altre formazioni minori britanniche (Bury, Mansfield Town e Derry City), decise di appendere le scarpette al chiodo",
                             link:null
@@ -174,6 +175,51 @@ Ve lo avevo già detto che i miei compagni erano gelosi, no!
                         team:"Inghilterra",
                         apps:14,
                         goals:3
-                    }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[1996,2001],
+                        team:"Watford",
+                        text:{
+                            body:"Nel 1996 prende il ruolo di allenatore al Watford. Nel 2001 lascia il posto a Gianluca Vialli.",
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2002,2003],
+                        team:"York City",
+                        text:{
+                            body:"Nel 2002 diventa l'allenatore del York City",
+                        }
+                    },
+                    {
+                        type:"trainer",
+                        category:"range",
+                        timestamps:[2006,2007],
+                        team:"Chesham United",
+                        text:{
+                            body:"Nel 2006 diventa manager dello Chesham United, squadra della Southern League, per la quale &egrave; entrato in campo come sostituto in due partite.",
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1979,5-1,4)],
+                        text:{
+                            body:"Il 4 maggio 1979, Margaret Thatcher viene eletta Primo ministro del Regno Unito. Rester&agrave; in carica fino al 28 novembre 1990.",
+                            link:"http://it.wikipedia.org/wiki/Margaret_Thatcher#Premiership_del_Regno_Unito_(1979-1990)"
+                        }
+                    },
+                    {
+                        type:"history",
+                        category:"event",
+                        timestamps:[new Date(1982,4-1,2)],
+                        text:{
+                            body:"<b>Guerra delle Falkland</b><br/>Fu un conflitto militare combattuto tra aprile e giugno 1982 tra Argentina e Regno Unito per il controllo e il possesso delle isole Falkland, della Georgia del Sud e delle isole Sandwich meridionali.",
+                            link:"https://it.wikipedia.org/wiki/Guerra_delle_Falkland"
+                        }
+                    },
                 ];
 </script>
