@@ -9,6 +9,8 @@ player_short: Luther Blisset
 wikipedia: Luther_Blissett_(calciatore)
 life: Attaccante, nato a Falmouth (Giamaica) il 1º febbraio 1958
 
+instagram: BsaUDrABUCo
+
 story_type: quote
 
 author: Francesco Mistrulli
