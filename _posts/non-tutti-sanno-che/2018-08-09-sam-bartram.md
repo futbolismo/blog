@@ -12,7 +12,7 @@ timeline: 0
 excerpt: "Il signor arbitro aveva sospeso la partita. Nessuno, però, si è ricordato di avvisarmi."
 ---
 
-<img class="responsive-img border margin-1em w25" src="https://upload.wikimedia.org/wikipedia/en/1/10/Charlton20618news1.jpg" alt="{{page.title}}" align="right">
+<img class="responsive-img border margin-1em w25" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sam_Bartram_-_Charlton.jpg" alt="{{page.title}}" align="right">
 Mi chiamo Samuel Bartram e in pochi sanno chi sono.
 
 Quei pochi mi chiamano semplicemente Sam.
