@@ -16,7 +16,12 @@
         "season": "85/86",
         "left": "tobermore-united-fc",
         "join": "karriereende",
-        "note": "-"
+        "note": "-",
+        "leftInfo": {
+          "id": "tobermore-united-fc",
+          "name": "Tobermore United FC",
+          "country": "northern ireland"
+        }
       },
       {
         "year": 1984,
@@ -24,7 +29,17 @@
         "season": "84/85",
         "left": "brisbane-lions",
         "join": "tobermore-united-fc",
-        "note": "?"
+        "note": "?",
+        "leftInfo": {
+          "id": "brisbane-lions",
+          "name": "Brisbane Lions",
+          "country": "australia"
+        },
+        "joinInfo": {
+          "id": "tobermore-united-fc",
+          "name": "Tobermore United FC",
+          "country": "northern ireland"
+        }
       },
       {
         "year": 1983,
@@ -38,6 +53,11 @@
           "name": "AFC Bournemouth",
           "country": "england",
           "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "brisbane-lions",
+          "name": "Brisbane Lions",
+          "country": "australia"
         }
       },
       {
@@ -95,6 +115,11 @@
         "left": "fort-lauderdale-strikers-original-",
         "join": "hibernian-fc",
         "note": "?",
+        "leftInfo": {
+          "id": "fort-lauderdale-strikers-original-",
+          "name": "Fort Lauderdale Strikers (Original)",
+          "country": "united states"
+        },
         "joinInfo": {
           "id": "hibernian-fc",
           "name": "Hibernian FC",
@@ -108,7 +133,17 @@
         "season": "78/79",
         "left": "los-angeles-aztecs",
         "join": "fort-lauderdale-strikers-original-",
-        "note": "?"
+        "note": "?",
+        "leftInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        },
+        "joinInfo": {
+          "id": "fort-lauderdale-strikers-original-",
+          "name": "Fort Lauderdale Strikers (Original)",
+          "country": "united states"
+        }
       },
       {
         "year": 1978,
@@ -122,6 +157,11 @@
           "name": "Fulham FC",
           "country": "england",
           "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
         }
       },
       {
@@ -131,6 +171,11 @@
         "left": "los-angeles-aztecs",
         "join": "fc-fulham",
         "note": "?",
+        "leftInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        },
         "joinInfo": {
           "id": "fc-fulham",
           "name": "Fulham FC",
@@ -144,7 +189,17 @@
         "season": "76/77",
         "left": "cork-celtic-f-c-",
         "join": "los-angeles-aztecs",
-        "note": "?"
+        "note": "?",
+        "leftInfo": {
+          "id": "cork-celtic-f-c-",
+          "name": "Cork Celtic FC",
+          "country": "ireland"
+        },
+        "joinInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        }
       },
       {
         "year": 1975,
@@ -158,6 +213,11 @@
           "name": "Manchester United",
           "country": "england",
           "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "cork-celtic-f-c-",
+          "name": "Cork Celtic FC",
+          "country": "ireland"
         }
       },
       {
@@ -167,6 +227,11 @@
         "left": "stockport-county",
         "join": "manchester-united",
         "note": "End of loan",
+        "leftInfo": {
+          "id": "stockport-county",
+          "name": "Stockport County",
+          "country": "england"
+        },
         "joinInfo": {
           "id": "manchester-united",
           "name": "Manchester United",
@@ -186,6 +251,11 @@
           "name": "Manchester United",
           "country": "england",
           "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "stockport-county",
+          "name": "Stockport County",
+          "country": "england"
         }
       },
       {
@@ -196,10 +266,9 @@
         "join": "manchester-united",
         "note": "-",
         "leftInfo": {
-          "id": "manchester-united",
-          "name": "Manchester United u18",
-          "country": "england",
-          "league": "premier-league"
+          "id": "manchester-united-u18",
+          "name": "Manchester United U18",
+          "country": "england"
         },
         "joinInfo": {
           "id": "manchester-united",
@@ -283,10 +352,9 @@
         "join": "stoke-city",
         "note": "-",
         "leftInfo": {
-          "id": "stoke-city",
-          "name": "Stoke City u18",
-          "country": "england",
-          "league": "premier-league"
+          "id": "stoke-city-u18",
+          "name": "Stoke City U18",
+          "country": "england"
         },
         "joinInfo": {
           "id": "stoke-city",
@@ -314,7 +382,12 @@
         "season": "77/78",
         "left": "new-york-cosmos",
         "join": "karriereende",
-        "note": "-"
+        "note": "-",
+        "leftInfo": {
+          "id": "new-york-cosmos",
+          "name": "New York Cosmos",
+          "country": "united states"
+        }
       },
       {
         "year": 1973,
@@ -328,6 +401,11 @@
           "name": "Santos FC",
           "country": "brazil",
           "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "new-york-cosmos",
+          "name": "New York Cosmos",
+          "country": "united states"
         }
       },
       {
@@ -338,10 +416,9 @@
         "join": "fc-santos",
         "note": "-",
         "leftInfo": {
-          "id": "fc-santos",
-          "name": "Santos FC u19",
-          "country": "brazil",
-          "league": "campeonato-brasileiro-serie-a"
+          "id": "fc-santos-u19",
+          "name": "Santos FC U20",
+          "country": "brazil"
         },
         "joinInfo": {
           "id": "fc-santos",
@@ -375,6 +452,11 @@
           "name": "Audax Italiano",
           "country": "chile",
           "league": "campeonato-scotiabank-primera-division"
+        },
+        "joinInfo": {
+          "id": "magallanes-cf",
+          "name": "Magallanes CF",
+          "country": "chile"
         }
       },
       {
@@ -384,6 +466,11 @@
         "left": "cd-puerto-montt",
         "join": "audax-italiano",
         "note": "Free Transfer",
+        "leftInfo": {
+          "id": "cd-puerto-montt",
+          "name": "CD Puerto Montt",
+          "country": "chile"
+        },
         "joinInfo": {
           "id": "audax-italiano",
           "name": "Audax Italiano",
@@ -403,6 +490,11 @@
           "name": "Central Español",
           "country": "uruguay",
           "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "cd-puerto-montt",
+          "name": "CD Puerto Montt",
+          "country": "chile"
         }
       },
       {
@@ -412,6 +504,11 @@
         "left": "bangu-atletico-clube-rj-",
         "join": "central-espanol",
         "note": "Free Transfer",
+        "leftInfo": {
+          "id": "bangu-atletico-clube-rj-",
+          "name": "Bangu Atlético Clube (RJ)",
+          "country": "brazil"
+        },
         "joinInfo": {
           "id": "central-espanol",
           "name": "Central Español",
@@ -425,7 +522,17 @@
         "season": "16/17",
         "left": "santa-tecla",
         "join": "bangu-atletico-clube-rj-",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "santa-tecla",
+          "name": "Santa Tecla",
+          "country": "el salvador"
+        },
+        "joinInfo": {
+          "id": "bangu-atletico-clube-rj-",
+          "name": "Bangu Atlético Clube (RJ)",
+          "country": "brazil"
+        }
       },
       {
         "year": 2016,
@@ -433,7 +540,17 @@
         "season": "16/17",
         "left": "club-sol-de-america",
         "join": "santa-tecla",
-        "note": "?"
+        "note": "?",
+        "leftInfo": {
+          "id": "club-sol-de-america",
+          "name": "Club Sol de América",
+          "country": "paraguay"
+        },
+        "joinInfo": {
+          "id": "santa-tecla",
+          "name": "Santa Tecla",
+          "country": "el salvador"
+        }
       },
       {
         "year": 2015,
@@ -447,6 +564,11 @@
           "name": "Club Nacional",
           "country": "uruguay",
           "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "club-sol-de-america",
+          "name": "Club Sol de América",
+          "country": "paraguay"
         }
       },
       {
@@ -1177,10 +1299,9 @@
         "join": "defensor-sporting-club",
         "note": "-",
         "leftInfo": {
-          "id": "defensor-sporting-club",
-          "name": "Defensor Sporting Club u19",
-          "country": "uruguay",
-          "league": "primera-division-apertura"
+          "id": "defensor-sporting-club-u19",
+          "name": "Defensor Sporting Club U19",
+          "country": "uruguay"
         },
         "joinInfo": {
           "id": "defensor-sporting-club",
@@ -1208,7 +1329,12 @@
         "season": "97/98",
         "left": "blyth-spartans-afc",
         "join": "karriereende",
-        "note": "-"
+        "note": "-",
+        "leftInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        }
       },
       {
         "year": 1997,
@@ -1216,7 +1342,17 @@
         "season": "97/98",
         "left": "scarborough-fc",
         "join": "blyth-spartans-afc",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        }
       },
       {
         "year": 1996,
@@ -1224,7 +1360,17 @@
         "season": "96/97",
         "left": "blyth-spartans-afc",
         "join": "scarborough-fc",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        }
       },
       {
         "year": 1996,
@@ -1238,6 +1384,11 @@
           "name": "Queen of the South FC",
           "country": "scotland",
           "league": "scottish-championship"
+        },
+        "joinInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
         }
       },
       {
@@ -1247,6 +1398,11 @@
         "left": "northampton-town",
         "join": "queen-of-the-south-fc",
         "note": "Free Transfer",
+        "leftInfo": {
+          "id": "northampton-town",
+          "name": "Northampton Town",
+          "country": "england"
+        },
         "joinInfo": {
           "id": "queen-of-the-south-fc",
           "name": "Queen of the South FC",
@@ -1260,7 +1416,17 @@
         "season": "95/96",
         "left": "fc-gateshead",
         "join": "northampton-town",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "fc-gateshead",
+          "name": "Gateshead FC",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "northampton-town",
+          "name": "Northampton Town",
+          "country": "england"
+        }
       },
       {
         "year": 1995,
@@ -1268,7 +1434,17 @@
         "season": "95/96",
         "left": "grimsby-town",
         "join": "fc-gateshead",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "grimsby-town",
+          "name": "Grimsby Town",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "fc-gateshead",
+          "name": "Gateshead FC",
+          "country": "england"
+        }
       },
       {
         "year": 1995,
@@ -1276,7 +1452,17 @@
         "season": "95/96",
         "left": "fc-darlington",
         "join": "grimsby-town",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "fc-darlington",
+          "name": "Darlington FC (liq.)",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "grimsby-town",
+          "name": "Grimsby Town",
+          "country": "england"
+        }
       },
       {
         "year": 1995,
@@ -1284,7 +1470,17 @@
         "season": "95/96",
         "left": "witton-albion",
         "join": "fc-darlington",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "witton-albion",
+          "name": "Witton Albion",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "fc-darlington",
+          "name": "Darlington FC (liq.)",
+          "country": "england"
+        }
       },
       {
         "year": 1995,
@@ -1292,7 +1488,17 @@
         "season": "95/96",
         "left": "notts-county",
         "join": "witton-albion",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "notts-county",
+          "name": "Notts County",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "witton-albion",
+          "name": "Witton Albion",
+          "country": "england"
+        }
       },
       {
         "year": 1995,
@@ -1306,6 +1512,11 @@
           "name": "Manchester City",
           "country": "england",
           "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "notts-county",
+          "name": "Notts County",
+          "country": "england"
         }
       },
       {
@@ -1375,6 +1586,11 @@
         "left": "lincoln-city",
         "join": "aberdeen-fc",
         "note": "Free Transfer",
+        "leftInfo": {
+          "id": "lincoln-city",
+          "name": "Lincoln City",
+          "country": "england"
+        },
         "joinInfo": {
           "id": "aberdeen-fc",
           "name": "Aberdeen FC",
@@ -1388,7 +1604,17 @@
         "season": "93/94",
         "left": "scarborough-fc",
         "join": "lincoln-city",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "lincoln-city",
+          "name": "Lincoln City",
+          "country": "england"
+        }
       },
       {
         "year": 1993,
@@ -1402,6 +1628,11 @@
           "name": "Newcastle United",
           "country": "england",
           "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
         }
       },
       {
@@ -1671,6 +1902,11 @@
         "left": "workington-afc",
         "join": "fc-blackpool",
         "note": "£14k",
+        "leftInfo": {
+          "id": "workington-afc",
+          "name": "Workington AFC",
+          "country": "england"
+        },
         "joinInfo": {
           "id": "fc-blackpool",
           "name": "Blackpool FC",
@@ -1703,6 +1939,11 @@
           "name": "SP Ars et Labor",
           "country": "italy",
           "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ud-ibiza-eivissa",
+          "name": "UD Ibiza",
+          "country": "spain"
         }
       },
       {
@@ -2260,6 +2501,11 @@
         "left": "treviso-berretti",
         "join": "fc-treviso",
         "note": "-",
+        "leftInfo": {
+          "id": "treviso-berretti",
+          "name": "Treviso Juniores",
+          "country": "italy"
+        },
         "joinInfo": {
           "id": "fc-treviso",
           "name": "ACD Treviso",
@@ -2275,10 +2521,14 @@
         "join": "treviso-berretti",
         "note": "-",
         "leftInfo": {
-          "id": "ac-mailand",
-          "name": "AC Milan primavera",
-          "country": "italy",
-          "league": "serie-a"
+          "id": "ac-mailand-primavera",
+          "name": "Milan Primavera",
+          "country": "italy"
+        },
+        "joinInfo": {
+          "id": "treviso-berretti",
+          "name": "Treviso Juniores",
+          "country": "italy"
         }
       }
     ]
@@ -2836,10 +3086,9 @@
         "join": "malmo-ff",
         "note": "-",
         "leftInfo": {
-          "id": "malmo-ff",
-          "name": "Malmö FF u19",
-          "country": "sweden",
-          "league": "allsvenskan"
+          "id": "malmo-ff-u19",
+          "name": "Malmö FF U19",
+          "country": "sweden"
         },
         "joinInfo": {
           "id": "malmo-ff",
@@ -2856,16 +3105,14 @@
         "join": "malmo-ff-u19",
         "note": "-",
         "leftInfo": {
-          "id": "malmo-ff",
-          "name": "Malmö FF u17",
-          "country": "sweden",
-          "league": "allsvenskan"
+          "id": "malmo-ff-u17",
+          "name": "Malmö FF U17",
+          "country": "sweden"
         },
         "joinInfo": {
-          "id": "malmo-ff",
-          "name": "Malmö FF u19",
-          "country": "sweden",
-          "league": "allsvenskan"
+          "id": "malmo-ff-u19",
+          "name": "Malmö FF U19",
+          "country": "sweden"
         }
       },
       {
@@ -2875,11 +3122,15 @@
         "left": "fbk-balkan",
         "join": "malmo-ff-u17",
         "note": "?",
+        "leftInfo": {
+          "id": "fbk-balkan",
+          "name": "FBK Balkan",
+          "country": "sweden"
+        },
         "joinInfo": {
-          "id": "malmo-ff",
-          "name": "Malmö FF u17",
-          "country": "sweden",
-          "league": "allsvenskan"
+          "id": "malmo-ff-u17",
+          "name": "Malmö FF U17",
+          "country": "sweden"
         }
       },
       {
@@ -2888,7 +3139,17 @@
         "season": "91/92",
         "left": "malmo-abi",
         "join": "fbk-balkan",
-        "note": "Free Transfer"
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "malmo-abi",
+          "name": "Malmö ABI",
+          "country": "sweden"
+        },
+        "joinInfo": {
+          "id": "fbk-balkan",
+          "name": "FBK Balkan",
+          "country": "sweden"
+        }
       }
     ]
   },
@@ -3061,10 +3322,9 @@
         "join": "argentinos-juniors",
         "note": "-",
         "leftInfo": {
-          "id": "argentinos-juniors",
-          "name": "Asociación Atlética Argentinos Juniors u20",
-          "country": "argentina",
-          "league": "primera-division"
+          "id": "argentinos-juniors-u20",
+          "name": "Asociación Atlética Argentinos Juniors U20",
+          "country": "argentina"
         },
         "joinInfo": {
           "id": "argentinos-juniors",
@@ -3227,6 +3487,11 @@
         "left": "vicenza-berretti",
         "join": "vicenza-calcio",
         "note": "-",
+        "leftInfo": {
+          "id": "vicenza-berretti",
+          "name": "Vicenza Berretti",
+          "country": "italy"
+        },
         "joinInfo": {
           "id": "vicenza-calcio",
           "name": "AC Vicenza",
@@ -3270,10 +3535,9 @@
         "join": "manchester-united",
         "note": "-",
         "leftInfo": {
-          "id": "manchester-united",
-          "name": "Manchester United u18",
-          "country": "england",
-          "league": "premier-league"
+          "id": "manchester-united-u18",
+          "name": "Manchester United U18",
+          "country": "england"
         },
         "joinInfo": {
           "id": "manchester-united",
@@ -3290,16 +3554,14 @@
         "join": "manchester-united-u18",
         "note": "-",
         "leftInfo": {
-          "id": "manchester-united",
-          "name": "Manchester United jugend",
-          "country": "england",
-          "league": "premier-league"
+          "id": "manchester-united-jugend",
+          "name": "Manchester United Youth",
+          "country": "england"
         },
         "joinInfo": {
-          "id": "manchester-united",
-          "name": "Manchester United u18",
-          "country": "england",
-          "league": "premier-league"
+          "id": "manchester-united-u18",
+          "name": "Manchester United U18",
+          "country": "england"
         }
       },
       {
@@ -3310,16 +3572,14 @@
         "join": "manchester-united-jugend",
         "note": "?",
         "leftInfo": {
-          "id": "manchester-city",
-          "name": "Manchester City jugend",
-          "country": "england",
-          "league": "premier-league"
+          "id": "manchester-city-jugend",
+          "name": "Manchester City Youth",
+          "country": "england"
         },
         "joinInfo": {
-          "id": "manchester-united",
-          "name": "Manchester United jugend",
-          "country": "england",
-          "league": "premier-league"
+          "id": "manchester-united-jugend",
+          "name": "Manchester United Youth",
+          "country": "england"
         }
       }
     ]
@@ -3357,10 +3617,9 @@
         "join": "ac-mailand",
         "note": "-",
         "leftInfo": {
-          "id": "ac-mailand",
-          "name": "AC Milan primavera",
-          "country": "italy",
-          "league": "serie-a"
+          "id": "ac-mailand-primavera",
+          "name": "Milan Primavera",
+          "country": "italy"
         },
         "joinInfo": {
           "id": "ac-mailand",
@@ -3418,10 +3677,9 @@
         "join": "as-rom",
         "note": "-",
         "leftInfo": {
-          "id": "as-rom",
-          "name": "AS Roma primavera",
-          "country": "italy",
-          "league": "serie-a"
+          "id": "as-rom-primavera",
+          "name": "Roma Primavera",
+          "country": "italy"
         },
         "joinInfo": {
           "id": "as-rom",
