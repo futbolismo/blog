@@ -19,7 +19,7 @@ author: none
 category: figurine
 timeline: 0
 
-excerpt: "Di Lazio ci si ammala inguaribilmente"
+excerpt: "“Di Lazio ci si ammala inguaribilmente”"
 
 hashtags: SwansOfficial, NYCosmos, Lazio, OfficialSSLazio
 ---
