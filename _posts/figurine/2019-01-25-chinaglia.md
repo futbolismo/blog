@@ -21,7 +21,7 @@ timeline: 0
 
 excerpt: "“Di Lazio ci si ammala inguaribilmente”"
 
-hashtags: girondins,Olympique,OM,ACAjaccio
+hashtags: SwansOfficial, NYCosmos, Lazio, OfficialSSLazio
 ---
 “M _io fratello è figlio unico, perché è convinto che Chinaglia non può passare al Frosinone._”  
 (Rino Gaetano)
