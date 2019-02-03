@@ -23,7 +23,7 @@ excerpt: "“Quando giocavo a calcio non ero mai contento: segnavo due gol, vole
 
 hashtags: Fiorentina, ASRoma, Boca, Riverplate, Newells
 ---
-“_Quando giocavo a calcio non ero mai contento: segnavo due gol, volevo farne un terzo per forza. Ho sempre desiderato di più. Ora è tutto finito e posso guardarmi indietro con soddisfazione, ma credetemi, non mi sono mai sentito così bene come adesso che non gioco più. Adesso non devo per forza andare oltre i miei limiti e sono più felice._”  
+“Q _uando giocavo a calcio non ero mai contento: segnavo due gol, volevo farne un terzo per forza. Ho sempre desiderato di più. Ora è tutto finito e posso guardarmi indietro con soddisfazione, ma credetemi, non mi sono mai sentito così bene come adesso che non gioco più. Adesso non devo per forza andare oltre i miei limiti e sono più felice._”  
 (Gabriel Batistuta)
 
 “_Sono rimasto lì [a Firenze] perché volevo restare. Sono orgoglioso del fatto che tanti grandi club mi volevano, ma vincere un titolo con il Manchester United sarebbe stato facile. Ho segnato gol contro i migliori difensori in Italia, i migliori del mondo in quel momento. Avrei vinto il Pallone d'Oro se fossi stato nel Barcellona o nel Manchester, ma volevo vincere con la Fiorentina. Volevo conquistare il campionato con una piccola squadra e entrare nella storia._”  
