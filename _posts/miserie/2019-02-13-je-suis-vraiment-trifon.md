@@ -9,8 +9,7 @@ playerOriginalName: in bulgaro Трифон Маринов Иванов
 
 wikipedia: Trifon_Ivanov
 life: Difensore, nato a Veliko Tărnovo (Bulgaria) il 27 luglio 1965
-
-# instagram: BsaUDrABUCo
+instagram: Bt1IQRbg13s
 
 story_type: quote
 
@@ -85,9 +84,9 @@ Come la mia.
 <div class="post-disclaimer">
     <b>Fotgrafie</b><br/>
     <ol>
-      <li>Champions League 1996-97 - Juventus vs Rapid Vienna - Trifon Ivanov e Alex Del Piero
-  <a href="https://en.wikipedia.org/wiki/Trifon_Ivanov#/media/File:Champions_League_1996-97_-_Juventus_vs_Rapid_Vienna_-_Trifon_Ivanov_e_Alex_Del_Piero.jpg" target="_blank">via Wikipedia</a></li>
     <li>Trifon Ivanov mentre Lothar Matthäus tira un calcio di rigore durante Germania - Bulgaria nella coppa del mondo del 1994 negli USA. <a href="https://commons.wikimedia.org/wiki/File:WorldCup1994BulgariaGermany.jpg" target="_blank">via Wikipedia</a></li>
+    <li>Champions League 1996-97 - Juventus vs Rapid Vienna - Trifon Ivanov e Alex Del Piero
+<a href="https://en.wikipedia.org/wiki/Trifon_Ivanov#/media/File:Champions_League_1996-97_-_Juventus_vs_Rapid_Vienna_-_Trifon_Ivanov_e_Alex_Del_Piero.jpg" target="_blank">via Wikipedia</a></li>
     </ol>
 </div>
 
