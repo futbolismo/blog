@@ -5,6 +5,7 @@ pid: trifon
 postTitle: "Je suis vraiment trifon!"
 player: Trifon Marinov Ivanov
 player_short: Trifon Ivanov
+playerOriginalName: in bulgaro Трифон Маринов Иванов
 
 wikipedia: Trifon_Ivanov
 life: Difensore, nato a Veliko Tărnovo (Bulgaria) il 27 luglio 1965
@@ -16,12 +17,12 @@ story_type: quote
 author: Francesco Mistrulli
 category: miserie
 timeline: 1
-timeline_data: blisset
+timeline_data: trifon
 
 dialog:  transparent white-text left5
 
 excerpt: "Allenarmi non è che mi facesse saltare di gioia, ero sempre in fondo al gruppo al trotto lento..."
-hashtags: WatfordFC,MilanAC,afcbu21s,
+hashtags: CSKASophia,Veliko,Tarnovo,RealBetis,RapidWien,XamaxFCS
 ---
 Si giocava a Cardiff. Non avrei saputo dire dove fosse. Ma la Bulgaria doveva giocare in Galles. Quindi Cardiff era in Galles. Un semplice sillogismo.
 
@@ -35,6 +36,8 @@ Poi è arrivato il quinto minuto del primo tempo. C'è un calcio d'angolo per no
  Coordinazione, precisione e potenza.
 
  Una cosa così potevano farla Stoichkov o Balakov o Kostadinov, avrà pensato. Il buon Southall fino a quel momento non sapeva che certe cose sapevo farle anch'io. In realtà, fino a quel momento, non lo sapevo nemmeno io.
+
+<img class="responsive-img border w60 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/veliko_tarnovo.png" alt="Veliko Tarnovo - Bulgaria" align="right">
 
 Sono nato e cresciuto, anche calcisticamente, a Veliko Tărnovo, l'antica capitale della Bulgaria. Fino all'età di undici anni ho giocato come attaccante, ma con il fisico che avevo, e con i piedi non proprio sopraffini, mi spostarono in difesa. Al centro della difesa. Però quando c'era bisogno, quando si doveva dare l'assalto finale e non c'erano più cambi mi spostavano in attacco. A diciotto anni faccio il mio esordio nell'Etra Tărnovo insieme al mio amico Krasimir Balakov, poi a ventitré anni arriva la chiamata della squadra più importante di Bulgaria, il CSKA Sofia.  
 C'erano già Stoičkov, Penev e Kostadinov, cioè buona parte di quelli che daranno vita all'indimenticabile Nazionale Bulgara che si presentò al Mondiale negli Stati Uniti nel millenovecentonovantaquattro.
@@ -58,10 +61,16 @@ Ero davvero troppo indisciplinato? Io in verità non credo. Io credo semplicemen
 Si dice che il mio periodo di massimo splendore calcistico sia stato proprio con la Nazionale Bulgara al Mondiale del Novantaquattro. Il mondo si era già accorto di noi perché avevamo fatto fuori nelle qualificazioni la Francia di Cantona, Ginola e Papin a casa loro, al Parc des Princes.  
 Poi una volta negli Stati Uniti ci confermammo alla grande, nella fase a gironi, eravamo nel Gruppo D, dopo una sonora sconfitta per tre a zero con la Nigeria abbiamo battuto nettamente la Grecia per quattro a zero e l'Argentina per due reti a zero.  
 Passammo per secondi e negli Ottavi di finale ci tocco il Messico contro cui avemmo la meglio solo ai calci di rigore.  
+
+<img class="responsive-img border w100" src="{{site.baseurl}}/assets/pics/{{page.pid}}/WorldCup1994BulgariaGermany.jpg" alt="Germania - Bulgaria Coppa del Mondo 1994" align="left">
+
 Nei quarti la Germania campione del nodo in carica. Sembrava finita l'avventura. Ad inizio ripresa si portano in vantaggio su calcio di rigore di Matthäus, poi nel giro di tre minuti tra il settantaseiesimo e il settantanovesimo ci pensano Stoičkov e la pelata di Lečkov a mandarci in Semifinale.  
 
 Ecco, lì ci aspettava sua maestà Roberto "Divin Codino" Baggio. Chiuso. Avevamo stregato tutti, non solo per il nostro calcio, ma perché eravamo diversi da tutti gli altri. In ritiro le interminabili partite a carte in una densa nube di fumo, annaffiate dal bourbon, sono diventate epiche più delle imprese sul campo.  
 Le feste nella piscina dell'hotel non avevano mai fine. Il buon Dimitar Penev, il nostro paziente allenatore, lasciava correre, lo sapeva che allora eravamo buoni tanto a bere quanto a giocare al calcio.
+
+<img class="responsive-img border w30 margin-1em" src="{{site.baseurl}}/assets/pics/{{page.pid}}/Champions_League_1996-97_-_Juventus_vs_Rapid_Vienna_-_Trifon_Ivanov_e_Alex_Del_Piero.jpg" alt="Champions League 1996-97 - Juventus vs Rapid Vienna - Trifon Ivanov e Alex Del Piero" align="left">
+
 
 Nel millenovecentonovantasei, giocavo per il Rapid Vienna, affrontavamo i Red Devils all'Old Trafford. Perdemmo due a zero e a fine gara i miei compagni di squadra circondano tutti Eric Cantona per scambiare la loro maglia con la sua.  
 Stava andando verso gli spogliatoi e senza esitazione alcuna disse: "_La mia maglietta è per Ivanov!_".  
@@ -73,123 +82,122 @@ Come la mia.
 
 **Je suis vraiment trifon!**
 
+<div class="post-disclaimer">
+    <b>Fotgrafie</b><br/>
+    <ol>
+      <li>Champions League 1996-97 - Juventus vs Rapid Vienna - Trifon Ivanov e Alex Del Piero
+  <a href="https://en.wikipedia.org/wiki/Trifon_Ivanov#/media/File:Champions_League_1996-97_-_Juventus_vs_Rapid_Vienna_-_Trifon_Ivanov_e_Alex_Del_Piero.jpg" target="_blank">via Wikipedia</a></li>
+    <li>Trifon Ivanov mentre Lothar Matthäus tira un calcio di rigore durante Germania - Bulgaria nella coppa del mondo del 1994 negli USA. <a href="https://commons.wikimedia.org/wiki/File:WorldCup1994BulgariaGermany.jpg" target="_blank">via Wikipedia</a></li>
+    </ol>
+</div>
+
+<div class="post-disclaimer">
+Pubblicato in precedenza su <a href="http://allafacciadelcalcio.blogspot.com/2018/01/je-suis-vraiment-trifon.html" target="_blank">ALLA FACCIA DEL CALCIO</a>
+</div>
+
+
+
+
 <script>
 
 
-    var blisset=[
+    var trifon=[
                     {
                         type:"birth",
                         category:"event",
-                        timestamps:[new Date(1958,2-1,1)],
+                        timestamps:[new Date(1965,7-1,27)],
                         text:{
-                            body:"Il primo Febbraio 1958, nasce a Falmouth (Giamaica) Luther Loide Blissett",
+                            body:"Il 27 Luglio 1965, nasce a Veliko Tărnovo (Bulgaria) Trifon Marinov Ivanov",
+                            link:null
+                        }
+                    },
+                    {
+                        type:"birth",
+                        category:"event",
+                        timestamps:[new Date(2016,2-1,13)],
+                        text:{
+                            body:"Scompare all'et&agrave; di 50 anni, il 13 Febbraio 2016, a Samovodene, Bulgaria",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1975,1983],
-                        team:"Watford",
+                        timestamps:[1983,1988],
+                        team:"Etar Veliko Tărnovo",
                         text:{
-                            body:"Esordisce diciassettenne nel Watford, nel 1975-1976. Nella First Division vince il titolo di capocannoniere del torneo nella stagione 1982-1983. In tutto colleziona 245 presenze e 95 realizzazioni.",
+                            body:"Inizia la sua carriera nel Football Club Etar di Veliko Tărnovo. In tutto colleziona 72 presenze e 7 realizzazioni.",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1983,1984],
-                        team:"Milan",
+                        timestamps:[1988,1990],
+                        team:"CSKA Sofia",
                         text:{
-                            body:"Nell'estate del 1983 viene acquistato dal Milan, neopromosso in Serie A. Coi rossoneri colleziona 30 presenze e 5 reti in campionato, ma si fa notare per numerose prestazioni deludenti che non gli permettono di ottenere le simpatie dei tifosi milanisti.",
+                            body:"Tra il 1988 e il 1990 gioca bel CSKA Sofia, dove segna 8 reti durante 64 partite.",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1984,1988],
-                        team:"Watford",
+                        timestamps:[1990,1993],
+                        team:"Real Betis",
                         text:{
-                            body:"Dopo la fallimentare esperienza italiana, torna agli Hornets dove colleziona 121 presenze e 56 reti.",
+                            body:"Nel 1990 viene acquistato dal Betis Siviglia. Colleziona 52 presenze e 9 reti. Nel 1991, va in prestito nella sua prima squadra, l'Etar Veliko Tărnovo, e nel 1992 al CSKA Sofia.",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1988,1991],
-                        team:"Bournemouth",
+                        timestamps:[1993,1995],
+                        team:"Neuchâtel Xamax",
                         text:{
-                            body:"Passa un triennio nel Bournemouth dove segna 56 reti durante 121 partite.",
+                            body:"Si trasferisce in Svizzera dove gioca per il Neuchâtel Xamax. In due stagioni colleziona 25 presenze e segna 3 reti",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1991,1992],
-                        team:"Watford",
+                        timestamps:[1995,1997],
+                        team:"Rapid Wien",
                         text:{
-                            body:"Torna al Watford dove colleziona 40 apparizioni con 10 goal.",
+                            body:"Dopo un breve prestito al CSKA Sofia nel 1995, si trasferisce in Austria al Rapid Vienna dove gioca per 2 anni, dove segna sette reti in 53 partite",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1992,1993],
-                        team:"West Bromwich",
+                        timestamps:[1997,1998],
+                        team:"Austria Wien",
                         text:{
-                            body:"Si trasferisce per un breve periodo al West Bromwich dove gioca 3 partite segnando un solo gol.",
+                            body:"Gioca un anno nel Austria Vienna, dove colleziona undici presenze.",
                             link:null
                         }
                     },
                     {
                         type:"club",
                         category:"range",
-                        timestamps:[1993,1994],
-                        team:"Bury",
+                        timestamps:[1998,2001],
+                        team:"Floridsdorfer AC",
                         text:{
-                            body:"Nel 1993 dopo alcune effimere apparizioni con altre formazioni minori britanniche (Bury, Mansfield Town e Derry City), decise di appendere le scarpette al chiodo",
+                            body:"Dopo essere tornato in prestito al CSKA Sofia nel 1998, si trasferisce al Floridsdorfer AC dove, dopo 52 presenze e 6 reti, chiude la sua carriera di giocatore",
                             link:null
                         }
                     },
                     {
                         type:"national",
-                        timestamps:[1982,1984],
-                        team:"Inghilterra",
-                        apps:14,
-                        goals:3
+                        timestamps:[1988,1998],
+                        team:"Bulgaria",
+                        apps:76,
+                        goals:6
                     },
-                    {
-                        type:"trainer",
-                        category:"range",
-                        timestamps:[1996,2001],
-                        team:"Watford",
-                        text:{
-                            body:"Nel 1996 prende il ruolo di allenatore al Watford. Nel 2001 lascia il posto a Gianluca Vialli.",
-                        }
-                    },
-                    {
-                        type:"trainer",
-                        category:"range",
-                        timestamps:[2002,2003],
-                        team:"York City",
-                        text:{
-                            body:"Nel 2002 diventa l'allenatore del York City",
-                        }
-                    },
-                    {
-                        type:"trainer",
-                        category:"range",
-                        timestamps:[2006,2007],
-                        team:"Chesham United",
-                        text:{
-                            body:"Nel 2006 diventa manager dello Chesham United, squadra della Southern League, per la quale &egrave; entrato in campo come sostituto in due partite.",
-                        }
-                    },
+                    /*
                     {
                         type:"history",
                         category:"event",
@@ -208,5 +216,6 @@ Come la mia.
                             link:"https://it.wikipedia.org/wiki/Guerra_delle_Falkland"
                         }
                     },
+                    */
                 ];
 </script>
