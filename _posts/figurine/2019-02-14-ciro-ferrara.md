@@ -38,5 +38,5 @@ hashtags: SSCNapoli, JuventusFC
 </div>
 Apri <a href="/leggende-bandiere-e-giramondo" title="La carriera di {{page.player}} visualizzata in un grafico">Leggende, bandiere e giramondo</a> per consultare le carriere di altri giocatori.
 
-<div class="post-disclaimer">Fotografia: “Ferrara il miglior difensore affrontato, Diego di un altro pianeta. Tempi d’oro i miei, oggi…” <a href="https://www.spazionapoli.it/2016/04/30/boniek-ferrara-maradona-calcioitaliano/" target="_blank">via Wikipedia</a>
+<div class="post-disclaimer">Fotografia: “Ferrara il miglior difensore affrontato, Diego di un altro pianeta. Tempi d’oro i miei, oggi…” <a href="https://www.spazionapoli.it/2016/04/30/boniek-ferrara-maradona-calcioitaliano/" target="_blank">via SpazioNapoli.it</a>
 </div>
