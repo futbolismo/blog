@@ -13,7 +13,7 @@ story_type: quote
 wikipedia: Liam_Brady
 instagram: Bt0orfuBFFs
 
-life: Difensore, nato a Dublino (Irlanda), 13 febbraio 1956
+life: Centrocampista, nato a Dublino (Irlanda), 13 febbraio 1956
 
 author: none
 category: figurine
