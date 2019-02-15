@@ -19,9 +19,9 @@ author: none
 category: figurine
 timeline: 0
 
-excerpt: "“Non potevo crederci. In quel momento ho odiato Banks più di ogni altro calciatore al mondo. Ma quando è passata l'ira, ho dovuto applaudirlo con tutto il cuore. Era la più grande parata che io avessi mai visto.” (Pelé)"
+excerpt: "“In quel momento ho odiato Banks più di ogni altro calciatore al mondo. Ma quando è passata l'ira, ho dovuto applaudirlo con tutto il cuore. Era la più grande parata che io avessi mai visto.” (Pelé)"
 
-hashtags: England,FA,premierleague,LCFC,StokeCity
+hashtags: LCFC,StokeCity
 ---
 Viene considerato dall'IFFHS il miglior portiere Inglese di tutti i tempi, nonché uno dei più forti di sempre a livello mondiale. Ha avuto un ruolo di fondamentale importanza  nella conquista dell'unico titolo di campione del mondo di cui possa fregiarsi l'Inghilterra (1966); detiene inoltre, con 721 minuti consecutivi senza subire gol, la striscia di imbattibilità più lunga nella storia della propria nazionale. Il suo intervento su un colpo di testa di Pelé durante il Mondiale 1970 è ritenuto da molti il più grande salvataggio della storia del calcio.
 
