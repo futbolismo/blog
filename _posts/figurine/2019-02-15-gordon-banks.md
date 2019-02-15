@@ -35,6 +35,11 @@ Bobby Moore: "_You're getting old, Banksy, you used to hold on to them._"
 
 “_Ho incontrato Pelé diverse volte da quel giorno e ogni volta mi rinfaccia quella parata ma poi sul suo viso fiorisce il sorriso e mi abbraccia con affetto._”
 
+<div class="text-center" style="margin-top:50px">
+  <div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WqmWsM3k380" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 
 <div style="margin-top: 50px;">
 <h3>La carriera di {{page.player}} visualizzata in un grafico</h3>
