@@ -13,7 +13,7 @@ story_type: quote
 wikipedia: Willem_van_Hanegem
 # instagram: BuBW0LShomt
 
-life: Attaccante, nato a Breskens (Paesi bassi), 20 febbraio 1944
+life: Centrocampista, nato a Breskens (Paesi bassi), 20 febbraio 1944
 
 author: none
 category: figurine
