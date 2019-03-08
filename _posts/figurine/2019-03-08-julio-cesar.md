@@ -24,7 +24,7 @@ Giocava come difensore centrale o come libero. Secondo Giovane Élber, Júlio C�
 
 Prima di fare il calciatore lavorò, da ragazzo, come manovale, lustrascarpe e rivenditore di orologi, nonché come lavamacchine.
 
-Dopo tre stagioni al Montpellier, con una Coppa di Francia in saccoccia, nell'estate del 1990, fu acquistato dalla Juventus per 850 milioni di lire. Giocò a Torino per quattro anni, dove formò quella difesa da brividi (per Angelo Peruzzi e tutti i tifosi bianconeri 😁) a fianco di Torricelli, Carrera e Kohler che ebbe l'onore di assistere da vicino alle giocate del _Divin Codino_ Roberto Baggio. Contribuì al successo nella Coppa UEFA 1992-1993. Lasciò la Juventus nel 1994, e si trasferì in Germania, al Borussia Dortmund, dove vinse a la Bundesliga due volte in quattro anni.
+Dopo tre stagioni al Montpellier, con una Coppa di Francia in saccoccia, nell'estate del 1990, fu acquistato dalla Juventus per 850 milioni di lire. Giocò a Torino per quattro anni, dove formò quella difesa da brividi (per Angelo Peruzzi e tutti i tifosi bianconeri 😁) a fianco di Torricelli, Carrera e Kohler che ebbe l'onore di assistere da vicino alle giocate del _Divin Codino_, Roberto Baggio. Contribuì al successo nella Coppa UEFA 1992-1993. Lasciò la Juventus nel 1994, e si trasferì in Germania, al Borussia Dortmund, dove vinse a la Bundesliga due volte in quattro anni.
 
 <div style="margin-top: 50px;">
 <h3>La carriera di {{page.player}} visualizzata in un grafico</h3>
