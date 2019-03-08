@@ -10,8 +10,8 @@ player: Júlio César da Silva
 
 life: Difensore, nato a Bauru (Brasile), 8 marzo 1963
 
-wikipedia: Júlio César da Silva
-instagram: BulunT4B0lW
+wikipedia: J%C3%BAlio_C%C3%A9sar_da_Silva
+# instagram: BulunT4B0lW
 
 author: none
 category: figurine
