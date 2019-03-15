@@ -3,7 +3,7 @@ layout: post-sticker
 
 pid: conti
 header: large-picture
-header_mobile: "t0%"
+header_mobile: "50%"
 
 postTitle: Bruno Conti
 player: Bruno Conti
