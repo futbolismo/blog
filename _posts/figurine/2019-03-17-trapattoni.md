@@ -3,7 +3,7 @@ layout: post-sticker
 
 pid: trapattoni
 header: large-picture
-header_mobile: "50%"
+header_mobile: "37%"
 
 postTitle: Giovanni Trapattoni
 player: Giovanni Trapattoni
