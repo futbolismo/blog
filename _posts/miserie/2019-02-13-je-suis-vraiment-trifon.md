@@ -135,7 +135,7 @@ Pubblicato in precedenza su <a href="http://allafacciadelcalcio.blogspot.com/201
                         timestamps:[1988,1990],
                         team:"CSKA Sofia",
                         text:{
-                            body:"Tra il 1988 e il 1990 gioca bel CSKA Sofia, dove segna 8 reti durante 64 partite.",
+                            body:"Tra il 1988 e il 1990 gioca nel CSKA Sofia, dove segna 8 reti durante 64 partite.",
                             link:null
                         }
                     },

@@ -184,11 +184,15 @@
 		padding: 30px;
 		height:360px !important;
 		margin-top:130px;
-		background-size: 100% 100%;
+		background-size: 100% 100% !important;
 
 		.main-bg {
-			background-size: auto 100%;
+			background-size: auto 100% !important;
 			background-position: center center !important;
+
+			img.transfer-special-header {
+				position: relative;
+			}
 		}
 
 		&.large-picture {

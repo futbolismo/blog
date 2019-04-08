@@ -259,6 +259,11 @@ div.navbar.smaller > .container {
 	/*display: inline-block;*/
 	height: 100%;
 	margin:0 auto;
+
+	&.transfer-special-header {
+		position: absolute;
+		right: -150px;
+	}
 }
 
 
