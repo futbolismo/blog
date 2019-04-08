@@ -10,7 +10,7 @@ player_short: Lutz Eigendorf
 
 wikipedia: Lutz_Eigendorf
 life: Centrocampista, nato a Brandenburg an der Havel (Germania Est), 16 luglio 1956
-# instagram: Bt1IQRbg13s
+instagram: Bv_xPfaBvbw
 
 story_type: quote
 
