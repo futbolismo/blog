@@ -40,8 +40,8 @@ Valerio porta sempre con sé la foto del suo mito sportivo, del suo idolo, del s
 Apri <a href="/leggende-bandiere-e-giramondo" title="La carriera di {{page.player}} visualizzata in un grafico">Leggende, bandiere e giramondo</a> per consultare le carriere di altri giocatori.
 
 
-<div class="post-disclaimer">Fotografie:
+<div class="post-disclaimer">
 <ul>
-  <li>Fotografia: Valerio Bacigalupo in azione al Grande Torino nella seconda metà degli anni 40 del XX secolo. <a href="https://commons.wikimedia.org/wiki/File:Grande_Torino_goalkeeper_Valerio_Bacigalupo_(1940s).jpg">via Wikipedia</a></li>
+  <li>Fotografia: Valerio Bacigalupo in azione al Grande Torino nella seconda metà degli anni 40 del XX secolo. <a href="https://commons.wikimedia.org/wiki/File:Grande_Torino_goalkeeper_Valerio_Bacigalupo_(1940s).jpg">via Wikimedia</a></li>
 </ul>
 </div>
