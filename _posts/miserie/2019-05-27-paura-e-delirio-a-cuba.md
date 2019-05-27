@@ -16,11 +16,11 @@ category: miserie
 timeline: 1
 timeline_data: chiorri
 
-dialog:  transparent black-text left5
+dialog: black-text left5
 
 excerpt: "<i>“Señor? Señor? La Tricolor ya esta en la cancha! El partido! El partido señor! Todos estan esperando!”<br/>“Finisco questo mojito e arrivo niño.”</i>"
 
-twitter: "“Anche Baggio e Mancini erano forti ma Chiorri un po’ di più. Nelle sue giocate c’era il poeta, l’artista e lo scultore e anche i tifosi se ne erano accorti.” (Renzo Ulivieri)"
+description: "“Anche Baggio e Mancini erano forti ma Chiorri un po’ di più. Nelle sue giocate c’era il poeta, l’artista e lo scultore e anche i tifosi se ne erano accorti.” (Renzo Ulivieri)"
 hashtags: samp, Sampdoria, USCremonese, ForzaGrigiorossi
 ---
 “S _eñor? Señor? La Tricolor ya esta en la cancha!  
