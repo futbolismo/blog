@@ -212,7 +212,6 @@ function Timeline(options) {
 						tooltip.update(d.text, 0, d.y1);
 						timeline.selectAll(".hover").classed("hover", false);
 						d3.select(this).classed("hover", true);
-						alert("!")
 					})
 					.on("touchend", function(d) {
 						d3.event.preventDefault();
