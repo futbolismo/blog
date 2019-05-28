@@ -2,7 +2,7 @@
 layout: post
 
 pid: chiorri
-postTitle: Paura e delirio a Cuba
+postTitle: Paura e delirio all'Havana
 player: Alviero Chiorri
 player_short: Alviero Chiorri
 
