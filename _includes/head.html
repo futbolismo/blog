@@ -90,15 +90,15 @@
 			}
 		{% else %}
       {% for post in headerPosts limit:1 %}
-
-
-
 			.jumbotron {
 				background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
         {% if (post.background_size == blank) %}
           background-size: 100% 100%;
         {% else %}
           background-size: {{ post.background_size }};
+        {% endif %}
+        {% if (post.header_mobile) %}
+        background-position: {{ post.header_mobile }} center;
         {% endif %}
 			}
 			.jumbotron .main-bg {
@@ -107,6 +107,9 @@
           background-size: auto 100%;
         {% else %}
           background-size: {{ post.background_size }};
+        {% endif %}
+        {% if (post.header_mobile) %}
+        background-position: {{ post.header_mobile }} center;
         {% endif %}
 
 			}
