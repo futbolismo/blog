@@ -4,7 +4,7 @@ background_size: "auto 100%"
 header_mobile: "50%"
 
 pid: gimnasia
-postTitle: Una storia di ordinaria passione
+postTitle: Club de Gimnasia y Esgrima La Plata
 player: Club de Gimnasia y Esgrima La Plata
 player_short: Club de Gimnasia y Esgrima La Plata
 
@@ -17,6 +17,8 @@ author: Francesco Mistrulli
 category: miserie
 timeline: 1
 timeline_data: gimnasia
+
+disclaimer_text: hidden
 
 dialog: left5
 

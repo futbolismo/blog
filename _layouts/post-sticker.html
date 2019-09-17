@@ -99,7 +99,7 @@
           <div class="post-body">
 						{{ content }}
 					</div>
-					{% if page.category == "miserie" %}
+					{% if page.category == "miserie" and page.disclaimer_text != "no" %}
 						<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
 					{% endif %}
 					{% if page.wikipedia %}
