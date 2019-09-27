@@ -132,7 +132,7 @@ Tradotto e liberamente adattato da "Comment vivre avec la défaite", So Foot, Ap
 </div>
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
     <li>Formación del Gimnasia y Esgrima La Plata Campeón de 1929 <a href="https://it.wikipedia.org/wiki/File:GELP_Plantel_1929.jpg" target="_blank">via Wikipedia</a></li>
     <li>Formación del Gimnasia y Esgrima La Plata campeón de la Copa Alende de 1960 <a href="https://it.wikipedia.org/wiki/File:GELP_Formacion_1960_Copa_Alende.jpg" target="_blank">via Wikipedia</a></li>

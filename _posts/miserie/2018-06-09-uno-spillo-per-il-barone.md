@@ -66,7 +66,7 @@ Nel libro “Parliamo di calcio” di Michel Platini con Gérard Ernault si legg
 **Amen!**
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
       <li>"Causio e Altobelli, Porta Venezia, Milano" di Francesco Mistrulli &copy; Francesco Mistrulli 2014</li>
     </ol>

@@ -102,7 +102,7 @@ Dite un po' se non è un goal questo!
 
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
     <li>Rachid Mekhloufi, héroe de Argelia <a href="http://arogeraldes.blogspot.com/2014/06/rachid-mekhloufi.html" target="_blank">via Periodismo de fútbol mundial</a></li>
     <li>The FLN football team in its jubilee in july 5 stadium in 1974. <a href="https://commons.wikimedia.org/wiki/File:Jubilee_FLN_soccer_team_1974.jpg" target="_blank">via Wikipedia</a></li>

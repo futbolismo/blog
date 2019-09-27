@@ -47,7 +47,7 @@ Il derby inizia. L''arbitro ha fischiato l'inizio della gara da trenta secondi a
 Non so se sia un record, però in quel derby un segno dovevo pur lasciarlo da qualche parte. Quella volta sulle cosce di un avversario!
 
 <div class="post-disclaimer">
-<b>Fotgrafie</b><br/>
+<b>Fotografie</b><br/>
 <ol>
 	<li>José Perdomo - <a title="By Chapamanya (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AJos%C3%A9_Perdomo.jpg" target="_blank">By Chapamanya (Own work) CC BY-SA 3.0</a></li>
 	<li>"Stelle, eroi per caso e flop clamorosi" <a href="http://genova.repubblica.it/sport/2010/12/14/foto/stelle_e_eroi_per_un_giorno-10197735/8/" target="_blank">La Repubblica</a></li>
