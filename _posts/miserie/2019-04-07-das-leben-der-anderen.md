@@ -50,7 +50,7 @@ Io non sono più su questa terra, però, anni dopo a seguito della riunificazion
 Quindi miei cari sono stato ucciso non solo per il mio tradimento ma soprattutto per aver pisciato fuori dal vaso. Il caro, vendicativo compagno Mielke non aveva proprio potuto perdonare lo sputtanamento pubblico.
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
     <li>Lutz Eigendorf con la maglia della Dinamo Berlino durante BFC Dynamo - Vorwärts Stralsund, terminata 2-0 - Bundesarchiv, Bild 183-P00521-0033 / Lehmann, Thomas / CC-BY-SA 3.0 <a href="https://it.wikipedia.org/wiki/Lutz_Eigendorf#/media/File:Bundesarchiv_Bild_183-P00521-0033,_BFC_Dynamo_-_Vorw%C3%A4rts_Stralsund_2-0.jpg" target="_blank">via Wikipedia</a></li>
     <li>Mannschaftsfoto BFC Dynamo Berlin - 17 Agosto 1978 - Bundesarchiv, Bild 183-T0817-0032 / Mittelstädt, Rainer / CC-BY-SA 3.0 <a href="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-T0817-0032,_Mannschaftsfoto_BFC_Dynamo_Berlin.jpg" target="_blank">via Wikipedia</a></li>

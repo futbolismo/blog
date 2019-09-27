@@ -64,7 +64,7 @@ Io penso.
 Dunque sono!  
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
       <li>Corinthians estampa no uniforme a chamada para eleições diretas de 15 de novembro de 1982 , para a escolha do Governador do Estado. Foto: Trecho do filme “Democracia em Preto e Branco”.
   <a href="https://medium.com/o-contra-ataque/a-democracia-corintiana-12b9bae7d48c" target="_blank">A Democracia Corintiana</a></li>

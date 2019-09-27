@@ -107,7 +107,7 @@ In fin dei conti gliel'avevo detto o no a quel cazzone di allenatore al Cádiz c
 </div>
 
 <div class="post-disclaimer">
-<b>Fotgrafie</b><br/>
+<b>Fotografie</b><br/>
 <ol>
   <li>Gonz&aacute;lez <a href="http://www.elbaloncuscatleco.com/galeria80-89.html">ElBalonCuscateclo.com</a></li>
   <li>Gonz&aacute;lez e Juan Jos&eacute; Jiménez -  oldschoolpanini.com</li>

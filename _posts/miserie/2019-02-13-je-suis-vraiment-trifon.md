@@ -82,7 +82,7 @@ Come la mia.
 **Je suis vraiment trifon!**
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
     <li>Trifon Ivanov mentre Lothar Matthäus tira un calcio di rigore durante Germania - Bulgaria nella coppa del mondo del 1994 negli USA. <a href="https://commons.wikimedia.org/wiki/File:WorldCup1994BulgariaGermany.jpg" target="_blank">via Wikipedia</a></li>
     <li>Champions League 1996-97 - Juventus vs Rapid Vienna - Trifon Ivanov e Alex Del Piero

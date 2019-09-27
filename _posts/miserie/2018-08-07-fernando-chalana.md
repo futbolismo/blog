@@ -65,7 +65,7 @@ E poi per un breve attimo sono stato davvero rock'n'roll!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hIZ6_1k2sMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <div class="post-disclaimer">
-<b>Fotgrafie e video</b><br/>
+<b>Fotografie e video</b><br/>
 <ol>
 	<li>Figurina Fernando Chalana - <a href="http://www.oldschoolpanini.com/2011/01/paninomorphologie-fernando-chalana.html" target="_blank">Old School Panini</a></li>
 	<li>Figurina Chalana N. 22 - <a href="http://www.santanostalgia.com/2011/02/chalana.html" target="_blank">Santa Nostalgia</a></li>

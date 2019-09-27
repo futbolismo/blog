@@ -50,7 +50,7 @@ Una telefonata può cambiare la vita!
 In più mi spettano ancora quattordici minuti abbondanti di notorietà!
 
 <div class="post-disclaimer">
-<b>Fotgrafie</b><br/>
+<b>Fotografie</b><br/>
 <ol>
 
 	<li>Figurina Calcio Holmqvist nel Cesena</li>

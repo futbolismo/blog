@@ -116,7 +116,7 @@ Illustrazione "<b>{{page.player}} con i colori della Doria</b>", gentilmente rea
 </div>
 
 <div class="post-disclaimer">
-    <b>Fotgrafie</b><br/>
+    <b>Fotografie</b><br/>
     <ol>
     <li>Alviero Chiorri, l'ultimo dei romantici -
 <a href="https://storiedicalcio.altervista.org/blog/alviero-chiorri.html" target="_blank">via Storie di Calcio</a></li>
