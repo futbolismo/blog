@@ -3,7 +3,7 @@ layout: post-sticker
 
 pid: gerd-muller
 header: large-picture
-header_mobile: "50%"
+header_mobile: "90%"
 
 postTitle: Gerd Müller
 player: Gerhard Müller
