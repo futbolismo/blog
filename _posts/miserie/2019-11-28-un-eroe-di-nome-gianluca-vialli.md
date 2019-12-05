@@ -148,7 +148,7 @@ Scritto da <b>Simone Balocco</b>
                         category:"event",
                         timestamps:[new Date(1964,7-1,9)],
                         text:{
-                            body:"Il 24 giugno 1978 a San Fernando (Argentina) nasce {{page.player}}",
+                            body:"Il 9 luglio 1964 a Cremona nasce {{page.player}}",
                             link:null
                         }
                     },
@@ -158,7 +158,7 @@ Scritto da <b>Simone Balocco</b>
                         timestamps:[1973,1978],
                         team:"Pizzighettone",
                         text:{
-                            body:"Dopo aver iniziato a giocare a calcio nella squadra della periferia della sua città natale, durante un torneo è notato dagli osservatori dell'Argentinos Juniors, che lo inseriscono nel proprio vivaio.",
+                            body:"Inizia la sua carriera nel vivaio del Pizzighettone",
                             link:null
                         }
                     },
@@ -168,7 +168,7 @@ Scritto da <b>Simone Balocco</b>
                         timestamps:[1978,1984],
                         team:"Cremonese",
                         text:{
-                            body:"Nel 1978 è in procinto di trasferirsi al River Plate, ma il Boca Juniors anticipa i rivali con la cifra di 800.000$ Nel Boca Juniors gioca 152 partite segnando 38 reti.",
+                            body:"Nel 1978 si trasferisce nelle giovanili della Cremonese, dove inizia la sua fantastica carriera, nel 1980 viene lanciato tra i professionisti. Resta alla Cremonese fino al 1984, dove segna 23 reti durante 105 partite.",
                             link:null
                         }
                     },
@@ -178,7 +178,7 @@ Scritto da <b>Simone Balocco</b>
                         timestamps:[1984,1992],
                         team:"Sampdoria",
                         text:{
-                            body:"L'8 luglio del 2002 è acquistato dal Barcellona in cambio di € 11,5 milioni. Van Gaal lo tratta con indifferenza e non gli concede spazio. Registra 30 presenze e 3 gol.",
+                            body:"Nell'estate 1984 passa alla Sampdoria, in cambio di Alviero Chiorri. Esordisce in Serie A il 16 Settembre e rimane sotto la Lanterna fino al 1992. Diventa l'idolo della curva e porta, assieme a Roberto Mancini, Vierchowod, Lombardo e altri porta i blucerchiati alla vittoria di uno scudetto e molte altre coppe. Registra 223 presenze con 85 goal.",
                             link:null
                         }
                     },
@@ -188,7 +188,7 @@ Scritto da <b>Simone Balocco</b>
                         timestamps:[1992,1996],
                         team:"Juventus",
                         text:{
-                            body:"Nel 2003 si trasferisce in prestito al Villareal, diventa l'idolo dei tifosi amarillos. Durante quattro stagioni segna 36 reti.",
+                            body:"Nel 1991 si trasferisce alla Juventus dove gioca con Roberto Baggio, Fabrizio Ravanelli e Alessandro Del Piero. Vince scudetto, Supercoppa Italiana, Coppa UEFA e Champions League. Disputa 145 partite e segna 53 reti.",
                             link:null
                         }
                     },
@@ -198,7 +198,7 @@ Scritto da <b>Simone Balocco</b>
                         timestamps:[1996,1999],
                         team:"Chelsea",
                         text:{
-                            body:"L'8 febbraio 2007 viene ceduto in prestito al Boca Juniors, con cui firma un contratto di 4 mesi per un ingaggio di 2 milioni di euro. Il 17 febbraio  i tifosi lo accolgono con gioia al nuovo esordio alla Bombonera. Gioca 135 partite e segna 25 reti.",
+                            body:"Considerato concluso il suo ciclo a Torino, e una volta svincolatosi sfruttando la nuova libertà contrattuale concessa dall'allora recente sentenza Bosman, nella stagione 1996-1997 approda al Chelsea. Si ritira nel 1999 dal calcio giocato dopo 21 reti in 58 partite. Da qui in avanti ricopre la sola carica di tecnico dei londinesi.",
                             link:null
                         }
                     },
@@ -225,7 +225,7 @@ Scritto da <b>Simone Balocco</b>
                         cup:"Coppa delle Coppe",
                         text:{
 
-                            body:"Nel 2000 vince la Copa Libertadores con il Boca Juniors battendo i brasiliani del Palmeiras",
+                            body:"Nel 1990 vince la Coppa delle Coppe con la Sampdoria battendo l'Anderlecht",
                             link:""
                         }
                     },
@@ -236,7 +236,7 @@ Scritto da <b>Simone Balocco</b>
                         cup:"Coppa delle Coppe",
                         text:{
 
-                            body:"Nel 2000 vince la Copa Libertadores con il Boca Juniors battendo i brasiliani del Palmeiras",
+                            body:"Nel 1998 vince la Coppa delle Coppe con il Chelsea battendo lo Stoccarda",
                             link:""
                         }
                     },
@@ -247,7 +247,7 @@ Scritto da <b>Simone Balocco</b>
                         cup:"Coppa UEFA",
                         text:{
 
-                            body:"Nel 2001 vince la Copa Libertadores con il Boca Juniors, battendo i messicani del Cruz Azul Fútbol Club.",
+                            body:"Nel 1993 vince la Coppa UEFA con la Juventus, battendo il Borussia Dortmund.",
                             link:""
                         }
                     },
@@ -258,7 +258,7 @@ Scritto da <b>Simone Balocco</b>
                         cup:"Champions League",
                         text:{
 
-                            body:"Nel 2007 vince la Copa Libertadores con il Boca Juniors battendo in finale il Gremio.",
+                            body:"Nel 1996 vince la Champions League con la Juventus battendo in finale l'Ajax.",
                             link:""
                         }
                     },
@@ -269,8 +269,8 @@ Scritto da <b>Simone Balocco</b>
                         team:"Chelsea",
                         text:{
 
-                            body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
-                            link:"http://en.wikipedia.org/wiki/Mexico_women%27s_national_football_team"
+                            body:"Viene nominato player manager del Chelsea il 12 febbraio 1998, subentrando al dimissionario Ruud Gullit. Viene licenziato il 12 settembre 2000, dopo cinque partite dall'inizio dell'annata, causa un avvio stentato e screzi con vari elementi dello spogliatoio venendo sostituito da Claudio Ranieri.",
+                            link:""
                         }
                     },
                     {
@@ -280,8 +280,8 @@ Scritto da <b>Simone Balocco</b>
                         team:"Watford",
                         text:{
 
-                            body:"Dal 1988 &egrave; allenatore della Nazionale di calcio femminile del Messico.",
-                            link:"http://en.wikipedia.org/wiki/Mexico_women%27s_national_football_team"
+                            body:"Il 3 maggio 2001 accetta la proposta del Watford, squadra della First Division inglese Nonostante i grandi e costosi cambiamenti che effettua nel club di Elton John, non ottiene che un quattordicesimo posto in campionato e viene licenziato il 15 giugno 2002, dopo solo una stagione.",
+                            link:""
                         }
                     }
                 ];
