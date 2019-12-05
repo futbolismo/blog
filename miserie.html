@@ -56,7 +56,11 @@ permalink: /miserie-e-splendori/
                         <div class="row">
                             <div class="col-xs-5 col-ms-6 col-sm-12">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.jpg" alt="{{post.title}}" width="100%">
+                                    {% if post.header == 'video' %}
+                                      <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.gif" alt="{{post.title}}" width="100%">
+                                    {% else %}
+                                      <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.jpg" alt="{{post.title}}" width="100%">
+                                    {% endif %}
                                 </div>
                             </div>
                             <div class="col-xs-7 col-ms-6 col-sm-12">

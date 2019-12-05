@@ -1,8 +1,39 @@
 {% assign headerPosts = site.categories.miserie | concat: site.categories.essays %}
-<!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
-    {% for post in headerPosts: 0 limit: 1 %}
-    <div class="container main">
+{% for post in headerPosts: 0 limit: 1 %}
+  {% if post.header == 'video' %}
+    <div class="jumbotron jumbotron-post jumbotron-video">
+      <div class="container main">
+        <div class="video-container">
+          <video
+            class="video media"
+            autoplay="true"
+            muted="true"
+            playsinline=""
+            loop="true"
+            preload="auto"
+            poster="{{site.baseurl}}/assets/videos/{{ post.pid }}/header-poster.jpg"
+            {% if (post.header_mobile_video) %}
+            style="transform: translate({{post.header_mobile_video}},0);"
+            {% endif %}
+            tabindex="-1"
+          >
+            <source
+              src="{{site.baseurl}}/assets/videos/{{ post.pid }}/header.webm"
+              type="video/webm"
+            />
+            <source
+              src="{{site.baseurl}}/assets/videos/{{ post.pid }}/header.mp4"
+              type="video/mp4"
+            />
+          </video><img
+            alt=""
+            style="display: none;"
+            src="{{site.baseurl}}/assets/videos/{{ post.pid }}/header-poster.jpg"
+          />
+        </div>
+        <div class="grid-pattern">
+          <div id="grid"></div>
+        </div>
         <div class="row jumbo-post">
             <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract {{post.dialog}}">
                 <a href="{{site.baseurl}}{{post.url}}" class="post-link" alt="{{post.title}}">
@@ -12,11 +43,26 @@
                 </a>
             </div>
         </div>
+      </div>
     </div>
-    <div class="main-bg">
-        {% if post.header %}
-            <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.header }}.jpg" alt="">
-        {% endif %}
+  {% else %}
+    <div class="jumbotron">
+      <div class="container main">
+          <div class="row jumbo-post">
+              <div class="col-ms-4 col-sm-5 col-md-4 col-xs-12 main-abstract {{post.dialog}}">
+                  <a href="{{site.baseurl}}{{post.url}}" class="post-link" alt="{{post.title}}">
+                      <h1>{{post.postTitle}}</h1>
+                      <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                      <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                  </a>
+              </div>
+          </div>
+      </div>
+      <div class="main-bg">
+          {% if post.header %}
+              <img class="responsive-img hidden-ms hidden-sm hidden-md hidden-lg" src="{{site.baseurl}}/assets/pics/header/{{ post.header }}.jpg" alt="">
+          {% endif %}
+      </div>
     </div>
-    {% endfor %}
-</div>
+  {% endif %}
+{% endfor %}

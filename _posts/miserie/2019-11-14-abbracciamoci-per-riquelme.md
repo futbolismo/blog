@@ -216,7 +216,7 @@ Illustrazione "<b>{{page.player}} celebra il goal con un bacio ai tifosi xeneize
                         type:"cup",
                         category:"event",
                         timestamps:[new Date(2000,1-1,12),new Date(2000,1-1,13)],
-                        team:"Copa Libertadores",
+                        cup:"Copa Libertadores",
                         text:{
 
                             body:"Nel 2000 vince la Copa Libertadores con il Boca Juniors battendo i brasiliani del Palmeiras",
@@ -227,7 +227,7 @@ Illustrazione "<b>{{page.player}} celebra il goal con un bacio ai tifosi xeneize
                         type:"cup",
                         category:"event",
                         timestamps:[new Date(2001,1-1,12),new Date(2001,11-1,13)],
-                        team:"Copa Libertadores",
+                        cup:"Copa Libertadores",
                         text:{
 
                             body:"Nel 2001 vince la Copa Libertadores con il Boca Juniors, battendo i messicani del Cruz Azul Fútbol Club.",
@@ -238,7 +238,7 @@ Illustrazione "<b>{{page.player}} celebra il goal con un bacio ai tifosi xeneize
                         type:"cup",
                         category:"event",
                         timestamps:[new Date(2007,10-1,12),new Date(2007,10-1,13)],
-                        team:"Copa Libertadores",
+                        cup:"Copa Libertadores",
                         text:{
 
                             body:"Nel 2007 vince la Copa Libertadores con il Boca Juniors battendo in finale il Gremio.",

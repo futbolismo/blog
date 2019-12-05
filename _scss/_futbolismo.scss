@@ -213,7 +213,7 @@ div.navbar.smaller > .container {
     border-bottom: 1px solid #ddd;
 
 		&.jumbotron-post {
-			height: calc(90vh - 140px - 60px);
+			// height: calc(90vh - 140px - 60px);
 		}
 		&.jumbotron-section {
 			height: calc(90vh - 140px - 60px);
@@ -222,6 +222,33 @@ div.navbar.smaller > .container {
 			margin-left: -5px;
 			margin-right: -5px;
 			width: calc(100% + 10px);
+		}
+
+		&.jumbotron-video {
+			padding: 0;
+			background-color: #fff;
+
+			.container {
+				overflow: hidden;
+			}
+
+			.video-container {
+				background-color: transparent;
+	      position: absolute;
+				bottom: 0;
+				width: 100%;
+				height: 100%;
+				left: 0;
+
+				video {
+					width:auto;
+					height: 100%;
+					margin: 0 auto;
+					display: block;
+					position: absolute;
+					bottom: 0;
+				}
+			}
 		}
 
 }

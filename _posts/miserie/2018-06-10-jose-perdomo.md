@@ -16,8 +16,6 @@ remote_sticker: "https://pbs.twimg.com/media/BL_cmUvCIAE0SeB.png"
 
 teamheader_data: th_perdomo
 
-header: false
-
 excerpt: "Se c'è una cosa che non sopporto è quella di essere considerato un cattivo giocatore.
 Non cattivo nel senso stretto del termine intendiamoci.Perché cattivo ero cattivo. La gamba non l'ho mai tirata indietro."
 ---

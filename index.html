@@ -10,7 +10,11 @@ layout: landing
                         <div class="row post-abstract bg-dark-gray color-invert no-padding">
                             <div class="col-xs-12 col-md-6 post-abstract-img no-padding pull-right">
                                 <div class="post-abstract-img">
-                                    <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_top.jpg" alt="{{post.title}}" width="100%">
+                                    {% if post.header == 'video' %}
+                                      <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_top.gif" alt="{{post.title}}" width="100%">
+                                    {% else %}
+                                      <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_top.jpg" alt="{{post.title}}" width="100%">
+                                    {% endif %}
                                 </div>
                             </div>
                             <div class="col-xs-12 col-md-6 post-abstract-body bg-dark-gray">

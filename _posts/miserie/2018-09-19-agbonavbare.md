@@ -2,8 +2,7 @@
 layout: post
 
 pid: agbonavbare
-header: agbonavbare
-# header_mobile: "35%"
+
 
 postTitle: Wilfred Agbonavbare
 player: Wilfred Agbonavbare

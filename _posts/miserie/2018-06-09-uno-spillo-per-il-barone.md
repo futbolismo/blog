@@ -10,8 +10,6 @@ author: Francesco Mistrulli
 category: miserie
 timeline: 0
 
-header: pallone_alt
-
 dialog: transparent black-text left
 
 excerpt: "<i>...c'era una volta una strada semi asfaltata di periferia...  
