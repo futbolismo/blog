@@ -4,8 +4,18 @@
 	{% include head.html %}
 
 	<body>
-{% include header.html %}
-{% include jumbotron_min.html %}
+		{% include header.html %}
+		{% if page.header != null %}
+			{% if page.header == 'large-picture' %}
+				{% include jumbotron_large_picture.html %}
+			{% else if page.header == 'video' %}
+				{% include jumbotron_video.html %}
+			{% else %}
+				{% include jumbotron_min.html %}
+			{% endif %}
+		{% else %}
+			{% include jumbotron_min.html %}
+		{% endif %}
 
 {% if page.life != null %}
 	{% capture sticker %}{{site.baseurl}}/assets/pics/stickers/{{page.pid}}.jpg{% endcapture %}
@@ -113,7 +123,11 @@
 	                                <div class="row">
 	                                    <div class="col-xs-5 col-ms-12 col-sm-12">
 	                                        <div class="post-abstract-img">
-	                                            <img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.jpg" alt="{{post.title}}" width="100%">
+																							{% if post.header == 'video' %}
+																								<img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.gif" alt="{{post.title}}" width="100%">
+																							{% else %}
+																								<img class="responsive-img" src="{{site.baseurl}}/assets/pics/th/{{post.pid}}_med.jpg" alt="{{post.title}}" width="100%">
+																							{% endif %}
 	                                        </div>
 	                                    </div>
 	                                    <div class="col-xs-7 col-ms-12 col-sm-12">

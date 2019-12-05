@@ -8,6 +8,8 @@
 {% if page.header != null %}
 {% if page.header == 'large-picture' %}
 {% include jumbotron_large_picture.html %}
+{% else if page.header == 'video' %}
+{% include jumbotron_video.html %}
 {% else %}
 {% include jumbotron_min.html %}
 {% endif %}

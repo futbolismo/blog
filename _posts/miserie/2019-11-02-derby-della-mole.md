@@ -16,7 +16,6 @@ story_type: quote
 author: Francesco Mistrulli
 category: miserie
 timeline: 0
-timeline_data: derby_mole
 
 disclaimer_text: hidden
 
@@ -86,79 +85,3 @@ Il derby di Torino, che vede opposte le squadre di Juventus e Torino, principali
     <li>Il bianconero Anastasi tenta una sortita in area avversaria, attorniato dai granata Agroppi, Fossati, Zecchini e Cereser, nel derby del 4 marzo 1973 <a href="https://it.wikipedia.org/wiki/Derby_di_Torino#/media/File:Serie_A_1972-73_-_Juventus_vs_Torino_-_Anastasi_attorniato_da_Agroppi,_Fossati,_Zecchini_e_Cereser.jpg" target="_blank">via Wikipedia</a></li>
   </ol>
 </div>
-
-
-<script>
-
-    var derby_mole=[
-                    {
-                        type:"birth",
-                        category:"event",
-                        timestamps:[new Date(1887,6-1,3)],
-                        text:{
-                            body:"Il 3 giugno 1887 a La Plata, viene fondato il Club de Gimnasia y Esgrima La Plata",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1915,6-1,10),new Date(1915,6-1,11)],
-                        team:"",
-                        cup:"División Intermedia",
-                        text:{
-                            body:"Il Gimnasia y Esgrima diventa campione della División Intermedia del Fútbol Argentino nel 1915,"
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1929,1-1,10),new Date(1929,1-1,11)],
-                        team:"",
-                        cup:"Primera División",
-                        text:{
-                            body:"Nel 1929 il Gimnasia y Esgrima si laurea campione della Primera División Dilettanti"
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1931,1-1,1),new Date(1929,6-1,11)],
-                        team:"",
-                        cup:"Real Madrid - GELP 2-3",
-                        text:{
-                            body:"Il Gimnasia fu la prima squadra del Sudamerica a sconfiggere il Real Madrid sul suo terreno, a Madrid. La gara venne giocata il 1º gennaio 1931 e terminò con un punteggio di 3-2 per gli argentini."
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(1994,6-1,10),new Date(1994,6-1,11)],
-                        team:"",
-                        cup:"Copa Centenario",
-                        text:{
-                            body:"Nel 1994 il Gimnasia y Esgrima vince la Coppa del Centenario"
-                        }
-                    },
-                    {
-                        type:"history",
-                        category:"event",
-                        timestamps:[new Date(1946,2-1,24)],
-                        text:{
-
-                            body:"Il 24 febbraio 1946 Juan D. Perón diventa Presidente della  Repubblica Argentina ottenendo il 56% nelle elezioni generali.",
-                            link:"https://it.wikipedia.org/wiki/Storia_dell%27Argentina#Il_peronismo_(1945-1955)"
-                        }
-                    },
-                    {
-                        type:"history",
-                        category:"event",
-                        timestamps:[new Date(1955,6-1,18)],
-                        text:{
-
-                            body:"Nel 1955 le Forze Armate, sotto il comando del generale Eduardo Lonardi rovesciarono Perón e stabilirono la cosiddetta Revolución Libertadora. La Marina Militare bombardò la Casa Rosada tentando di uccidere il presidente. Il 18 giugno Perón è costretto a fuggire in esilio prima in Paraguay e poi nella Spagna di Franco.",
-                            link:"https://it.wikipedia.org/wiki/Storia_dell%27Argentina#Il_peronismo_(1945-1955)"
-                        }
-                    },
-                ];
-</script>
