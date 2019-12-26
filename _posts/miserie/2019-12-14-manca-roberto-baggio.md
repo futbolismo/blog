@@ -18,7 +18,7 @@ disclaimer_text: hidden
 author: Simone Balocco
 category: miserie
 timeline: 1
-timeline_data: riquelme
+timeline_data: baggio
 
 dialog: left5
 
@@ -134,126 +134,146 @@ Illustrazione "<b>{{page.player}} celebra il goal con un bacio ai tifosi xeneize
 
 <script>
 
-    var riquelme=[
-                    {
-                        type:"birth",
-                        category:"event",
-                        timestamps:[new Date(1978,6-1,24)],
-                        text:{
-                            body:"Il 24 giugno 1978 a San Fernando (Argentina) nasce {{page.player}}",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[1992,1995],
-                        team:"Argentinos Juniors",
-                        text:{
-                            body:"Dopo aver iniziato a giocare a calcio nella squadra della periferia della sua città natale, durante un torneo è notato dagli osservatori dell'Argentinos Juniors, che lo inseriscono nel proprio vivaio.",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[1995,2002],
-                        team:"Boca Juniors",
-                        text:{
-                            body:"Nel 1995 è in procinto di trasferirsi al River Plate, ma il Boca Juniors anticipa i rivali con la cifra di 800.000$ Nel Boca Juniors gioca 152 partite segnando 38 reti.",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[2002,2003],
-                        team:"Barcelona",
-                        text:{
-                            body:"L'8 luglio del 2002 è acquistato dal Barcellona in cambio di € 11,5 milioni. Van Gaal lo tratta con indifferenza e non gli concede spazio. Registra 30 presenze e 3 gol.",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[2003,2007],
-                        team:"Villarreal",
-                        text:{
-                            body:"Nel 2003 si trasferisce in prestito al Villareal, diventa l'idolo dei tifosi amarillos. Durante quattro stagioni segna 36 reti.",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[2007,2014],
-                        team:"Boca Juniors",
-                        text:{
-                            body:"L'8 febbraio 2007 viene ceduto in prestito al Boca Juniors, con cui firma un contratto di 4 mesi per un ingaggio di 2 milioni di euro. Il 17 febbraio  i tifosi lo accolgono con gioia al nuovo esordio alla Bombonera. Gioca 135 partite e segna 25 reti.",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"club",
-                        category:"range",
-                        timestamps:[2014,2015],
-                        team:"Argentinos Juniors",
-                        text:{
-                            body:"Il 17 luglio 2014 lascia il Boca Juniors per accasarsi all'Argentinos Juniors, dopo una sola stagione, l'Argentinos Jr. risale al primo livello del calcio argentino e il 25 gennaio 2015, Riquelme annuncia il proprio ritiro dall'attività agonistica. Registra 18 e segna 5 reti.",
-                            link:null
-                        }
-                    },
-                    {
-                        type:"national",
-                        timestamps:[1997,2009],
-                        team:"Argentina",
-                        apps:51,
-                        goals:17
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(2000,1-1,12),new Date(2000,1-1,13)],
-                        cup:"Copa Libertadores",
-                        text:{
+var baggio=[
+                {
+                    type:"birth",
+                    category:"event",
+                    timestamps:[new Date(1967,2-1,18)],
+                    text:{
+                        body:"Il 18 febbraio 1967 a Caldogno(VI) nasce {{page.player}}",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1974,1980],
+                    team:"Caldogno",
+                    text:{
+                        body:"Inizia la sua carriera nelle giovanili della squadra del suo paese, il Caldogno.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1980,1982],
+                    team:"Lanerossi Vicenza",
+                    text:{
+                        body:"All'età di 13 anni si trasferisce al Lanerossi Vicenza, a quel tempo in Serie C1, in cambio di 500 000 lire. Si mette subito in luce nelle formazioni giovanili, segnando negli anni 110 gol in 120 presenze.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1982,1985],
+                    team:"Lanerossi Vicenza",
+                    text:{
+                        body:"Debutta in prima squadra a 16 anni, il 5 giugno 1983, all'ultima giornata del campionato di Serie C1. Registra 36 presenze con 13 goal. Il 5 maggio 1985 allo stadio Romeo Neri contro i padroni di casa del Rimini — guidato da Arrigo Sacchi, futuro allenatore di Baggio nella nazionale e nel Milan — , subisce un grave infortunio al ginocchio destro che lo costringe a un periodo di oltre un anno di assenza dai campi di gioco",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1985,1990],
+                    team:"Fiorentina",
+                    text:{
+                        body:"L'infortunio arriva a due giorni dalla firma del contratto con la Fiorentina, che lo ha ingaggiato per 2,7 miliardi di lire. La Fiorentina ha la possibilità di recedere dal contratto ma il club decide di tenerlo. Esordisce in Serie A il 21 settembre 1986. Il successivo 28 settembre subisce una lesione al menisco del ginocchio destro. Rientra in campo a fine stagione. Il suo primo gol arriva su punizione il 10 maggio 1987 contro il Napoli (1-1). Dalla stagione 1987-1988 diventa l'idolo della Fiesole. Totalizza in tutto 93 presenze e 39 reti.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1990,1995],
+                    team:"Juventus",
+                    text:{
+                        body:"Nel 1990 dopo i Mondiali Italiani del 1990 si trasferisce alla Juventus dove vince scudetto, Coppa Italia, Coppa UEFA e riceve il Pallone d'Oro. Disputa 141 partite e segna 78 reti.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1995,1997],
+                    team:"Milan",
+                    text:{
+                        body:"Fra le proteste degli ultras juventini, nel luglio 1995 Baggio si accorda con il Milan che per il suo cartellino sborsa, causa i parametri UEFA che in epoca pre-Bosman regolavano il mercato degli svincolati, un indennizzo di 18 miliardi di lire. Resta al Milan per due stagioni. Vince lo scudetto con il Milan nella stagion 95-96. Nell'estate 1997, Baggio si presenta al raduno milanista con l'intenzione di restare, ma il rientrante Capello non mostra progetti tecnici per lui; sentitosi escluso, decide di trasferirsi, dopo 67 presenze e 19 reti.",
+                        link:null
+                    }
+                },
+                /*
+                1997-1998	Bologna Bologna	30 (22)
+                1998-2000	Inter Inter	41 (9)[2]
+                2000-2004	Brescia Brescia	95 (45)
+                */
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1997,1998],
+                    team:"Bologna",
+                    text:{
+                        body:"Avendo bisogno di giocare con continuità per guadagnarsi un posto fra i 22 che avrebbero preso parte al campionato del mondo 1998, il 18 luglio passa al Bologna per 5,5 miliardi di lire. Registra 30 presenze e 22 reti.",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[1998,2000],
+                    team:"Inter",
+                    text:{
+                        body:"Nell'estate 1998 si trasferisce per circa 3,5 miliardi di lire all'Inter, che punta alla vittoria dello scudetto dopo il secondo posto dell'anno precedente. Il giocatore si inserisce in un reparto offensivo composto dal Pallone d'oro Ronaldo e da Iván Zamorano e Youri Djorkaeff. Lascia l'Inter dopo aver totalizzato 59 presenze e 17 reti. ",
+                        link:null
+                    }
+                },
+                {
+                    type:"club",
+                    category:"range",
+                    timestamps:[2000,2004],
+                    team:"Brescia",
+                    text:{
+                        body:"Nel 2000 si trasfersice al Brescia. Con 10 reti in campionato Baggio conduce la sua squadra all'8º posto, il miglior piazzamento mai ottenuto dal Brescia in Serie A. Prossimo al ritiro, annunciato nel dicembre 2003, il 14 marzo 2004 segna al Parma la 200ª rete in Serie A, diventando il quinto giocatore a raggiungere tale soglia dopo Meazza, Piola, Nordahl e Altafini; segna il suo 205º e ultimo gol in A nella penultima giornata, nella vittoria casalinga per 2-1 contro la Lazio, il 9 maggio. Al Brescia segna 45 reti in 95 partite.",
+                        link:null
+                    }
+                },
+                {
+                    type:"national",
+                    timestamps:[1988,2004],
+                    team:"Italia",
+                    apps:56,
+                    goals:27
+                },
+                {
+                    type:"cup",
+                    category:"event",
+                    timestamps:[new Date(1990,6-1,10),new Date(1990,6-1,25)],
+                    cup:"ITALIA 1990",
+                    text:{
+                        body:"Si classifica terzo ai Campionati Mondiali del 1990 in Italia."
+                    }
+                },
+                {
+                    type:"cup",
+                    category:"event",
+                    timestamps:[new Date(1994,6-1,10),new Date(1994,6-1,25)],
+                    cup:"USA 1994",
+                    text:{
+                        body:"Si classifica secondo ai Campionati Mondiali del 1994 negli Stati Uniti."
+                    }
+                },
+                {
+                    type:"cup",
+                    category:"event",
+                    timestamps:[new Date(1993,1-1,12),new Date(1993,11-1,13)],
+                    cup:"Coppa UEFA",
+                    text:{
 
-                            body:"Nel 2000 vince la Copa Libertadores con il Boca Juniors battendo i brasiliani del Palmeiras",
-                            link:""
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(2001,1-1,12),new Date(2001,11-1,13)],
-                        cup:"Copa Libertadores",
-                        text:{
-
-                            body:"Nel 2001 vince la Copa Libertadores con il Boca Juniors, battendo i messicani del Cruz Azul Fútbol Club.",
-                            link:""
-                        }
-                    },
-                    {
-                        type:"cup",
-                        category:"event",
-                        timestamps:[new Date(2007,10-1,12),new Date(2007,10-1,13)],
-                        cup:"Copa Libertadores",
-                        text:{
-
-                            body:"Nel 2007 vince la Copa Libertadores con il Boca Juniors battendo in finale il Gremio.",
-                            link:""
-                        }
-                    },
-                    {
-                        type:"olympics",
-                        category:"event",
-                        timestamps:[new Date(2008,8-1,26),new Date(2008,9-1,11)],
-                        team:"Olimpiadi Pechino",
-                        text:{
-
-                            body:"Partecipa e vince la medaglia d'oro con la nazionale Argentina alle Olimpiadi di Pechino nel 2008.",
-                            link:"https://it.wikipedia.org/wiki/Calcio_ai_Giochi_della_XXIX_Olimpiade"
-                        }
-                    },
-                ];
+                        body:"Nel 1993 vince la Coppa UEFA con la Juventus, battendo il Borussia Dortmund.",
+                        link:""
+                    }
+                },
+            ];
 </script>
