@@ -3,7 +3,7 @@ layout: post-sticker
 
 pid: valentino-mazzola
 header: large-picture
-header_mobile: "50%"
+header_mobile: "90%"
 
 postTitle: Valentino Mazzola
 player: Valentino Mazzola
