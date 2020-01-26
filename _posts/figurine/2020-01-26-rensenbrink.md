@@ -3,7 +3,7 @@ layout: post-sticker
 
 pid: rensenbrink
 header: large-picture
-header_mobile: "50%"
+header_mobile: "74%"
 
 postTitle: Rob Rensenbrink
 player: Pieter Robert Rensenbrink
