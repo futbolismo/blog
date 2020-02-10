@@ -1,0 +1,3693 @@
+[
+  {
+    "minYear": 1963,
+    "maxYear": 1985,
+    "teamsPlayed": 15,
+    "nationality": [
+      "Northern Ireland"
+    ],
+    "name": "George Best",
+    "careerLength": 23,
+    "id": "George Best-May 22, 1946",
+    "teams": [
+      {
+        "year": 1985,
+        "date": "Jul 1, 1985",
+        "season": "85/86",
+        "left": "tobermore-united-fc",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "tobermore-united-fc",
+          "name": "Tobermore United FC",
+          "country": "northern ireland"
+        }
+      },
+      {
+        "year": 1984,
+        "date": "Jul 1, 1984",
+        "season": "84/85",
+        "left": "brisbane-lions",
+        "join": "tobermore-united-fc",
+        "note": "?",
+        "leftInfo": {
+          "id": "brisbane-lions",
+          "name": "Brisbane Lions",
+          "country": "australia"
+        },
+        "joinInfo": {
+          "id": "tobermore-united-fc",
+          "name": "Tobermore United FC",
+          "country": "northern ireland"
+        }
+      },
+      {
+        "year": 1983,
+        "date": "Jan 1, 1984",
+        "season": "83/84",
+        "left": "afc-bournemouth",
+        "join": "brisbane-lions",
+        "note": "?",
+        "leftInfo": {
+          "id": "afc-bournemouth",
+          "name": "AFC Bournemouth",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "brisbane-lions",
+          "name": "Brisbane Lions",
+          "country": "australia"
+        }
+      },
+      {
+        "year": 1983,
+        "date": "Jul 1, 1983",
+        "season": "83/84",
+        "left": "vereinslos",
+        "join": "afc-bournemouth",
+        "note": "-",
+        "joinInfo": {
+          "id": "afc-bournemouth",
+          "name": "AFC Bournemouth",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1981,
+        "date": "Jan 1, 1982",
+        "season": "81/82",
+        "left": "san-jose-earthquakes",
+        "join": "vereinslos",
+        "note": "-",
+        "leftInfo": {
+          "id": "san-jose-earthquakes",
+          "name": "San Jose Earthquakes",
+          "country": "united states",
+          "league": "major-league-soccer"
+        }
+      },
+      {
+        "year": 1980,
+        "date": "Jul 1, 1980",
+        "season": "80/81",
+        "left": "hibernian-fc",
+        "join": "san-jose-earthquakes",
+        "note": "?",
+        "leftInfo": {
+          "id": "hibernian-fc",
+          "name": "Hibernian FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        },
+        "joinInfo": {
+          "id": "san-jose-earthquakes",
+          "name": "San Jose Earthquakes",
+          "country": "united states",
+          "league": "major-league-soccer"
+        }
+      },
+      {
+        "year": 1979,
+        "date": "Jul 1, 1979",
+        "season": "79/80",
+        "left": "fort-lauderdale-strikers-original-",
+        "join": "hibernian-fc",
+        "note": "?",
+        "leftInfo": {
+          "id": "fort-lauderdale-strikers-original-",
+          "name": "Fort Lauderdale Strikers (Original)",
+          "country": "united states"
+        },
+        "joinInfo": {
+          "id": "hibernian-fc",
+          "name": "Hibernian FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        }
+      },
+      {
+        "year": 1978,
+        "date": "Jan 1, 1979",
+        "season": "78/79",
+        "left": "los-angeles-aztecs",
+        "join": "fort-lauderdale-strikers-original-",
+        "note": "?",
+        "leftInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        },
+        "joinInfo": {
+          "id": "fort-lauderdale-strikers-original-",
+          "name": "Fort Lauderdale Strikers (Original)",
+          "country": "united states"
+        }
+      },
+      {
+        "year": 1978,
+        "date": "Jul 1, 1978",
+        "season": "78/79",
+        "left": "fc-fulham",
+        "join": "los-angeles-aztecs",
+        "note": "?",
+        "leftInfo": {
+          "id": "fc-fulham",
+          "name": "Fulham FC",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        }
+      },
+      {
+        "year": 1977,
+        "date": "Jul 1, 1977",
+        "season": "77/78",
+        "left": "los-angeles-aztecs",
+        "join": "fc-fulham",
+        "note": "?",
+        "leftInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        },
+        "joinInfo": {
+          "id": "fc-fulham",
+          "name": "Fulham FC",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1976,
+        "date": "Jul 1, 1976",
+        "season": "76/77",
+        "left": "cork-celtic-f-c-",
+        "join": "los-angeles-aztecs",
+        "note": "?",
+        "leftInfo": {
+          "id": "cork-celtic-f-c-",
+          "name": "Cork Celtic FC",
+          "country": "ireland"
+        },
+        "joinInfo": {
+          "id": "los-angeles-aztecs",
+          "name": "Los Angeles Aztecs",
+          "country": "united states"
+        }
+      },
+      {
+        "year": 1975,
+        "date": "Aug 1, 1975",
+        "season": "75/76",
+        "left": "manchester-united",
+        "join": "cork-celtic-f-c-",
+        "note": "?",
+        "leftInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "cork-celtic-f-c-",
+          "name": "Cork Celtic FC",
+          "country": "ireland"
+        }
+      },
+      {
+        "year": 1975,
+        "date": "Jul 1, 1975",
+        "season": "75/76",
+        "left": "stockport-county",
+        "join": "manchester-united",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "stockport-county",
+          "name": "Stockport County",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1974,
+        "date": "Jul 1, 1974",
+        "season": "74/75",
+        "left": "manchester-united",
+        "join": "stockport-county",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "stockport-county",
+          "name": "Stockport County",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1963,
+        "date": "Jul 1, 1963",
+        "season": "63/64",
+        "left": "manchester-united-u18",
+        "join": "manchester-united",
+        "note": "-",
+        "leftInfo": {
+          "id": "manchester-united-u18",
+          "name": "Manchester United U18",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1934,
+    "maxYear": 1965,
+    "teamsPlayed": 4,
+    "nationality": [
+      "England"
+    ],
+    "name": "Sir Stanley Matthews",
+    "careerLength": 32,
+    "id": "Sir Stanley Matthews-Feb 1, 1915",
+    "teams": [
+      {
+        "year": 1965,
+        "date": "Jul 1, 1965",
+        "season": "65/66",
+        "left": "stoke-city",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "stoke-city",
+          "name": "Stoke City",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1961,
+        "date": "Jul 1, 1961",
+        "season": "61/62",
+        "left": "fc-blackpool",
+        "join": "stoke-city",
+        "note": "?",
+        "leftInfo": {
+          "id": "fc-blackpool",
+          "name": "Blackpool FC",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "stoke-city",
+          "name": "Stoke City",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1947,
+        "date": "Jul 1, 1947",
+        "season": "47/48",
+        "left": "stoke-city",
+        "join": "fc-blackpool",
+        "note": "£13k",
+        "leftInfo": {
+          "id": "stoke-city",
+          "name": "Stoke City",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "fc-blackpool",
+          "name": "Blackpool FC",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1934,
+        "date": "Jul 1, 1934",
+        "season": "34/35",
+        "left": "stoke-city-u18",
+        "join": "stoke-city",
+        "note": "-",
+        "leftInfo": {
+          "id": "stoke-city-u18",
+          "name": "Stoke City U18",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "stoke-city",
+          "name": "Stoke City",
+          "country": "england",
+          "league": "premier-league"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1956,
+    "maxYear": 1977,
+    "teamsPlayed": 3,
+    "nationality": [
+      "Brazil"
+    ],
+    "name": "Pelé",
+    "careerLength": 22,
+    "id": "Pelé-Oct 23, 1940",
+    "teams": [
+      {
+        "year": 1977,
+        "date": "Oct 1, 1977",
+        "season": "77/78",
+        "left": "new-york-cosmos",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "new-york-cosmos",
+          "name": "New York Cosmos",
+          "country": "united states"
+        }
+      },
+      {
+        "year": 1973,
+        "date": "Jan 1, 1975",
+        "season": "73/74",
+        "left": "fc-santos",
+        "join": "new-york-cosmos",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "fc-santos",
+          "name": "Santos FC",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "new-york-cosmos",
+          "name": "New York Cosmos",
+          "country": "united states"
+        }
+      },
+      {
+        "year": 1956,
+        "date": "Jan 1, 1957",
+        "season": "56/57",
+        "left": "fc-santos-u19",
+        "join": "fc-santos",
+        "note": "-",
+        "leftInfo": {
+          "id": "fc-santos-u19",
+          "name": "Santos FC U20",
+          "country": "brazil"
+        },
+        "joinInfo": {
+          "id": "fc-santos",
+          "name": "Santos FC",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1994,
+    "maxYear": 2018,
+    "teamsPlayed": 44,
+    "nationality": [
+      "Uruguay"
+    ],
+    "name": "Sebastián Abreu",
+    "careerLength": 25,
+    "id": "Sebastián Abreu-Oct 17, 1976",
+    "teams": [
+      {
+        "year": 2018,
+        "date": "Jul 1, 2018",
+        "season": "18/19",
+        "left": "audax-italiano",
+        "join": "magallanes-cf",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "audax-italiano",
+          "name": "Audax Italiano",
+          "country": "chile",
+          "league": "campeonato-scotiabank-primera-division"
+        },
+        "joinInfo": {
+          "id": "magallanes-cf",
+          "name": "Magallanes CF",
+          "country": "chile"
+        }
+      },
+      {
+        "year": 2017,
+        "date": "Jan 1, 2018",
+        "season": "17/18",
+        "left": "cd-puerto-montt",
+        "join": "audax-italiano",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "cd-puerto-montt",
+          "name": "CD Puerto Montt",
+          "country": "chile"
+        },
+        "joinInfo": {
+          "id": "audax-italiano",
+          "name": "Audax Italiano",
+          "country": "chile",
+          "league": "campeonato-scotiabank-primera-division"
+        }
+      },
+      {
+        "year": 2017,
+        "date": "Jul 1, 2017",
+        "season": "17/18",
+        "left": "central-espanol",
+        "join": "cd-puerto-montt",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "central-espanol",
+          "name": "Central Español",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "cd-puerto-montt",
+          "name": "CD Puerto Montt",
+          "country": "chile"
+        }
+      },
+      {
+        "year": 2016,
+        "date": "Apr 3, 2017",
+        "season": "16/17",
+        "left": "bangu-atletico-clube-rj-",
+        "join": "central-espanol",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "bangu-atletico-clube-rj-",
+          "name": "Bangu Atlético Clube (RJ)",
+          "country": "brazil"
+        },
+        "joinInfo": {
+          "id": "central-espanol",
+          "name": "Central Español",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      },
+      {
+        "year": 2016,
+        "date": "Jan 1, 2017",
+        "season": "16/17",
+        "left": "santa-tecla",
+        "join": "bangu-atletico-clube-rj-",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "santa-tecla",
+          "name": "Santa Tecla",
+          "country": "el salvador"
+        },
+        "joinInfo": {
+          "id": "bangu-atletico-clube-rj-",
+          "name": "Bangu Atlético Clube (RJ)",
+          "country": "brazil"
+        }
+      },
+      {
+        "year": 2016,
+        "date": "Jul 1, 2016",
+        "season": "16/17",
+        "left": "club-sol-de-america",
+        "join": "santa-tecla",
+        "note": "?",
+        "leftInfo": {
+          "id": "club-sol-de-america",
+          "name": "Club Sol de América",
+          "country": "paraguay"
+        },
+        "joinInfo": {
+          "id": "santa-tecla",
+          "name": "Santa Tecla",
+          "country": "el salvador"
+        }
+      },
+      {
+        "year": 2015,
+        "date": "Jan 7, 2016",
+        "season": "15/16",
+        "left": "nacional-montevideo",
+        "join": "club-sol-de-america",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "club-sol-de-america",
+          "name": "Club Sol de América",
+          "country": "paraguay"
+        }
+      },
+      {
+        "year": 2014,
+        "date": "Jun 30, 2015",
+        "season": "14/15",
+        "left": "sd-aucas",
+        "join": "nacional-montevideo",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "sd-aucas",
+          "name": "SD Aucas",
+          "country": "ecuador",
+          "league": "serie-a-primera-etapa"
+        },
+        "joinInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      },
+      {
+        "year": 2014,
+        "date": "Mar 17, 2015",
+        "season": "14/15",
+        "left": "nacional-montevideo",
+        "join": "sd-aucas",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "sd-aucas",
+          "name": "SD Aucas",
+          "country": "ecuador",
+          "league": "serie-a-primera-etapa"
+        }
+      },
+      {
+        "year": 2014,
+        "date": "Dec 31, 2014",
+        "season": "14/15",
+        "left": "club-atletico-rosario-central",
+        "join": "nacional-montevideo",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "club-atletico-rosario-central",
+          "name": "Club Atlético Rosario Central",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      },
+      {
+        "year": 2013,
+        "date": "Aug 1, 2013",
+        "season": "13/14",
+        "left": "nacional-montevideo",
+        "join": "club-atletico-rosario-central",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "club-atletico-rosario-central",
+          "name": "Club Atlético Rosario Central",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 2012,
+        "date": "Jan 13, 2013",
+        "season": "12/13",
+        "left": "botafogo-fr-rio-de-janeiro",
+        "join": "nacional-montevideo",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "botafogo-fr-rio-de-janeiro",
+          "name": "Botafogo Rio de Janeiro",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      },
+      {
+        "year": 2012,
+        "date": "Dec 31, 2012",
+        "season": "12/13",
+        "left": "figueirense-futebol-clube",
+        "join": "botafogo-fr-rio-de-janeiro",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "figueirense-futebol-clube",
+          "name": "Figueirense Futebol Clube",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "botafogo-fr-rio-de-janeiro",
+          "name": "Botafogo Rio de Janeiro",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 2012,
+        "date": "Jul 5, 2012",
+        "season": "12/13",
+        "left": "botafogo-fr-rio-de-janeiro",
+        "join": "figueirense-futebol-clube",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "botafogo-fr-rio-de-janeiro",
+          "name": "Botafogo Rio de Janeiro",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "figueirense-futebol-clube",
+          "name": "Figueirense Futebol Clube",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 2009,
+        "date": "Jan 2, 2010",
+        "season": "09/10",
+        "left": "aris-thessaloniki",
+        "join": "botafogo-fr-rio-de-janeiro",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "aris-thessaloniki",
+          "name": "Aris Thessaloniki",
+          "country": "greece",
+          "league": "super-league"
+        },
+        "joinInfo": {
+          "id": "botafogo-fr-rio-de-janeiro",
+          "name": "Botafogo Rio de Janeiro",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 2009,
+        "date": "Jul 1, 2009",
+        "season": "09/10",
+        "left": "club-atletico-river-plate",
+        "join": "aris-thessaloniki",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "club-atletico-river-plate",
+          "name": "Club Atlético River Plate",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "aris-thessaloniki",
+          "name": "Aris Thessaloniki",
+          "country": "greece",
+          "league": "super-league"
+        }
+      },
+      {
+        "year": 2008,
+        "date": "Jun 30, 2009",
+        "season": "08/09",
+        "left": "real-sociedad-san-sebastian",
+        "join": "club-atletico-river-plate",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "real-sociedad-san-sebastian",
+          "name": "Real Sociedad",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "club-atletico-river-plate",
+          "name": "Club Atlético River Plate",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 2008,
+        "date": "Jan 9, 2009",
+        "season": "08/09",
+        "left": "club-atletico-river-plate",
+        "join": "real-sociedad-san-sebastian",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "club-atletico-river-plate",
+          "name": "Club Atlético River Plate",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "real-sociedad-san-sebastian",
+          "name": "Real Sociedad",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2008,
+        "date": "Sep 20, 2008",
+        "season": "08/09",
+        "left": "beitar-jerusalem",
+        "join": "club-atletico-river-plate",
+        "note": "?",
+        "leftInfo": {
+          "id": "beitar-jerusalem",
+          "name": "Beitar Jerusalem",
+          "country": "israel",
+          "league": "ligat-haal"
+        },
+        "joinInfo": {
+          "id": "club-atletico-river-plate",
+          "name": "Club Atlético River Plate",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 2008,
+        "date": "Jul 1, 2008",
+        "season": "08/09",
+        "left": "tigres-uanl",
+        "join": "beitar-jerusalem",
+        "note": "£900k",
+        "leftInfo": {
+          "id": "tigres-uanl",
+          "name": "Tigres UANL",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "beitar-jerusalem",
+          "name": "Beitar Jerusalem",
+          "country": "israel",
+          "league": "ligat-haal"
+        }
+      },
+      {
+        "year": 2007,
+        "date": "Jun 30, 2008",
+        "season": "07/08",
+        "left": "club-atletico-river-plate",
+        "join": "tigres-uanl",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "club-atletico-river-plate",
+          "name": "Club Atlético River Plate",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "tigres-uanl",
+          "name": "Tigres UANL",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2007,
+        "date": "Jan 3, 2008",
+        "season": "07/08",
+        "left": "tigres-uanl",
+        "join": "club-atletico-river-plate",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "tigres-uanl",
+          "name": "Tigres UANL",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "club-atletico-river-plate",
+          "name": "Club Atlético River Plate",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 2007,
+        "date": "Jul 1, 2007",
+        "season": "07/08",
+        "left": "san-luis-fc",
+        "join": "tigres-uanl",
+        "note": "£405k",
+        "leftInfo": {
+          "id": "san-luis-fc",
+          "name": "San Luis FC",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "tigres-uanl",
+          "name": "Tigres UANL",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2006,
+        "date": "Jan 1, 2007",
+        "season": "06/07",
+        "left": "cf-monterrey",
+        "join": "san-luis-fc",
+        "note": "£270k",
+        "leftInfo": {
+          "id": "cf-monterrey",
+          "name": "CF Monterrey",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "san-luis-fc",
+          "name": "San Luis FC",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2006,
+        "date": "Jul 1, 2006",
+        "season": "06/07",
+        "left": "dorados-de-sinaloa",
+        "join": "cf-monterrey",
+        "note": "?",
+        "leftInfo": {
+          "id": "dorados-de-sinaloa",
+          "name": "Dorados de Sinaloa",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "cf-monterrey",
+          "name": "CF Monterrey",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Jul 4, 2005",
+        "season": "05/06",
+        "left": "nacional-montevideo",
+        "join": "dorados-de-sinaloa",
+        "note": "£360k",
+        "leftInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "dorados-de-sinaloa",
+          "name": "Dorados de Sinaloa",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2004,
+        "date": "Aug 31, 2004",
+        "season": "04/05",
+        "left": "deportivo-la-coruna",
+        "join": "nacional-montevideo",
+        "note": "£180k",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      },
+      {
+        "year": 2003,
+        "date": "Jun 30, 2004",
+        "season": "03/04",
+        "left": "estudiantes-tecos",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "estudiantes-tecos",
+          "name": "Tecos de la Universidad Autónoma de Guadalajara",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2003,
+        "date": "Jan 1, 2004",
+        "season": "03/04",
+        "left": "deportivo-la-coruna",
+        "join": "estudiantes-tecos",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "estudiantes-tecos",
+          "name": "Tecos de la Universidad Autónoma de Guadalajara",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2003,
+        "date": "Dec 31, 2003",
+        "season": "03/04",
+        "left": "cf-america",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "cf-america",
+          "name": "CF América",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2003,
+        "date": "Jul 1, 2003",
+        "season": "03/04",
+        "left": "deportivo-la-coruna",
+        "join": "cf-america",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "cf-america",
+          "name": "CF América",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2002,
+        "date": "Jun 30, 2003",
+        "season": "02/03",
+        "left": "cd-cruz-azul",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "cd-cruz-azul",
+          "name": "CD Cruz Azul",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2001,
+        "date": "Jan 1, 2002",
+        "season": "01/02",
+        "left": "deportivo-la-coruna",
+        "join": "cd-cruz-azul",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "cd-cruz-azul",
+          "name": "CD Cruz Azul",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 2001,
+        "date": "Dec 31, 2001",
+        "season": "01/02",
+        "left": "nacional-montevideo",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2001,
+        "date": "Aug 1, 2001",
+        "season": "01/02",
+        "left": "deportivo-la-coruna",
+        "join": "nacional-montevideo",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "nacional-montevideo",
+          "name": "Club Nacional",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jun 30, 2001",
+        "season": "00/01",
+        "left": "club-atletico-san-lorenzo-de-almagro",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "club-atletico-san-lorenzo-de-almagro",
+          "name": "Club Atlético San Lorenzo de Almagro",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jul 1, 2000",
+        "season": "00/01",
+        "left": "deportivo-la-coruna",
+        "join": "club-atletico-san-lorenzo-de-almagro",
+        "note": "Loan fee:£720k",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "club-atletico-san-lorenzo-de-almagro",
+          "name": "Club Atlético San Lorenzo de Almagro",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1999,
+        "date": "Jun 30, 2000",
+        "season": "99/00",
+        "left": "estudiantes-tecos",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "estudiantes-tecos",
+          "name": "Tecos de la Universidad Autónoma de Guadalajara",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 1999,
+        "date": "Jul 1, 1999",
+        "season": "99/00",
+        "left": "deportivo-la-coruna",
+        "join": "estudiantes-tecos",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "estudiantes-tecos",
+          "name": "Tecos de la Universidad Autónoma de Guadalajara",
+          "country": "mexico",
+          "league": "liga-mx-apertura"
+        }
+      },
+      {
+        "year": 1998,
+        "date": "Jun 30, 1999",
+        "season": "98/99",
+        "left": "gremio-foot-ball-porto-alegrense",
+        "join": "deportivo-la-coruna",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "gremio-foot-ball-porto-alegrense",
+          "name": "Grêmio Foot-Ball Porto Alegrense",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 1998,
+        "date": "Jul 1, 1998",
+        "season": "98/99",
+        "left": "deportivo-la-coruna",
+        "join": "gremio-foot-ball-porto-alegrense",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "gremio-foot-ball-porto-alegrense",
+          "name": "Grêmio Foot-Ball Porto Alegrense",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1997,
+        "date": "Jan 1, 1998",
+        "season": "97/98",
+        "left": "club-atletico-san-lorenzo-de-almagro",
+        "join": "deportivo-la-coruna",
+        "note": "£9.45m",
+        "leftInfo": {
+          "id": "club-atletico-san-lorenzo-de-almagro",
+          "name": "Club Atlético San Lorenzo de Almagro",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "deportivo-la-coruna",
+          "name": "Deportivo de La Coruña",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 1996,
+        "date": "Sep 6, 1996",
+        "season": "96/97",
+        "left": "defensor-sporting-club",
+        "join": "club-atletico-san-lorenzo-de-almagro",
+        "note": "£675k",
+        "leftInfo": {
+          "id": "defensor-sporting-club",
+          "name": "Defensor Sporting Club",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        },
+        "joinInfo": {
+          "id": "club-atletico-san-lorenzo-de-almagro",
+          "name": "Club Atlético San Lorenzo de Almagro",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1994,
+        "date": "Aug 1, 1994",
+        "season": "94/95",
+        "left": "defensor-sporting-club-u19",
+        "join": "defensor-sporting-club",
+        "note": "-",
+        "leftInfo": {
+          "id": "defensor-sporting-club-u19",
+          "name": "Defensor Sporting Club U19",
+          "country": "uruguay"
+        },
+        "joinInfo": {
+          "id": "defensor-sporting-club",
+          "name": "Defensor Sporting Club",
+          "country": "uruguay",
+          "league": "primera-division-apertura"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1970,
+    "maxYear": 1997,
+    "teamsPlayed": 31,
+    "nationality": [
+      "England"
+    ],
+    "name": "John Burridge",
+    "careerLength": 28,
+    "id": "John Burridge-Dec 3, 1951",
+    "teams": [
+      {
+        "year": 1997,
+        "date": "Jun 1, 1998",
+        "season": "97/98",
+        "left": "blyth-spartans-afc",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1997,
+        "date": "Aug 1, 1997",
+        "season": "97/98",
+        "left": "scarborough-fc",
+        "join": "blyth-spartans-afc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1996,
+        "date": "Dec 9, 1996",
+        "season": "96/97",
+        "left": "blyth-spartans-afc",
+        "join": "scarborough-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1996,
+        "date": "Aug 1, 1996",
+        "season": "96/97",
+        "left": "queen-of-the-south-fc",
+        "join": "blyth-spartans-afc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "queen-of-the-south-fc",
+          "name": "Queen of the South FC",
+          "country": "scotland",
+          "league": "scottish-championship"
+        },
+        "joinInfo": {
+          "id": "blyth-spartans-afc",
+          "name": "Blyth Spartans AFC",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Mar 1, 1996",
+        "season": "95/96",
+        "left": "northampton-town",
+        "join": "queen-of-the-south-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "northampton-town",
+          "name": "Northampton Town",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "queen-of-the-south-fc",
+          "name": "Queen of the South FC",
+          "country": "scotland",
+          "league": "scottish-championship"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Jan 26, 1996",
+        "season": "95/96",
+        "left": "fc-gateshead",
+        "join": "northampton-town",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "fc-gateshead",
+          "name": "Gateshead FC",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "northampton-town",
+          "name": "Northampton Town",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Jan 1, 1996",
+        "season": "95/96",
+        "left": "grimsby-town",
+        "join": "fc-gateshead",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "grimsby-town",
+          "name": "Grimsby Town",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "fc-gateshead",
+          "name": "Gateshead FC",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Dec 20, 1995",
+        "season": "95/96",
+        "left": "fc-darlington",
+        "join": "grimsby-town",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "fc-darlington",
+          "name": "Darlington FC (liq.)",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "grimsby-town",
+          "name": "Grimsby Town",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Nov 17, 1995",
+        "season": "95/96",
+        "left": "witton-albion",
+        "join": "fc-darlington",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "witton-albion",
+          "name": "Witton Albion",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "fc-darlington",
+          "name": "Darlington FC (liq.)",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Oct 1, 1995",
+        "season": "95/96",
+        "left": "notts-county",
+        "join": "witton-albion",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "notts-county",
+          "name": "Notts County",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "witton-albion",
+          "name": "Witton Albion",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Aug 11, 1995",
+        "season": "95/96",
+        "left": "manchester-city",
+        "join": "notts-county",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "manchester-city",
+          "name": "Manchester City",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "notts-county",
+          "name": "Notts County",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1994,
+        "date": "Dec 15, 1994",
+        "season": "94/95",
+        "left": "falkirk-fc",
+        "join": "manchester-city",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "falkirk-fc",
+          "name": "Falkirk FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        },
+        "joinInfo": {
+          "id": "manchester-city",
+          "name": "Manchester City",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1994,
+        "date": "Nov 19, 1994",
+        "season": "94/95",
+        "left": "dumbarton-fc",
+        "join": "falkirk-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "dumbarton-fc",
+          "name": "Dumbarton FC",
+          "country": "scotland",
+          "league": "scottish-championship"
+        },
+        "joinInfo": {
+          "id": "falkirk-fc",
+          "name": "Falkirk FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        }
+      },
+      {
+        "year": 1994,
+        "date": "Oct 1, 1994",
+        "season": "94/95",
+        "left": "aberdeen-fc",
+        "join": "dumbarton-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "aberdeen-fc",
+          "name": "Aberdeen FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        },
+        "joinInfo": {
+          "id": "dumbarton-fc",
+          "name": "Dumbarton FC",
+          "country": "scotland",
+          "league": "scottish-championship"
+        }
+      },
+      {
+        "year": 1993,
+        "date": "Mar 1, 1994",
+        "season": "93/94",
+        "left": "lincoln-city",
+        "join": "aberdeen-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "lincoln-city",
+          "name": "Lincoln City",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "aberdeen-fc",
+          "name": "Aberdeen FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        }
+      },
+      {
+        "year": 1993,
+        "date": "Dec 24, 1993",
+        "season": "93/94",
+        "left": "scarborough-fc",
+        "join": "lincoln-city",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "lincoln-city",
+          "name": "Lincoln City",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1993,
+        "date": "Oct 29, 1993",
+        "season": "93/94",
+        "left": "newcastle-united",
+        "join": "scarborough-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "newcastle-united",
+          "name": "Newcastle United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "scarborough-fc",
+          "name": "Scarborough FC (liq.)",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1993,
+        "date": "Aug 13, 1993",
+        "season": "93/94",
+        "left": "hibernian-fc",
+        "join": "newcastle-united",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "hibernian-fc",
+          "name": "Hibernian FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        },
+        "joinInfo": {
+          "id": "newcastle-united",
+          "name": "Newcastle United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1991,
+        "date": "Jul 1, 1991",
+        "season": "91/92",
+        "left": "newcastle-united",
+        "join": "hibernian-fc",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "newcastle-united",
+          "name": "Newcastle United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "hibernian-fc",
+          "name": "Hibernian FC",
+          "country": "scotland",
+          "league": "scottish-premiership"
+        }
+      },
+      {
+        "year": 1989,
+        "date": "Oct 3, 1989",
+        "season": "89/90",
+        "left": "fc-southampton",
+        "join": "newcastle-united",
+        "note": "£36k",
+        "leftInfo": {
+          "id": "fc-southampton",
+          "name": "Southampton FC",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "newcastle-united",
+          "name": "Newcastle United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1987,
+        "date": "Aug 11, 1987",
+        "season": "87/88",
+        "left": "sheffield-united",
+        "join": "fc-southampton",
+        "note": "£45k",
+        "leftInfo": {
+          "id": "sheffield-united",
+          "name": "Sheffield United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "fc-southampton",
+          "name": "Southampton FC",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1984,
+        "date": "Oct 26, 1984",
+        "season": "84/85",
+        "left": "wolverhampton-wanderers",
+        "join": "sheffield-united",
+        "note": "£14k",
+        "leftInfo": {
+          "id": "wolverhampton-wanderers",
+          "name": "Wolverhampton Wanderers",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "sheffield-united",
+          "name": "Sheffield United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1984,
+        "date": "Oct 25, 1984",
+        "season": "84/85",
+        "left": "derby-county",
+        "join": "wolverhampton-wanderers",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "derby-county",
+          "name": "Derby County",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "wolverhampton-wanderers",
+          "name": "Wolverhampton Wanderers",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1984,
+        "date": "Sep 21, 1984",
+        "season": "84/85",
+        "left": "wolverhampton-wanderers",
+        "join": "derby-county",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "wolverhampton-wanderers",
+          "name": "Wolverhampton Wanderers",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "derby-county",
+          "name": "Derby County",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1982,
+        "date": "Aug 26, 1982",
+        "season": "82/83",
+        "left": "queens-park-rangers",
+        "join": "wolverhampton-wanderers",
+        "note": "£90k",
+        "leftInfo": {
+          "id": "queens-park-rangers",
+          "name": "Queens Park Rangers",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "wolverhampton-wanderers",
+          "name": "Wolverhampton Wanderers",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1980,
+        "date": "Dec 19, 1980",
+        "season": "80/81",
+        "left": "crystal-palace",
+        "join": "queens-park-rangers",
+        "note": "£225k",
+        "leftInfo": {
+          "id": "crystal-palace",
+          "name": "Crystal Palace",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "queens-park-rangers",
+          "name": "Queens Park Rangers",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1977,
+        "date": "Mar 9, 1978",
+        "season": "77/78",
+        "left": "aston-villa",
+        "join": "crystal-palace",
+        "note": "£72k",
+        "leftInfo": {
+          "id": "aston-villa",
+          "name": "Aston Villa",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "crystal-palace",
+          "name": "Crystal Palace",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1977,
+        "date": "Mar 8, 1978",
+        "season": "77/78",
+        "left": "southend-united",
+        "join": "aston-villa",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "southend-united",
+          "name": "Southend United",
+          "country": "england",
+          "league": "championship"
+        },
+        "joinInfo": {
+          "id": "aston-villa",
+          "name": "Aston Villa",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1977,
+        "date": "Jan 20, 1978",
+        "season": "77/78",
+        "left": "aston-villa",
+        "join": "southend-united",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "aston-villa",
+          "name": "Aston Villa",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "southend-united",
+          "name": "Southend United",
+          "country": "england",
+          "league": "championship"
+        }
+      },
+      {
+        "year": 1975,
+        "date": "Sep 1, 1975",
+        "season": "75/76",
+        "left": "fc-blackpool",
+        "join": "aston-villa",
+        "note": "£135k",
+        "leftInfo": {
+          "id": "fc-blackpool",
+          "name": "Blackpool FC",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "aston-villa",
+          "name": "Aston Villa",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1970,
+        "date": "Apr 1, 1971",
+        "season": "70/71",
+        "left": "workington-afc",
+        "join": "fc-blackpool",
+        "note": "£14k",
+        "leftInfo": {
+          "id": "workington-afc",
+          "name": "Workington AFC",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "fc-blackpool",
+          "name": "Blackpool FC",
+          "country": "england",
+          "league": "premier-league"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1999,
+    "maxYear": 2018,
+    "teamsPlayed": 31,
+    "nationality": [
+      "Italy"
+    ],
+    "name": "Marco Borriello",
+    "careerLength": 20,
+    "id": "Marco Borriello-Jun 18, 1982",
+    "teams": [
+      {
+        "year": 2018,
+        "date": "Aug 27, 2018",
+        "season": "18/19",
+        "left": "spal-2013",
+        "join": "ud-ibiza-eivissa",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "spal-2013",
+          "name": "SP Ars et Labor",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ud-ibiza-eivissa",
+          "name": "UD Ibiza",
+          "country": "spain"
+        }
+      },
+      {
+        "year": 2017,
+        "date": "Aug 19, 2017",
+        "season": "17/18",
+        "left": "cagliari-calcio",
+        "join": "spal-2013",
+        "note": "£900k",
+        "leftInfo": {
+          "id": "cagliari-calcio",
+          "name": "Unione Sportiva Cagliari",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "spal-2013",
+          "name": "SP Ars et Labor",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2016,
+        "date": "Aug 3, 2016",
+        "season": "16/17",
+        "left": "atalanta-bergamo",
+        "join": "cagliari-calcio",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "atalanta-bergamo",
+          "name": "Atalanta BC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "cagliari-calcio",
+          "name": "Unione Sportiva Cagliari",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2015,
+        "date": "Jan 28, 2016",
+        "season": "15/16",
+        "left": "carpi-fc-1909",
+        "join": "atalanta-bergamo",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "carpi-fc-1909",
+          "name": "Carpi FC 1909",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "atalanta-bergamo",
+          "name": "Atalanta BC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2015,
+        "date": "Sep 1, 2015",
+        "season": "15/16",
+        "left": "vereinslos",
+        "join": "carpi-fc-1909",
+        "note": "-",
+        "joinInfo": {
+          "id": "carpi-fc-1909",
+          "name": "Carpi FC 1909",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2015,
+        "date": "Jul 1, 2015",
+        "season": "15/16",
+        "left": "fc-genua-1893",
+        "join": "vereinslos",
+        "note": "-",
+        "leftInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2014,
+        "date": "Feb 2, 2015",
+        "season": "14/15",
+        "left": "as-rom",
+        "join": "fc-genua-1893",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2013,
+        "date": "Jun 30, 2014",
+        "season": "13/14",
+        "left": "west-ham-united",
+        "join": "as-rom",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "west-ham-united",
+          "name": "West Ham United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2013,
+        "date": "Jan 24, 2014",
+        "season": "13/14",
+        "left": "as-rom",
+        "join": "west-ham-united",
+        "note": "Loan fee:£630k",
+        "leftInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "west-ham-united",
+          "name": "West Ham United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 2012,
+        "date": "Jun 30, 2013",
+        "season": "12/13",
+        "left": "fc-genua-1893",
+        "join": "as-rom",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2012,
+        "date": "Aug 31, 2012",
+        "season": "12/13",
+        "left": "as-rom",
+        "join": "fc-genua-1893",
+        "note": "Loan fee:£225k",
+        "leftInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2011,
+        "date": "Jun 30, 2012",
+        "season": "11/12",
+        "left": "juventus-turin",
+        "join": "as-rom",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "juventus-turin",
+          "name": "Juventus FC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2011,
+        "date": "Jan 3, 2012",
+        "season": "11/12",
+        "left": "as-rom",
+        "join": "juventus-turin",
+        "note": "Loan fee:£450k",
+        "leftInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "juventus-turin",
+          "name": "Juventus FC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2011,
+        "date": "Jul 1, 2011",
+        "season": "11/12",
+        "left": "ac-mailand",
+        "join": "as-rom",
+        "note": "£9.00m",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2010,
+        "date": "Jun 30, 2011",
+        "season": "10/11",
+        "left": "as-rom",
+        "join": "ac-mailand",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2010,
+        "date": "Aug 31, 2010",
+        "season": "10/11",
+        "left": "ac-mailand",
+        "join": "as-rom",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2008,
+        "date": "Jul 1, 2008",
+        "season": "08/09",
+        "left": "fc-genua-1893",
+        "join": "ac-mailand",
+        "note": "£7.88m",
+        "leftInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2007,
+        "date": "Jul 1, 2007",
+        "season": "07/08",
+        "left": "ac-mailand",
+        "join": "fc-genua-1893",
+        "note": "£1.62m",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Jun 30, 2006",
+        "season": "05/06",
+        "left": "fc-treviso",
+        "join": "ac-mailand",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "fc-treviso",
+          "name": "ACD Treviso",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Feb 1, 2006",
+        "season": "05/06",
+        "left": "ac-mailand",
+        "join": "fc-treviso",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-treviso",
+          "name": "ACD Treviso",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Dec 31, 2005",
+        "season": "05/06",
+        "left": "uc-sampdoria",
+        "join": "ac-mailand",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "uc-sampdoria",
+          "name": "UC Sampdoria",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Jul 1, 2005",
+        "season": "05/06",
+        "left": "ac-mailand",
+        "join": "uc-sampdoria",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "uc-sampdoria",
+          "name": "UC Sampdoria",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2004,
+        "date": "Jun 30, 2005",
+        "season": "04/05",
+        "left": "reggina-calcio",
+        "join": "ac-mailand",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "reggina-calcio",
+          "name": "Reggina Calcio",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2004,
+        "date": "Jul 1, 2004",
+        "season": "04/05",
+        "left": "ac-mailand",
+        "join": "reggina-calcio",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "reggina-calcio",
+          "name": "Reggina Calcio",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2002,
+        "date": "Jun 30, 2003",
+        "season": "02/03",
+        "left": "fc-empoli",
+        "join": "ac-mailand",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "fc-empoli",
+          "name": "FC Empoli",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2002,
+        "date": "Jan 27, 2003",
+        "season": "02/03",
+        "left": "ac-mailand",
+        "join": "fc-empoli",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-empoli",
+          "name": "FC Empoli",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2002,
+        "date": "Jun 30, 2002",
+        "season": "02/03",
+        "left": "fc-treviso",
+        "join": "ac-mailand",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "fc-treviso",
+          "name": "ACD Treviso",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jun 30, 2001",
+        "season": "00/01",
+        "left": "us-triestina",
+        "join": "fc-treviso",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "us-triestina",
+          "name": "US Triestina",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-treviso",
+          "name": "ACD Treviso",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jan 1, 2001",
+        "season": "00/01",
+        "left": "fc-treviso",
+        "join": "us-triestina",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "fc-treviso",
+          "name": "ACD Treviso",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "us-triestina",
+          "name": "US Triestina",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jul 1, 2000",
+        "season": "00/01",
+        "left": "treviso-berretti",
+        "join": "fc-treviso",
+        "note": "-",
+        "leftInfo": {
+          "id": "treviso-berretti",
+          "name": "Treviso Juniores",
+          "country": "italy"
+        },
+        "joinInfo": {
+          "id": "fc-treviso",
+          "name": "ACD Treviso",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1999,
+        "date": "Jul 1, 1999",
+        "season": "99/00",
+        "left": "ac-mailand-primavera",
+        "join": "treviso-berretti",
+        "note": "-",
+        "leftInfo": {
+          "id": "ac-mailand-primavera",
+          "name": "Milan Primavera",
+          "country": "italy"
+        },
+        "joinInfo": {
+          "id": "treviso-berretti",
+          "name": "Treviso Juniores",
+          "country": "italy"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1981,
+    "maxYear": 2005,
+    "teamsPlayed": 16,
+    "nationality": [
+      "Japan"
+    ],
+    "name": "Kazuyoshi Miura",
+    "careerLength": 25,
+    "id": "Kazuyoshi Miura-Feb 26, 1967",
+    "teams": [
+      {
+        "year": 2005,
+        "date": "Dec 31, 2005",
+        "season": "05/06",
+        "left": "sydney-fc",
+        "join": "yokohama-fc",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "sydney-fc",
+          "name": "Sydney FC",
+          "country": "australia",
+          "league": "a-league"
+        },
+        "joinInfo": {
+          "id": "yokohama-fc",
+          "name": "Yokohama FC",
+          "country": "japan",
+          "league": "j1-league"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Oct 1, 2005",
+        "season": "05/06",
+        "left": "yokohama-fc",
+        "join": "sydney-fc",
+        "note": "Loan",
+        "leftInfo": {
+          "id": "yokohama-fc",
+          "name": "Yokohama FC",
+          "country": "japan",
+          "league": "j1-league"
+        },
+        "joinInfo": {
+          "id": "sydney-fc",
+          "name": "Sydney FC",
+          "country": "australia",
+          "league": "a-league"
+        }
+      },
+      {
+        "year": 2005,
+        "date": "Jul 1, 2005",
+        "season": "05/06",
+        "left": "vissel-kobe",
+        "join": "yokohama-fc",
+        "note": "?",
+        "leftInfo": {
+          "id": "vissel-kobe",
+          "name": "Vissel Kobe",
+          "country": "japan",
+          "league": "j1-league"
+        },
+        "joinInfo": {
+          "id": "yokohama-fc",
+          "name": "Yokohama FC",
+          "country": "japan",
+          "league": "j1-league"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jan 1, 2001",
+        "season": "00/01",
+        "left": "kyoto-sanga-f-c-",
+        "join": "vissel-kobe",
+        "note": "?",
+        "leftInfo": {
+          "id": "kyoto-sanga-f-c-",
+          "name": "Kyoto Sanga FC",
+          "country": "japan",
+          "league": "j1-league"
+        },
+        "joinInfo": {
+          "id": "vissel-kobe",
+          "name": "Vissel Kobe",
+          "country": "japan",
+          "league": "j1-league"
+        }
+      },
+      {
+        "year": 1999,
+        "date": "Jul 1, 1999",
+        "season": "99/00",
+        "left": "gnk-dinamo-zagreb",
+        "join": "kyoto-sanga-f-c-",
+        "note": "?",
+        "leftInfo": {
+          "id": "gnk-dinamo-zagreb",
+          "name": "GNK Dinamo Zagreb",
+          "country": "croatia",
+          "league": "1-hnl"
+        },
+        "joinInfo": {
+          "id": "kyoto-sanga-f-c-",
+          "name": "Kyoto Sanga FC",
+          "country": "japan",
+          "league": "j1-league"
+        }
+      },
+      {
+        "year": 1998,
+        "date": "Jan 1, 1999",
+        "season": "98/99",
+        "left": "tokyo-verdy",
+        "join": "gnk-dinamo-zagreb",
+        "note": "?",
+        "leftInfo": {
+          "id": "tokyo-verdy",
+          "name": "Verdy Kawasaki",
+          "country": "japan",
+          "league": "j1-league"
+        },
+        "joinInfo": {
+          "id": "gnk-dinamo-zagreb",
+          "name": "GNK Dinamo Zagreb",
+          "country": "croatia",
+          "league": "1-hnl"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Jul 1, 1995",
+        "season": "95/96",
+        "left": "fc-genua-1893",
+        "join": "tokyo-verdy",
+        "note": "?",
+        "leftInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "tokyo-verdy",
+          "name": "Verdy Kawasaki",
+          "country": "japan",
+          "league": "j1-league"
+        }
+      },
+      {
+        "year": 1994,
+        "date": "Jul 1, 1994",
+        "season": "94/95",
+        "left": "tokyo-verdy",
+        "join": "fc-genua-1893",
+        "note": "?",
+        "leftInfo": {
+          "id": "tokyo-verdy",
+          "name": "Verdy Kawasaki",
+          "country": "japan",
+          "league": "j1-league"
+        },
+        "joinInfo": {
+          "id": "fc-genua-1893",
+          "name": "Genoa CFC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1989,
+        "date": "Feb 1, 1990",
+        "season": "89/90",
+        "left": "fc-santos",
+        "join": "tokyo-verdy",
+        "note": "?",
+        "leftInfo": {
+          "id": "fc-santos",
+          "name": "Santos FC",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "tokyo-verdy",
+          "name": "Verdy Kawasaki",
+          "country": "japan",
+          "league": "j1-league"
+        }
+      },
+      {
+        "year": 1989,
+        "date": "Jan 1, 1990",
+        "season": "89/90",
+        "left": "coritiba-fc",
+        "join": "fc-santos",
+        "note": "",
+        "leftInfo": {
+          "id": "coritiba-fc",
+          "name": "Coritiba Foot Ball Club",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-santos",
+          "name": "Santos FC",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1988,
+        "date": "Jan 1, 1989",
+        "season": "88/89",
+        "left": "esporte-clube-xv-de-novembro-sp-",
+        "join": "coritiba-fc",
+        "note": "",
+        "leftInfo": {
+          "id": "esporte-clube-xv-de-novembro-sp-",
+          "name": "XV de Jaú",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "coritiba-fc",
+          "name": "Coritiba Foot Ball Club",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1987,
+        "date": "Jan 1, 1988",
+        "season": "87/88",
+        "left": "clube-de-regatas-brasil-al-",
+        "join": "esporte-clube-xv-de-novembro-sp-",
+        "note": "?",
+        "leftInfo": {
+          "id": "clube-de-regatas-brasil-al-",
+          "name": "Clube de Regatas Brasil",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "esporte-clube-xv-de-novembro-sp-",
+          "name": "XV de Jaú",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1987,
+        "date": "Jul 1, 1987",
+        "season": "87/88",
+        "left": "sociedade-esportiva-matsubara-pr-",
+        "join": "clube-de-regatas-brasil-al-",
+        "note": "?",
+        "leftInfo": {
+          "id": "sociedade-esportiva-matsubara-pr-",
+          "name": "Matsubara",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "clube-de-regatas-brasil-al-",
+          "name": "Clube de Regatas Brasil",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1986,
+        "date": "Jul 1, 1986",
+        "season": "86/87",
+        "left": "fc-santos",
+        "join": "sociedade-esportiva-matsubara-pr-",
+        "note": "?",
+        "leftInfo": {
+          "id": "fc-santos",
+          "name": "Santos FC",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "sociedade-esportiva-matsubara-pr-",
+          "name": "Matsubara",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1985,
+        "date": "Jan 1, 1986",
+        "season": "85/86",
+        "left": "clube-atletico-juventus-sp-",
+        "join": "fc-santos",
+        "note": "?",
+        "leftInfo": {
+          "id": "clube-atletico-juventus-sp-",
+          "name": "Clube Atlético Juventus",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-santos",
+          "name": "Santos FC",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      },
+      {
+        "year": 1981,
+        "date": "Jan 1, 1982",
+        "season": "81/82",
+        "left": "shizuoka-gakuen-high-school",
+        "join": "clube-atletico-juventus-sp-",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "shizuoka-gakuen-high-school",
+          "name": "Shizuoka Gakuen School",
+          "country": "japan",
+          "league": "j1-league"
+        },
+        "joinInfo": {
+          "id": "clube-atletico-juventus-sp-",
+          "name": "Clube Atlético Juventus",
+          "country": "brazil",
+          "league": "campeonato-brasileiro-serie-a"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1991,
+    "maxYear": 2017,
+    "teamsPlayed": 14,
+    "nationality": [
+      "Sweden",
+      "Bosnia-Herzegovina"
+    ],
+    "name": "Zlatan Ibrahimovic",
+    "careerLength": 27,
+    "id": "Zlatan Ibrahimovic-Oct 3, 1981",
+    "teams": [
+      {
+        "year": 2017,
+        "date": "Mar 23, 2018",
+        "season": "17/18",
+        "left": "manchester-united",
+        "join": "los-angeles-galaxy",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        },
+        "joinInfo": {
+          "id": "los-angeles-galaxy",
+          "name": "Los Angeles Galaxy",
+          "country": "united states",
+          "league": "major-league-soccer"
+        }
+      },
+      {
+        "year": 2016,
+        "date": "Jul 1, 2016",
+        "season": "16/17",
+        "left": "fc-paris-saint-germain",
+        "join": "manchester-united",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "fc-paris-saint-germain",
+          "name": "Paris Saint-Germain",
+          "country": "france",
+          "league": "ligue-1"
+        },
+        "joinInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 2012,
+        "date": "Jul 18, 2012",
+        "season": "12/13",
+        "left": "ac-mailand",
+        "join": "fc-paris-saint-germain",
+        "note": "£18.90m",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-paris-saint-germain",
+          "name": "Paris Saint-Germain",
+          "country": "france",
+          "league": "ligue-1"
+        }
+      },
+      {
+        "year": 2011,
+        "date": "Jul 1, 2011",
+        "season": "11/12",
+        "left": "fc-barcelona",
+        "join": "ac-mailand",
+        "note": "£21.60m",
+        "leftInfo": {
+          "id": "fc-barcelona",
+          "name": "FC Barcelona",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2010,
+        "date": "Jun 30, 2011",
+        "season": "10/11",
+        "left": "ac-mailand",
+        "join": "fc-barcelona",
+        "note": "End of loan",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-barcelona",
+          "name": "FC Barcelona",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2010,
+        "date": "Aug 28, 2010",
+        "season": "10/11",
+        "left": "fc-barcelona",
+        "join": "ac-mailand",
+        "note": "Loan fee:£5.40m",
+        "leftInfo": {
+          "id": "fc-barcelona",
+          "name": "FC Barcelona",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2009,
+        "date": "Jul 27, 2009",
+        "season": "09/10",
+        "left": "inter-mailand",
+        "join": "fc-barcelona",
+        "note": "£62.55m",
+        "leftInfo": {
+          "id": "inter-mailand",
+          "name": "FC Internazionale",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-barcelona",
+          "name": "FC Barcelona",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 2006,
+        "date": "Aug 10, 2006",
+        "season": "06/07",
+        "left": "juventus-turin",
+        "join": "inter-mailand",
+        "note": "£22.32m",
+        "leftInfo": {
+          "id": "juventus-turin",
+          "name": "Juventus FC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "inter-mailand",
+          "name": "FC Internazionale",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2004,
+        "date": "Aug 31, 2004",
+        "season": "04/05",
+        "left": "ajax-amsterdam",
+        "join": "juventus-turin",
+        "note": "£14.40m",
+        "leftInfo": {
+          "id": "ajax-amsterdam",
+          "name": "Ajax Amsterdam",
+          "country": "netherlands",
+          "league": "eredivisie"
+        },
+        "joinInfo": {
+          "id": "juventus-turin",
+          "name": "Juventus FC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2001,
+        "date": "Jul 1, 2001",
+        "season": "01/02",
+        "left": "malmo-ff",
+        "join": "ajax-amsterdam",
+        "note": "£7.02m",
+        "leftInfo": {
+          "id": "malmo-ff",
+          "name": "Malmö FF",
+          "country": "sweden",
+          "league": "allsvenskan"
+        },
+        "joinInfo": {
+          "id": "ajax-amsterdam",
+          "name": "Ajax Amsterdam",
+          "country": "netherlands",
+          "league": "eredivisie"
+        }
+      },
+      {
+        "year": 1998,
+        "date": "Jan 1, 1999",
+        "season": "98/99",
+        "left": "malmo-ff-u19",
+        "join": "malmo-ff",
+        "note": "-",
+        "leftInfo": {
+          "id": "malmo-ff-u19",
+          "name": "Malmö FF U19",
+          "country": "sweden"
+        },
+        "joinInfo": {
+          "id": "malmo-ff",
+          "name": "Malmö FF",
+          "country": "sweden",
+          "league": "allsvenskan"
+        }
+      },
+      {
+        "year": 1997,
+        "date": "Jan 1, 1998",
+        "season": "97/98",
+        "left": "malmo-ff-u17",
+        "join": "malmo-ff-u19",
+        "note": "-",
+        "leftInfo": {
+          "id": "malmo-ff-u17",
+          "name": "Malmö FF U17",
+          "country": "sweden"
+        },
+        "joinInfo": {
+          "id": "malmo-ff-u19",
+          "name": "Malmö FF U19",
+          "country": "sweden"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Jul 1, 1995",
+        "season": "95/96",
+        "left": "fbk-balkan",
+        "join": "malmo-ff-u17",
+        "note": "?",
+        "leftInfo": {
+          "id": "fbk-balkan",
+          "name": "FBK Balkan",
+          "country": "sweden"
+        },
+        "joinInfo": {
+          "id": "malmo-ff-u17",
+          "name": "Malmö FF U17",
+          "country": "sweden"
+        }
+      },
+      {
+        "year": 1991,
+        "date": "Jul 1, 1991",
+        "season": "91/92",
+        "left": "malmo-abi",
+        "join": "fbk-balkan",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "malmo-abi",
+          "name": "Malmö ABI",
+          "country": "sweden"
+        },
+        "joinInfo": {
+          "id": "fbk-balkan",
+          "name": "FBK Balkan",
+          "country": "sweden"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1976,
+    "maxYear": 1997,
+    "teamsPlayed": 10,
+    "nationality": [
+      "Argentina"
+    ],
+    "name": "Diego Maradona",
+    "careerLength": 22,
+    "id": "Diego Maradona-Oct 30, 1960",
+    "teams": [
+      {
+        "year": 1997,
+        "date": "Jul 1, 1997",
+        "season": "97/98",
+        "left": "club-atletico-boca-juniors",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "club-atletico-boca-juniors",
+          "name": "Club Atlético Boca Juniors",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Jul 1, 1995",
+        "season": "95/96",
+        "left": "vereinslos",
+        "join": "club-atletico-boca-juniors",
+        "note": "-",
+        "joinInfo": {
+          "id": "club-atletico-boca-juniors",
+          "name": "Club Atlético Boca Juniors",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1993,
+        "date": "Jan 1, 1994",
+        "season": "93/94",
+        "left": "club-atletico-newells-old-boys",
+        "join": "vereinslos",
+        "note": "-",
+        "leftInfo": {
+          "id": "club-atletico-newells-old-boys",
+          "name": "Club Atlético Newell's Old Boys",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1993,
+        "date": "Jul 1, 1993",
+        "season": "93/94",
+        "left": "fc-sevilla",
+        "join": "club-atletico-newells-old-boys",
+        "note": "?",
+        "leftInfo": {
+          "id": "fc-sevilla",
+          "name": "Sevilla FC",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "club-atletico-newells-old-boys",
+          "name": "Club Atlético Newell's Old Boys",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1992,
+        "date": "Sep 22, 1992",
+        "season": "92/93",
+        "left": "vereinslos",
+        "join": "fc-sevilla",
+        "note": "-",
+        "joinInfo": {
+          "id": "fc-sevilla",
+          "name": "Sevilla FC",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 1990,
+        "date": "Mar 25, 1991",
+        "season": "90/91",
+        "left": "ssc-neapel",
+        "join": "vereinslos",
+        "note": "-",
+        "leftInfo": {
+          "id": "ssc-neapel",
+          "name": "AC Napoli",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1984,
+        "date": "Jul 1, 1984",
+        "season": "84/85",
+        "left": "fc-barcelona",
+        "join": "ssc-neapel",
+        "note": "£11.70m",
+        "leftInfo": {
+          "id": "fc-barcelona",
+          "name": "FC Barcelona",
+          "country": "spain",
+          "league": "laliga"
+        },
+        "joinInfo": {
+          "id": "ssc-neapel",
+          "name": "AC Napoli",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1982,
+        "date": "Jul 1, 1982",
+        "season": "82/83",
+        "left": "club-atletico-boca-juniors",
+        "join": "fc-barcelona",
+        "note": "£7.20m",
+        "leftInfo": {
+          "id": "club-atletico-boca-juniors",
+          "name": "Club Atlético Boca Juniors",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "fc-barcelona",
+          "name": "FC Barcelona",
+          "country": "spain",
+          "league": "laliga"
+        }
+      },
+      {
+        "year": 1981,
+        "date": "Jul 1, 1981",
+        "season": "81/82",
+        "left": "argentinos-juniors",
+        "join": "club-atletico-boca-juniors",
+        "note": "£1.13m",
+        "leftInfo": {
+          "id": "argentinos-juniors",
+          "name": "Asociación Atlética Argentinos Juniors",
+          "country": "argentina",
+          "league": "primera-division"
+        },
+        "joinInfo": {
+          "id": "club-atletico-boca-juniors",
+          "name": "Club Atlético Boca Juniors",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      },
+      {
+        "year": 1976,
+        "date": "Oct 1, 1976",
+        "season": "76/77",
+        "left": "argentinos-juniors-u20",
+        "join": "argentinos-juniors",
+        "note": "-",
+        "leftInfo": {
+          "id": "argentinos-juniors-u20",
+          "name": "Asociación Atlética Argentinos Juniors U20",
+          "country": "argentina"
+        },
+        "joinInfo": {
+          "id": "argentinos-juniors",
+          "name": "Asociación Atlética Argentinos Juniors",
+          "country": "argentina",
+          "league": "primera-division"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1982,
+    "maxYear": 2004,
+    "teamsPlayed": 8,
+    "nationality": [
+      "Italy"
+    ],
+    "name": "Roberto Baggio",
+    "careerLength": 23,
+    "id": "Roberto Baggio-Feb 18, 1967",
+    "teams": [
+      {
+        "year": 2004,
+        "date": "Jul 1, 2004",
+        "season": "04/05",
+        "left": "brescia-calcio",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "brescia-calcio",
+          "name": "AC Brescia",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 2000,
+        "date": "Jul 1, 2000",
+        "season": "00/01",
+        "left": "inter-mailand",
+        "join": "brescia-calcio",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "inter-mailand",
+          "name": "FC Internazionale",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "brescia-calcio",
+          "name": "AC Brescia",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1998,
+        "date": "Jul 1, 1998",
+        "season": "98/99",
+        "left": "fc-bologna",
+        "join": "inter-mailand",
+        "note": "£2.25m",
+        "leftInfo": {
+          "id": "fc-bologna",
+          "name": "Bologna FC 1909",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "inter-mailand",
+          "name": "FC Internazionale",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1997,
+        "date": "Jul 1, 1997",
+        "season": "97/98",
+        "left": "ac-mailand",
+        "join": "fc-bologna",
+        "note": "Free Transfer",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "fc-bologna",
+          "name": "Bologna FC 1909",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1995,
+        "date": "Jul 1, 1995",
+        "season": "95/96",
+        "left": "juventus-turin",
+        "join": "ac-mailand",
+        "note": "£6.75m",
+        "leftInfo": {
+          "id": "juventus-turin",
+          "name": "Juventus FC",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1990,
+        "date": "Jul 1, 1990",
+        "season": "90/91",
+        "left": "ac-florenz",
+        "join": "juventus-turin",
+        "note": "£6.98m",
+        "leftInfo": {
+          "id": "ac-florenz",
+          "name": "AC Fiorentina",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "juventus-turin",
+          "name": "Juventus FC",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1985,
+        "date": "Jul 1, 1985",
+        "season": "85/86",
+        "left": "vicenza-calcio",
+        "join": "ac-florenz",
+        "note": "£1.13m",
+        "leftInfo": {
+          "id": "vicenza-calcio",
+          "name": "AC Vicenza",
+          "country": "italy",
+          "league": "serie-a"
+        },
+        "joinInfo": {
+          "id": "ac-florenz",
+          "name": "AC Fiorentina",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1982,
+        "date": "Jul 1, 1982",
+        "season": "82/83",
+        "left": "vicenza-berretti",
+        "join": "vicenza-calcio",
+        "note": "-",
+        "leftInfo": {
+          "id": "vicenza-berretti",
+          "name": "Vicenza Berretti",
+          "country": "italy"
+        },
+        "joinInfo": {
+          "id": "vicenza-calcio",
+          "name": "AC Vicenza",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1987,
+    "maxYear": 2014,
+    "teamsPlayed": 4,
+    "nationality": [
+      "Wales",
+      "England"
+    ],
+    "name": "Ryan Giggs",
+    "careerLength": 28,
+    "id": "Ryan Giggs-Nov 29, 1973",
+    "teams": [
+      {
+        "year": 2014,
+        "date": "Jul 1, 2014",
+        "season": "14/15",
+        "left": "manchester-united",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1991,
+        "date": "Jul 1, 1991",
+        "season": "91/92",
+        "left": "manchester-united-u18",
+        "join": "manchester-united",
+        "note": "-",
+        "leftInfo": {
+          "id": "manchester-united-u18",
+          "name": "Manchester United U18",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "manchester-united",
+          "name": "Manchester United",
+          "country": "england",
+          "league": "premier-league"
+        }
+      },
+      {
+        "year": 1989,
+        "date": "Jul 1, 1989",
+        "season": "89/90",
+        "left": "manchester-united-jugend",
+        "join": "manchester-united-u18",
+        "note": "-",
+        "leftInfo": {
+          "id": "manchester-united-jugend",
+          "name": "Manchester United Youth",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "manchester-united-u18",
+          "name": "Manchester United U18",
+          "country": "england"
+        }
+      },
+      {
+        "year": 1987,
+        "date": "Nov 29, 1987",
+        "season": "87/88",
+        "left": "manchester-city-jugend",
+        "join": "manchester-united-jugend",
+        "note": "?",
+        "leftInfo": {
+          "id": "manchester-city-jugend",
+          "name": "Manchester City Youth",
+          "country": "england"
+        },
+        "joinInfo": {
+          "id": "manchester-united-jugend",
+          "name": "Manchester United Youth",
+          "country": "england"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1984,
+    "maxYear": 2009,
+    "teamsPlayed": 3,
+    "nationality": [
+      "Italy"
+    ],
+    "name": "Paolo Maldini",
+    "careerLength": 26,
+    "id": "Paolo Maldini-Jun 26, 1968",
+    "teams": [
+      {
+        "year": 2009,
+        "date": "Jul 1, 2009",
+        "season": "09/10",
+        "left": "ac-mailand",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1985,
+        "date": "Jul 1, 1985",
+        "season": "85/86",
+        "left": "ac-mailand-primavera",
+        "join": "ac-mailand",
+        "note": "-",
+        "leftInfo": {
+          "id": "ac-mailand-primavera",
+          "name": "Milan Primavera",
+          "country": "italy"
+        },
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1984,
+        "date": "Jul 1, 1984",
+        "season": "84/85",
+        "left": null,
+        "join": "ac-mailand",
+        "note": "-",
+        "joinInfo": {
+          "id": "ac-mailand",
+          "name": "AC Milan",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      }
+    ]
+  },
+  {
+    "minYear": 1992,
+    "maxYear": 2017,
+    "teamsPlayed": 2,
+    "nationality": [
+      "Italy"
+    ],
+    "name": "Francesco Totti",
+    "careerLength": 26,
+    "id": "Francesco Totti-Sep 27, 1976",
+    "teams": [
+      {
+        "year": 2017,
+        "date": "Jul 1, 2017",
+        "season": "17/18",
+        "left": "as-rom",
+        "join": "karriereende",
+        "note": "-",
+        "leftInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      },
+      {
+        "year": 1992,
+        "date": "Jan 1, 1993",
+        "season": "92/93",
+        "left": "as-rom-primavera",
+        "join": "as-rom",
+        "note": "-",
+        "leftInfo": {
+          "id": "as-rom-primavera",
+          "name": "Roma Primavera",
+          "country": "italy"
+        },
+        "joinInfo": {
+          "id": "as-rom",
+          "name": "AS Roma",
+          "country": "italy",
+          "league": "serie-a"
+        }
+      }
+    ]
+  }
+]

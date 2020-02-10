@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Robert",
+    "teams": 31,
+    "nationalities": [
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Sebastián Abreu",
+    "teams": 27,
+    "nationalities": [
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Túlio Maravilha",
+    "teams": 26,
+    "nationalities": [
+      "Brazil"
+    ]
+  },
+  {
+    "name": "John Burridge",
+    "teams": 26,
+    "nationalities": [
+      "England"
+    ]
+  },
+  {
+    "name": "Finazzi",
+    "teams": 25,
+    "nationalities": [
+      "Brazil",
+      "Italy"
+    ]
+  },
+  {
+    "name": "Mikhail Zubchuk",
+    "teams": 25,
+    "nationalities": [
+      "Russia"
+    ]
+  },
+  {
+    "name": "Lorenzo Battaglia",
+    "teams": 25,
+    "nationalities": [
+      "Italy"
+    ]
+  },
+  {
+    "name": "Schwenck",
+    "teams": 25,
+    "nationalities": [
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Sossio Aruta",
+    "teams": 24,
+    "nationalities": [
+      "Italy"
+    ]
+  },
+  {
+    "name": "Senad Tiganj",
+    "teams": 24,
+    "nationalities": [
+      "Slovenia"
+    ]
+  },
+  {
+    "name": "Marcelinho Paraíba",
+    "teams": 23,
+    "nationalities": [
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Alexandro",
+    "teams": 23,
+    "nationalities": [
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Richard Pacquette",
+    "teams": 23,
+    "nationalities": [
+      "Dominica",
+      "England"
+    ]
+  },
+  {
+    "name": "Julio de León",
+    "teams": 22,
+    "nationalities": [
+      "Honduras"
+    ]
+  },
+  {
+    "name": "Horacio Peralta",
+    "teams": 22,
+    "nationalities": [
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Massimiliano Fanesi",
+    "teams": 22,
+    "nationalities": [
+      "Italy"
+    ]
+  },
+  {
+    "name": "Amir Bradaric",
+    "teams": 22,
+    "nationalities": [
+      "Austria"
+    ]
+  },
+  {
+    "name": "Anselmo",
+    "teams": 21,
+    "nationalities": [
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Miodrag Andjelkovic",
+    "teams": 21,
+    "nationalities": [
+      "Serbia",
+      "Kosovo"
+    ]
+  },
+  {
+    "name": "David Diah",
+    "teams": 18,
+    "nationalities": [
+      "Costa Rica"
+    ]
+  }
+]

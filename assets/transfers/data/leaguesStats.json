@@ -1,0 +1,142 @@
+[
+  {
+    "max": 20,
+    "avg": 2.922344225426644,
+    "index": 3779,
+    "league": "1-bundesliga",
+    "median": 2,
+    "country": "Germany",
+    "leagueName": "1.Bundesliga",
+    "players": 7437
+  },
+  {
+    "max": 20,
+    "avg": 2.9110101549973275,
+    "index": 1871,
+    "league": "bundesliga",
+    "median": 2,
+    "country": "Austria",
+    "leagueName": "Bundesliga",
+    "players": 4235
+  },
+  {
+    "max": 24,
+    "avg": 2.895240901723884,
+    "index": 3393,
+    "league": "premier-league",
+    "median": 5,
+    "country": "England",
+    "leagueName": "Premier League",
+    "players": 7054
+  },
+  {
+    "max": 18,
+    "avg": 2.801484230055659,
+    "index": 4312,
+    "league": "laliga",
+    "median": 2,
+    "country": "Spain",
+    "leagueName": "LaLiga",
+    "players": 7609
+  },
+  {
+    "max": 24,
+    "avg": 2.776750142287991,
+    "index": 3514,
+    "league": "eredivisie",
+    "median": 2,
+    "country": "Netherlands",
+    "leagueName": "Eredivisie",
+    "players": 6629
+  },
+  {
+    "max": 19,
+    "avg": 2.65149921094161,
+    "index": 3802,
+    "league": "ligue-1",
+    "median": 5,
+    "country": "France",
+    "leagueName": "Ligue 1",
+    "players": 6320
+  },
+  {
+    "max": 14,
+    "avg": 2.464968152866242,
+    "index": 1962,
+    "league": "primera-division",
+    "median": 6,
+    "country": "Argentina",
+    "leagueName": "Primera División",
+    "players": 3846
+  },
+  {
+    "max": 18,
+    "avg": 2.438320209973753,
+    "index": 2095,
+    "league": "jupiler-pro-league",
+    "median": 1,
+    "country": "Belgium",
+    "leagueName": "Jupiler Pro League",
+    "players": 4647
+  },
+  {
+    "max": 23,
+    "avg": 2.423958669680336,
+    "index": 4645,
+    "league": "premier-liga",
+    "median": 2,
+    "country": "Russia",
+    "leagueName": "Premier Liga",
+    "players": 7846
+  },
+  {
+    "max": 20,
+    "avg": 2.4182845040593013,
+    "index": 4249,
+    "league": "super-league",
+    "median": 1,
+    "country": "Greece",
+    "leagueName": "Super League",
+    "players": 9283
+  },
+  {
+    "max": 19,
+    "avg": 2.377237641648875,
+    "index": 3044,
+    "league": "super-lig",
+    "median": 6,
+    "country": "Turkey",
+    "leagueName": "Süper Lig",
+    "players": 5271
+  },
+  {
+    "max": 25,
+    "avg": 2.3109256683665587,
+    "index": 6471,
+    "league": "serie-a",
+    "median": 1,
+    "country": "Italy",
+    "leagueName": "Serie A",
+    "players": 10122
+  },
+  {
+    "max": 17,
+    "avg": 2.2991021324354657,
+    "index": 1782,
+    "league": "ligue-professionnelle-1",
+    "median": 2,
+    "country": "Algeria",
+    "leagueName": "Ligue Professionnelle 1",
+    "players": 4249
+  },
+  {
+    "max": 14,
+    "avg": 1.9933774834437086,
+    "index": 2189,
+    "league": "campeonato-brasileiro-serie-a",
+    "median": 1,
+    "country": "Brazil",
+    "leagueName": "Campeonato Brasileiro Série A",
+    "players": 4170
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "team": "athletic-bilbao",
+    "players": 339,
+    "avg": 5.519354838709678,
+    "max": 21,
+    "name": "Athletic Bilbao",
+    "country": "spain",
+    "league": "laliga"
+  },
+  {
+    "team": "real-sociedad-san-sebastian",
+    "players": 335,
+    "avg": 5.00711743772242,
+    "max": 17,
+    "name": "Real Sociedad",
+    "country": "spain",
+    "league": "laliga"
+  },
+  {
+    "team": "fc-volendam",
+    "players": 340,
+    "avg": 4.721311475409836,
+    "max": 22,
+    "name": "RKSV Volendam",
+    "country": "netherlands",
+    "league": "eredivisie"
+  },
+  {
+    "team": "real-madrid",
+    "players": 505,
+    "avg": 4.685393258426966,
+    "max": 19,
+    "name": "Real Madrid",
+    "country": "spain",
+    "league": "laliga"
+  },
+  {
+    "team": "fc-barcelona",
+    "players": 473,
+    "avg": 4.457142857142857,
+    "max": 18,
+    "name": "FC Barcelona",
+    "country": "spain",
+    "league": "laliga"
+  },
+  {
+    "team": "sporting-gijon",
+    "players": 331,
+    "avg": 4.42910447761194,
+    "max": 19,
+    "name": "Sporting Gijón",
+    "country": "spain",
+    "league": "laliga"
+  },
+  {
+    "team": "eintracht-braunschweig",
+    "players": 314,
+    "avg": 4.425531914893617,
+    "max": 20,
+    "name": "Eintracht Braunschweig",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "dynamo-kiew",
+    "players": 461,
+    "avg": 4.374005305039788,
+    "max": 24,
+    "name": "Dynamo Kyiv",
+    "country": "ukraine",
+    "league": "premier-liga"
+  },
+  {
+    "team": "fc-bayern-munchen",
+    "players": 460,
+    "avg": 4.356643356643357,
+    "max": 21,
+    "name": "Bayern Munich",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "sv-werder-bremen",
+    "players": 548,
+    "avg": 4.3128834355828225,
+    "max": 18,
+    "name": "SV Werder Bremen",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "manchester-united",
+    "players": 650,
+    "avg": 4.303370786516854,
+    "max": 24,
+    "name": "Manchester United",
+    "country": "england",
+    "league": "premier-league"
+  },
+  {
+    "team": "borussia-dortmund",
+    "players": 501,
+    "avg": 4.248421052631579,
+    "max": 20,
+    "name": "Borussia Dortmund",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "borussia-monchengladbach",
+    "players": 534,
+    "avg": 4.238193018480493,
+    "max": 23,
+    "name": "Borussia Mönchengladbach",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "fc-nantes",
+    "players": 484,
+    "avg": 4.140776699029126,
+    "max": 19,
+    "name": "FC Nantes",
+    "country": "france",
+    "league": "ligue-1"
+  },
+  {
+    "team": "aj-auxerre",
+    "players": 380,
+    "avg": 4.11377245508982,
+    "max": 15,
+    "name": "AJ Auxerre",
+    "country": "france",
+    "league": "ligue-1"
+  },
+  {
+    "team": "vfb-stuttgart",
+    "players": 536,
+    "avg": 4.090336134453781,
+    "max": 19,
+    "name": "VfB Stuttgart",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "fc-everton",
+    "players": 574,
+    "avg": 4.0798226164079825,
+    "max": 17,
+    "name": "Everton FC",
+    "country": "england",
+    "league": "premier-league"
+  },
+  {
+    "team": "fc-arsenal",
+    "players": 590,
+    "avg": 4.066265060240964,
+    "max": 20,
+    "name": "Arsenal FC",
+    "country": "england",
+    "league": "premier-league"
+  },
+  {
+    "team": "eintracht-frankfurt",
+    "players": 584,
+    "avg": 4.054794520547945,
+    "max": 22,
+    "name": "Eintracht Frankfurt",
+    "country": "germany",
+    "league": "1-bundesliga"
+  },
+  {
+    "team": "vfl-bochum",
+    "players": 437,
+    "avg": 4.015503875968992,
+    "max": 17,
+    "name": "VfL Bochum",
+    "country": "germany",
+    "league": "1-bundesliga"
+  }
+]

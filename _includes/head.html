@@ -1,0 +1,98 @@
+{% assign headerPosts = site.categories.miserie | concat: site.categories.essays %}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	{% assign siteTitle = site.title %}
+
+  {% if page.title != null %}
+    {% capture title %}{{ page.title }}{% endcapture %}
+  {% endif %}
+
+	{% if page.postTitle != null %}
+		{% capture title %}{{ page.postTitle }}{% endcapture %}
+		{% if page.player_short != null %}
+			{% capture title %}{{ page.player_short }}{% endcapture %}
+		{% endif %}
+	{% endif %}
+  {% if title %}
+    <title>{{title}} - {{siteTitle}}</title>
+  {% else %}
+    <title>{{siteTitle}}</title>
+  {% endif %}
+	{% assign description = site.long_description %}
+	{% if page.excerpt != null %}
+		{% capture description %}{{ page.excerpt | remove: '<p>' | remove: '</p>' | remove: '<br/>' | remove: '<br />' }}{% endcapture %}
+	{% endif %}
+	<meta name="description" content="{{description | strip_html}}">
+
+    {% include css.html %}
+  <meta property="og:url" content="{{site.url}}{{ page.url }}"/>
+	<meta property="og:description" content="{{description | strip_html}}"/>
+	{% if page.pid != null %}
+    {% if page.category == "figurine" %}
+      <meta property="og:image" content="{{site.url}}/assets/pics/stickers/{{ page.pid }}.jpg"/>
+    {% else %}
+      <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ page.pid }}.jpg"/>
+    {% endif %}
+
+  {% else %}
+    {% for post in headerPosts limit:1 %}
+    <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ post.pid }}.jpg"/>
+    {% endfor %}
+	{% endif %}
+	<meta property="article:publisher" content="futbolismo.it"/>
+	<meta property="og:type" content="article"/>
+	<meta property="article:section" content="Sport"/>
+	{% assign time = site.time %}
+	{% if page.date != null %}
+		{% assign time = page.date %}
+	{% endif %}
+	<meta property="article:published_time" content="{{ time | date_to_xmlschema }}"/>
+	<meta property="og:title" content="{{title}}"/>
+	<meta property="og:site_name" content="Futbolismo.it"/>
+  <meta name="author" content="Futbolismo.it" />
+	<meta name="twitter:site" content="@ftblsm"/>
+	<meta name="twitter:card" content="summary"/>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-364839-39"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-364839-39');
+</script>
+{% if page.timeline %}
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+{% endif %}
+
+
+    <style>
+    	{% if (page.pid and page.teamheader_data == blank) %}
+	    .jumbotron {
+				background-image: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg);
+			}
+
+			.jumbotron .main-bg {
+				background-image: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg);
+        {% if (page.header_mobile) %}
+        background-position: {{ page.header_mobile }} center;
+        {% endif %}
+			}
+		{% else %}
+      {% for post in headerPosts limit:1 %}
+			.jumbotron {
+				background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
+			    background-size: 100% 100%;
+			}
+			.jumbotron .main-bg {
+				background: url({{site.baseurl}}/assets/pics/header/{{ post.pid }}.jpg) no-repeat center center;
+			    background-size: auto 100%;
+			}
+      {% endfor %}
+		{% endif %}
+    </style>
+
+
+</head>

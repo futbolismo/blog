@@ -1,0 +1,28 @@
+{% assign title = page.postTitle %}
+{% assign titleFB = page.postTitle %}
+{% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% if page.player_short != null %}
+	{% capture titleFB %}{{ page.player_short }}{% endcapture %}
+{% endif %}
+{% if title == null %}
+	{% capture title %}{{ page.title }}{% endcapture %}
+{% endif %}
+{% if page.description != null %}
+	{% capture description %}{{ page.description }}{% endcapture %}
+{% endif %}
+
+{{slug}}
+<ul class="list-unstyled">
+
+    <li>
+	{% if page.layout == "page" %}
+    <a class="twitter_link" href="https://twitter.com/intent/tweet?text=Futbolismo%20-%20{{title}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags={{page.hashtags}}" title="Condividi via Twitter" target="_blank">
+    {% else %}
+    <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}%20-%20{{description | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags={{page.hashtags}}" title="Condividi via Twitter" target="_blank">
+	{% endif %}
+    <i class="icon-twitter"></i> <span class="hidden-xs hidden-ms">Twitter</span></a></li>
+    <li><a href="https://www.facebook.com/sharer/sharer.php?t={{titleFB}}&u={{site.url}}{{ page.url }}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Condividi su Facebook"></i> <span class="hidden-xs hidden-ms">Facebook</span></a></li>
+	{% if page.instagram != null %}
+		<li><a href="https://www.instagram.com/p/{{page.instagram}}/" target="_blank" title="Vedi su Instagram"><i class="icon-instagram" title="Vedi su Instagram"></i> <span class="hidden-xs hidden-ms">Instagram</span></a></li>
+	{% endif %}
+</ul>

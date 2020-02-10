@@ -1,0 +1,59 @@
+<footer>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="hidden-sm hidden-ms col-md-3 col-md-offset-1">
+                    <h4>F&uacute;tbolismo</h4>
+                    <p>
+                        &Egrave; un progetto nato dalla passione per il calcio raccontato attraverso storie, fatti e grafici. &Egrave; un ritorno romantico al calcio dell'infanzia con una lettura più matura e critica dei personaggi e degli avvenimenti politici, culturali e storici.
+                    </p>
+                </div>
+                <div class="col-ms-3 col-sm-4 col-md-2 col-md-offset-1">
+                    <h4>Argomenti</h4>
+                    <ul class="">
+                        <li><a href="{{site.baseurl}}/miserie-e-splendori/">Splendori e Miserie</a></li>
+                        <!-- <li><a href="#">Dati e Grafici</a></li> -->
+                        <li><a href="{{site.baseurl}}/figurine-parlanti/">Figurine parlanti</a></li>
+                        <li><a href="{{site.baseurl}}/non-tutti-sanno-che/">Non tutti sanno che</a></li>
+                    </ul>
+                </div>
+                <div class="col-ms-3 col-sm-4 col-md-2">
+                    <h4>F&uacute;tbolismo</h4>
+                    <ul class="">
+                        <li><a href="{{site.baseurl}}/il-progetto/">Il progetto</a></li>
+                        <li><a href="{{site.baseurl}}/chi-siamo/">Chi siamo</a></li>
+                        <li><a href="{{site.baseurl}}/contatti/">Contatti</a></li>
+                        <!--<li><a href="#">Help</a></li>-->
+                    </ul>
+                </div>
+                <div class="col-ms-6 col-sm-4 col-md-3">
+                    <h4>Ultimi articoli</h4>
+                    <ul class="">
+                        {% for post in site.posts offset: 0 limit: 4 %}
+                            <li><a href="{{site.baseurl}}{{post.url}}">{%if post.postTitle and post.postTitle != "" and post.postTitle != nil %}
+                              {{post.postTitle}}
+                            {% else %}
+                              {{post.player}}
+                            {% endif %}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <hr/>
+            <div class="logo-footer text-center">
+                <h4>F&uacute;tbolismo</h4>
+                Storie e Grafici del Calcio
+            </div>
+            {% capture title %}{{ site.title }} - {{ site.description }}{% endcapture %}
+            <div class="social text-center">
+                <a class="twitter_link" href="https://twitter.com/ftblsm" title="Futbolismo su Twitter" target="_blank"><i class="icon-twitter" title="Futbolismo su Twitter"></i></a>
+                <a href="https://www.facebook.com/ftblsm" target="_blank" title="Futbolismo su Facebook"><i class="icon-facebook" title="Futbolismo su Facebook"></i></a>
+                <a href="https://www.instagram.com/futbolismo_it/" target="_blank" title="Futbolismo su Instagram"><i class="icon-instagram" title="Futbolismo su Instagram"></i></a>
+            </div>
+            <div class="disclaimer text-center">
+              <small>© 2018-19 Francesco Mistrulli, Carlo Zapponi - <a href="{{site.baseurl}}/privacy/">Informativa sulla privacy e termini del servizio</a>.</small>
+            </div>
+        </div>
+
+    </div>
+</footer>
