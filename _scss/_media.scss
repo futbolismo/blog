@@ -430,6 +430,14 @@
 		border-top:none;
 		border-bottom:1px solid #ddd;
 
+		&.language-info {
+			border-bottom: none;
+
+			h5 {
+				white-space: nowrap;
+			}
+		}
+
 		h5 {
 			line-height: 1.8rem;
 

@@ -39,7 +39,7 @@
     {% for post in headerPosts limit:1 %}
       <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ post.pid }}.jpg"/>
     {% if post.header == 'video' %}
-      <meta property="og:video" content="{{site.url}}/assets/videos/{{ post.pid }}/header.mp4"/>    
+      <meta property="og:video" content="{{site.url}}/assets/videos/{{ post.pid }}/header.mp4"/>
     {% endif %}
 
     {% endfor %}
