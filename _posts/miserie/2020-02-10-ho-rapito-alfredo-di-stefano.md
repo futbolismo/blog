@@ -19,7 +19,7 @@ category: miserie
 timeline: 1
 timeline_data: distefano
 
-english_version: the-alfredo-di-Stefano-affair
+english_version: the-alfredo-di-stefano-affair
 
 dialog: left5
 
