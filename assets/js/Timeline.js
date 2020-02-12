@@ -43,7 +43,7 @@ function Timeline(options) {
 	})
 
 	var WIDTH = 195,
-		HEIGHT = options.height || 1000,
+		HEIGHT = options.height || 1100,
 		margin = {
 			top:10,
 			bottom:10,
@@ -201,17 +201,21 @@ function Timeline(options) {
 						return "translate(" + 0 + "," + y + ")";
 					})
 					.on("mouseover", function(d) {
-						tooltip.update(d.text, 0, d.y1);
+						if(d.text) {
+							tooltip.update(d.text, 0, d.y1);
+						}
 					})
 					.on("mouseout", function(d) {
 						tooltip.hide();
 					})
 					.on("touchstart", function(d) {
-						d3.event.preventDefault();
-						d3.event.stopPropagation();
-						tooltip.update(d.text, 0, d.y1);
-						timeline.selectAll(".hover").classed("hover", false);
-						d3.select(this).classed("hover", true);
+						if(d.text) {
+							d3.event.preventDefault();
+							d3.event.stopPropagation();
+							tooltip.update(d.text, 0, d.y1);
+							timeline.selectAll(".hover").classed("hover", false);
+							d3.select(this).classed("hover", true);
+						}
 					})
 					.on("touchend", function(d) {
 						d3.event.preventDefault();
@@ -303,7 +307,9 @@ function Timeline(options) {
 							x -= BAR_WIDTH + SQUARE_WIDTH * 3;
 
 						}
-						tooltip.update(d.text, x, y);
+						if(d.text) {
+							tooltip.update(d.text, x, y);
+						}
 					})
 					.on("mouseout", function(d) {
 						tooltip.hide();
@@ -508,7 +514,7 @@ function Timeline(options) {
 		})
 		.text(function(d) {
 			if(options.howto) {
-				return "ANNO";
+				return options.howto;
 			}
 			return d.ts1.getFullYear();
 		})

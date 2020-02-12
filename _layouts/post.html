@@ -1,5 +1,11 @@
+{% assign available_miserie = site.categories.miserie | where_exp: "post", "post.lang != 'en'" %}
+{% if page.lang != null %}
+	{% capture lang %}{{page.lang}}{% endcapture %}
+{% else %}
+	{% capture lang %}it{% endcapture %}
+{% endif %}
 <!DOCTYPE html>
-<html lang="en" class="{{page.category}}">
+<html lang="{{lang}}" class="{{page.category}}">
 
 	{% include head.html %}
 
@@ -44,18 +50,43 @@
         <div class="col-xs-12 col-sm-2">
             <div class="row post-info">
                 <div class="col-xs-12">
-                    <h5>di {{page.author}}</h5>
-                    <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
-										<h5>
-										{% assign m = page.date | date: "%-m" | minus: 1 %}
-										{{ site.data.it.months[m] }}
-										{{ page.date | date: "%Y" }}
-										</h5>
+										{%if page.lang == nil %}
+	                    <h5>di {{page.author}}</h5>
+	                    <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
+											<h5>
+											{% assign m = page.date | date: "%-m" | minus: 1 %}
+											{{ site.data.it.months[m] }}
+											{{ page.date | date: "%Y" }}
+											</h5>
+										{% endif %}
+										{%if page.lang == 'en' %}
+	                    <h5>by {{page.author}}</h5>
+	                    <h5><a href="{{site.baseurl}}/{% if page.category == 'miserie' %}miserie-e-splendori{%endif%}{% if page.category == 'figurine' %}figurine-parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}non-tutti-sanno-che{%endif%}">{% if page.category == 'miserie' %}Miserie e Splendori{%endif%}{% if page.category == 'figurine' %}Figurine Parlanti{%endif%}{% if page.category == 'non-tutti-sanno-che' %}Non tutti sanno che{%endif%}</a></h5>
+											<h5>
+											{% assign m = page.date | date: "%-m" | minus: 1 %}
+											{{ site.data.en.months[m] }}
+											{{ page.date | date: "%Y" }}
+											</h5>
+										{% endif %}
                 </div>
                 <div class="col-xs-12 social">
                     {% include social.html %}
                 </div>
             </div>
+						{%if page.english_version != nil %}
+							<div class="row post-info language-info">
+								<div class="col-xs-12">
+									<h5><a href="{{site.baseurl}}/{{page.english_version}}" title="English version">Leggi in inglese</a> 🇬🇧</h5>
+								</div>
+							</div>
+						{% endif %}
+						{%if page.italian_version != nil %}
+							<div class="row post-info language-info">
+								<div class="col-xs-12">
+									<h5><a href="{{site.baseurl}}/{{page.italian_version}}" title="Versione in italiano">Read in Italian</a> 🇮🇹</h5>
+								</div>
+							</div>
+						{% endif %}
         </div>
 
 				<div class="col-sm-2 col-xs-12 no-padding col-sm-push-8" style="z-index:9999">
@@ -79,15 +110,26 @@
 					{% endif %}
 						{% if page.timeline == 1 %}
 						<div class="timeline-show-btn hidden-sm hidden-md hidden-lg" role="button" ontouchstart="">
-							<span class="glyphicon glyphicon-option-vertical" aria-hidden="true"></span> <span id="showTimeline">Mostra</span><span id="hideTimeline">Nascondi</span> timeline
+							<span class="glyphicon glyphicon-option-vertical" aria-hidden="true"></span> <span id="showTimeline">{% if page.lang == 'en'%}Show{% else %}Mostra{% endif %}</span><span id="hideTimeline">{% if page.lang == 'en'%}Hide{% else %}Nascondi{% endif %}</span> timeline
 						</div>
             <div class="timeline timeline-hidden">
                 <div id="timeline" class="timeline-viz"><div class="ix-container hidden-sm hidden-md hidden-lg"></div></div>
-                <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
-                <div id="timelineHowto" class="timeline-viz hidden-xs">
-                	<span class="title">Come leggere la timeline:</span>
-                	<div></div>
-                </div>
+								{%if page.lang == nil %}
+	                <p class="post-disclaimer">Tutte le informazioni mostrate in questa linea temporale sono state raccolte da <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a></p>
+	                <div id="timelineHowto" class="timeline-viz hidden-xs">
+	                	<span class="title">Come leggere la timeline:</span>
+	                	<div></div>
+	                </div>
+								{% endif %}
+								{%if page.lang == 'en' %}
+	                <p class="post-disclaimer">
+										All the information depicted in this timeline are based on <a href="http://{% if page.wikipedia_lang %}{{page.wikipedia_lang}}{% else %}{{site.wikipedia_lang}}{% endif %}.wikipedia.org/wiki/{{page.wikipedia}}" target="_blank">Wikipedia</a>
+									</p>
+	                <div id="timelineHowto" class="timeline-viz hidden-xs">
+	                	<span class="title">How to read the timeline:</span>
+	                	<div></div>
+	                </div>
+								{% endif %}
             </div>
 						{% endif %}
         </div>
@@ -116,7 +158,7 @@
 	            </div>
 	            <div class="col-xs-12 col-md-9">
 	                <div class="row flex-container">
-	                    {% for post in site.categories.miserie limit: 6  %}
+	                    {% for post in available_miserie limit: 6  %}
 	                    <div class="post col-ms-6 col-sm-4 col-md-4 border-bottom">
 	                        <div class="post-abstract bg-light-gray">
 	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
@@ -162,7 +204,12 @@
 {% endif %}
 
 {% if page.timeline == 1 %}
-{% include timeline_howto.html %}
+	{%if page.lang == nil %}
+		{% include timeline_howto.html %}
+	{% endif %}
+	{%if page.lang == 'en' %}
+		{% include timeline_howto_en.html %}
+	{% endif %}
 {% endif %}
 
 </body>

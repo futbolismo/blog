@@ -1,3 +1,4 @@
+{% assign available_miserie = site.categories.miserie | where_exp: "post", "post.lang != 'en'" %}
 <!DOCTYPE html>
 <html lang="en" class="{{page.category}}">
 
@@ -84,7 +85,7 @@
 					{% endif %}
 						{% if page.timeline == 1 %}
 						<div class="timeline-show-btn hidden-sm hidden-md hidden-lg" role="button">
-							<span class="glyphicon glyphicon-option-vertical" aria-hidden="true"></span> <span id="showTimeline">Mostra</span><span id="hideTimeline">Nascondi</span> timeline
+							<span class="glyphicon glyphicon-option-vertical" aria-hidden="true"></span> <span id="showTimeline">{% if page.lang == 'en'%}Show{% else %}Mostra{% endif %}</span><span id="hideTimeline">{% if page.lang == 'en'%}Hide{% else %}Nascondi{% endif %}</span> timeline
 						</div>
             <div class="timeline timeline-hidden">
                 <div id="timeline" class="timeline-viz"><div class="ix-container hidden-sm hidden-md hidden-lg"></div></div>
@@ -159,7 +160,7 @@
 	            </div>
 	            <div class="col-xs-12 col-md-9">
 	                <div class="row  flex-container">
-	                    {% for post in site.categories.miserie limit: 3  %}
+											{% for post in available_miserie limit: 3  %}
 	                    <div class="post col-ms-6 col-sm-4 col-md-4 border-bottom">
 	                        <div class="post-abstract bg-light-gray">
 	                            <a href="{{site.baseurl}}{{ post.url }}" class="post-link" title="{{post.title}}">
