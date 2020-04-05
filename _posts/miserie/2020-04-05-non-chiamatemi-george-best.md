@@ -12,8 +12,6 @@ life: Ala. Casarsa della Delizia, 21 novembre 1947 – Treviso, 4 aprile 2020
 
 story_type: quote
 
-disclaimer_text: hidden
-
 author: Francesco Mistrulli
 category: miserie
 timeline: 1
