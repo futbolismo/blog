@@ -52,3 +52,5 @@ fields:
 - type: text
   name: hashtags
   label: hashtags
+pages:
+- _posts/figurine/2020-04-14-nicola-berti.md
