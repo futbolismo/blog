@@ -13,7 +13,8 @@ wikipedia: Nicola_Berti
 instagram: B-9nTeWjwBu
 excerpt: "“Meglio sconfitti che milanisti.”"
 hashtags: InterMilan
-sticker-img: "/assets/pics/:/:category:/480px-Nicola_Berti.jpg"
+sticker-img: "/assets/pics/lake/nicola_berti.jpg"
+header-img: "/assets/pics/lake/Matthaus_Brehme_Berti_Bianchi_Diaz.jpg"
 
 ---
 Nasce a Salsomaggiore, Nicola, e muove i primi passi calcistici al Parma, tra Serie C1 e B, nel 1985 si trasferisce alla Fiorentina, dove l'allenatore Aldo Agroppi lo fa esordire in prima squadra.
