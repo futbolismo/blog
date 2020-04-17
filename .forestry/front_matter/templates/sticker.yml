@@ -36,6 +36,7 @@ fields:
   name: author
   label: author
   default: none
+  hidden: true
 - type: text
   name: category
   label: category
@@ -44,6 +45,7 @@ fields:
   name: timeline
   label: timeline
   default: 0
+  hidden: true
 - type: textarea
   name: excerpt
   label: excerpt
