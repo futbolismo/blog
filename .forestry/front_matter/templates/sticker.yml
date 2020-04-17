@@ -52,5 +52,10 @@ fields:
 - type: text
   name: hashtags
   label: hashtags
+- name: sticker-img
+  type: file
+  config:
+    maxSize: 250
+  label: Sticker
 pages:
 - _posts/figurine/2020-04-14-nicola-berti.md
