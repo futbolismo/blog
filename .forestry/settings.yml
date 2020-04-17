@@ -10,7 +10,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: assets/pics/stickers
+upload_dir: assets/pics
 public_path: "/assets/pics"
 front_matter_path: ''
 use_front_matter_path: false
