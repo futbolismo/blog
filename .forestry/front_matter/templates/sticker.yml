@@ -16,6 +16,7 @@ fields:
 - type: text
   name: header_mobile
   label: header_mobile
+  hidden: true
 - type: text
   name: postTitle
   label: postTitle
