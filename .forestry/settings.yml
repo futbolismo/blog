@@ -10,8 +10,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: assets/pics
-public_path: "/assets/pics"
+upload_dir: assets/pics/lake
+public_path: "/assets/pics/lake"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
