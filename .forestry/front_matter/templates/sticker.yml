@@ -5,12 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post-sticker
 - type: text
   name: pid
   label: pid
 - type: text
   name: header
   label: header
+  hidden: true
 - type: text
   name: header_mobile
   label: header_mobile
@@ -32,12 +34,15 @@ fields:
 - type: text
   name: author
   label: author
+  default: none
 - type: text
   name: category
   label: category
+  default: figurine
 - type: number
   name: timeline
   label: timeline
+  default: 0
 - type: textarea
   name: excerpt
   label: excerpt
