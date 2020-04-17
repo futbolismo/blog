@@ -13,10 +13,12 @@ fields:
   name: header
   label: header
   hidden: true
+  default: large-picture
 - type: text
   name: header_mobile
   label: header_mobile
   hidden: true
+  default: 50%
 - type: text
   name: postTitle
   label: postTitle
