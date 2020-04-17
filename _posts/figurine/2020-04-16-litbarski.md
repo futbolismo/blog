@@ -4,17 +4,17 @@ author: none
 category: figurine
 timeline: 0
 pid: litbarski
-header: ''
-header_mobile: ''
+header: 'large-picture'
+header_mobile: '90%'
 postTitle: Pierre Michael Littbarski
 player: Pierre Michael Littbarski
 life: Nato a Berlino Ovest, 16 aprile 1960
 wikipedia: Pierre_Littbarski
 instagram: B_DUd0VDnfk
-excerpt: '"One of the most talented players I''ve seen" (Berti Vogts)'
+excerpt: "“One of the most talented players I have seen” (Berti Vogts)"
 hashtags: Koln
 sticker-img: "/assets/pics/lake/figurina_litbarski.png"
-header-img: "/assets/pics/lake/Germania_Ovest,_Italia_'90,_Matthäus Littbarski.jpg"
+header-img: "/assets/pics/lake/Germania_Ovest_Italia_90_Matthäus_Littbarski.jpg"
 
 ---
 “Litti” è un Tedesco atipico. Intanto è basso, come se ciò non bastasse in una nazionale Tedesca che è sinonimo di affidabilità e continuità, la piccola ala destra del Colonia è portatrice dei benedetti geni della classe, del talento e della fantasia.
