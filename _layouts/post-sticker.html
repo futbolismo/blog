@@ -52,16 +52,22 @@
             </div>
         </div>
 				<div class="{% if page.sticker_type == "double" %}col-sm-3 col-sm-push-7{% else %}col-sm-2 col-sm-push-8{% endif %} col-xs-12 no-padding" style="z-index:9999">
-					{% for image in site.static_files %}
-						{% if image.path contains stickerJPG %}
-							{% assign sticker = stickerJPG %}
-						{% endif %}
-					{% endfor %}
-					{% for image in site.static_files %}
-						{% if image.path contains stickerPNG %}
-							{% assign sticker = stickerPNG %}
-						{% endif %}
-					{% endfor %}
+					{% if page.sticker-img %}
+						{% assign sticker = page.sticker-img %}
+					{% else %}
+						{% for image in site.static_files %}
+							{% if image.path contains stickerPNG %}
+								{% assign sticker = stickerPNG %}
+							{% endif %}
+						{% endfor %}
+						{% unless sticker %}
+							{% for image in site.static_files %}
+								{% if image.path contains stickerJPG %}
+									{% assign sticker = stickerJPG %}
+								{% endif %}
+							{% endfor %}
+						{% endunless %}
+					{% endif %}
 					{% if sticker %}
 					<div class="sticker row">
 						<div class="sticker-pic col-xs-12 col-sm-12 {% if page.sticker_type == "double" %}text-center{% endif %}">

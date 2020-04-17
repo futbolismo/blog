@@ -80,21 +80,36 @@
 {% endif %}
 
 
+
     <style>
     	{% if (page.pid and page.teamheader_data == blank) %}
+
+      {% if page.sticker-img %}
+        {% assign headerImg = page.header-img %}
+      {% else %}
+        {% capture headerImg %}{{site.baseurl}}/assets/pics/header/{{page.pid}}.jpg{% endcapture %}
+      {% endif %}
+
 	    .jumbotron {
 				background-image: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg);
 			}
 
 			.jumbotron .main-bg {
-				background-image: url({{site.baseurl}}/assets/pics/header/{{ page.pid }}.jpg);
+				background-image: url({{headerImg}});
         {% if (page.header_mobile) %}
         background-position: {{ page.header_mobile }} center;
         {% endif %}
 			}
 		{% else %}
       {% for post in headerPosts limit:1 %}
-			.jumbotron {
+
+      {% if post.sticker-img %}
+        {% assign headerImg = post.header-img %}
+      {% else %}
+        {% capture headerImg %}{{site.baseurl}}/assets/pics/header/{{post.pid}}.jpg{% endcapture %}
+      {% endif %}
+
+			 .jumbotron {
 				background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
         {% if (post.background_size == blank) %}
           background-size: 100% 100%;
@@ -106,7 +121,7 @@
         {% endif %}
 			}
 			.jumbotron .main-bg {
-				background: url({{site.baseurl}}/assets/pics/header/{{ post.pid }}.jpg) no-repeat center center;
+				background: url({{headerImg}}) no-repeat center center;
         {% if (post.background_size == blank) %}
           background-size: auto 100%;
         {% else %}
