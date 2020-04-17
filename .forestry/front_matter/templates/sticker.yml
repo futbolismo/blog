@@ -1,0 +1,46 @@
+---
+label: sticker
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: pid
+  label: pid
+- type: text
+  name: header
+  label: header
+- type: text
+  name: header_mobile
+  label: header_mobile
+- type: text
+  name: postTitle
+  label: postTitle
+- type: text
+  name: player
+  label: player
+- type: text
+  name: life
+  label: life
+- type: text
+  name: wikipedia
+  label: wikipedia
+- type: text
+  name: instagram
+  label: instagram
+- type: text
+  name: author
+  label: author
+- type: text
+  name: category
+  label: category
+- type: number
+  name: timeline
+  label: timeline
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: hashtags
+  label: hashtags
