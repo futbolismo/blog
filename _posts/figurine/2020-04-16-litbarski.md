@@ -2,7 +2,7 @@
 layout: post-sticker
 author: none
 category: figurine
-timeline: 
+timeline:
 pid: litbarski
 header: large-picture
 header_mobile: 90%
@@ -25,4 +25,4 @@ La sua carriera è strettamente legata all’1.FC Köln. Ha iniziato a giocarci 
 
 Se la carriera di club è povera di successi per un giocatore come lui, ben più ricca di soddisfazioni è quella con la maglia della Germania Ovest con cui colleziona 73 presenze e 18 reti tra il 1981 e il 1990, disputando le fasi finali degli Europei di Francia 1984 e Germania Ovest 1988, e dei Mondiali di Spagna 1982, Messico 1986 e Italia 1990. In special modo nel corso degli anni ‘80 “Litti” contribuisce a rendere grande la Germania Ovest, risultando sempre uno dei suoi protagonist
 
-Nei due primi mondiali disputati è stato battuto in finale, rispettivamente dall'Italia nel 1982 e dall'Argentina nel 1986, per poi laurearsi campione del mondo nel 1990, sconfiggendo nella finale all'Olimpico di Roma gli Argentini nella riedizione dell'ultimo atto di quattro anni prima. La finale del mondiale italiano del 1990 è stata anche l'ultima del piccolo “Litti” con la maglia della nazionale.
+Nei due primi mondiali disputati è stato battuto in finale, rispettivamente dall'Italia nel 1982 e dall'Argentina nel 1986, per poi laurearsi campione del mondo nel 1990, sconfiggendo nella finale all'Olimpico di Roma gli Argentini nella riedizione dell'ultimo atto di quattro anni prima. La finale del mondiale italiano del 1990 è stata anche l'ultima del piccolo “_Litti_” con la maglia della nazionale.

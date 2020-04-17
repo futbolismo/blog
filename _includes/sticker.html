@@ -8,20 +8,15 @@
     {% capture stickerPNG %}{{site.baseurl}}/assets/pics/stickers/{{post.pid}}_90deg.png{% endcapture %}
     {% capture stickerJPG %}{{site.baseurl}}/assets/pics/stickers/{{post.pid}}_90deg.jpg{% endcapture %}
   {% endif %}
-
+  {% assign sticker = nil %}
   {% for image in site.static_files %}
-    {% if image.path contains stickerPNG %}
+    {% if image.path contains stickerPNG and sticker == nil %}
       {% assign sticker = stickerPNG %}
     {% endif %}
   {% endfor %}
 
-  {% unless sticker %}
-    {% for image in site.static_files %}
-      {% if image.path contains stickerJPG %}
-        {% assign sticker = stickerJPG %}
-      {% endif %}
-    {% endfor %}
-  {% endunless %}
-
+  {% if sticker == nil %}
+    {% assign sticker = stickerJPG %}
+  {% endif %}
   <img class="responsive-img" src="{{site.baseurl}}{{sticker}}" alt="{{post.title}}" width="100%" />
 {% endif %}

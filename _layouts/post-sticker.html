@@ -55,18 +55,16 @@
 					{% if page.sticker-img %}
 						{% assign sticker = page.sticker-img %}
 					{% else %}
+						{% assign sticker = nil %}
 						{% for image in site.static_files %}
-							{% if image.path contains stickerPNG %}
+							{% if image.path contains stickerPNG and sticker == nil %}
 								{% assign sticker = stickerPNG %}
 							{% endif %}
 						{% endfor %}
-						{% unless sticker %}
-							{% for image in site.static_files %}
-								{% if image.path contains stickerJPG %}
-									{% assign sticker = stickerJPG %}
-								{% endif %}
-							{% endfor %}
-						{% endunless %}
+
+						{% if sticker == nil %}
+							{% assign sticker = stickerJPG %}
+						{% endif %}
 					{% endif %}
 					{% if sticker %}
 					<div class="sticker row">
