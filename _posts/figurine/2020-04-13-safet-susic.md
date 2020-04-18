@@ -16,7 +16,6 @@ excerpt: Nel 2010 nominato dal France Football il miglior giocatore straniero di
 hashtags: PSG, FK_Sarajevo, BordoPorodica
 sticker-img: "/assets/pics/lake/safet_susic_sticker-1.jpg"
 header-img: "/assets/pics/lake/Coppa_Coppe_1983-84_-_Torino_-_Juventus_vs_PSG_-_Safet_Sušić.jpg"
-published: false
 
 ---
 P _ape_ è un centrocampista dal talento cristallino, dotato di un ottimo dribbling e di una grande visione di gioco, comincia la sua carriera nella squadra della sua città natale, il Krivaja di Zavidovići.
