@@ -10,8 +10,7 @@ fields:
 - type: text
   name: pid
   label: Player ID
-  description: Identificativo del giocatore, puo' essere nome_cognome, ad esempio
-    "michel
+  description: Identificativo del giocatore, puo' essere nome_cognome
 - type: text
   name: header
   label: header
