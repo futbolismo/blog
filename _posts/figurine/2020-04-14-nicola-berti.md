@@ -25,7 +25,7 @@ Vince lo Scudetto alla sua prima stagione in nerazzurro; ma è il 23 Novembre 19
 
 Con l'Inter vince due volte la Coppa UEFA: in finale con la Roma nel 1991 provoca il rigore e segna il raddoppio; nel 1994 in finale col Casino Salisburgo segna in trasferta il gol-partita. Dopo l'esperienza in nerazzurro, gioca con Tottenham, Alavés e Northern Spirit, con cui si ritira nel 2000.
 
-<img class="responsive-img border w50 margin-1em border" src="https://upload.wikimedia.org/wikipedia/it/8/89/Nicola_berti.jpg" alt="Nicola Berti in azione">
+<img class="responsive-img border w50 margin-1em border" src="https://upload.wikimedia.org/wikipedia/it/8/89/Nicola_berti.jpg" alt="Nicola Berti in azione" align="right">
 
 
 Esordisce in Azzurro Il 19 Ottobre 1988, a 21 anni, nella partita amichevole Italia-Norvegia, in sostituzione dell'infortunato Carlo Ancelotti; il successivo 22 Dicembre, contro la Scozia, in amichevole, realizza il primo gol. Prende parte ai campionati del mondo del 1990, scendendo in campo quattro volte, e del 1994, disputando tutte le sette gare dell'Italia, compresa la finale persa ai rigori contro il Brasile.  
