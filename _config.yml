@@ -23,3 +23,19 @@ encoding: utf-8
 sass:
    sass_dir: _scss
    style: :compressed # You might prefer to minify using :compressed
+
+
+# Handling Reading
+safe                : false
+include             : [".htaccess"]
+exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+keep_files          : [".git", ".svn"]
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter : false
+
+defaults:
+  - scope:
+      path: "assets/pics/stickers"
+    values:
+      sticker: true
