@@ -33,7 +33,8 @@ fields:
   label: Nome del calciatore
 - type: text
   name: life
-  label: life
+  label: Ruolo e vita
+  description: 'Ad esempio: Attaccante, nato a Caldogno il 18 febbraio 1967'
 - type: text
   name: wikipedia
   label: Link wikipedia
