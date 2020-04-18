@@ -15,7 +15,6 @@ excerpt: "“Völler vola verso la linea centrale del quanto”.\U0001F923 (Enri
 hashtags: ASRoma,OM,werderbremen
 sticker-img: "/assets/pics/lake/rudi_voller_sticker.jpg"
 header-img: "/assets/pics/lake/Serie_A_1988-89_-_Cesena_vs_Roma_-_Agatino_Cuttone_e_Rudi_Völler.jpg"
-published: false
 
 ---
 _Tante Käthe_ è un attaccante fortissimo nel gioco aereo.
