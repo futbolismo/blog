@@ -10,8 +10,8 @@ fields:
 - type: text
   name: pid
   label: Player ID
-  description: Identificativo del giocatore, puo' essere nome_cognome.<br>Evitare
-    spazi, virgole, accenti, caratteri speciali
+  description: Identificativo del giocatore, puo' essere nome_cognome. Evitare spazi,
+    virgole, accenti, caratteri speciali
 - type: text
   name: header
   label: header
