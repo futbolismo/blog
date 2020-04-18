@@ -13,6 +13,7 @@
   {% for image in sticker_files %}
     {% if image.path contains stickerPNG and sticker == nil %}
       {% assign sticker = stickerPNG %}
+      {% break %}
     {% endif %}
   {% endfor %}
 
