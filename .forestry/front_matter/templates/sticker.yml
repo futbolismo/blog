@@ -8,7 +8,9 @@ fields:
   default: post-sticker
 - type: text
   name: pid
-  label: pid
+  label: Player ID
+  description: Identificativo del giocatore, puo' essere <strong>nome_cognome, </strong>ad
+    esempio<strong> michel</strong>
 - type: text
   name: header
   label: header
@@ -16,24 +18,30 @@ fields:
   default: large-picture
 - type: text
   name: header_mobile
-  label: header_mobile
   hidden: false
   default: 50%
+  label: Centratura header mobile (0-100%)
+  description: Questo valore imposta la posizione dell'header su mobile. 50% (default)
+    significa al centro, 0% a sinistra e 100% a destra. Cosi' se l'immagine ha il
+    calciatore a destra, si puo' vedere anche su mobile
 - type: text
   name: postTitle
-  label: postTitle
+  label: Titolo del post
+  description: In genere questo puo' essere il nome del calciatore
 - type: text
   name: player
-  label: player
+  label: Nome del calciatore
 - type: text
   name: life
   label: life
 - type: text
   name: wikipedia
-  label: wikipedia
+  label: Link wikipedia
+  description: Parte finale del link di wikipedia, ad esempio <strong>Michel_Platini</strong>
 - type: text
   name: instagram
-  label: instagram
+  label: Link instagram
+  description: Parte finale del link di Instagram, ad esempio <strong>B_FvyDfDAMi</strong>
 - type: text
   name: author
   label: author
@@ -43,6 +51,7 @@ fields:
   name: category
   label: category
   default: figurine
+  hidden: true
 - type: number
   name: timeline
   label: timeline
@@ -50,20 +59,25 @@ fields:
   hidden: true
 - type: textarea
   name: excerpt
-  label: excerpt
+  label: Tweet
+  description: Testo per twitter
 - type: text
   name: hashtags
-  label: hashtags
+  label: Hashtags per twitter
+  description: 'Lista di parole, ad esempio: <strong>ForzaGrigiorossi, Sampdoria,
+    JuventusFC, Chelsea</strong>'
 - name: sticker-img
   type: file
   config:
     maxSize: 250
-  label: Sticker
+  label: Immagine figurina
+  description: Upload la figurina che verra' utilizzata nel sito
 - name: header-img
   type: file
   config:
     maxSize: 250
-  label: Header Image
+  label: Immagine Header
+  description: Upload dell'immagine dell'header. Meglio immagini lunghe orizzontalmente.
 pages:
 - _posts/figurine/2020-04-14-nicola-berti.md
 - _posts/figurine/2020-04-14-nicola-berti.md
