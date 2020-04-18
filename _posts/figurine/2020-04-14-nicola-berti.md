@@ -2,13 +2,13 @@
 layout: post-sticker
 author: none
 category: figurine
-timeline: 0
+timeline: 
 pid: nicola_berti
-header: 'large-picture'
-header_mobile: '50%'
+header: large-picture
+header_mobile: 50%
 postTitle: Nicola Berti
 player: Nicola Berti
-life: Nato a Salsomaggiore Terme, 14 aprile 1967
+life: Centrocampista, nato a Salsomaggiore Terme, 14 aprile 1967
 wikipedia: Nicola_Berti
 instagram: B-9nTeWjwBu
 excerpt: "“Meglio sconfitti che milanisti.”"
