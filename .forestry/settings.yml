@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Figurine
   create: documents
-  match: "**/{figurine}/*"
+  match: "{_posts,_drafts}/{figurine}/*"
   templates:
   - sticker
 - type: jekyll-pages
