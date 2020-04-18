@@ -6,6 +6,7 @@ fields:
   name: layout
   label: layout
   default: post-sticker
+  hidden: true
 - type: text
   name: pid
   label: Player ID
@@ -27,10 +28,12 @@ fields:
 - type: text
   name: postTitle
   label: Titolo del post
-  description: In genere questo puo' essere il nome del calciatore
+  description: Per le figurine di solito usiamo il nome del giocatore, se il nome
+    e' troppo lungo (tipo brasiliani), usiamo la versione ridotta
 - type: text
   name: player
   label: Nome del calciatore
+  description: Nome completo del giocatore
 - type: text
   name: life
   label: Ruolo e vita
@@ -61,7 +64,7 @@ fields:
 - type: textarea
   name: excerpt
   label: Tweet
-  description: Testo per twitter
+  description: Testo per twitter - ricordarsi di non sforare la lunghezza dei tweet
 - type: text
   name: hashtags
   label: Hashtags per twitter
