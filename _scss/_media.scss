@@ -524,6 +524,14 @@
 		width: 25%;
 	}
 
+	.post .post-body img[alt$=">"] {
+	  float: right;
+	}
+
+	.post .post-body img[alt$="<"] {
+	  float: left;
+	}
+
 	.post {
 		.timeline {
 			padding-bottom: 0;
