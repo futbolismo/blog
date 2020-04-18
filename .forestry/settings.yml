@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _posts/figurine
+  path: ''
   label: Stickers
   create: documents
-  match: "**/*"
+  match: "**/figurine/*"
   templates:
   - sticker
 - type: jekyll-pages
