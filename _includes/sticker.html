@@ -9,7 +9,8 @@
     {% capture stickerJPG %}{{site.baseurl}}/assets/pics/stickers/{{post.pid}}_90deg.jpg{% endcapture %}
   {% endif %}
   {% assign sticker = nil %}
-  {% for image in site.static_files %}
+  {% assign sticker_files = site.static_files | where: "sticker", true %}
+  {% for image in sticker_files %}
     {% if image.path contains stickerPNG and sticker == nil %}
       {% assign sticker = stickerPNG %}
     {% endif %}

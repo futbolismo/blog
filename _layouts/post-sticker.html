@@ -56,7 +56,8 @@
 						{% assign sticker = page.sticker-img %}
 					{% else %}
 						{% assign sticker = nil %}
-						{% for image in site.static_files %}
+						{% assign sticker_files = site.static_files | where: "sticker", true %}
+						{% for image in sticker_files %}
 							{% if image.path contains stickerPNG and sticker == nil %}
 								{% assign sticker = stickerPNG %}
 							{% endif %}
