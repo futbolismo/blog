@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _posts/figurine
+  label: Stickers
+  create: documents
+  match: "**/*"
+  templates:
+  - sticker
 - type: jekyll-pages
   label: Pages
   create: all
