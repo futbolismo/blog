@@ -6,8 +6,8 @@ author: none
 category: figurine
 timeline: 0
 pid: rudi_voller
-postTitle: Rudi Völler.
-player: Rudolf Völler.
+postTitle: Rudi Völler
+player: Rudolf Völler
 life: Attaccante, nato ad Hanau (Germania) il 13 aprile 1960
 wikipedia: Rudi_Völler
 instagram: B-6sJosD57v
@@ -15,7 +15,7 @@ excerpt: "“Völler vola verso la linea centrale del quanto”.\U0001F923 (Enri
 hashtags: ASRoma,OM,werderbremen
 sticker-img: "/assets/pics/lake/rudi_voller_sticker.jpg"
 header-img: "/assets/pics/lake/Serie_A_1988-89_-_Cesena_vs_Roma_-_Agatino_Cuttone_e_Rudi_Völler.jpg"
-published: false
+published: true
 
 ---
 _Tante Käthe_ è un attaccante fortissimo nel gioco aereo.
@@ -23,7 +23,7 @@ _Tante Käthe_ è un attaccante fortissimo nel gioco aereo.
 Cresce nelle giovanili della squadra della sua città natale, l'Hanau, poi all’età di 16 anni viene ingaggiato dal Kickers Offenbach, club nel quale rimase per quattro stagioni.  
 Nel 1980 Rudi passa al Monaco 1860, con cui retrocede, l'anno successivo, in seconda divisione. Al termine della stagione successiva il Werder Brema si assicura le prestazioni di questo promettente attaccante, ed infatti segna 97 gol in sei stagioni di Bundesliga.
 
-  
+
 Nel 1987 la Roma di Dino Viola lo porta in Italia. Dopo un infortunio iniziale, segna 45 gol Rudi, corredati anche dalla Coppa Italia 1990/91 vinta in finale contro la Sampdoria fresca campione d'Italia.Inoltre esce sconfitto lo stesso anno nella doppia finale di Coppa UEFA persa contro l'Inter.
 
 A Roma Rudi diventa _Er Tedesco volante_.

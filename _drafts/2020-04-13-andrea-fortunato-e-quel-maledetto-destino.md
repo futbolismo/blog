@@ -27,6 +27,7 @@ excerpt: "...io sono Ezio Vendrame!<br/>Con il pallone facevo quello che volevo.
 
 hashtags: Vicenza, ForzaVicenza, ForzaLane, Padova
 
+published: false
 ---
 Il 25 aprile 1995 per l'Italia è stato un giorno importante: si sono celebrati i cinquant'anni della Liberazione. Per i tifosi italiani, in particolar modo quelli della Juventus, però quel giorno è stato molto triste perché morì, a soli 23 anni, Andrea Fortunato.
 
