@@ -9,8 +9,8 @@ fields:
 - type: text
   name: pid
   label: Player ID
-  description: Identificativo del giocatore, puo' essere <strong>nome_cognome, </strong>ad
-    esempio<strong> michel</strong>
+  description: Identificativo del giocatore, puo' essere nome_cognome, ad esempio
+    michel
 - type: text
   name: header
   label: header
@@ -37,11 +37,11 @@ fields:
 - type: text
   name: wikipedia
   label: Link wikipedia
-  description: Parte finale del link di wikipedia, ad esempio <strong>Michel_Platini</strong>
+  description: Parte finale del link di wikipedia, ad esempio Michel_Platini
 - type: text
   name: instagram
   label: Link instagram
-  description: Parte finale del link di Instagram, ad esempio <strong>B_FvyDfDAMi</strong>
+  description: Parte finale del link di Instagram, ad esempio B_FvyDfDAMi
 - type: text
   name: author
   label: author
@@ -64,8 +64,8 @@ fields:
 - type: text
   name: hashtags
   label: Hashtags per twitter
-  description: 'Lista di parole, ad esempio: <strong>ForzaGrigiorossi, Sampdoria,
-    JuventusFC, Chelsea</strong>'
+  description: 'Lista di parole, ad esempio: ForzaGrigiorossi, Sampdoria, JuventusFC,
+    Chelsea'
 - name: sticker-img
   type: file
   config:
