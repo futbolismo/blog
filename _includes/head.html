@@ -30,7 +30,11 @@
 	<meta property="og:description" content="{{description | strip_html}}"/>
 	{% if page.pid != null %}
     {% if page.category == "figurine" %}
-      <meta property="og:image" content="{{site.url}}/assets/pics/stickers/{{ page.pid }}.jpg"/>
+      {% if page.sticker-img %}
+        <meta property="og:image" content="{{site.url}}{{page.sticker-img}}"/>
+      {% else %}
+        <meta property="og:image" content="{{site.url}}/assets/pics/stickers/{{ page.pid }}.jpg"/>
+      {% endif %}
     {% else %}
       <meta property="og:image" content="{{site.url}}/assets/pics/header/{{ page.pid }}.jpg"/>
     {% endif %}
