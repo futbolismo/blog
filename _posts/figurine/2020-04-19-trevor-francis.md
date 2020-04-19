@@ -13,8 +13,8 @@ wikipedia: Trevor_Francis
 instagram: B_KNNL7j0Kq
 excerpt: "“Trevor walks on water.” Coro dei tifosi della Sampdoria."
 hashtags: Sampdoria, BCFC, Atalanta, QPR, RangersFC, NFFC
-sticker-img: ''
-header-img: ''
+sticker-img: "/assets/pics/lake/trevor_francis_sticker.jpg"
+header-img: "/assets/pics/lake/francis_clough_robertson.jpg"
 published: false
 
 ---
