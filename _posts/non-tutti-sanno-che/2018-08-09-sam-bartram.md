@@ -2,7 +2,6 @@
 layout: post-simple
 
 pid: bartram
-header: bartram
 
 postTitle: Samuel Bartram
 
