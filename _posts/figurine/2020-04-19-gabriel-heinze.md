@@ -11,10 +11,11 @@ player: Gabriel Iván Heinze
 life: Difensore, nato a Crespo, Entre Ríos (Argentina), 19 aprile 1978
 wikipedia: Gabriel_Heinze
 instagram: B_Kmt-4jYW5
-excerpt: ''
-hashtags: ''
-sticker-img: ''
-header-img: ''
+excerpt: "“...il mio compito era correre e faticare, poi altra gente era deputata
+  a vincere le gare con una giocata.”"
+hashtags: RealMadrid, ASRoma,PSG,MUFC
+sticker-img: "/assets/pics/lake/heinze_sticker.jpg"
+header-img: "/assets/pics/lake/1024px-Drenthe_y_Heinze_luchando_por_el_balón.jpg"
 sources: "* Heinze, con la maglia del Real Madrid, impegnato nella Supercoppa di Spagna
   2008 contro il Valencia - [via Wikipedia](https://it.wikipedia.org/wiki/Gabriel_Heinze#/media/File:Drenthe_y_Heinze_luchando_por_el_bal%C3%B3n.jpg)"
 published: false
