@@ -4,7 +4,7 @@ header: large-picture
 header_mobile: 90%
 author: none
 category: figurine
-timeline: 0
+timeline: 
 pid: casagrande
 postTitle: Wálter Casagrande Júnior
 player: Wálter Casagrande Júnior
@@ -16,6 +16,10 @@ excerpt: Os donos do futebol no Brasil mudam de dois em dois anos ou de quatro e
 hashtags: Ascoli, Torino
 sticker-img: "/assets/pics/lake/figurina_casagrande.png"
 header-img: "/assets/pics/lake/1024px-Casagrande_Torino_-_Real_Madrid.jpg"
+sources: "* Torino, stadio delle Alpi, 15 aprile 1992. Walter Casagrande esulta dopo
+  l'autogol del difensore madridista Ricardo Rocha, nel corso della sfida tra Torino
+  e Real Madrid (2-0) valevole per la semifinale di ritorno della Coppa UEFA 1991-92
+  - [via Wikipedia](https://it.wikipedia.org/wiki/File:Casagrande_Torino_-_Real_Madrid.jpg)"
 
 ---
 Cresce nel Corinthians, _Casão_, e fa il suo esordio in prima squadra a diciassette anni, nel 1980.  
