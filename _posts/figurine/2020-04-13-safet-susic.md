@@ -4,7 +4,7 @@ header: large-picture
 header_mobile: 50%
 author: none
 category: figurine
-timeline: 0
+timeline: 
 pid: safet_susic
 postTitle: Safet Sušić
 player: Safet Sušić
@@ -16,6 +16,12 @@ excerpt: Nel 2010 nominato dal France Football il miglior giocatore straniero di
 hashtags: PSG, FK_Sarajevo, BordoPorodica
 sticker-img: "/assets/pics/lake/safet_susic_sticker-1.jpg"
 header-img: "/assets/pics/lake/Coppa_Coppe_1983-84_-_Torino_-_Juventus_vs_PSG_-_Safet_Sušić.jpg"
+sources: "* Torino, stadio Comunale, 3 novembre 1983. Il centrocampista del Paris
+  Saint-Germain, Safet Sušić in azione contro la retroguardia della Juventus nel corso
+  del retour match valevole per gli ottavi di finale della Coppa delle Coppe 1983-1984,
+  terminato sul punteggio di 0-0. Stante il 2-2 maturato nella gara d'andata giocata
+  a Parigi il 19 ottobre precedente, gl'italiani passarono il turno a spese dei francesi
+  grazie alla regola dei gol in trasferta - [via Wikipedia](https://it.wikipedia.org/wiki/File:Coppa_Coppe_1983-84_-_Torino_-_Juventus_vs_PSG_-_Safet_Su%C5%A1i%C4%87.jpg)"
 
 ---
 P _ape_ è un centrocampista dal talento cristallino, dotato di un ottimo dribbling e di una grande visione di gioco, comincia la sua carriera nella squadra della sua città natale, il Krivaja di Zavidovići.
