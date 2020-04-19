@@ -15,7 +15,6 @@ excerpt: "“Trevor walks on water.” Coro dei tifosi della Sampdoria."
 hashtags: Sampdoria, BCFC, Atalanta, QPR, RangersFC, NFFC
 sticker-img: "/assets/pics/lake/trevor_francis_sticker.jpg"
 header-img: "/assets/pics/lake/francis_clough_robertson.jpg"
-published: false
 
 ---
   
