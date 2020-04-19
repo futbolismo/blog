@@ -18,7 +18,6 @@ sticker-img: "/assets/pics/lake/heinze_sticker.jpg"
 header-img: "/assets/pics/lake/1024px-Drenthe_y_Heinze_luchando_por_el_balón.jpg"
 sources: "* Heinze, con la maglia del Real Madrid, impegnato nella Supercoppa di Spagna
   2008 contro il Valencia - [via Wikipedia](https://it.wikipedia.org/wiki/Gabriel_Heinze#/media/File:Drenthe_y_Heinze_luchando_por_el_bal%C3%B3n.jpg)"
-published: false
 
 ---
 “I _o non sono mai stato un calciatore forte, ma ce l'ho sempre messa tutta: il mio compito era correre e faticare, poi altra gente era deputata a vincere le gare con una giocata. È il concetto di squadra: non devi sentirti sminuito se il tuo compito è più faticoso e meno appariscente, semplicemente devi cercare di essere il migliore a farlo._”
