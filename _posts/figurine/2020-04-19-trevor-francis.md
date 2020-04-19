@@ -4,7 +4,7 @@ header: large-picture
 header_mobile: 20%
 author: none
 category: figurine
-timeline: 0
+timeline: 
 pid: trevor_francis
 postTitle: Trevor Francis
 player: Trevor John Francis
@@ -15,9 +15,12 @@ excerpt: "“Trevor walks on water.” Coro dei tifosi della Sampdoria."
 hashtags: Sampdoria, BCFC, Atalanta, QPR, RangersFC, NFFC
 sticker-img: "/assets/pics/lake/trevor_francis_sticker.jpg"
 header-img: "/assets/pics/lake/francis_clough_robertson.jpg"
+sources: "* Amsterdam, 22 aprile 1980. Parte della squadra del Nottingham Forest FC
+  — Trevor Francis, l'allenatore Brian Clough e l'ala sinistra John Robertson — alla
+  vigilia della semifinale di ritorno della Coppa dei Campioni 1979-80 contro l'AFC
+  Ajax - [via Wikipedia](https://commons.wikimedia.org/wiki/File:Nottingham_Forest_FC_(Amsterdam,_1980)_-_Francis,_Clough,_Robertson.jpg)"
 
 ---
-  
 “I _l derby di Genova è la partita più bella del mondo, poi quando vince la Sampdoria è ancora meglio. I tifosi fanno uno spettacolo incredibile_”
 
 “_Trevor walks on water._” Coro dei tifosi della Sampdoria.
