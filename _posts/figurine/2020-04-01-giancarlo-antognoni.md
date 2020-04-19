@@ -4,7 +4,7 @@ header: large-picture
 header_mobile: 80%
 author: none
 category: figurine
-timeline: 0
+timeline: 
 pid: giancarlo-antognoni
 postTitle: Giancarlo Antognoni
 player: Giancarlo Antognoni
@@ -16,6 +16,9 @@ excerpt: "“Antognoni è co­me il campanile di Giotto, appar­tiene alla citt�
 hashtags: 'Fiorentina, ForzaViola '
 sticker-img: "/assets/pics/lake/antognoni_sticker.png"
 header-img: "/assets/pics/lake/1978_FIFA_World_Cup_-_Italy_v_France_-_Giancarlo_Antognoni_shooting.jpg"
+sources: "* Giancarlo Antognoni in azione contro la Francia durante il girone del
+  Campionato Mondiale del 1978 in Argentina. Al centro Gérard Janvion, Jean-Marc Guillou
+  e Maxime Bossis sulla destra Michel Platini - [via Wikipedia](https://commons.wikimedia.org/wiki/File:1978_FIFA_World_Cup_-_Italy_v_France_-_Giancarlo_Antognoni_shooting.jpg)"
 
 ---
 “O _gni volta che incontravo l’avvocato Agnelli mi ripeteva sempre la stessa cosa: caro Antognoni, avrei sempre voluto prenderla, ma lei s’è sempre rifiutato._
