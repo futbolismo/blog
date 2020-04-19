@@ -107,6 +107,12 @@
         <div class="col-xs-12 {% if page.sticker_type == "double" %}col-sm-7 col-sm-pull-3{% else %}col-sm-8 col-sm-pull-2{% endif %}">
           <div class="post-body">
 						{{ content }}
+						{% if page.sources %}
+						<div class="post-disclaimer">
+						<b>Fotografie e video</b><br/>
+							{{ page.sources | markdownify }}
+						</div>
+						{% endif %}
 					</div>
 					{% if page.category == "miserie" and page.disclaimer_text != "no" %}
 						<div class="post-disclaimer">Le parole liberamente attribuite a <b>{{page.player}}</b> sono state ricostruite attraverso libri, interviste e altre fonti storiche, sono ispirate a fatti realmente accaduti e in seguito romanzate.</div>
