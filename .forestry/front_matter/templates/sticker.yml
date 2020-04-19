@@ -84,6 +84,15 @@ fields:
   label: Immagine Header
   description: 'Upload dell''immagine dell''header. Meglio immagini lunghe orizzontalmente.
     Evitiamo nomi di file con spazi tra le parole. '
+- name: sources
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Sources
 pages:
 - _posts/figurine/2020-04-01-giancarlo-antognoni.md
 - _posts/figurine/2020-04-13-safet-susic.md
