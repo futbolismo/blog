@@ -16,7 +16,6 @@ excerpt: "“Antognoni è co­me il campanile di Giotto, appar­tiene alla citt�
 hashtags: 'Fiorentina, ForzaViola '
 sticker-img: "/assets/pics/lake/antognoni_sticker.png"
 header-img: "/assets/pics/lake/1978_FIFA_World_Cup_-_Italy_v_France_-_Giancarlo_Antognoni_shooting.jpg"
-published: false
 
 ---
 “O _gni volta che incontravo l’avvocato Agnelli mi ripeteva sempre la stessa cosa: caro Antognoni, avrei sempre voluto prenderla, ma lei s’è sempre rifiutato._  
