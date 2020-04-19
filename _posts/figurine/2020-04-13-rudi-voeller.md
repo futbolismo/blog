@@ -33,3 +33,6 @@ Nel 1992 Rudi viene ceduto all'Olympique Marsiglia, con cui si aggiudica alla fi
 Rudi esordisce con la maglia della Germania Ovest nel 1982, e ha preso parte a tre edizioni del campionato del mondo (Messico 1986, Italia 1990 e USA 1994); è stato campione del mondo nel 1990 e finalista nel 1986, in entrambi i casi contro l'Argentina. Rudi ha giocato anche in tre edizioni del campionato d'Europa (Francia 1984, Germania 1988 e Svezia 1992), sconfitto in finale nel 1992, nella nuova nazionale riunificata della Germania, dalla Danimarca.
 
 In dodici anni _Tante Käthe_ ha giocato complessivamente 90 volte in nazionale segnando 47 reti, e piazzandosi al secondo posto della classifica dei migliori marcatori della Mannschaft: meglio di lui solo Gerd Müller con 68 gol. In seguito il suo numero di segnature è stato eguagliato da Jürgen Klinsmann e superato da Miroslav Klose.
+
+<div class="post-disclaimer">Fotografia: Cesena, stadio Dino Manuzzi, 20 novembre 1988. Rudi Völler e Agatino Cuttone in contrasto nella sfida tra Cesena e Roma (1-1) valevole per la 6ª giornata del campionato italiano di Serie A 1988-1989. <a href="https://it.wikipedia.org/wiki/File:Serie_A_1988-89_-_Cesena_vs_Roma_-_Agatino_Cuttone_e_Rudi_V%C3%B6ller.jpg">via Wikipedia</a>
+</div>
