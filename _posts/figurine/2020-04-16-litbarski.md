@@ -15,6 +15,8 @@ excerpt: "“One of the most talented players I have seen” (Berti Vogts)"
 hashtags: Koln
 sticker-img: "/assets/pics/lake/figurina_litbarski.png"
 header-img: "/assets/pics/lake/Germania_Ovest_Italia_90_Matthäus_Littbarski.jpg"
+sources: "* Littbarski solleva assieme a Lothar Matthäus la Coppa del Mondo, dopo
+  la vittoria della Germania Ovest al campionato del mondo 1990 - [via Wikipedia](https://it.wikipedia.org/wiki/Pierre_Littbarski#/media/File:Germania_Ovest,_Italia_'90,_Matth%C3%A4us+Littbarski.jpg)"
 
 ---
 “_Litti_” è un Tedesco atipico. Intanto è basso, come se ciò non bastasse in una nazionale Tedesca che è sinonimo di affidabilità e continuità, la piccola ala destra del Colonia è portatrice dei benedetti geni della classe, del talento e della fantasia.
