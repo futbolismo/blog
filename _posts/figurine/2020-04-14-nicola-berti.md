@@ -2,7 +2,7 @@
 layout: post-sticker
 author: none
 category: figurine
-timeline:
+timeline: 
 pid: nicola_berti
 header: large-picture
 header_mobile: 50%
@@ -15,6 +15,9 @@ excerpt: "“Meglio sconfitti che milanisti.”"
 hashtags: InterMilan
 sticker-img: "/assets/pics/lake/nicola_berti.jpg"
 header-img: "/assets/pics/lake/Matthaus_Brehme_Berti_Bianchi_Diaz.jpg"
+sources: |-
+  * I cinque neoacquisti dell'Inter per la stagione 1988-89, determinanti per la conquista del 13º scudetto; da sinistra: Lothar Matthäus, Andreas Brehme, Nicola Berti, Alessandro Bianchi e Ramón Díaz - [via Wikipedia](https://it.wikipedia.org/wiki/File:Matthaus_Brehme_Berti_Bianchi_Diaz.jpg)
+  * Nicola Berti in azione con la maglia dell'Inter - [via Wikipedia](https://it.wikipedia.org/wiki/File:Nicola_berti.jpg)
 
 ---
 Nasce a Salsomaggiore, Nicola, e muove i primi passi calcistici al Parma, tra Serie C1 e B, nel 1985 si trasferisce alla Fiorentina, dove l'allenatore Aldo Agroppi lo fa esordire in prima squadra.
