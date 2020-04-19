@@ -76,14 +76,14 @@ fields:
     maxSize: 250
   label: Immagine figurina
   description: Upload la figurina che verra' utilizzata nel sito. Evitiamo nomi di
-    file con spazi tra le parole
+    file con spazi tra le parole.
 - name: header-img
   type: file
   config:
     maxSize: 250
   label: Immagine Header
-  description: Upload dell'immagine dell'header. Meglio immagini lunghe orizzontalmente.
-    Evitiamo nomi di file con spazi tra le parole
+  description: 'Upload dell''immagine dell''header. Meglio immagini lunghe orizzontalmente.
+    Evitiamo nomi di file con spazi tra le parole. '
 pages:
 - _posts/figurine/2020-04-13-safet-susic.md
 - _posts/figurine/2020-04-14-nicola-berti.md
