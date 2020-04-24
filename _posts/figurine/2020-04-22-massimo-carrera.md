@@ -11,7 +11,7 @@ player: Massimo Carrera
 life: Difensore, nato a Sesto San Giovanni il 22 aprile 1964
 wikipedia: Massimo_Carrera
 instagram: B_SSxG1D3Ca
-excerpt: ''
+excerpt: "“Massimo Carrera. Scarpone? Pilastro!” (Sandro Veronesi)"
 hashtags: "“Massimo Carrera. Scarpone? Pilastro!” (Sandro Veronesi)"
 sticker-img: "/assets/pics/lake/massimo_carrera_sticker-1.png"
 header-img: "/assets/pics/lake/Juventus_FC_-_Coppa_Italia_1994-95_-_Carrera,_Di_Livio,_Del_Piero,_Marocchi-1.jpg"
