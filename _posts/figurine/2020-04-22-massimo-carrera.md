@@ -22,7 +22,6 @@ sources: "* Parma, stadio Ennio Tardini, 11 giugno 1995. Massimo Carrera, Angelo
   trionfarono poi 2-0 nel retour match sollevando così la nona Coppa Italia della
   loro storia. Nell'occasione gli juventini indossarono la loro seconda divisa dell'epoca,
   blu con dettagli gialli - [via Wikipedia](https://it.wikipedia.org/wiki/File:Juventus_FC_-_Coppa_Italia_1994-95_-_Carrera,_Di_Livio,_Del_Piero,_Marocchi.jpg)"
-published: false
 
 ---
   
