@@ -642,11 +642,6 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 			}
 			margin-bottom: 10px;
 
-			img {
-				width: 215px;
-				height: 277px;
-    		object-fit: contain;
-			}
 
 			@media (min-width: $screen-md-min) {
 				img {
@@ -655,6 +650,7 @@ html:not(.page) .post .post-body p:first-child:first-letter {
 	    		height: 277px;
 				}
 			}
+
 		}
 
 		h4 {

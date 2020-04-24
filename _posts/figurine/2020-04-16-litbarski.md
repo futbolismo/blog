@@ -2,7 +2,7 @@
 layout: post-sticker
 author: none
 category: figurine
-timeline: 
+timeline:
 pid: litbarski
 header: large-picture
 header_mobile: 90%
@@ -19,7 +19,7 @@ sources: "* Littbarski solleva assieme a Lothar Matthäus la Coppa del Mondo, do
   la vittoria della Germania Ovest al campionato del mondo 1990 - [via Wikipedia](https://it.wikipedia.org/wiki/Pierre_Littbarski#/media/File:Germania_Ovest,_Italia_'90,_Matth%C3%A4us+Littbarski.jpg)"
 
 ---
-“_Litti_” è un Tedesco atipico. Intanto è basso, come se ciò non bastasse in una nazionale Tedesca che è sinonimo di affidabilità e continuità, la piccola ala destra del Colonia è portatrice dei benedetti geni della classe, del talento e della fantasia.
+“L _itti_” è un Tedesco atipico. Intanto è basso, come se ciò non bastasse in una nazionale Tedesca che è sinonimo di affidabilità e continuità, la piccola ala destra del Colonia è portatrice dei benedetti geni della classe, del talento e della fantasia.
 
 La sua carriera è strettamente legata all’1.FC Köln. Ha iniziato a giocarci nel 1978 e, tranne la parentesi Francese al Matra Racing Paris per la stagione 1986/87, ha finito con i biancorossi nel 1993.
 
