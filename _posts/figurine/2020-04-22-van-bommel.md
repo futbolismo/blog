@@ -17,7 +17,6 @@ sticker-img: "/assets/pics/lake/van_bommel_psv_sticker.jpg"
 header-img: "/assets/pics/lake/Mark_van_Bommel_Euro_2012_vs_Germany.jpg"
 sources: "* van Bommel capitano della nazionale olandese durante il campionato d'Europa
   2012 - [via Wikipedia](https://it.wikipedia.org/wiki/Mark_van_Bommel#/media/File:Mark_van_Bommel_Euro_2012_vs_Germany.jpg)"
-published: false
 
 ---
 Mark nasce a Maasbracht, e con la squadra della sua città natale, l’MVV Maasbracht, muove i primi passi nel calcio nel 1985. Nel 1992 passa al Fortuna Sittard dove resta sino al 1999 anno in cui si trasferisce al PSV. Durante la sua carriera gioca in Olanda, Spagna, Germania e Italia, e durante la permanenza in Germania, al Bayern Monaco, diventa il primo capitano straniero della squadra Bavarese.
