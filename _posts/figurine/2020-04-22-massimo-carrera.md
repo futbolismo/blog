@@ -15,8 +15,13 @@ excerpt: ''
 hashtags: "“Massimo Carrera. Scarpone? Pilastro!” (Sandro Veronesi)"
 sticker-img: "/assets/pics/lake/massimo_carrera_sticker-1.png"
 header-img: "/assets/pics/lake/Juventus_FC_-_Coppa_Italia_1994-95_-_Carrera,_Di_Livio,_Del_Piero,_Marocchi-1.jpg"
-sources: "* Carrera, Di Livio, Del Piero e Marocchi festaggiano il trionfo juventino
-  nella Champions League 1995-1996 [via Wikipedia](https://it.wikipedia.org/wiki/Massimo_Carrera#/media/File:Juventus_FC_-_Champions_League_1995-96_-_Torricelli,_Deschamps,_Ravanelli,_Sousa,_Rampulla,_Pessotto,_Carrera.jpeg)"
+sources: "* Parma, stadio Ennio Tardini, 11 giugno 1995. Massimo Carrera, Angelo Di
+  Livio, Alessandro Del Piero e Giancarlo Marocchi, festeggiano con il trofeo della
+  Coppa Italia 1994-1995 conquistata superando nella doppia finale il Parma; dopo
+  la vittoria 1-0 nella sfida di andata allo stadio delle Alpi di Torino, i bianconeri
+  trionfarono poi 2-0 nel retour match sollevando così la nona Coppa Italia della
+  loro storia. Nell'occasione gli juventini indossarono la loro seconda divisa dell'epoca,
+  blu con dettagli gialli - [via Wikipedia](https://it.wikipedia.org/wiki/File:Juventus_FC_-_Coppa_Italia_1994-95_-_Carrera,_Di_Livio,_Del_Piero,_Marocchi.jpg)"
 published: false
 
 ---
