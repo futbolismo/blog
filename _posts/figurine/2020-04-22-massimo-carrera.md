@@ -15,8 +15,8 @@ excerpt: ''
 hashtags: "“Massimo Carrera. Scarpone? Pilastro!” (Sandro Veronesi)"
 sticker-img: "/assets/pics/lake/massimo_carrera_sticker-1.png"
 header-img: "/assets/pics/lake/Juventus_FC_-_Coppa_Italia_1994-95_-_Carrera,_Di_Livio,_Del_Piero,_Marocchi-1.jpg"
-sources: "* Torricelli, Deschamps, Ravanelli, Sousa, Rampulla, Pessotto e Carrera
-  festaggiano il trionfo juventino nella Champions League 1995-1996 [via Wikipedia](https://it.wikipedia.org/wiki/Massimo_Carrera#/media/File:Juventus_FC_-_Champions_League_1995-96_-_Torricelli,_Deschamps,_Ravanelli,_Sousa,_Rampulla,_Pessotto,_Carrera.jpeg)"
+sources: "* Carrera, Di Livio, Del Piero e Marocchi festaggiano il trionfo juventino
+  nella Champions League 1995-1996 [via Wikipedia](https://it.wikipedia.org/wiki/Massimo_Carrera#/media/File:Juventus_FC_-_Champions_League_1995-96_-_Torricelli,_Deschamps,_Ravanelli,_Sousa,_Rampulla,_Pessotto,_Carrera.jpeg)"
 published: false
 
 ---
