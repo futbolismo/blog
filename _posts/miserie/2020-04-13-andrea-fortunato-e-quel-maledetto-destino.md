@@ -132,7 +132,7 @@ var fortunato=[
                 {
                     type:"birth",
                     category:"event",
-                    timestamps:[new Date(1995,4-1,25)],
+                    timestamps:[new Date(1995,1-1,1)],
                     text:{
                         body:"Ci lascia a soli 23 anni a Perugia, il 25 aprile 1995",
                         link:null
