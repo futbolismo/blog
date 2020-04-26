@@ -11,7 +11,8 @@ player: Américo Rubén Gallego
 life: Centrocampista, nato a Morteros (Argentina), 25 aprile 1955
 wikipedia: Américo_Gallego
 instagram: B_aZKykjRQz
-excerpt: ''
+excerpt: Centrocampista - tra gli anni '70 e '80 ha giocato nel Newell's Old Boys
+  di Rosario @CANOBoficial e nel River Plate di Buenos Aires @RiverPlate
 hashtags: Newells,RiverPlate
 sticker-img: "/assets/pics/lake/americo-gallego-argentina-fob.jpg"
 header-img: "/assets/pics/lake/Gallego_newells_poster.jpg"
