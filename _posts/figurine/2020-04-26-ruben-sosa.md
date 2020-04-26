@@ -11,8 +11,8 @@ player: Rubén Sosa Ardaiz
 life: Attaccante, nato a Montevideo (Uruguay), 25 aprile 1966
 wikipedia: Rubén_Sosa_Ardaiz
 instagram: B_ajYqTjvdq
-excerpt: '"Ruben Sosa di tattica el capìss nient, ma se continua a fare gol, mi sta
-  benissimo!"(Osvaldo Bagnoli)'
+excerpt: "“Ruben Sosa di tattica el capìss nient, ma se continua a fare gol, mi sta
+  benissimo!” (Osvaldo Bagnoli)"
 hashtags: RealZaragoza,Lazio,InterMilan,Nacional
 sticker-img: "/assets/pics/lake/Ruben-Sosa-Italia-90-372.jpg"
 header-img: "/assets/pics/lake/Serie_A_1992-93_-_Cagliari_vs_Inter_-_Enzo_Francescoli_e_Rubén_Sosa.jpg"
