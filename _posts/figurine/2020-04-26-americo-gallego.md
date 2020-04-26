@@ -17,7 +17,6 @@ hashtags: Newells,RiverPlate
 sticker-img: "/assets/pics/lake/americo-gallego-argentina-fob.jpg"
 header-img: "/assets/pics/lake/Gallego_newells_poster.jpg"
 sources: "* Américo Gallego while playing for Newell's OB - [via Wikipedia](https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%90%E1%83%98%E1%83%9A%E1%83%98:Gallego_newells_poster.jpg)"
-published: false
 
 ---
 Rubén nasce a Morteros nel 1955; debutta con il Newell’s Old Boys in Primera División il 15 Dicembre 1974, in occasione di un match vinto per 3-1 sul Talleres. Dopo un primo anno da riserva, nella stagione 1975 diventa titolare e segna il suo primo gol in campionato contro il Gimnasia y Esgrima.
