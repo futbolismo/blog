@@ -21,7 +21,6 @@ sources: "* Cagliari, stadio Sant'Elia, 7 febbraio 1993. Enzo Francescoli al tir
   tra Cagliari e Inter (0-0) valevole per la 19ª giornata del campionato italiano
   di Serie A 1992-93; nell'occasione Sosa indossa la seconda divisa dell'epoca del
   club interista, bianca con dettagli nerazzurri - [via Wikipedia](https://it.wikipedia.org/wiki/File:Serie_A_1992-93_-_Cagliari_vs_Inter_-_Enzo_Francescoli_e_Rub%C3%A9n_Sosa.jpg)"
-published: false
 
 ---
 "R _uben Sosa di tattica el capìss nient, ma se continua a fare gol, mi sta benissimo!_"  
