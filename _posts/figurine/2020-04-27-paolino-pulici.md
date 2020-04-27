@@ -17,7 +17,6 @@ hashtags: Torino, Udinese, Fiorentina
 sticker-img: "/assets/pics/lake/pulici_figurina.jpg"
 header-img: "/assets/pics/lake/pulici_rovesciata.jpg"
 sources: "* 22 febbraio 1976 Torino-Ascoli 3-1 Rovesciata di Pulici - [via Pinterest](https://www.pinterest.co.uk/pin/340936634283172472/)"
-published: false
 
 ---
 “S _ono nato a Roncello, un dormitorio di Milano come molti paesi qui intorno. Non c’era nemmeno l’oratorio, giocavo in piazza della chiesa. Una porta era quella dell’asilo, l’altra quella di una casa. Trovo ancora qualcuno che mi rinfaccia d’aver rotto un vetro a sua nonna o a sua zia. Tiravo solo di destro. Sono cresciuto in una famiglia milanista ma il mio idolo era Gigi Riva. A 15 anni correvo i 100 in 10″5 con le scarpe da calcio. E a 15 anni faccio i primi allenamenti veri.  
