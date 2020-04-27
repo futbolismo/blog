@@ -25,6 +25,7 @@ E arriva il giorno del provino con l’Inter, sul campo di Rogoredo, con altri r
 “L’11 è troppo veloce per giocare a calcio, meglio che si dia all’atletica”.  
 L’11 ero io, e ci rimasi male.  
 Poi arrivò la chiamata del Torino.  
-Mia madre aveva dei dubbi: è troppo lontano da casa, farai la vita del barbone. Invece ci sono rimasto 17 anni, bellissimi e lunghissimi, finché non sono passato dal ruolo di insostituibile a quello di inutile. Il presidente Pianelli per noi era come un padre. Cedette il club ma mi lasciò il cartellino. Forse per questo Moggi mi fece fuori col pretesto che ero vecchio. Avevo 32 anni e al posto mio presero Selvaggi che ne aveva 30._”  
-.  
+Mia madre aveva dei dubbi: è troppo lontano da casa, farai la vita del barbone. Invece ci sono rimasto 17 anni, bellissimi e lunghissimi, finché non sono passato dal ruolo di insostituibile a quello di inutile. Il presidente Pianelli per noi era come un padre. Cedette il club ma mi lasciò il cartellino. Forse per questo Moggi mi fece fuori col pretesto che ero vecchio. Avevo 32 anni e al posto mio presero Selvaggi che ne aveva 30._”
+
+  
 “_Contro la Juve era una battaglia particolare. Cuccureddu diceva che nel derby mi diventavano granata anche gli occhi. Ma eravamo amici, avevamo fatto il militare insieme. Una volta in uno scontro con Scirea mi ruppi il naso. Quando mi risvegliai all’ospedale, dopo l’operazione, la prima faccia che vidi, oltre a quella di mia moglie, era di Scirea. Un grande, Gaetano. Su lui non saremmo mai andati in pressione. La parola pressing non era ancora arrivata, ma Radice ci diceva di andare in pressione sul difensore più scarso di piede. Nella Juve Morini, nell’Inter Baresi. Si cercava l’anello debole._”
