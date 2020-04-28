@@ -12,7 +12,7 @@ life: Attaccante. Buenos Aires, 4 luglio 1926 – Madrid, 7 luglio 2014
 
 story_type: quote
 
-disclaimer_text: hidden
+disclaimer_text: visible
 
 author: Francesco Mistrulli
 category: miserie
