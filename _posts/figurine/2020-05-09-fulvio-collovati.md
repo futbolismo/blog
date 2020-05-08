@@ -33,3 +33,5 @@ Realizza la prima rete in azzurro il 16 febbraio 1980, in Italia-Romania (2-1) g
 Due anni dopo Fulvio è tra i protagonisti della vittoriosa spedizione azzurra al campionato del mondo 1982, dove gioca, da titolare e con ottimo rendimento, tutte le gare della manifestazione fino alla finale dell'11 luglio 1982, vinta 3-1 contro la Germania Ovest.
 
 Dopo il Mondiale di Spagna partecipa al campionato del mondo 1986 in Messico dove viene impiegato unicamente nella terza gara del girone, la partita del 10 giugno vinta 3-2 contro la Corea del Sud, che rimane la sua ultima presenza in maglia azzurra. Con la nazionale Fulvio totalizza 50 presenze e realizza 3 gol.
+
+![](/assets/pics/lake/carriera-collovati.png)
