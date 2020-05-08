@@ -18,7 +18,6 @@ hashtags: ACMilan, InterMilan, Udinese, Roma
 sticker-img: "/assets/pics/lake/figurina-collovati.jpg"
 header-img: "/assets/pics/lake/Italia_vs_Paesi_Bassi_(Milano,_1979)_-_Fulvio_Collovati.jpg"
 sources: ''
-published: false
 
 ---
 “S _i parla sempre del gol di Hateley nel derby, non ci ho dormito la notte, io preferisco ricordare i momenti belli, la Stella del decimo Scudetto con il Milan. Io in quella foto ci sono!_”
