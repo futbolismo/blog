@@ -16,7 +16,6 @@ hashtags: leedsunited, LUFC
 sticker-img: "/assets/pics/lake/figurina_jack_charlton.jpg"
 header-img: "/assets/pics/lake/CharltonKrol1969.jpg"
 sources: "* Nederland tegen Engeland 0-1. Jack Charlton en Ruud Krol - [via Wikipedia](https://commons.wikimedia.org/wiki/File:CharltonKrol1969.jpg)"
-published: false
 
 ---
 “L _a gente dice che il Leeds United avrebbe dovuto vincere molto di più - e forse avremmo vinto molto di più, se non fossimo stati in corsa in ogni competizione fino alla fine di ogni stagione, cioè, ci siamo dovuti abituare a perdere qualcosa. È vero, c’è stata tanta delusione, ma c’è stato anche un sacco di orgoglio, orgoglio e passione e disciplina che hanno tenuto unita la famiglia del Leeds quando invece sarebbe potuto crollare tutto in un attimo._”
