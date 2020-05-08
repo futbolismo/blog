@@ -16,7 +16,7 @@ excerpt: "“Si parla sempre del gol di Hateley nel derby, non ci ho dormito la 
   Io in quella foto ci sono!”"
 hashtags: ACMilan, InterMilan, Udinese, Roma
 sticker-img: "/assets/pics/lake/figurina-collovati.jpg"
-header-img: "/assets/pics/lake/Italia_vs_Paesi_Bassi_Milano_1979_Fulvio_Collovati2.jpg"
+header-img: "/assets/pics/lake/Italia_Euro_80.jpg"
 sources: ''
 
 ---
@@ -25,6 +25,8 @@ sources: ''
 Fulvio esordisce in nazionale il 24 febbraio 1979, a 21 anni, nella partita amichevole Italia-Olanda (3-0) disputata a Milano.
 
 Realizza la prima rete in azzurro il 16 febbraio 1980, in Italia-Romania (2-1) giocata a Napoli. Nonostante la retrocessione in serie cadetta con il Milan, le sue prestazioni convincono il commissario tecnico Enzo Bearzot a convocarlo per il campionato d'Europa 1980 dove l'Italia, paese ospitante, si classifica quarta.
+
+![](/assets/pics/lake/Italia_vs_Paesi_Bassi_Milano_1979_Fulvio_Collovati.jpg)
 
 Due anni dopo Fulvio è tra i protagonisti della vittoriosa spedizione azzurra al campionato del mondo 1982, dove gioca, da titolare e con ottimo rendimento, tutte le gare della manifestazione fino alla finale dell'11 luglio 1982, vinta 3-1 contro la Germania Ovest.
 
