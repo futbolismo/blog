@@ -11,7 +11,7 @@ player: " John Charlton"
 life: Difensore, Ashington (UK) 8 maggio 1935
 wikipedia: Jack_Charlton
 instagram: BxNh9mgBaJ5
-excerpt: "“Can we go now please? I’d like a beer”"
+excerpt: "“Il calcio è una cosa seria e le donne non hanno nulla a che vederci.”"
 hashtags: leedsunited, LUFC
 sticker-img: "/assets/pics/lake/figurina_jack_charlton.jpg"
 header-img: "/assets/pics/lake/CharltonKrol1969.jpg"
