@@ -26,7 +26,7 @@ Fulvio esordisce in nazionale il 24 febbraio 1979, a 21 anni, nella partita amic
 
 Realizza la prima rete in azzurro il 16 febbraio 1980, in Italia-Romania (2-1) giocata a Napoli. Nonostante la retrocessione in serie cadetta con il Milan, le sue prestazioni convincono il commissario tecnico Enzo Bearzot a convocarlo per il campionato d'Europa 1980 dove l'Italia, paese ospitante, si classifica quarta.
 
-![](/assets/pics/lake/Italia_vs_Paesi_Bassi_Milano_1979_Fulvio_Collovati.jpg)
+![>](https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Italia_vs_Paesi_Bassi_%28Milano%2C_1979%29_-_Fulvio_Collovati.jpg/448px-Italia_vs_Paesi_Bassi_%28Milano%2C_1979%29_-_Fulvio_Collovati.jpg "Fulvio Collovati"){:.responsive-img.border.w50.margin-1em}
 
 Due anni dopo Fulvio è tra i protagonisti della vittoriosa spedizione azzurra al campionato del mondo 1982, dove gioca, da titolare e con ottimo rendimento, tutte le gare della manifestazione fino alla finale dell'11 luglio 1982, vinta 3-1 contro la Germania Ovest.
 
