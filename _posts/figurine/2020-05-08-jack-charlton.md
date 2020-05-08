@@ -15,7 +15,7 @@ excerpt: "“Can we go now please? I’d like a beer”"
 hashtags: leedsunited, LUFC
 sticker-img: "/assets/pics/lake/figurina_jack_charlton.jpg"
 header-img: "/assets/pics/lake/CharltonKrol1969.jpg"
-sources: ''
+sources: "* Nederland tegen Engeland 0-1. Jack Charlton en Ruud Krol - [via Wikipedia](https://commons.wikimedia.org/wiki/File:CharltonKrol1969.jpg)"
 published: false
 
 ---
