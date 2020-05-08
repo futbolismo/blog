@@ -19,8 +19,11 @@ sources: "* Nederland tegen Engeland 0-1. Jack Charlton en Ruud Krol - [via Wiki
 published: false
 
 ---
-“L _a gente dice che il Leeds United avrebbe dovuto vincere molto di più - e forse avremmo vinto molto di più, se non fossimo stati in corsa in ogni competizione fino alla fine di ogni stagione, cioè, ci siamo dovuti abituare a perdere qualcosa. È vero, c’è stata tanta delusione, ma c’è stato anche un sacco di orgoglio, orgoglio e passione e disciplina che hanno tenuto unita la famiglia del Leeds quando invece sarebbe potuto crollare tutto in un attimo._”  
-.  
+“L _a gente dice che il Leeds United avrebbe dovuto vincere molto di più - e forse avremmo vinto molto di più, se non fossimo stati in corsa in ogni competizione fino alla fine di ogni stagione, cioè, ci siamo dovuti abituare a perdere qualcosa. È vero, c’è stata tanta delusione, ma c’è stato anche un sacco di orgoglio, orgoglio e passione e disciplina che hanno tenuto unita la famiglia del Leeds quando invece sarebbe potuto crollare tutto in un attimo._”
+
+“_Il calcio è una cosa seria e le donne non hanno nulla a che vederci._”
+
+  
 “_Big Jack_” è il fratello maggiore di Bobby, attaccante del Manchester United. Insieme i due fratelli Charlton giocano solo in nazionale, e nel 1966 vincono la storica Coppa del Mondo nello stadio di Wembley.
 
   
