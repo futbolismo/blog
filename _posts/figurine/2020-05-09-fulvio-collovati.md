@@ -34,4 +34,8 @@ Due anni dopo Fulvio è tra i protagonisti della vittoriosa spedizione azzurra a
 
 Dopo il Mondiale di Spagna partecipa al campionato del mondo 1986 in Messico dove viene impiegato unicamente nella terza gara del girone, la partita del 10 giugno vinta 3-2 contro la Corea del Sud, che rimane la sua ultima presenza in maglia azzurra. Con la nazionale Fulvio totalizza 50 presenze e realizza 3 gol.
 
-![](/assets/pics/lake/carriera-collovati.png)
+<div style="margin-top: 50px;">
+<h3>La carriera di {{page.player}} visualizzata in un grafico</h3>
+<a href="/leggende-bandiere-e-giramondo" title="La carriera di {{page.player}} visualizzata in un grafico"><img class="responsive-img w100 border" src="{{site.baseurl}}/assets/pics/lake/carriera-collovati.png" alt="La carriera di {{page.player}} in un grafico"/></a>
+</div>
+Apri <a href="/leggende-bandiere-e-giramondo" title="La carriera di {{page.player}} visualizzata in un grafico">Leggende, bandiere e giramondo</a> per consultare le carriere di altri giocatori.
