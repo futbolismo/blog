@@ -17,7 +17,9 @@ excerpt: "“Si parla sempre del gol di Hateley nel derby, non ci ho dormito la 
 hashtags: ACMilan, InterMilan, Udinese, Roma
 sticker-img: "/assets/pics/lake/figurina-collovati.jpg"
 header-img: "/assets/pics/lake/Italia_Euro_80.jpg"
-sources: ''
+sources: |-
+  * Milano, stadio Giuseppe Meazza, 12 giugno 1980. La formazione dell'Italia scesa in campo nella sfida contro la Spagna (0-0) valevole per la fase a gironi del campionato d'Europa 1980. Da sinistra, in piedi: F. Causio, D. Zoff (capitano), F. Collovati, G. Scirea, R. Bettega, C. Gentile; accosciati: F. Graziani, A. Cabrini, G. Oriali, G. Antognoni, M. Tardelli. - [via Wikipedia](https://it.wikipedia.org/wiki/File:Italia,_Euro_%2780.jpg)
+  * Milano, stadio San Siro, 24 febbraio 1979. Fulvio Collovati in azione nel corso dell'amichevole tra Italia e Paesi Bassi (3-0). - [via Wikipedia](https://it.wikipedia.org/wiki/File:Italia_vs_Paesi_Bassi_(Milano,_1979)_-_Fulvio_Collovati.jpg)
 
 ---
 “S _i parla sempre del gol di Hateley nel derby, non ci ho dormito la notte, io preferisco ricordare i momenti belli, la Stella del decimo Scudetto con il Milan. Io in quella foto ci sono!_”
