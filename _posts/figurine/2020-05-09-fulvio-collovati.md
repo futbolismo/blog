@@ -16,7 +16,7 @@ excerpt: "“Si parla sempre del gol di Hateley nel derby, non ci ho dormito la 
   Io in quella foto ci sono!”"
 hashtags: ACMilan, InterMilan, Udinese, Roma
 sticker-img: "/assets/pics/lake/figurina-collovati.jpg"
-header-img: "/assets/pics/lake/Italia_vs_Paesi_Bassi_Milano_1979_Fulvio_Collovati.jpg"
+header-img: "/assets/pics/lake/Italia_vs_Paesi_Bassi_Milano_1979_Fulvio_Collovati2.jpg"
 sources: ''
 
 ---
