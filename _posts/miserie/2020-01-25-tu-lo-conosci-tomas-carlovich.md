@@ -8,7 +8,7 @@ player: Tomás Felipe Carlovich
 player_short: Tomás Carlovich
 
 wikipedia: Tom%C3%A1s_Carlovich
-life: Centrocampista, nato a Rosario (Argentina), 20 aprile 1949
+life: Centrocampista, Rosario, 20 aprile 1949 – Rosario, 8 maggio 2020
 
 story_type: quote
 
@@ -117,6 +117,15 @@ var carlovich=[
                     timestamps:[new Date(1949,4-1,20)],
                     text:{
                         body:"Il 20 aprile 1949, a Rosario (Argentina), nasce {{page.player}} <i>El Trinche</i>",
+                        link:null
+                    }
+                },
+                {
+                    type:"birth",
+                    category:"event",
+                    timestamps:[new Date(2020,5-1,8)],
+                    text:{
+                        body:"Ci lascia a 71 anni nella sua amata Rosario, l'8 maggio 2020",
                         link:null
                     }
                 },
