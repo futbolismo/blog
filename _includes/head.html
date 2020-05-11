@@ -58,14 +58,18 @@
 	<meta property="article:published_time" content="{{ time | date_to_xmlschema }}"/>
 	<meta property="og:title" content="{{title}}"/>
 	<meta property="og:site_name" content="Futbolismo.it"/>
-  <meta name="author" content="Futbolismo.it" />
+  {% if page.author != nil %}
+    <meta name="author" content="{{page.author}} - Futbolismo.it" />
+  {% else %}
+    <meta name="author" content="Futbolismo.it" />
+  {% endif %}
 	<meta name="twitter:site" content="@ftblsm"/>
 	<meta name="twitter:card" content="summary"/>
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/assets/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="{{site.url}}/assets/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="{{site.url}}/assets/favicon-16x16.png">
-  <link rel="manifest" href="{{site.url}}/assets/site.webmanifest">
+  <link rel="manifest" href="{{site.url}}/assets/manifest.json">
   <link rel="mask-icon" href="{{site.url}}/assets/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
