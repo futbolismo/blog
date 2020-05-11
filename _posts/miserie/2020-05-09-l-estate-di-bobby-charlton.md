@@ -20,11 +20,11 @@ timeline_data: charlton
 
 dialog: left5 white
 
-description: "“Il problema al mio arrivo fu quello di dover fare dimenticare Weah, anche perché quel Liberiano era proprio un'ira di Dio!”"
+description: "“Era l'estate di Bobby Charlton, quando m'innamorai del centravanti della nazionale inglese...” di Enzo D'Orsi @Edorsi53"
 
-excerpt: "“Era dunque l'estate di Bobby Charlton, quando m'innamorai del centravanti della nazionale inglese..”<br/>"
+excerpt: "“Era dunque l'estate di Bobby Charlton, quando m'innamorai del centravanti della nazionale inglese...”<br/>"
 excerpt_author: di Enzo D'Orsi
-hashtags: FCNantes,ASMonaco
+hashtags: MUFC
 
 ---
 “L'estate di Bobby Charlton”, è il titolo di un film italiano dimenticato e dimenticabile nel quale si racconta la vicenda drammatica di una famiglia durante il mondiale del 1966 in Inghilterra. Quel nome, Bobby cioè Robert, e quel cognome, Charlton, sono soltanto un pretesto per collocare la storia in un tempo preciso: il luglio del 1966.
