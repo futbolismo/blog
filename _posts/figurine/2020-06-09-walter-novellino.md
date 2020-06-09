@@ -13,7 +13,7 @@ wikipedia: Walter_Novellino
 instagram: CBDNulkjZn9
 excerpt: "“Ti presento uno che assomiglia a Monzón, attento, questo picchia.” (Giorgio
   Ferrini)"
-hashtags: milan, perugia, ascoli
+hashtags: milan,perugia,ascoli
 sticker-img: "/assets/pics/lake/novellino.png"
 header-img: "/assets/pics/lake/italia_vs_turchia_-_firenze_-_1978_-_walter_novellino.jpg"
 sources: '* Firenze, stadio Comunale, 23 settembre 1978. Walter Novellino in azione
