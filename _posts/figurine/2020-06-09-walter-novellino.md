@@ -19,7 +19,6 @@ header-img: "/assets/pics/lake/italia_vs_turchia_-_firenze_-_1978_-_walter_novel
 sources: '* Firenze, stadio Comunale, 23 settembre 1978. Walter Novellino in azione
   nel corso della sfida amichevole tra Italia e Turchia (1-0) - fonte Le partite della
   Nazionale azzurra, "La nostra Serie A negli anni 70" - [via Wikipedia]()'
-published: false
 
 ---
 Walter è un centrocampista dalle spiccate doti offensive, Ilario Castagner lo impiega da mezzapunta nel Perugia o da ala tornante; trascorre l'infanzia a San Paolo del Brasile, dove emigra con la famiglia al seguito del padre in cerca di lavoro.
