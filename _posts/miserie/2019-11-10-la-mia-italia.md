@@ -68,7 +68,7 @@ Mi sono impegnato sempre a fondo per dimostrare di essere utile alla squadra, ma
 Ah, e ventiquattro milioni.
 
 <div class="post-disclaimer">
-Illustrazione di Alessandro Bolettieri per Fútbolismo &copy; Tutti i diritti riservati
+Illustrazione di <a href="https://www.linkedin.com/in/alessandro-bolettieri-95821998/" target="_blank" title="Alessandro Bolettieri su Linkedin">Alessandro Bolettieri</a> per Fútbolismo &copy; Tutti i diritti riservati
 </div>
 
 <div class="post-disclaimer">

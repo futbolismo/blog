@@ -84,7 +84,7 @@ Vedete, nella vita spesso c'è solo bisogno che qualcuno creda nelle tue capacit
 
 
 <div class="post-disclaimer">
-Illustrazione di Alessandro Bolettieri per Fútbolismo &copy; Tutti i diritti riservati
+Illustrazione di <a href="https://www.linkedin.com/in/alessandro-bolettieri-95821998/" target="_blank" title="Alessandro Bolettieri su Linkedin">Alessandro Bolettieri</a> per Fútbolismo &copy; Tutti i diritti riservati
 </div>
 
 <div class="post-disclaimer">
