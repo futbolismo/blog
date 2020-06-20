@@ -12,7 +12,7 @@ life: 'Centrocampista,  Verona, 25 agosto 1941 – Milano, 20 giugno 2020 '
 wikipedia: Mario_Corso
 instagram: CBpnmySjZ7X
 excerpt: "“Meglio un piede solo che due scarsi, è il mio motto.”"
-hashtags: inter, genoa
+hashtags: InterMilan,GenoaCFC
 sticker-img: "/assets/pics/lake/mario-corso.jpg"
 header-img: "/assets/pics/lake/mario-corso-header.jpg"
 sources: "* Milan (Italy), San Siro, March 8, 1970. Milan A.C. — F.C. Internazionale
@@ -20,7 +20,6 @@ sources: "* Milan (Italy), San Siro, March 8, 1970. Milan A.C. — F.C. Internaz
   winger Mario Corso (right) beats Milan's goalkeeper Villiam Vecchi (no. 12) and
   scores at 80' the winning-goal for his team; observe the action, Milan's Giovanni
   Lodetti and, in the background, teammate Giovanni Trapattoni. [via Wikipedia](https://commons.wikimedia.org/wiki/File:1969%E2%80%9370_Serie_A_-_AC_Milan_v_Inter_Milan_-_Corso%27s_goal.jpg)"
-published: false
 
 ---
 Ciao Mandrake.  
