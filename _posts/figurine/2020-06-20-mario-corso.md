@@ -1,7 +1,7 @@
 ---
 layout: post-sticker
 header: large-picture
-header_mobile: 50%
+header_mobile: 80%
 author: none
 category: figurine
 timeline: 0
@@ -15,7 +15,11 @@ excerpt: "“Meglio un piede solo che due scarsi, è il mio motto.”"
 hashtags: inter, genoa
 sticker-img: "/assets/pics/lake/mario-corso.jpg"
 header-img: "/assets/pics/lake/mario-corso-header.jpg"
-sources: ''
+sources: "* Milan (Italy), San Siro, March 8, 1970. Milan A.C. — F.C. Internazionale
+  Milano 0-1, Matchday 23 of the Italian League 1969–70 Serie A: Internazionale's
+  winger Mario Corso (right) beats Milan's goalkeeper Villiam Vecchi (no. 12) and
+  scores at 80' the winning-goal for his team; observe the action, Milan's Giovanni
+  Lodetti and, in the background, teammate Giovanni Trapattoni. [via Wikipedia](https://commons.wikimedia.org/wiki/File:1969%E2%80%9370_Serie_A_-_AC_Milan_v_Inter_Milan_-_Corso%27s_goal.jpg)"
 published: false
 
 ---
