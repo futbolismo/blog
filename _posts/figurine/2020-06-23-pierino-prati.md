@@ -20,8 +20,8 @@ sources: "* Gianni Rivera e Pierino Prati durante la stagione 1968–69 - [via W
 published: false
 
 ---
-“Il mio idolo da bambino era Pierino Prati. Mancino come me, guascone, atipico.” (Antonio Cabrini)
+“_Il mio idolo da bambino era Pierino Prati. Mancino come me, guascone, atipico._” (Antonio Cabrini)
 
-“È stato una delle ultime punte vere del calcio italiano. Dotato di un tiro micidiale, ottimo nella corsa, praticamente nato in area di rigore, nel senso che nei sedici metri aveva il fiuto per il magico momento del gol, credo sia stato secondo soltanto a Gigi Riva”. (Sergio Barbero)
+“_È stato una delle ultime punte vere del calcio italiano. Dotato di un tiro micidiale, ottimo nella corsa, praticamente nato in area di rigore, nel senso che nei sedici metri aveva il fiuto per il magico momento del gol, credo sia stato secondo soltanto a Gigi Riva_”. (Sergio Barbero)
 
-“Quel Milan-Ajax 4-1, è un ricordo indelebile. Quei tre gol indimenticabili. È un record che, dopo tanti anni, ancora mi appartiene. E ne sono fiero. Eravamo una squadra straordinaria. Una squadra che, purtroppo, è durata poco, perché la maggior parte dei giocatori era a fine carriera. Ma in quei due anni, a livello nazionale, europeo ed anche mondiale, si dimostrò la squadra più forte. Incontrammo una squadra che era una novità, che era giunta in finale come una sorpresa. Quella era una squadra nuova che, dopo due anni, avrebbe poi dominato a livello europeo per parecchio tempo. È chiaro che noi eravamo i favoriti e facemmo si che il pronostico venisse rispettato.” (Pierino Prati)
+“_Quel Milan-Ajax 4-1, è un ricordo indelebile. Quei tre gol indimenticabili. È un record che, dopo tanti anni, ancora mi appartiene. E ne sono fiero. Eravamo una squadra straordinaria. Una squadra che, purtroppo, è durata poco, perché la maggior parte dei giocatori era a fine carriera. Ma in quei due anni, a livello nazionale, europeo ed anche mondiale, si dimostrò la squadra più forte. Incontrammo una squadra che era una novità, che era giunta in finale come una sorpresa. Quella era una squadra nuova che, dopo due anni, avrebbe poi dominato a livello europeo per parecchio tempo. È chiaro che noi eravamo i favoriti e facemmo si che il pronostico venisse rispettato._” (Pierino Prati)
