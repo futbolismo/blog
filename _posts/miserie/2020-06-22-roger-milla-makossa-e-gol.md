@@ -116,6 +116,10 @@ Mesdames et Messieurs, voilà Roger Milla. E ora scateniamoci tutti a ritmo di _
 Ps: la squadra che passò il turno a Spagna '82 per una differenza migliore a scapito del Camerun fu l'Italia, che poi vinse il Mondiale.
 
 <div class="post-disclaimer">
+Illustrazione a cura di Fútbolismo &copy; Tutti i diritti riservati
+</div>
+
+<div class="post-disclaimer">
   <b>Fotografie e video</b>
   <ol>
     <li>	Napoli, stadio San Paolo, 3 luglio 1990. La formazione dell'Italia scesa in campo contro l'Argentina nella semifinale del campionato del mondo 1990. Da sinistra, in piedi: W. Zenga, P. Maldini, F. De Napoli, R. Ferri, G. Bergomi (capitano); accosciati: F. Baresi, G. Giannini, R. Donadoni, S. Schillaci, G. Vialli, L. De Agostini - <a href="https://it.wikipedia.org/wiki/File:Roger_Milla_-_Italia_%2790.jpg" target="_blank">via Wikipedia</a></li>

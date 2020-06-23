@@ -99,6 +99,10 @@ Ps: dopo il suo ritiro, il Southampton non ha mai ritirato la maglia numero 7 di
 **Di eredi di Matthew Le Tissier, _obviously_, nessuna traccia.**
 
 <div class="post-disclaimer">
+Illustrazione a cura di Fútbolismo &copy; Tutti i diritti riservati
+</div>
+
+<div class="post-disclaimer">
   <b>Fotografie e video</b>
   <ol>
     <li>Matt Le Tissier Top Ten Goals - <a href="https://vimeo.com/25813971" target="_blank">via Vimeo</a></li>
