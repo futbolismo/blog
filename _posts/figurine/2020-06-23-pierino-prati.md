@@ -19,7 +19,6 @@ header-img: "/assets/pics/lake/finale_europa_cup_ii_ac_milan_tegen_hsv_hamburg_2
 sources: |-
   * Prati in azione al Milan, contro l'Amburgo, durante la finale di Coppa delle Coppe 1967-1968 a Rotterdam - [via Wikipedia](https://it.wikipedia.org/wiki/Pierino_Prati#/media/File:Finale_Europa_Cup_II_AC_Milan_tegen_HSV_Hamburg_2-0._Spelmomenten,_Bestanddeelnr_921-3782.jpg)
   * Gianni Rivera e Pierino Prati durante la stagione 1968–69 - [via Wikipedia](https://commons.wikimedia.org/wiki/File:1968%E2%80%9369_Milan_AC_-_Gianni_Rivera_and_Pierino_Prati.jpg)
-published: false
 
 ---
 “_Il mio idolo da bambino era Pierino Prati. Mancino come me, guascone, atipico._” (Antonio Cabrini)
