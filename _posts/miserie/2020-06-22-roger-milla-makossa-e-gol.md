@@ -25,7 +25,7 @@ excerpt: "Entrò nella case degli italiani ballando al ritmo della <i>makossa</i
 
 description: "Entrò nella case degli italiani ballando al ritmo della makossa davanti alla bandierina del calcio d'angolo."
 
-hashtags: Italia90, Cameroon
+hashtags: Italia90,Cameroon
 
 ---
 L'8 giugno 1990 per l'Italia fu un giorno importantissimo. Un giorno speciale che mise il nostro Paese al centro del Mondo.
