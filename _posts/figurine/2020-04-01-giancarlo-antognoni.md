@@ -13,7 +13,7 @@ wikipedia: Giancarlo_Antognoni
 instagram: B-coSjuIeHH
 excerpt: "“Antognoni è co­me il campanile di Giotto, appar­tiene alla città di Firenze,
   essen­do un monumento nazionale non si può vendere.” (Presidente Ugolini)"
-hashtags: 'Fiorentina, ForzaViola '
+hashtags: 'Fiorentina,ForzaViola '
 sticker-img: "/assets/pics/lake/antognoni_sticker.png"
 header-img: "/assets/pics/lake/1978_FIFA_World_Cup_-_Italy_v_France_-_Giancarlo_Antognoni_shooting.jpg"
 sources: "* Giancarlo Antognoni in azione contro la Francia durante il girone del
