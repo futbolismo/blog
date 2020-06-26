@@ -1,7 +1,7 @@
 ---
 layout: post-sticker
 header: large-picture
-header_mobile: 60%
+header_mobile: 63%
 author: none
 category: figurine
 timeline: 0
@@ -17,7 +17,6 @@ sticker-img: "/assets/pics/lake/arconada.png"
 header-img: "/assets/pics/lake/coppa_uefa_1979-80_-_inter_vs_real_sociedad_-_luis_arconada.jpg"
 sources: "* Arconada alla Real Sociedad nel 1979, battuto dal tiro di Gianpiero Marini
   nella sfida di Coppa UEFA in casa dell'Inter - [via Wikipedia](https://it.wikipedia.org/wiki/Luis_Arconada#/media/File:Coppa_UEFA_1979-80_-_Inter_vs_Real_Sociedad_-_Luis_Arconada.jpg)"
-published: false
 
 ---
 Nasce a San Sebastián Luis e inizia a giocare nel Lengokoak, squadra della sua città natale, dalla quale passa alla Real Sociedad nel 1970. Dopo essersi fatto le ossa per varie stagioni nel San Sebastián CF, squadra satellite della Real Sociedad, viene promosso in prima squadra nel 1974 appena compiuti i 20 anni. All'inizio gli altri due grandi portieri della Real Sociedad, Pedro María Artola e Urruti, gli chiudono lo spazio da titolare, nel 1975 Artola passa al Barcellona e Luís diventa il secondo portiere: debutta in una partita di Coppa UEFA contro il Liverpool il 22 ottobre 1975. In quella stagione ottiene il posto da titolare durante l'ultima parte della Liga.
