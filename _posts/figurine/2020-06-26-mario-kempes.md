@@ -13,10 +13,11 @@ wikipedia: Mario_Kempes
 instagram: CB2zgHlDwaH
 excerpt: "“Perché non ho stretto la mano a Videla? Nella confusione non me ne sono
   accorto.”"
-hashtags: Argentina
-sticker-img: ''
-header-img: ''
-sources: ''
+hashtags: mundial78,argentina,campeones,42años
+sticker-img: "/assets/pics/lake/mario-kempes.jpg"
+header-img: "/assets/pics/lake/kempes_versus_holanda.JPG"
+sources: "* Kempes, con la maglia dell'Argentina, esulta dopo la sua rete ai Paesi
+  Bassi nella finale dei vittoriosi Mondiali 1978 - [via Wikipedia](https://it.wikipedia.org/wiki/File:Kempes_versus_Holanda.JPG)"
 published: false
 
 ---
