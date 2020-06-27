@@ -16,6 +16,7 @@ excerpt: "La storia del calcio visualizzata attraverso le carriere dei suoi inte
   <div class="row fixed-header">
     <div class="header col-xs-12">
       <section>
+        <a class="iib-awards-badge" href="https://www.informationisbeautifulawards.com/showcase/4082" target="_blank" title="Information is Beautiful Awards 2019">Information is Beautiful Awards 2019</a>
         <h1>Leggende, <br class="hide"/>bandiere <br/>e giramondo</h1>
         <p>
           La storia del calcio raccontata attraverso le carriere<br/> dei suoi interpreti dal 1920 ad oggi.

@@ -1,6 +1,19 @@
 .essay {
   font-size: 16px;
   line-height: 22px;
+  position: relative;
+
+  a.iib-awards-badge {
+    display:block;
+    text-decoration:none;
+    width:100px;
+    height:130px;
+    background:url(https://infobawards.s3.amazonaws.com/2019/badges/w-2019.png) no-repeat top left;
+    background-size:100px;
+    text-indent: -2000px;
+    overflow: hidden;
+    margin: 0 auto;
+  }
 
   a.lang-link {
     display: block;

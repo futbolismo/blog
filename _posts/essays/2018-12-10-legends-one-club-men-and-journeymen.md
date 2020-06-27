@@ -16,6 +16,7 @@ excerpt: "The history of football visualized through the careers of its players 
   <div class="row fixed-header">
     <div class="header col-xs-12">
       <section>
+        <a class="iib-awards-badge" href="https://www.informationisbeautifulawards.com/showcase/4082" target="_blank" title="Information is Beautiful Awards 2019">Information is Beautiful Awards 2019</a>
         <h1>Legends, <br class="hide"/>One-club men <br/>and Journeymen</h1>
         <p>The history of football through the careers<br/> of its players from 1920 to today.</p>
         <div class="note">
@@ -51,6 +52,4 @@ excerpt: "The history of football visualized through the careers of its players 
     newJS.setAttribute("src","{{ site.baseurl }}/assets/transfers/"+mainJS);
     // console.log('js',newJS)
     document.querySelector("body").appendChild(newJS);
-
-  })
 </script>
