@@ -5,12 +5,12 @@ large_photo_header: true
 
 pid: neeskens
 postTitle: Totalmente ed universalmente Johan Neeskens
-player: Albert Roger Mooh Miller
-player_short: Roger Milla
+player: Johannes Jacobus Neeskens
+player_short: Johannes Neeskens
 
-wikipedia: Roger_Milla
+wikipedia: Johan_Neeskens
 # instagram: Bo6WeHOBqg5
-life: Attaccante, nato Yaoundé (Camerun) il 20 maggio 1952
+life: Centrocampista, nato ad Heemstede (Paesi Bassi), 15 settembre 1951
 
 story_type: quote
 disclaimer_text: hidden
@@ -24,7 +24,7 @@ dialog: right white black-text
 
 excerpt: "Sguardo da attore hollywoodiano con occhio azzurro, capello lungo biondo alle spalle e basette spesse..."
 
-description: "Entrò nella case degli italiani ballando al ritmo della makossa davanti alla bandierina del calcio d'angolo."
+description: "Sguardo da attore hollywoodiano con occhio azzurro, capello lungo biondo alle spalle e basette spesse..."
 
 hashtags: Italia90,Cameroon
 
@@ -32,6 +32,8 @@ hashtags: Italia90,Cameroon
 Heemstede è una cittadina di 25mila abitanti sita nell'Olanda settentrionale, una delle 12 province dei Paesi Bassi. Bagnata dal fiume Spaarne, è in un territorio totalmente pianeggiante come il resto del Paese. Calcisticamente, è presente una squadra di calcio, il Racing Club Heemstede, fino ai primi anni Settanta in Eerste Divisie.
 
 Tra il 1968 ed il 1970 vi militò uno dei giocatori più iconici non solo del calcio olandese degli anni Settanta, ma uno di quelli che hanno fatto grande l'Ajax, il Barcellona e la Nazionale _oranje_ in quella fantastica orgia di gioco ed emozioni che è stato il Mondiale tedesco occidentale del 1974. Nella tranquilla cittadina pianeggiante nacque, sabato 15 settembre 1951, il &quot;leone di Heemstede&quot;, Johan Neeskens.
+
+<img class="responsive-img border w50 margin-1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Johan_Neeskens_1974.jpg/450px-Johan_Neeskens_1974.jpg" alt="Johan Neeskens" align="right">
 
 Sguardo da attore hollywoodiano con occhio azzurro, capello lungo biondo alle spalle e basette spesse tipiche del periodo, Neeskens è stato parte integrante della triade Calcio totale-Rinus Michels-Arancia meccanica del calcio. Di questi si è detto e scritto di tutto: difensori che attaccavano, attaccanti che difendevano ed ogni elemento in campo capace di giocare in ogni posizione; l'allenatore del secolo; una generazione di fenomeni.
 
@@ -51,15 +53,21 @@ Neeskens ovviamente accettò il trasferimento anche perché avrebbe giocato con 
 
 Il giovane Johan si buttò a capofitto negli allenamenti fisici mentre con la palla decise quasi di fare un passo indietro: non gioco, voglio vedere da voi come si gioca. E visti i compagni di squadra, impossibile biasimarlo: ti alleni con Cruijff, Keizer, Krol, Muhren, Suubier e Swart (il suo idolo) guardi, impari e poi riproduci.
 
-Neeskens però aveva paura di deludere tutti visto che il livello (tecnico quanto umano) però si era alzato rispetto a quando giocava nel Racing Club. Del resto, con una squadra di fenomeni, era facile non sentirsi un fenomeno. Johan Neeskens non fallì: rimase con i lancieri di Amsterdam quattro stagioni, giocando 171 partite, segnando 39 reti e, soprattutto, vincendo due titoli olandesi, due Coppe d'Olanda, tre Coppe dei Campioni consecutive, una Supercoppa europea e la Coppa Intercontinentale. Michels era riuscito nel suo intento: rendere l'Ajax un top team, vendicando la sconfitta di Madrid contro il Milan, sconfiggendolo addirittura 6-0 nella finale di ritorno di Supercoppa europea (dove Neeskens segnò il gol del momentaneo 3-0):
+Neeskens però aveva paura di deludere tutti visto che il livello (tecnico quanto umano) però si era alzato rispetto a quando giocava nel Racing Club. Del resto, con una squadra di fenomeni, era facile non sentirsi un fenomeno. Johan Neeskens non fallì: rimase con i lancieri di Amsterdam quattro stagioni, giocando 171 partite, segnando 39 reti e, soprattutto, vincendo due titoli olandesi, due Coppe d'Olanda, tre Coppe dei Campioni consecutive, una Supercoppa europea e la Coppa Intercontinentale. Michels era riuscito nel suo intento: rendere l'Ajax un top team, vendicando la sconfitta di Madrid contro il Milan, sconfiggendolo addirittura 6-0 nella finale di ritorno di Supercoppa europea (dove Neeskens segnò il gol del momentaneo 3-0).
+
+<img class="responsive-img border w100" src="https://upload.wikimedia.org/wikipedia/it/e/e4/Supercoppa_UEFA_1973_-_Milano%2C_1974_-_Milan_vs_Ajax_-_Suurbier%2C_Neeskens_e_Haan.jpg" alt="Finale di andata della Supercoppa UEFA 1973" align="right">
 
 Neeskens, che in maglia ajacide ebbe tutti i numeri dal 6 al 10, è stato il fulcro del gioco di quell'Ajax e con il &quot;gemello&quot; Cruijff divenne uno dei giocatori più forti e vincenti di quell'epoca. Un esempio di come tecnica, devozione, duttilità e professionalità rendono un calciatore l'uomo giusto, al posto giusto nel momento giusto. A 25 anni aveva già vinto tutto, a parte il Pallone d'oro, allora una questione di Cruijff. Cosa volere di più?
 
 Quell'Ajax, l'unica squadra che usava il fuorigioco non per timore verso l'avversario ma con l'intento di ripartire e arrivare dopo in gol, era Cruijff-dipendente perché il numero 14 di Betondorp era il genio della squadra, ma, a conti fatti, molto merito lo ha avuto proprio Neeskens,
 
+<img class="responsive-img border w100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ajax_tegen_Feyenoord%2C_vlnr_Neeskens%2C_Cruijff%2C_Israel%2C_Paele_en_Rep%2C_Bestanddeelnr_926-2587.jpg/800px-Ajax_tegen_Feyenoord%2C_vlnr_Neeskens%2C_Cruijff%2C_Israel%2C_Paele_en_Rep%2C_Bestanddeelnr_926-2587.jpg" alt="Ajax" align="right">
+
 I due &quot;gemelli&quot; si lasciarono nell'estate 1973: Cruijff voleva che fosse votato capitano della squadra, ma gli fu preferito Keizer. Cruijff lasciò Amsterdam per Barcellona firmando un contratto faraonico. Neeskens fu &quot;lasciato&quot; solo e quella stagione gli aiacidi arrivarono terzi in campionato ed in Coppa dei Campioni uscirono già negli ottavi per mano dei bulgari del CSKA Sofia. Non che fosse spaesato senza il numero 14, ma a Neeskens mancava qualcosa. Nonostante questo, quella fu la sua stagione in biancorosso più prolifica: merito anche del sostituto di Kovacs, Knobel, che lo fece giocare da punta. Da terzino a punta in quattro stagione: un vero monumento di duttilità ed eclettismo, questo Neeskens.
 
-Nonostante avesse ancora un contratto in essere con il club biancorosso, Neeskens prima dell'inizio del Mondiale tedesco occidentale trovò un accordo con un'altra squadra. E indovinate con quale? Il Barcellona, obviamente.
+Nonostante avesse ancora un contratto in essere con il club biancorosso, Neeskens prima dell'inizio del Mondiale tedesco occidentale trovò un accordo con un'altra squadra. E indovinate con quale? Il Barcellona, ovviamente.
+
+<img class="responsive-img border w100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Feyenoord_tegen_Barcelona_0-0%2C_Europacup_vlnr_Jansen_Neeskens_%28Barcelona%29%2C_%2C_Bestanddeelnr_927-5354.jpg/800px-Feyenoord_tegen_Barcelona_0-0%2C_Europacup_vlnr_Jansen_Neeskens_%28Barcelona%29%2C_%2C_Bestanddeelnr_927-5354.jpg" alt="Neeskens e Cruyff al Barcellona" align="right">
 
 Si ricomponeva ai piedi del &quot;Nou Camp&quot; la coppia d'oro dell'Ajax. I due Johan giocarono insieme quattro stagioni, come ad Amsterdam, e per due stagioni (1976-1978) furono ancora allenati da Rinus Michels: il maestro poté avere a sua disposizione gli allievi prediletti.
 
@@ -85,11 +93,15 @@ Ma non si può non parlare di Johan Neeskens e del Mondiale di Germania Ovest 19
 
 In base alla particolare assegnazione dei numeri secondo l'ordine alfabetico, Johan Neeskens ebbe il numero 13 (Cruijff, che sarebbe stato il primo, ebbe il suo iconico numero 14).
 
+<img class="responsive-img border w100" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bundesarchiv_Bild_183-N0716-0311%2C_Fu%C3%9Fball-WM%2C_BRD_-_Niederlande_2-1.jpg" alt="La Nazionale Olandese nella finale di Monaco 1974" align="right">
+
 Neeskens fece un Mondiale strepitoso, segnando ben cinque reti: due nella prima fase a gironi, due nella seconda fase ed uno in finale. E la sua rete quel 7 luglio 1974 fu una rete storica per due motivi: realizzò il gol più veloce in una finale di calcio mondiale; calciò il primo rigore in una finale mondiale in dieci edizioni.
 
 Storico fu anche come arrivò l'Olanda a procurarsi quel rigore: in meno di sessanta secondi dal calcio di inizio olandese, gli oranje con quindici tocchi consecutivi mandarono in area Cruijff in velocità da centrocampo. Questo fu fermato fallosamente da Hoeness: per l'arbitro inglese Taylor, rigore ineccepibile. Del resto, il difensore tedesco occidentale o faceva fallo o Cruijff avrebbe tirato in porta e magari segnato
 
 Dal dischetto, Neeskens: palla calciata forte al centro e Maier battuto. 1-0 Olanda dopo un minuto di gioco. La favola stava tramutandosi in realtà.
+
+<img class="responsive-img border w100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Finale_wereldkampioenschap_voetbal_1974_in_Munchen%2C_West_Duitsland_tegen_Nederla%2C_Bestanddeelnr_927-3074.jpg/800px-Finale_wereldkampioenschap_voetbal_1974_in_Munchen%2C_West_Duitsland_tegen_Nederla%2C_Bestanddeelnr_927-3074.jpg" alt="Finale Monaco 1974 - Neeskens segna il calcio rigore" align="right">
 
 Ma non tutte le favole hanno un lieto fine, perché la Coppa del Mondo la vinsero i padroni di casa 2-1 grazie ad un altro rigore 25 minuti dopo (segnato da Breitner) e al gol di Muller al 43'.
 
@@ -114,17 +126,17 @@ Di sé, Neeskens diceva di essere un mediano difensivo che sapeva segnare: uno c
 Questo è stato Johann Neeskens, &quot;Johan segundo&quot;, il &quot;leone&quot; o chiamatelo come volete. Ma non dimenticatelo: lui era ovunque, vi avrebbe pressato e vi avrebbe portato via il pallone. Ovunque voi vi trovavate.
 
 <div class="post-disclaimer">
-Illustrazione a cura di Fútbolismo &copy; Tutti i diritti riservati
-</div>
-
-<div class="post-disclaimer">
   <b>Fotografie e video</b>
   <ol>
-    <li>	Napoli, stadio San Paolo, 3 luglio 1990. La formazione dell'Italia scesa in campo contro l'Argentina nella semifinale del campionato del mondo 1990. Da sinistra, in piedi: W. Zenga, P. Maldini, F. De Napoli, R. Ferri, G. Bergomi (capitano); accosciati: F. Baresi, G. Giannini, R. Donadoni, S. Schillaci, G. Vialli, L. De Agostini - <a href="https://it.wikipedia.org/wiki/File:Roger_Milla_-_Italia_%2790.jpg" target="_blank">via Wikipedia</a></li>
-    <li>Milano, stadio Giuseppe Meazza, 8 giugno 1990. Il fantasista e capitano argentino Diego Armando Maradona (in primo piano) marcato dal difensore camerunense Benjamin Massing (in secondo piano) nel corso della sfida tra Argentina e Camerun (0-1) valevole per la fase a gironi del campionato del mondo 1990 - <a href="https://it.wikipedia.org/wiki/File:Nazionale_di_calcio_dell%27Italia_-_Italia_%2790.jpg" target="_blank">via Wikipedia</a></li>
-    <li>Napoli, stadio San Paolo, 23 giugno 1990. L'attaccante camerunense Roger Milla esulta dopo un suo gol, durante la sfida Camerun-Colombia (2-1 d.t.s.) valevole per gli ottavi di finale del campionato del mondo 1990. <a href="https://it.wikipedia.org/wiki/File:Roger_Milla_-_Italia_%2790.jpg" target="_blank">via Wikipedia</a></li>
-    <li>Napoli, stadio San Paolo, 23 giugno 1990. Roger Milla approfitta del clamoroso errore del portiere colombiano René Higuita e s'invola verso l'area avversaria, dove a porta sguarnita siglerà il secondo e decisivo gol per la nazionale africana, nel corso della sfida tra Camerun e Colombia (2-1 d.t.s.) valevole per gli ottavi di finale del campionato del mondo 1990. - <a href="https://it.wikipedia.org/wiki/File:Mondiali_1990_-_Camerun_vs_Colombia_-_Roger_Milla_e_Ren%C3%A9_Higuita.jpg" target="_blank">via Wikipedia</a></li>
-    <li>Napoli, stadio San Paolo, 1º luglio 1990. L'attaccante inglese Gary Lineker nella morsa della difesa camerunense, con il portiere Thomas N'Kono e il difensore Benjamin Massing, nel corso della sfida tra Inghilterra e Camerun (3-2 d.t.s.) valevole per i quarti di finale del campionato del mondo 1990 - <a href="https://it.wikipedia.org/wiki/File:Italia_%2790,_Inghilterra-Camerun_3-2,_Gary_Lineker.jpg" target="_blank">via Wikipedia</a></li>
+    <li>9 Luglio 1974 - Neeskens in nazionale, al tiro nella finale del campionato mondiale di calcio 1974 tra Paesi Bassi e Germania Ovest; Beckenbauer cerca di opporsi alla conclusione, sotto lo sguardo di Rep e Breitner - <a href="https://creativecommons.org/licenses/by/4.0" target="_blank">CC BY 4.0</a> - <a href="https://it.wikipedia.org/wiki/Johan_Neeskens#/media/File:Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederland_2-1;_Neeskens,_Beckenbauer,_Rep_en_Breitner.jpg" target="_blank">via Wikipedia</a></li>
+    <li>Johan Neeskens - <a href="https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en" target="_blank">CC BY 3.0</a> - <a href="https://commons.wikimedia.org/wiki/File:Johan_Neeskens_1974.jpg" target="_blank">via Wikipedia</a></li>
+    <li>Milano, stadio San Siro, 9 gennaio 1974. I giocatori dell'Ajax, Wim Suurbier (a sinistra), Johan Neeskens (al centro) e Arie Haan (a destra), escono dal campo contrariati dopo la sconfitta 0-1 subìta contro il Milan, nella finale di andata della Supercoppa UEFA 1973; gli olandesi si rifaranno nella gara di ritorno, giocata sette giorni più tardi all'Olympisch Stadion di Amsterdam, vincendo in goleada 6-0 e facendo loro il trofeo, alla sua prima edizione ufficiale dopo l'esordio ufficioso del 1972 - <a href="https://it.wikipedia.org/wiki/File:Supercoppa_UEFA_1973_-_Milano,_1974_-_Milan_vs_Ajax_-_Suurbier,_Neeskens_e_Haan.jpg" target="_blank">via Wikipedia</a></li>
+    <li>Ajax tegen Feyenoord, v.l.n.r. Neeskens, Cruijff, Israel, Paele en Rep - <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank">CC0 1.0 Universal Public Domain Dedication</a> - <a href="https://commons.wikimedia.org/wiki/File:Ajax_tegen_Feyenoord,_vlnr_Neeskens,_Cruijff,_Israel,_Paele_en_Rep,_Bestanddeelnr_926-2587.jpg" target="_blank">via Wikipedia</a></li>
+
+    <li>Feyenoord tegen Barcelona 0-0, Europacup; v.l.n.r. Jansen Neeskens (Barcelona), Schoenmaker en Cruijff (Barcelona) - <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank">CC0 1.0 Universal Public Domain Dedication</a> - <a href="https://commons.wikimedia.org/wiki/File:Feyenoord_tegen_Barcelona_0-0,_Europacup_vlnr_Jansen_Neeskens_(Barcelona),_,_Bestanddeelnr_927-5354.jpg" target="_blank">via Wikipedia</a></li>
+
+    <li>9 Luglio 1974 - Finale dei Campionati del Mondo di Calco del 1974. Nazionale Olandese (da destra): Johan Cruyff, Jan Jongbloed, Arie Haan, Rob Rensenbrink, Wim Rijsbergen, Johnny Rep, Wim Suurbier, Wim Jansen, Wim van Hanegem, Ruud Krol e Johan Neeskens. - Bundesarchiv, Bild 183-N0716-0311 / Mittelstädt, Rainer / <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en" target="_blank">CC-BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0716-0311,_Fu%C3%9Fball-WM,_BRD_-_Niederlande_2-1.jpg" target="_blank">via Wikipedia</a></li>
+    <li>9 Luglio 1974 - Finale dei Campionati del Mondo di Calco del 1974 a Monaco. Neeskens segna il penalty del momentaneo 0-1. La finale finisce 2-1 per i tedeschi che si laureano Campioni del Mondo - <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank">CC0 1.0 Universal Public Domain Dedication</a> - <a href="https://commons.wikimedia.org/wiki/File:Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederla,_Bestanddeelnr_927-3074.jpg" target="_blank">via Wikipedia</a></li>
   </ol>
 </div>
 
