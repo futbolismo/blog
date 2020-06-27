@@ -18,7 +18,7 @@ disclaimer_text: hidden
 author: Simone Balocco
 category: miserie
 timeline: 1
-timeline_data: milla
+timeline_data: neeskens
 
 dialog: right white black-text
 
@@ -146,31 +146,31 @@ Questo è stato Johann Neeskens, &quot;Johan segundo&quot;, il &quot;leone&quot;
 </div>
 
 <script>
-var milla=[
+var neeskens=[
                 {
                     type:"birth",
                     category:"event",
-                    timestamps:[new Date(1952,5-1,20)],
+                    timestamps:[new Date(1951,9-1,15)],
                     text:{
-                        body:"Roger Milla  nasce a Yaoundé (Camerun) il 20 maggio 1952.",
+                        body:"Johannes Jacobus Neeskens  nasce ad Heemstede (Paesi Bassi), 15 settembre 1951",
                         link:null
                     }
                 },
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1969,1970],
-                    team:"Eclair de Douala",
+                    timestamps:[1968,1970],
+                    team:"RCH",
                     text:{
-                        body:"A 13 anni, nel 1965, firma il suo primo contratto da professionista nell'Eclair de Douala, segnando 45 gol in 52 partite.",
+                        body:"A 13 anni, nel 1965, firma il suo primo contratto da professionista nell'Eclair de Douala, segnando 1 gol in 68 partite.",
                         link:null
                     }
                 },
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1971,1974],
-                    team:"Léopard de Douala",
+                    timestamps:[1970,1974],
+                    team:"Ajax",
                     text:{
                         body:"Nel 1970, a 18 anni, passa al Léopard de Douala dove rimane quattro anni, in cui vince due volte il campionato, nel 1971-1972 e nel 1972-1973, anno in cui raggiunge anche le semifinali nella CAF Champions League. In quattro anni sigla 89 gol in 117 partite.",
                         link:null
@@ -179,8 +179,8 @@ var milla=[
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1974,1977],
-                    team:"Tonnerre Yaoundé",
+                    timestamps:[1974,1979],
+                    team:"Barcelona",
                     text:{
                         body:"Passa alla capitale, al Tonnerre de Yaoundé, rimanendovi tre stagioni dal 1974 al 1977 in cui segna 69 reti in 87 partite",
                         link:null
@@ -189,8 +189,8 @@ var milla=[
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1977,1979],
-                    team:"Valenciennes",
+                    timestamps:[1979,1984],
+                    team:"N.Y. Cosmos",
                     text:{
                         body:"Nell'estate 1977, a 25 anni, va a giocare in Francia, acquistato dal Valenciennes che milita in Ligue 1, la massima serie francese. Qui resta due stagioni intere: nella prima non colleziona presenze, mentre nella seconda scende in campo 27 volte segnando 6 gol.",
                         link:null
@@ -199,8 +199,8 @@ var milla=[
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1979,1980],
-                    team:"Monaco",
+                    timestamps:[1984,1985],
+                    team:"Groningen",
                     text:{
                         body:"Nel 1979 va al Monaco, dove colleziona 12 gettoni e 2 reti vincendo la Coppa di Francia.",
                         link:null
@@ -209,18 +209,30 @@ var milla=[
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1980,1984],
-                    team:"Bastia",
+                    timestamps:[1985,1986],
+                    team:"Minnesota Strikers",
                     text:{
                         body:"Nel 1980 passa al Bastia, dove rimarrà quattro anni. Nella prima stagione segna 9 reti e conquista la Coppa di Francia (seconda in carriera), nel secondo anno segna 8 reti. Nel terzo anno vive la migliore stagione francese fino ad allora con 13 gol in 29 partite. Nell'ultima stagione sigla 5 gol. L'avventura al Bastia si conclude con 35 reti all'attivo.",
                         link:null
                     }
                 },
+                /*
+                1968-1970	RCH RCH	68 (1)
+                1970-1974	Ajax Ajax	124 (33)
+                1974-1979	Barcellona Barcellona	141 (35)
+                1979-1984	N.Y. Cosmos N.Y. Cosmos	94 (17)
+                1984-1985	Groningen Groningen	7 (0)
+                1985	Minnesota Strikers Minnesota Strikers	? (?)
+                1986	Fort Lauderdale Sun Fort Lauderdale Sun	? (?)
+                1986-1987	non conosciuta FC Löwenbrau	? (?)
+                1987-1990	Baar Baar	23 (5)
+                1990-1991	Zugo Zugo	1 (0)
+                */
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1984,1986],
-                    team:"Saint-Étienne",
+                    timestamps:[1986,1987],
+                    team:"FC Löwenbrau",
                     text:{
                         body:"Dopo sette stagioni in Ligue 1 passa al Saint-Etienne, club più titolato di Francia, appena retrocesso in Ligue 2. In due stagioni segna 31 gol in 59 presenze di cui 22 nella prima stagione. Il biennio culmina con la promozione al secondo anno, dopo averla mancata l'anno precedente.",
                         link:null
@@ -229,8 +241,8 @@ var milla=[
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1986,1989],
-                    team:"Montpellier",
+                    timestamps:[1987,1990],
+                    team:"Baar",
                     text:{
                         body:"Nel 1986 va al Montpellier, dove segna 18 reti in campionato, trascinando la squadra alla promozione in Ligue 1. Tornato nella massima categoria dopo tre stagioni di cadetteria, sigla 12 gol conquistando la salvezza. Nella terza stagione al Montpellier sigla 7 reti, e nell'estate del 1989 saluta la squadra dopo 37 reti.",
                         link:null
@@ -239,41 +251,21 @@ var milla=[
                 {
                     type:"club",
                     category:"range",
-                    timestamps:[1989,1990],
-                    team:"JS Saint-Pierroise",
+                    timestamps:[1990,1991],
+                    team:"Zugo",
                     text:{
                         body:"Per la stagione 1989-1990 si trasferisce nell'isola delle Réunion, situata nell'Oceano Indiano, per giocare nel club più titolato del paese, il JS Saint-Pierroise, dove vince il titolo, secondo in carriera diciott'anni anni dopo quello con il Léopard de Douala conquistato in patria.",
                         link:null
                     }
                 },
                 {
-                    type:"club",
-                    category:"range",
-                    timestamps:[1990,1994],
-                    team:"Tonnerre Yaoundé",
-                    text:{
-                        body:"Dopo i Mondiali 1990, torna nel Tonnerre de Yaoundé, l'ultimo club in cui aveva militato prima di trasferirsi in Europa; ci rimane quattro anni fino ai Mondiali 1994, vincendo per la prima volta la Coppa del Camerun.",
-                        link:null
-                    }
-                },
-                {
-                    type:"club",
-                    category:"range",
-                    timestamps:[1994,1996],
-                    team:"Pelita Jaya",
-                    text:{
-                        body:"Si trasferisce in Indonesia accasandosi al Pelita Jaja, dove resta due anni (1994-1996) firmando 23 reti in 23 partite e concludendo la sua carriera a 44 anni.",
-                        link:null
-                    }
-                },
-                {
                     type:"national",
-                    timestamps:[1978,1994],
-                    team:"Camerun",
-                    apps:77,
-                    goals:43
+                    timestamps:[1970,1981],
+                    team:"Olanda",
+                    apps:49,
+                    goals:17
                 },
-                {
+                /*{
                     type:"cup",
                     category:"event",
                     timestamps:[new Date(1976,1-1,12),new Date(1976,1-1,13)],
@@ -336,6 +328,6 @@ var milla=[
                         body:"Nella sua carriera di dodici anni in Francia, con la maglia di cinque diverse squadre, ha messo a segno in totale 111 gol. La Francia nell'aprile del 2006, lo nomina <b>Cavaliere della Legione d'Onore francese</b>.",
                         link:""
                     }
-                },
+                },*/
             ];
 </script>
