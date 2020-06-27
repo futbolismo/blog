@@ -8,6 +8,9 @@
 	}
 }
 */
+
+
+
 @media (min-width: $screen-xs-min) and (max-width: $screen-sm-min) {
 	.top6 .row .post-abstract {
 		min-height: 390px;
@@ -231,6 +234,7 @@
 			background: transparent !important;
 			border-bottom: none;
 		}
+
 	}
 	.jumbotron .main-abstract {
 		bottom: 2rem;
@@ -279,7 +283,7 @@
 		margin-top:0;
 	}
 	.main h1 {
-		font-size:3rem;
+		font-size:2rem;
 		margin-bottom:10px;
 		//font-size:44px;
 	}
@@ -727,6 +731,19 @@
 					transform: none !important;
 				}
 			}
+		}
+	}
+}
+
+@media (min-width: $screen-md-min) {
+	.main h1 {
+		font-size:3rem;
+	}
+	&.large-photo-header {
+		background-size: auto 100% !important;
+
+		.main-bg {
+			background-image: none !important;
 		}
 	}
 }
