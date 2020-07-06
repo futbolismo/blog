@@ -26,7 +26,7 @@ excerpt: "Sguardo da attore hollywoodiano con occhio azzurro, capello lungo bion
 
 description: "Sguardo da attore hollywoodiano con occhio azzurro, capello lungo biondo alle spalle e basette spesse..."
 
-hashtags: Italia90,Cameroon
+hashtags: AFCAjax,ForçaBarça,NYCosmos,Netherlands
 
 ---
 Heemstede è una cittadina di 25mila abitanti sita nell'Olanda settentrionale, una delle 12 province dei Paesi Bassi. Bagnata dal fiume Spaarne, è in un territorio totalmente pianeggiante come il resto del Paese. Calcisticamente, è presente una squadra di calcio, il Racing Club Heemstede, fino ai primi anni Settanta in Eerste Divisie.
@@ -162,7 +162,7 @@ var neeskens=[
                     timestamps:[1968,1970],
                     team:"RCH",
                     text:{
-                        body:"A 13 anni, nel 1965, firma il suo primo contratto da professionista nell'Eclair de Douala, segnando 1 gol in 68 partite.",
+                        body:"Neeskens cresce nelle giovanili dell'Heemstede, segnando 1 gol in 68 partite.",
                         link:null
                     }
                 },
@@ -172,7 +172,7 @@ var neeskens=[
                     timestamps:[1970,1974],
                     team:"Ajax",
                     text:{
-                        body:"Nel 1970, a 18 anni, passa al Léopard de Douala dove rimane quattro anni, in cui vince due volte il campionato, nel 1971-1972 e nel 1972-1973, anno in cui raggiunge anche le semifinali nella CAF Champions League. In quattro anni sigla 89 gol in 117 partite.",
+                        body:"A 19 anni vince la sua prima Eredivisie con l'Ajax. Da lì l'anno successivo inizia il grande ciclo dei lancieri che conquistano tre Coppe dei Campioni di fila. In questi anni Neeskens si mette in luce come <i>uno dei migliori difensori del Vecchio continente</i>. Gioca 124 partite e segna 33 reti.",
                         link:null
                     }
                 },
@@ -182,7 +182,7 @@ var neeskens=[
                     timestamps:[1974,1979],
                     team:"Barcelona",
                     text:{
-                        body:"Passa alla capitale, al Tonnerre de Yaoundé, rimanendovi tre stagioni dal 1974 al 1977 in cui segna 69 reti in 87 partite",
+                        body:"Alla vigilia del Mondiale tedesco Neeskens firma per il Barcellona, cedendo alla corte del suo vecchio maestro Rinus Michels, ansioso di riunire lui e Cruyff. Per lui in Spagna una Coppa del Re, una Coppa delle Coppe e 140 partite condite da 35 gol.",
                         link:null
                     }
                 },
@@ -192,7 +192,7 @@ var neeskens=[
                     timestamps:[1979,1984],
                     team:"N.Y. Cosmos",
                     text:{
-                        body:"Nell'estate 1977, a 25 anni, va a giocare in Francia, acquistato dal Valenciennes che milita in Ligue 1, la massima serie francese. Qui resta due stagioni intere: nella prima non colleziona presenze, mentre nella seconda scende in campo 27 volte segnando 6 gol.",
+                        body:"Come altri grandi campioni della sua generazione, alla fine degli anni Settanta Neeskens prosegue la sua carriera nella lega nordamericana, con la maglia dei New York Cosmos, scende in campo 94 volte segnando 17 gol.",
                         link:null
                     }
                 },
@@ -200,9 +200,9 @@ var neeskens=[
                     type:"club",
                     category:"range",
                     timestamps:[1984,1985],
-                    team:"Groningen",
+                    team:"FC Groningen",
                     text:{
-                        body:"Nel 1979 va al Monaco, dove colleziona 12 gettoni e 2 reti vincendo la Coppa di Francia.",
+                        body:"Per Neeskens il viale del tramonto riserva un ritorno in patria nel Groningen nel 1984, dove registra solamente 7 presenze.",
                         link:null
                     }
                 },
@@ -210,31 +210,19 @@ var neeskens=[
                     type:"club",
                     category:"range",
                     timestamps:[1985,1986],
-                    team:"Minnesota Strikers",
+                    team:"South Florida Sun",
                     text:{
-                        body:"Nel 1980 passa al Bastia, dove rimarrà quattro anni. Nella prima stagione segna 9 reti e conquista la Coppa di Francia (seconda in carriera), nel secondo anno segna 8 reti. Nel terzo anno vive la migliore stagione francese fino ad allora con 13 gol in 29 partite. Nell'ultima stagione sigla 5 gol. L'avventura al Bastia si conclude con 35 reti all'attivo.",
+                        body:"Nel giugno del 1985 firma con i South Florida Sun della United Soccer League. Dopo solo 6 partite la USL collassa e chiude i battenti. Neeskens il 15 agosto 1985 firma con i Kansas City Comets, nella Major Indoor Soccer League, segna 1 rete durante 23 partite.",
                         link:null
                     }
                 },
-                /*
-                1968-1970	RCH RCH	68 (1)
-                1970-1974	Ajax Ajax	124 (33)
-                1974-1979	Barcellona Barcellona	141 (35)
-                1979-1984	N.Y. Cosmos N.Y. Cosmos	94 (17)
-                1984-1985	Groningen Groningen	7 (0)
-                1985	Minnesota Strikers Minnesota Strikers	? (?)
-                1986	Fort Lauderdale Sun Fort Lauderdale Sun	? (?)
-                1986-1987	non conosciuta FC Löwenbrau	? (?)
-                1987-1990	Baar Baar	23 (5)
-                1990-1991	Zugo Zugo	1 (0)
-                */
                 {
                     type:"club",
                     category:"range",
                     timestamps:[1986,1987],
                     team:"FC Löwenbrau",
                     text:{
-                        body:"Dopo sette stagioni in Ligue 1 passa al Saint-Etienne, club più titolato di Francia, appena retrocesso in Ligue 2. In due stagioni segna 31 gol in 59 presenze di cui 22 nella prima stagione. Il biennio culmina con la promozione al secondo anno, dopo averla mancata l'anno precedente.",
+                        body:"Nel 1986 passa una stagione nelle file del FC Löwenbrau nel campionato amatoriale USA",
                         link:null
                     }
                 },
@@ -242,9 +230,9 @@ var neeskens=[
                     type:"club",
                     category:"range",
                     timestamps:[1987,1990],
-                    team:"Baar",
+                    team:"FC Baar",
                     text:{
-                        body:"Nel 1986 va al Montpellier, dove segna 18 reti in campionato, trascinando la squadra alla promozione in Ligue 1. Tornato nella massima categoria dopo tre stagioni di cadetteria, sigla 12 gol conquistando la salvezza. Nella terza stagione al Montpellier sigla 7 reti, e nell'estate del 1989 saluta la squadra dopo 37 reti.",
+                        body:"Nel 1987-90 gioca in Svizzera per il FC Baar (1988–90) dove segna 5 reti durante 23 apparizioni.",
                         link:null
                     }
                 },
@@ -252,9 +240,9 @@ var neeskens=[
                     type:"club",
                     category:"range",
                     timestamps:[1990,1991],
-                    team:"Zugo",
+                    team:"FC Zug",
                     text:{
-                        body:"Per la stagione 1989-1990 si trasferisce nell'isola delle Réunion, situata nell'Oceano Indiano, per giocare nel club più titolato del paese, il JS Saint-Pierroise, dove vince il titolo, secondo in carriera diciott'anni anni dopo quello con il Léopard de Douala conquistato in patria.",
+                        body:"Dopo una stagione al FC Zug in Svizzera, decide finalmente di appendere gli scarpini nel 1991.",
                         link:null
                     }
                 },
@@ -265,69 +253,35 @@ var neeskens=[
                     apps:49,
                     goals:17
                 },
-                /*{
+                {
                     type:"cup",
                     category:"event",
-                    timestamps:[new Date(1976,1-1,12),new Date(1976,1-1,13)],
-                    cup:"Calciatore africano 1976",
+                    timestamps:[new Date(1971,2-1,10),new Date(1971,2-1,25)],
+                    cup:"Coppa dei Campioni",
                     text:{
-
-                        body:"Nel 1993 vince la Coppa UEFA con la Juventus, battendo il Borussia Dortmund.",
+                        body:"La Coppa dei Campioni 1970/71, sedicesima edizione del torneo, viene vinta dall'Ajax per la prima volta, che sconfigge in finale il Panathīnaïkos per 2-0.",
                         link:""
                     }
                 },
                 {
                     type:"cup",
                     category:"event",
-                    timestamps:[new Date(1984,12-1,10),new Date(1984,12-1,25)],
-                    cup:"Coppa d'Africa",
+                    timestamps:[new Date(1972,2-1,10),new Date(1972,2-1,25)],
+                    cup:"Coppa dei Campioni",
                     text:{
-                        body:"Vince la Coppa d'Africa in Marocco. Milla segna una rete nella vittoria per 2-0 sulla Costa d'Avorio nella fase a gironi."
-                    }
-                },
-                {
-                    type:"cup",
-                    category:"event",
-                    timestamps:[new Date(1988,1-1,12),new Date(1988,11-1,13)],
-                    cup:"Coppa d'Africa",
-                    text:{
-
-                        body:"Nel 1988 c'è una nuova vittoria della Coppa, e Milla si riconferma capocannoniere con 2 reti segnate nei gironi. Dopo questa seconda vittoria decise di abbandonare la Nazionale con tanto di partita d'addio.",
+                        body:"La Coppa dei Campioni 1971/72, viene vinta dall'Ajax, che sconfigge in finale l'Internazionale con la doppietta di Cruijff (finale 2-0). Per i lancieri si trattò del secondo di tre trionfi consecutivi nella manifestazione.",
                         link:""
                     }
                 },
                 {
                     type:"cup",
                     category:"event",
-                    timestamps:[new Date(1991,2-1,12),new Date(1991,2-1,13)],
-                    cup:"TOP 11 - Italia 1990",
+                    timestamps:[new Date(1973,2-1,10),new Date(1973,2-1,25)],
+                    cup:"Coppa dei Campioni",
                     text:{
-
-                        body:"Nel 1990 viene inserito nella lista dei TOP 11 del Mondiale Italiano del 1990",
+                        body:"La Coppa dei Campioni 1972-1973, viene vinto ancora dall'Ajax, che sconfigge in finale la Juventus, con il risultato di 1-0 a Belgrado. Con questo terzo successo consecutivo la formazione di Amsterdam ottenne il diritto di tenersi la coppa. Ne fu fabbricata, così, una nuova per la stagione successiva.",
                         link:""
                     }
-                },
-                {
-                    type:"cup",
-                    category:"event",
-                    timestamps:[new Date(2004,3-1,12),new Date(2004,3-1,13)],
-                    cup:"FIFA 100",
-                    text:{
-
-                        body:"Nel marzo 2004 viene inserito nella FIFA 100, una lista dei 125 calciatori più forti di tutti i tempi redatta da Pelé e dalla FIFA per celebrare il suo centenario.",
-                        link:""
-                    }
-                },
-                {
-                    type:"cup",
-                    category:"event",
-                    timestamps:[new Date(2006,1-1,12),new Date(2006,1-1,13)],
-                    cup:"Legione d'Onore",
-                    text:{
-
-                        body:"Nella sua carriera di dodici anni in Francia, con la maglia di cinque diverse squadre, ha messo a segno in totale 111 gol. La Francia nell'aprile del 2006, lo nomina <b>Cavaliere della Legione d'Onore francese</b>.",
-                        link:""
-                    }
-                },*/
+                }
             ];
 </script>
