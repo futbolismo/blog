@@ -1,4 +1,8 @@
-<div class="jumbotron jumbotron-post">
+{% if page.large_photo_header != nil %}
+  <div class="jumbotron jumbotron-post large-photo-header">
+{% else %}
+  <div class="jumbotron jumbotron-post">
+{% endif %}
     <div class="container main"></div>
     <div class="main-bg"></div>
 </div>
