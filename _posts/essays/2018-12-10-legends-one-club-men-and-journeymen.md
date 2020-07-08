@@ -52,4 +52,6 @@ excerpt: "The history of football visualized through the careers of its players 
     newJS.setAttribute("src","{{ site.baseurl }}/assets/transfers/"+mainJS);
     // console.log('js',newJS)
     document.querySelector("body").appendChild(newJS);
+    
+  })
 </script>
