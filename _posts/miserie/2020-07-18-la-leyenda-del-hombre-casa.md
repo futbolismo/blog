@@ -11,11 +11,14 @@ wikipedia: Ren%C3%A9_Houseman
 life: Ala destra. La Banda, 19 luglio 1953 – Buenos Aires, 22 marzo 2018
 
 story_type: quote
+disclaimer_text: visible
 
 author: Francesco Mistrulli
 category: miserie
 timeline: 1
 timeline_data: houseman
+
+english_version: the-legend-of-el-hombre-casa
 
 dialog: left5 white
 
@@ -23,7 +26,7 @@ description: "“El Flaco” Menotti ha detto che ero “una sintesi perfetta tr
 
 excerpt: "René Orlando Houseman - “El Flaco” Menotti ha detto che ero “una sintesi perfetta tra Garrincha e Maradona”"
 
-hashtags: FCNantes,ASMonaco
+hashtags: Huracán,HistoriaQuemera
 
 ---
 E _l Flaco_ Menotti era preoccupato. Irrequieto. La mia squadra,
