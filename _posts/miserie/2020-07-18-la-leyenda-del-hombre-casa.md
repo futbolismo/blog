@@ -3,7 +3,7 @@ layout: post
 header_mobile: "41%"
 
 pid: houseman
-postTitle: La leyenda del hombre casa
+postTitle: La leyenda de “El Hombre Casa”
 player: René Orlando Houseman
 player_short: René Orlando Houseman
 
