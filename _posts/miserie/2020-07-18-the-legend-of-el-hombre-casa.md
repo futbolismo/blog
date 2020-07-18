@@ -9,7 +9,7 @@ player_short: René Orlando Houseman
 
 wikipedia: Ren%C3%A9_Houseman
 wikipedia_lang: en
-life: Right winf. La Banda, 19 July 1953 – Buenos Aires, 22 March 2018
+life: Right wing. La Banda, 19 July 1953 – Buenos Aires, 22 March 2018
 
 story_type: quote
 disclaimer_text: hidden
