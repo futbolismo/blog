@@ -339,5 +339,16 @@ var houseman=[
                         link:"https://it.wikipedia.org/wiki/Guerra_delle_Falkland"
                     }
                 },
+                {
+                    type:"cup",
+                    category:"event",
+                    timestamps:[new Date(1978,6-1,1),new Date(1978,6-1,1)],
+                    cup:"Mondiale 1978",
+                    text:{
+
+                        body:"Nel 1978, vince il campionato mondiale di calcio in Argentina. Scende in campo in tutti gli incontri tranne quello contro il Brasile, realizza la rete del 6-0 nella celebre goleada (passata alla storia come <i>marmelada peruana</i>) al Perù.",
+                        link:""
+                    }
+                },
             ];
 </script>

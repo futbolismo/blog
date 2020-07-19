@@ -210,5 +210,16 @@ var houseman=[
                     apps:55,
                     goals:13
                 },
+                {
+                    type:"cup",
+                    category:"event",
+                    timestamps:[new Date(1978,6-1,1),new Date(1978,6-1,1)],
+                    cup:"1978 FIFA World Cup",
+                    text:{
+
+                        body:"His greatest achievement in football was being a member of the 1978 FIFA World Cup winning Argentina national team and scoring in the 6-0 win over Peru.",
+                        link:""
+                    }
+                },
             ];
 </script>
