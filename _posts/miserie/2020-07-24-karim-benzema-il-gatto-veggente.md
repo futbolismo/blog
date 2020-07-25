@@ -87,6 +87,10 @@ La vedo dura, sarebbe necessaria un’impresa nel ritorno di champions nella dim
   </ol>
 </div>
 
+<div class="post-disclaimer">
+Pubblicato in precedenza su <a href="https://vivoperlei.calciomercato.com/articolo/karim-benzema-il-gatto-veggente" target="_blank">vivoperlei.calciomercato.com</a>
+</div>
+
 <div class="author-bio">
 <h2>Matteo Di Mango</h2>
 <p>“Sono Matteo, un ragazzo di 20 anni che vive a Roma e sogna di diventare un giornalista sportivo. Studio per poter realizzare il mio sogno. Amo follemente il calcio in ogni sua sfumatura, amo parlare di tattica di mercato e della storia del gioco.”
