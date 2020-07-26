@@ -8,7 +8,7 @@ player: Karim Mostafa Benzema
 player_short: Karim Benzema
 
 wikipedia: Karim_Benzema
-# instagram: Bo6WeHOBqg5
+instagram: CDEDnSvDfFs
 life: Attaccante, nato a Lione (Francia) il 19 dicembre 1987
 
 story_type: quote
