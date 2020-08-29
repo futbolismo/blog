@@ -41,8 +41,17 @@
                     {% if post.excerpt_author != nil %}
                       <h3>{{post.excerpt_author}}</h3>
                     {% endif %}
-                    <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-                    <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                    {% if post.noExcerpt != nil %}
+                      <p class="abstract hidden-ms hidden-sm hidden-md hidden-lg left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                    {% else %}
+                      <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                    {% endif %}
+                    {% if post.noExcerpt != nil %}
+                      <div class="read-more hidden-ms hidden-sm hidden-md hidden-lg">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                    {% else %}
+                      <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                    {% endif %}
+
                 </a>
             </div>
         </div>
@@ -51,6 +60,8 @@
   {% else %}
     {% if post.large_photo_header != nil %}
       <div class="jumbotron large-photo-header">
+    {% else if page.header_type == 'split' %}
+      <div class="jumbotron split">
     {% else %}
       <div class="jumbotron">
     {% endif %}
@@ -62,8 +73,16 @@
                       {% if post.excerpt_author != nil %}
                         <h3>{{post.excerpt_author}}</h3>
                       {% endif %}
-                      <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-                      <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                      {% if post.noExcerpt != nil %}
+                        <p class="abstract hidden-ms hidden-sm hidden-md hidden-lg left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                      {% else %}
+                        <p class="abstract left {{post.story_type}}">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                      {% endif %}
+                      {% if post.noReadMore != nil %}
+                        <div class="read-more hidden-ms hidden-sm hidden-md hidden-lg">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                      {% else %}
+                        <div class="read-more">Leggi <span class="glyphicon glyphicon-chevron-right"></span></div>
+                      {% endif %}
                   </a>
               </div>
           </div>

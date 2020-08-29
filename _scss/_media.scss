@@ -227,6 +227,15 @@
 			}
 		}
 
+		&.split {
+			.main-bg {
+				width: 50%;
+				left: 50%;
+				background-size: auto 100% !important;
+				background-position: 0 center !important;
+			}
+		}
+
 		&.large-picture {
 			height: 100%;
 			padding: 0!important;
@@ -240,6 +249,29 @@
 		bottom: 2rem;
 		right:0;
 		margin-right:7rem;
+	}
+	.jumbotron.split .main-abstract {
+		width: 50%;
+		height: 100%;
+		top: 0;
+		right:0;
+		margin-right:0;
+
+		&.centered {
+			text-align: center;
+			a {
+				height: 100%;
+				display: block;
+
+				h1 {
+					position: absolute;
+					top: 50%;
+					transform: translateY(-50%);
+					font-size: 2.4em;
+					margin: 0 1em;
+				}
+			}
+		}
 	}
 	.jumbotron .main-abstract.left {
 		left:1rem;
@@ -744,6 +776,15 @@
 
 		.main-bg {
 			background-image: none !important;
+		}
+	}
+	.jumbotron.split .main-abstract {
+		&.centered {
+			a {
+				h1 {
+					font-size: 3.2em;
+				}
+			}
 		}
 	}
 }
