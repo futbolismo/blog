@@ -99,7 +99,11 @@
       {% endif %}
 
 	    .jumbotron {
-				background-image: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg);
+        {% if (page.bg != nil) %}
+          background-color: {{ page.bg }};
+        {% else %}
+          background-image: url({{site.baseurl}}/assets/pics/bg/{{ page.pid }}.jpg);
+        {% endif %}
 			}
 
 			.jumbotron .main-bg {
@@ -118,7 +122,8 @@
       {% endif %}
 
 			 .jumbotron {
-				background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
+          background: url({{site.baseurl}}/assets/pics/bg/{{ post.pid }}.jpg) no-repeat center center;
+
         {% if (post.background_size == blank) %}
           background-size: 100% 100%;
         {% else %}
