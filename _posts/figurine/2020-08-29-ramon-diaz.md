@@ -1,7 +1,7 @@
 ---
 layout: post-sticker
 header: large-picture
-header_mobile: 50%
+header_mobile: 40%
 author: none
 category: figurine
 timeline: 0
@@ -15,7 +15,8 @@ excerpt: ''
 hashtags: riverplate,napoli,avellino,fiorentina,inter,monaco
 sticker-img: "/assets/pics/lake/f926d917305bf73aa4b6380a56cc2267-1.jpg"
 header-img: "/assets/pics/lake/argentina_vs_urss_1979.jpg"
-sources: ''
+sources: "* Ramón Díaz in azione nella finale del campionato mondiale U-20  1979 nella
+  finale Argentina - URSS."
 published: false
 
 ---
