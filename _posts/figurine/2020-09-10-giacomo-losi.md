@@ -1,7 +1,7 @@
 ---
 layout: post-sticker
 header: large-picture
-header_mobile: 50%
+header_mobile: 1%
 author: none
 category: figurine
 timeline: 0
