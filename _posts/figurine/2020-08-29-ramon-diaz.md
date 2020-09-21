@@ -11,10 +11,11 @@ player: Ramón Ángel Díaz
 life: Attaccante, nato a La Rioja (Argentina), 29 agosto 1959
 wikipedia: Ramón_Díaz
 instagram: CEeFT-QjKWn
-excerpt: ''
+excerpt: Ramón vince con l'Under-20 Argentina il mondiale nel 1979, giocando al fianco
+  di Maradona
 hashtags: riverplate,napoli,avellino,fiorentina,inter,monaco
 sticker-img: "/assets/pics/lake/f926d917305bf73aa4b6380a56cc2267-1.jpg"
-header-img: "/assets/pics/lake/argentina_vs_urss_1979.jpg"
+header-img: "/assets/pics/lake/argentina_vs_urss_1979-final.jpg"
 sources: "* Ramón Díaz in azione nella finale del campionato mondiale U-20  1979 nella
   finale Argentina - URSS."
 published: false
