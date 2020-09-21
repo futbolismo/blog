@@ -18,7 +18,6 @@ sticker-img: "/assets/pics/lake/f926d917305bf73aa4b6380a56cc2267-1.jpg"
 header-img: "/assets/pics/lake/argentina_vs_urss_1979-final.jpg"
 sources: "* Ramón Díaz in azione nella finale del campionato mondiale U-20  1979 nella
   finale Argentina - URSS."
-published: false
 
 ---
 Ramón nasce a La Rioja, ai piedi delle Sierras Velasco; inizia il suo percorso calcistico con il River Plate, e con i Millionarios debutta in Primera División il 13 agosto 1978.
