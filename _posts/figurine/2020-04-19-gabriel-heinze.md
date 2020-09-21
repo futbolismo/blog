@@ -4,7 +4,7 @@ header: large-picture
 header_mobile: 50%
 author: none
 category: figurine
-timeline: 0
+timeline: 
 pid: gabriel_heinze
 postTitle: Gabriel Iván Heinze
 player: Gabriel Iván Heinze
@@ -13,7 +13,7 @@ wikipedia: Gabriel_Heinze
 instagram: B_Kmt-4jYW5
 excerpt: "“...il mio compito era correre e faticare, poi altra gente era deputata
   a vincere le gare con una giocata.”"
-hashtags: RealMadrid, ASRoma,PSG,MUFC
+hashtags: RealMadrid,ASRoma,PSG,MUFC
 sticker-img: "/assets/pics/lake/heinze_sticker.jpg"
 header-img: "/assets/pics/lake/1024px-Drenthe_y_Heinze_luchando_por_el_balón.jpg"
 sources: "* Heinze, con la maglia del Real Madrid, impegnato nella Supercoppa di Spagna
