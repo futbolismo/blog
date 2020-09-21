@@ -17,7 +17,6 @@ sticker-img: "/assets/pics/lake/losi.png"
 header-img: "/assets/pics/lake/associazione_sportiva_roma_-_coppa_delle_fiere_1960-1961.jpg"
 sources: "* Losi solleva la Coppa delle Fiere vinta dai giallorossi nella stagione
   1960-1961 - [via Wikipedia](https://it.wikipedia.org/wiki/File:Associazione_Sportiva_Roma_-_Coppa_delle_Fiere_1960-1961.jpg)"
-published: false
 
 ---
 “U na volta c'era l'acqua nel fossato intorno alle mura. Ma per noi bambini la festa era il fiume, anche se da festeggiare c'era poco. La mia famiglia era povera, io e mio fratello dormivamo nello stesso camerone dei genitori.  
