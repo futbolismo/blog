@@ -16,9 +16,9 @@
 
     <li>
 	{% if page.layout == "page" %}
-    <a class="twitter_link" href="https://twitter.com/intent/tweet?text=Futbolismo%20-%20{{title}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags={{page.hashtags}}" title="Condividi via Twitter" target="_blank">
+    <a class="twitter_link" href="https://twitter.com/intent/tweet?text=Futbolismo%20-%20{{title}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags={{page.hashtags | remove: ' '}}" title="Condividi via Twitter" target="_blank">
     {% else %}
-    <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}%20-%20{{description | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags={{page.hashtags}}" title="Condividi via Twitter" target="_blank">
+    <a class="twitter_link" href="https://twitter.com/intent/tweet?text={{title}}%20-%20{{description | strip_html}}&url={{site.url}}{{ page.url }}&via=ftblsm&hashtags={{page.hashtags | remove: ' '}}" title="Condividi via Twitter" target="_blank">
 	{% endif %}
     <i class="icon-twitter"></i> <span class="hidden-xs hidden-ms">Twitter</span></a></li>
     <li><a href="https://www.facebook.com/sharer/sharer.php?t={{titleFB}}&u={{site.url}}{{ page.url }}" target="_blank" title="Condividi su Facebook"><i class="icon-facebook" title="Condividi su Facebook"></i> <span class="hidden-xs hidden-ms">Facebook</span></a></li>
