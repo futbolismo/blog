@@ -23,14 +23,14 @@ timeline_data: glerean
 
 dialog: left centered transparent white-text
 
-excerpt: "Dopo l’introduzione del calcio a zona non c’è più spazio per i timidi in questo sport, e Glerean al Cittadella esce allo scoperto proponendo al mondo intero il suo 3-3-4"
+excerpt: "Dopo l’introduzione del calcio a zona non c’è più spazio per i timidi in questo sport, e Glerean al Cittadella esce allo scoperto proponendo al mondo intero il suo 3-3-4."
 
 noExcerpt: 1
 noReadMore: 1
 
-description: "Dopo l’introduzione del calcio a zona non c’è più spazio per i timidi in questo sport, e Glerean al Cittadella esce allo scoperto proponendo al mondo intero il suo 3-3-4"
+description: "Dopo l’introduzione del calcio a zona non c’è più spazio per i timidi in questo sport, e @EzioGlerean al Cittadella esce allo scoperto proponendo al mondo intero il suo 3-3-4"
 
-hashtags: Marosticense
+hashtags:
 
 ---
 San Michele al Tagliamento è terra di confine, solo un ponte la divide da
@@ -80,8 +80,6 @@ le notti magiche di Glerean hanno i colori e le abbaglianti luci
 dell’Associazione Sportiva Dilettantistica Calcio Caerano 1956, campionato
 interregionale, quando si dice letteralmente una buona palestra. Le voci si
 rincorrono e Glerean viene intercettato dal Bassano che, benché siano ancora
-
-
 di là dal venire i fasti della bislacca presidenza Renzo Rosso, ne intuisce la
 voracità e le ambizioni, _non è una favola, e dagli spogliatoi, escono i ragazzi e siamo
 noi_. Ciò che emerge è l’abbozzo di un’idea di calcio mobile e istintivo,
