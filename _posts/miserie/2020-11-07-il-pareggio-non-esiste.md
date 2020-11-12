@@ -1,6 +1,6 @@
 ---
 layout: post
-header_mobile: "50%"
+header_mobile: "8%"
 header_type: split
 bg: "#000"
 
