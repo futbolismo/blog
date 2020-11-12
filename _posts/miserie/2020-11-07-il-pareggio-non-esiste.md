@@ -16,7 +16,7 @@ life: Difensore, San Michele al Tagliamento, 27 giugno 1956
 story_type: quote
 disclaimer_text: hidden
 
-author: Federico Stroszek
+author: Federico Pevere
 category: miserie
 timeline: 1
 timeline_data: glerean
@@ -271,8 +271,8 @@ questo nostro bel paese._
 </div>
 
 <div class="author-bio">
-<h2>Federico Stroszek</h2>
-<p>Nato in Friuli tempo fa, ora vive in Emilia. Scrive molto ma giustamente non viene quasi mai pagato ma va bene così, perchè come diceva un vecchio punk, "così vanno le cose, così devono andare". Lavora di notte. Tifa per Beckett. Pensiero debole. Mutuo quinquennale.<br/>Lo trovi su Twitter come <a href="http://twitter.com/fstroszek" class="text-danger" title="Federico Stroszek su Twitter" target="_blank">@fstroszek</a> (ma non lo usa o quasi)
+<h2>Federico Pevere</h2>
+<p>Nato in Friuli tempo fa, ora vive in Emilia. Scrive molto ma giustamente non viene quasi mai pagato ma va bene così, perchè come diceva un vecchio punk, "così vanno le cose, così devono andare". Lavora di notte. Tifa per Beckett. Pensiero debole. Mutuo quinquennale.<br/>Lo trovi su Twitter come <a href="http://twitter.com/fstroszek" class="text-danger" title="Federico Pevere su Twitter" target="_blank">@fstroszek</a> (ma non lo usa o quasi)
 </p>
 </div>
 
