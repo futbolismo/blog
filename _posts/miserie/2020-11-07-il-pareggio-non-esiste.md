@@ -112,6 +112,12 @@ fa festa, _ma il mondo da qui sembra soltanto una botola segreta, tutti vogliono
 poi accorgersi, che è niente,_ ma i migliori anni della sua vita sono già lì, a portata di
 mano.
 
+<div class="text-center">
+  <div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CWu3TtaX_uo?start=14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
 C’è una curiosa coincidenza. Quando il Cittadella sta per iniziare il secondo
 campionato di serie B della sua storia, quello della conferma, quello più
 difficile - una sconfitta giocata bene fuori casa, a Cosenza - viene presentato
@@ -262,6 +268,7 @@ questo nostro bel paese._
   <b>Fotografie e video</b>
   <ol>
     <li>Formazione della Cavese nella stagione 1980-1981. Da sinistra, in piedi: R. Pidone, E. Glerean, Canzanese, A. Polenta, M. Della Bianchina, Vannoli; accosciati: A. Turini, Longo, De Tommasi, A. Banelli, P. Braca (capitano). <a href="https://it.wikipedia.org/wiki/Ezio_Glerean#/media/File:Societ%C3%A0_Sportiva_Cavese_1980-1981.jpg" target="_blank">via Wikipedia</a></li>
+    <li>Video 25 febbraio 1996 - Stadio "Zanutto" - San Donà di Piave (Ve) - Serie C2 - Sandonà - Ternana 6-2 (1-1) <a href="https://www.youtube.com/watch?v=CWu3TtaX_uo" target="_blank">via YouTube</a></li>
   </ol>
 </div>
 
