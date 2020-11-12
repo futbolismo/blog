@@ -132,6 +132,11 @@
         {% if (post.header_mobile) %}
         background-position: {{ post.header_mobile }} center;
         {% endif %}
+
+        {% if (post.bg != nil) %}
+          background-color: {{ post.bg }};
+        {% endif %}
+
 			}
 			.jumbotron .main-bg {
 				background: url({{headerImg}}) no-repeat center center;
