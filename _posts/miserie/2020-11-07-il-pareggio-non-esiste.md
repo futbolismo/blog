@@ -67,8 +67,12 @@ una testa così. Marosticense si diceva, la seconda tragica categoria. Due
 campionati, due promozioni. Glerean già scalpita e vive di entusiasmi mentre
 si guarda attorno e appunta tutto.
 
+<br/>
+
 _Il Molosso: Ma quando io le parlo in allenamento lei a cosa pensa? A quelle quattro
 mignotte che si va scopando tutti i giorni?_
+
+<br/>
 
 Ma manca qualcosa. Decide allora di andarsene in Olanda per qualche mese.
 La moglie è di Amsterdam, la scusa è bella e pronta, in qualche modo riesce
@@ -88,8 +92,12 @@ l’illuminazione. Arriverà un ottimo quinto posto al secondo campionato dopo
 un primo di rodaggio - ci vuole tempo per le rivoluzioni romantiche, non si
 improvvisano. Ma è già ora di cambiare aria.
 
+<br/>
+
 _Il Molosso: Becchi uno come Platini, lancio lungo, difesa saltata. Oppure becchi uno come
 me, e tu la partita la perdi._
+
+<br/>
 
 I suoi nuovi cavalieri hanno nomi che trasudano triveneto e sostanza da tutti i
 pori: Caverzan, Zanon, Soncin, Giacomin, Polesel, sanno letteralmente di un
@@ -158,10 +166,14 @@ primo attacco. L’uomo in più è il 10 che alla bisogna si trasforma in falso
 nueve, una vera e propria seconda punta. Qualcosa di eretico nella patria del
 prima non prenderle e palla lunga.
 
+<br/>
+
 _Antonio Pisapia: Non perdo, perché i miei giocatori corrono più dei tuoi. Fanno le ripetute.
 Per correre 90 minuti ad un certo ritmo bisogna allenare il cuore prima dei muscoli, sono i
 principi dell'aerobica.
 Il Molosso: E a centravanti chi gioca, Jane Fonda?_
+
+<br/>
 
 Lo spettro di una piccola rivoluzione si aggira nel nord-est. E’ la fine del
 mondo per una cittadina di 20 133 abitanti immusonita dai venti leghisti e
@@ -184,10 +196,14 @@ cavalieri là davanti del San Donà - che dopo una stagione trionfale in C
 rinunciò al triplo salto mortale con il Cagliari. Se non sono questi gli ultimi
 romantici del calcio, chi.
 
+<br/>
+
 _Antonio Pisapia: Albè, tu giochi ancora catenaccio e contropiede!
 Il Molosso: Antò, il Molosso con catenaccio e contropiede ha vinto due scudetti e tre coppe
 Italia!
 Antonio Pisapia: Dieci anni fa, dieci anni fa._
+
+<br/>
 
 Altro anno di ambientamento in C1 per poi confermarsi serial killer nei
 playoff dell’anno successivo - conquistati grazie al secondo miglior attacco.
@@ -201,8 +217,12 @@ intensissimi, è giugno ma si gela. La spunta al 51’ in mischia Mazzoleni, una
 mezza rovesciata da terra mentre viene trascinato giù da Sardini. Tutti in
 campo. Glerean sorride e poco più.
 
+<br/>
+
 _Il Molosso: Antò, nella stronza vita può succedere di tutto.
 Antonio Pisapia: Sarà... ma a me non succede mai niente._
+
+<br/>
 
 Il tempo è la sostanza, la costante di questa piccola storia. Del tempo ne
 risente la parlata di Glerean, si prende sempre un attimo prima di rispondere,
@@ -243,8 +263,12 @@ durante gli allenamenti dei ragazzi, poi mostra loro le registrazioni, così
 capiranno. Ha ancora un’idea di gioco del calcio, un’idea, un gioco. Riparte dal
 basso, dalle origini.
 
+<br/>
+
 _Il Molosso: Antò, nella stronza vita può succedere di tutto.
 Antonio Pisapia: Sarà... ma a me non succede mai niente._
+
+<br/>
 
 Fine anni dieci. Enzo Glerean rinuncia al procuratore, tutto inutile. Non ha
 mai avuto un Molosso, un allenatore che gli facesse da faro, ma ha lasciato
@@ -257,6 +281,8 @@ tu sei un uomo profondamente triste_. Ma a Glerean poco importa. Subentra il
 primo anno, la Marosticense retrocede. Si riparte dall’Eccellenza. Al
 momento è terzo in classifica, promette bene. Fallire ancora, fallire meglio,
 diceva qualcuno.
+
+<br/>
 
 _Penso che questo nostro gioco del calcio così com’è non vada bene proprio a nessuno in
 questo nostro bel paese._
