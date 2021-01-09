@@ -1,7 +1,7 @@
 ---
 layout: post-sticker
 header: large-picture
-header_mobile: 90%
+header_mobile: 50%
 author: none
 category: figurine
 timeline: 0
@@ -15,7 +15,7 @@ excerpt: "“Si naciera de nuevo, quisiera que me pasaran las mismas cosas. Grac
   a Dios que me tiró en River.”"
 hashtags: VamosRiver, Vélez , TeamOM
 sticker-img: "/assets/pics/lake/beto-alonso.png"
-header-img: "/assets/pics/lake/alonso_y_merlo_el_grafico.jpg"
+header-img: "/assets/pics/lake/norberto_alonso_1986.jpg"
 sources: "* Alonso y Merlo - El Grafico del 20 de Agosto de 1975. Edicion 2915 - [via
   Wikipedia](https://commons.wikimedia.org/wiki/File:Alonso_y_Merlo_(River)_-_El_Gr%C3%A1fico_2915.jpg)"
 
