@@ -93,7 +93,9 @@
 					{% if sticker %}
 					<div class="sticker row">
 						<div class="sticker-pic col-xs-6 col-sm-12">
+							{% if page.player %}
 								<img class="responsive-img" src="{{sticker}}" alt="{{page.player}}" width="100%">
+							{% endif %}
 						</div>
 						<div class="col-xs-6 col-xs-height col-sm-12">
 							{% if page.player %}
@@ -135,7 +137,7 @@
         </div>
 
         <div class="col-xs-12 {% if page.life != null %}col-sm-8 col-sm-pull-2{%else%}col-sm-8 col-sm-pull-2{% endif %}">
-          <div class="post-body">
+          <div class="post-body {% if page.player == nil %}no-border{% endif %}">
 						{{ content }}
 					</div>
 					{% if page.life != null and page.disclaimer_text != "hidden" %}
