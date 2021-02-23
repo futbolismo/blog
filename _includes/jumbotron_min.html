@@ -1,5 +1,7 @@
 {% if page.large_photo_header != nil %}
   <div class="jumbotron jumbotron-post large-photo-header">
+{% elsif page.tall_header != nil %}
+  <div class="jumbotron jumbotron-post tall-header">
 {% else %}
   <div class="jumbotron jumbotron-post">
 {% endif %}
