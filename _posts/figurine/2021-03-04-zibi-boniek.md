@@ -19,7 +19,6 @@ header-img: "/assets/pics/lake/zbigniew_boniek_-_supercoppa_uefa_1984.jpg"
 sources: "* Torino, stadio Comunale, 16 gennaio 1985. Zbigniew Boniek, esulta dopo
   uno dei suoi due gol con cui i bianconeri superarono il Liverpool (2-0) e si aggiudicarono
   la Supercoppa UEFA 1984 - via [Wikipedia](https://it.wikipedia.org/wiki/File:Zbigniew_Boniek_-_Supercoppa_UEFA_1984.jpg)"
-published: false
 
 ---
 Murzyn in polacco significa _negro_. Mi chiamano così perché sono terribilmente bianco. Il giornalista polacco Gregorz Stànok, che scrive per lo ‘Sport’ di Katowice dice: "_Al tempo in cui Deyna era l’indiscusso campione della Polonia, si dice che Boniek sia il quinto giocatore polacco. Perché primo viene Deyna, secondo è Deyna, terzo sempre Deyna, quarto naturalmente Deyna e solo quinto Boniek._"  
