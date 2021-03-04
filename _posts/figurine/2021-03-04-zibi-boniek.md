@@ -14,7 +14,7 @@ instagram: CL9ARvgDGVO
 excerpt: Io gioco per il collettivo, non sono un individualista, sono un giocatore
   utile, ecco.
 hashtags: " Juventus,Roma,WidzewŁódź"
-sticker-img: "/assets/pics/lake/zibi-boniek.jpg"
+sticker-img: "/assets/pics/lake/zibi-boniek-1.jpg"
 header-img: "/assets/pics/lake/zbigniew_boniek_-_supercoppa_uefa_1984.jpg"
 sources: "* Torino, stadio Comunale, 16 gennaio 1985. Zbigniew Boniek, esulta dopo
   uno dei suoi due gol con cui i bianconeri superarono il Liverpool (2-0) e si aggiudicarono
