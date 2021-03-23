@@ -1,7 +1,5 @@
 ---
 layout: post-sticker
-header: large-picture
-header_mobile: 50%
 author: none
 category: figurine
 timeline: 0
