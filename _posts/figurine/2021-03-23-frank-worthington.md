@@ -15,8 +15,7 @@ excerpt: A true maverick, a true entertainer a wonderful footballer.
 hashtags: htafc, lcfc, BWFC
 sticker-img: "/assets/pics/lake/worthington.png"
 header-img: ''
-sources: ''
-published: false
+sources: "* Frank Worthington Super Goal! - via [YouTube](https://www.youtube.com/watch?v=W0z_arXZ8nM)"
 
 ---
 Frank Worthington, a true maverick, a true entertainer a wonderful footballer.
