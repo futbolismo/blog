@@ -13,7 +13,7 @@ wikipedia: Frank_Worthington
 instagram: CMwo6oZDH33
 excerpt: A true maverick, a true entertainer a wonderful footballer.
 hashtags: htafc, lcfc, BWFC
-sticker-img: "/assets/pics/lake/img_9880.JPG"
+sticker-img: "/assets/pics/lake/worthington.png"
 header-img: ''
 sources: ''
 published: false
