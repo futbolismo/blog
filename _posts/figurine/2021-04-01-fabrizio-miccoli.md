@@ -11,7 +11,8 @@ player: Fabrizio Miccoli
 life: Attaccante, nato a Nardò il 27 giugno 1979
 wikipedia: Fabrizio_Miccoli
 instagram: ''
-excerpt: ''
+excerpt: 'Quel pomeriggio con la sua maglia hanno giocato in due: lui e il suo idolo
+  Diego Armando Maradona.'
 hashtags: palermo,lecce,juventus,fiorentina,ternana
 sticker-img: "/assets/pics/lake/miccoli.jpg"
 header-img: "/assets/pics/lake/fabrizio_miccoli_morgan_amalfitano_west_ham_vs_birkrikara_-19933738812.jpg"
