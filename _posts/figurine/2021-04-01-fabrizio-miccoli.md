@@ -17,7 +17,6 @@ hashtags: PalermoCalcio,avantilecce,ternana
 sticker-img: "/assets/pics/lake/miccoli.jpg"
 header-img: "/assets/pics/lake/fabrizio_miccoli_morgan_amalfitano_west_ham_vs_birkrikara_-19933738812.jpg"
 sources: "* Fabrizio Miccoli Morgan Amalfitano West Ham Vs Birkrikara - via [Wikipedia](https://commons.wikimedia.org/wiki/File:Fabrizio_Miccoli_Morgan_Amalfitano_West_Ham_Vs_Birkrikara_(19933738812).jpg)"
-published: false
 
 ---
 Non eravamo tanti, allo stadio, quel pomeriggio. La giornata non era particolarmente invitante, l'avversario- il Chievo di Sorrentino- nemmeno. Il punto è che nemmeno il Palermo era più invitante. Da anni ormai Zamparini aveva tagliato i viveri, dopo l'annuncio seguito alla finale di Coppa Italia e, malgrado ogni estate giurasse di aver allestito la squadra più forte di sempre, l'aspettativa dei tifosi era ormai sempre la stessa: una decorosa salvezza, e qualche sporadica soddisfazione.
