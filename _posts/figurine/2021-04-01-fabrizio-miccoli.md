@@ -2,7 +2,7 @@
 layout: post-sticker
 header: large-picture
 header_mobile: 40%
-author: none
+author: Raffaele Neri
 category: figurine
 timeline: 0
 pid: miccoli
@@ -10,7 +10,6 @@ postTitle: Quel giorno che al Barbera apparve Maradona
 player: Fabrizio Miccoli
 life: Attaccante, nato a Nardò il 27 giugno 1979
 wikipedia: Fabrizio_Miccoli
-instagram: ''
 excerpt: 'Quel pomeriggio con la sua maglia hanno giocato in due: Fabrizio Miccoli
   e il suo idolo Diego Armando Maradona.'
 hashtags: PalermoCalcio,avantilecce,ternana
@@ -40,3 +39,8 @@ Mentre i tifosi impazziti si sfidano sul conteggio degli avversari saltati da Mi
 E' stata forse l'ultima grande partita di Miccoli al Barbera. Il Palermo non sarebbe riuscito ad evitare la retrocessione, e il campione sarebbe infine inciampato sulla buccia di un'intercettazione nell'auto di un amico poco raccomandabile, dilapidando così in un attimo, per buona parte della tifoseria, un patrimonio di affetto costruito negli anni in cui è diventato l'attaccante più prolifico in maglia rosanero, e certamente il più spettacolare.
 
 Però quel pomeriggio, lasciatevelo dire da chi c'era, con la sua maglia hanno giocato in due: lui e il suo idolo Diego Armando Maradona.
+
+<div class="author-bio">
+<h2>Raffaele Neri</h2>
+<p>Raffaele Neri, 52 anni, umorista dilettante. Già allenatore di basket e funzionario pubblico. Dopo tanti racconti brevi, pubblicati in varie raccolte, nel 2004 Eidos pubblica il suo “Cuori rosanero”. Ama il calcio, il rock, il mare, e i pomeriggi di primavera. Apprezza soprattutto le persone sincere.<br/>Lo trovi su Twitter come <a href="http://twitter.com/Raffa51968" class="text-danger" title="Raffaele Neri su Twitter" target="_blank">@Raffa51968</a></p>
+</div>
