@@ -11,9 +11,9 @@ player: Fabrizio Miccoli
 life: Attaccante, nato a Nardò il 27 giugno 1979
 wikipedia: Fabrizio_Miccoli
 instagram: ''
-excerpt: 'Quel pomeriggio con la sua maglia hanno giocato in due: lui e il suo idolo
-  Diego Armando Maradona.'
-hashtags: palermo,lecce,juventus,fiorentina,ternana
+excerpt: 'Quel pomeriggio con la sua maglia hanno giocato in due: Fabrizio Miccoli
+  e il suo idolo Diego Armando Maradona.'
+hashtags: PalermoCalcio,avantilecce,ternana
 sticker-img: "/assets/pics/lake/miccoli.jpg"
 header-img: "/assets/pics/lake/fabrizio_miccoli_morgan_amalfitano_west_ham_vs_birkrikara_-19933738812.jpg"
 sources: "* Fabrizio Miccoli Morgan Amalfitano West Ham Vs Birkrikara - via [Wikipedia](https://commons.wikimedia.org/wiki/File:Fabrizio_Miccoli_Morgan_Amalfitano_West_Ham_Vs_Birkrikara_(19933738812).jpg)"
