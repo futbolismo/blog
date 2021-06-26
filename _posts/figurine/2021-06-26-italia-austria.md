@@ -15,7 +15,7 @@ excerpt: ''
 hashtags: 'NottiMagiche, Italia90 '
 sticker-img: "/assets/pics/lake/schillaci90.jpeg"
 header-img: "/assets/pics/lake/31370006845_9813fe3f07_o.jpg"
-sources: ''
+sources: "* Salvatore Schillaci Italia 90 - via [Wikipedia](https://flic.kr/p/PN4u7Z)"
 published: false
 
 ---
