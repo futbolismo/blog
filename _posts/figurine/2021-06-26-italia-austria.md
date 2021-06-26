@@ -2,7 +2,7 @@
 layout: post-sticker
 header: large-picture
 header_mobile: 10%
-author: none
+author: Raffaele Neri
 category: figurine
 timeline: 0
 pid: schillaci-austria
@@ -40,3 +40,8 @@ Solo il destino può spiegare com&#39;è possibile che quel pallone scavalchi il
 Il resto è storia. Le processioni al Cep, i ritagli notturni dei cartelloni pubblicitari di quell&#39;azienda siciliana che, con grande intuito, l&#39;aveva scelto come testimonial. Totò che segna sempre, ogni volta in un modo diverso. Con gli occhi spiritati, diventa capocannoniere dei Mondiali, altro che le mille lire dello zio. Le notti ma-gi-cheee, soprattutto per lui. Gli stranieri che impazziscono per quel cognome impronunciabile (Scilaccciiiii), le leggende come quelle del giornalista concittadino che si salverà da un sequestro in piena guerra del golfo regalando una foto di Totò.
 
 E io che a ogni Italia-Austria mi chiedo: ma è successo veramente, o lo ha solo sognato anche lui?
+
+<div class="author-bio">
+<h2>Raffaele Neri</h2>
+<p>Raffaele Neri, 52 anni, umorista dilettante. Già allenatore di basket e funzionario pubblico. Dopo tanti racconti brevi, pubblicati in varie raccolte, nel 2004 Eidos pubblica il suo “Cuori rosanero”. Ama il calcio, il rock, il mare, e i pomeriggi di primavera. Apprezza soprattutto le persone sincere.<br/>Lo trovi su Twitter come <a href="http://twitter.com/Raffa51968" class="text-danger" title="Raffaele Neri su Twitter" target="_blank">@Raffa51968</a></p>
+</div>
