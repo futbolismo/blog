@@ -17,7 +17,6 @@ hashtags: 'NottiMagiche, Italia90 '
 sticker-img: "/assets/pics/lake/schillaci90.jpeg"
 header-img: "/assets/pics/lake/31370006845_9813fe3f07_o.jpg"
 sources: "* Salvatore Schillaci Italia 90 - via [Wikipedia](https://flic.kr/p/PN4u7Z)"
-published: false
 
 ---
 Era l&#39;estate del Mondiale &#39;82, un&#39;estate da sogno. Fra una partita e l&#39;altra, fra un Guerino e una Gazzetta, fu lì che ebbi finalmente chiare le idee sul mio futuro: decisi di diventare il Paolo Rossi del 1990, il capocannoniere dei Mondiali &#39;90, che si sarebbero tenuti in Italia e che gli azzurri, inevitabilmente, avrebbero vinto davanti al tripudio del pubblico di casa, allo stadio Olimpico. Martellini avrebbe gridato per quattro volte &quot;Campioni del mondo&quot;, e io, insieme agli altri azzurri, avrei alzato la Coppa fregiandomi del titolo di capocannoniere.
