@@ -11,7 +11,8 @@ player: Salvatore Schillaci
 life: Attaccante, Palermo, 1 dicembre 1964
 wikipedia: Salvatore_Schillaci
 instagram: ''
-excerpt: ''
+excerpt: Divorati dal boato che sovrastò Palermo quando Azeglio Vicini decise di metter
+  dentro proprio Totò...
 hashtags: 'NottiMagiche, Italia90 '
 sticker-img: "/assets/pics/lake/schillaci90.jpeg"
 header-img: "/assets/pics/lake/31370006845_9813fe3f07_o.jpg"
