@@ -3,7 +3,6 @@ layout: post
 header_mobile: "50%"
 
 wikipedia: Diego_Maradona
-# instagram: Bo6WeHOBqg5
 life: Attaccante, Lanús, 30 ottobre 1960 – Tigre, 25 novembre 2020
 
 pid: diego-armando-maradona
