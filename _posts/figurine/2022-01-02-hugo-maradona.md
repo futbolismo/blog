@@ -1,8 +1,8 @@
 ---
 layout: post-sticker
 header: large-picture
-header_mobile: 50%
-author: none
+header_mobile: 80%
+author: Simone Balocco
 category: figurine
 timeline: 0
 pid: hugo-maradona
@@ -69,3 +69,8 @@ Oggi Diego Armando Marandona non c&#39;è più, ucciso da un arresto cardiocirco
 La notizia della morte di Hugo Maradona ha fatto il giro del Mondo e sui social sono rimbalzate tutto il giorno tre immagini: la foto prima del loro &quot;derby&quot; famigliare, la &quot;figu&quot; di Hugo in quell&#39;unica stagione italiana ed una foto calcistica con i suoi due fratelli maggiori, Diego e Raul detto &quot;Lalo&quot;.
 
 Ora entrambi sono nel Paradiso dei calciatori e siamo sicuri che Diego Armando sta palleggiando con le scarpe slacciate impartendo consigli a quel fratello minore che lo vedeva sin da piccino come un &quot;marziano&quot;. Un ragazzo che voleva fare solo il calciatore e che è rimasto &quot;bloccato&quot; dal fardello di un cognome difficile per chi fa il calciatore, ma che è ripartito da zero per insegnare calcio ai ragazzi.
+
+<div class="author-bio">
+<h2>Simone Balocco</h2>
+<p>Novarese del 1981, scrive da anni di calcio e storia, le sue due grandi passioni. Per intenderci: la sua tesi di laurea verteva sullo sport nella sua città e la materia era storica. I suoi idoli giornalistici sono Gianni Brera e Indro Montanelli e segue il calcio da quando ha visto per la prima volta una puntata di "Holly e Benji". Tra le sue collaborazioni, spiccano il blog <a href="http://www.cittadinovara.com" target="http://www.cittadinovara.com" target="_blank">Cittadinovara.com</a> ed il sito <a href="https://www.derbyderbyderby.it" target="_blank">derbyderbyderby.it</a>.<br/>Lo trovi su Twitter come <a href="http://twitter.com/simonebalocco" class="text-danger" title="Simone Balocco su Twitter" target="_blank">@SimoneBalocco</a></p>
+</div>
