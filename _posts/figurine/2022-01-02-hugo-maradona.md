@@ -14,8 +14,10 @@ instagram: CYBoY33MEbZ
 excerpt: Quale è stato l'impatto di Hugo Maradona con il nostro calcio?
 hashtags: AscoliCalcio, VamosRayo, SaganTosu, Napoli
 sticker-img: "/assets/pics/lake/img_3771.JPG"
-header-img: ''
-sources: ''
+header-img: "/assets/pics/lake/hugo-maradona-e-casagrande-ascoli.jpeg"
+sources: "* Walter Casagrande e Hugo Maradona quando atuaram juntos no Ascoli entre
+  1987 e 1988 (Reprodução / Instagram) - [Casagrande lamenta morte de Hugo Maradona,
+  ex-companheiro de time na Itália ](https://www.lance.com.br/fora-de-campo/casagrande-lamenta-morte-de-hugo-maradona-ex-companheiro-de-time-na-italia.html)"
 published: false
 
 ---
