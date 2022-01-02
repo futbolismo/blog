@@ -10,7 +10,7 @@ postTitle: Hugo Maradona e quando si ha un fratello “marziano”
 player: Hugo Hernán Maradona
 life: Centrocampista (Lanús, 9 maggio 1969 – Monte di Procida, 28 dicembre 2021)
 wikipedia: Hugo_Maradona
-instagram: ''
+instagram: CYBoY33MEbZ
 excerpt: Quale è stato l'impatto di Hugo Maradona con il nostro calcio?
 hashtags: AscoliCalcio, VamosRayo, SaganTosu, Napoli
 sticker-img: "/assets/pics/lake/img_3771.JPG"
