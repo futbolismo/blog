@@ -18,7 +18,6 @@ header-img: "/assets/pics/lake/hugo-maradona-e-casagrande-ascoli.jpeg"
 sources: "* Walter Casagrande e Hugo Maradona quando atuaram juntos no Ascoli entre
   1987 e 1988 (Reprodução / Instagram) - [Casagrande lamenta morte de Hugo Maradona,
   ex-companheiro de time na Itália ](https://www.lance.com.br/fora-de-campo/casagrande-lamenta-morte-de-hugo-maradona-ex-companheiro-de-time-na-italia.html)"
-published: false
 
 ---
 Lanús dista una dozzina di chilometri da Buenos Aires e calcisticamente è nota per la sua squadra di calcio, il Club Atlético Lanús, militante oggi in Primera division. Un amante del calcio quando legge &quot;Lanús&quot; pensa ad una sola cosa: Diego Armando Maradona. Lì venne al Mondo, il 30 ottobre 1960, il quintogenito di Diego &quot;Chitorro&quot; e Dalma Franco detta &quot;dona Tota&quot;, noto come il &quot;pibe de oro&quot; (e altre decine di soprannomi).
