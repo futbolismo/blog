@@ -11,7 +11,7 @@ category: non-tutti-sanno-che
 timeline: 0
 
 excerpt: "<i>\"Da qui a cento anni nessuna squadra Portoghese sarà due volte Campione d’Europa, ed il Benfica senza di me non vincerà mai una Coppa dei Campioni</i>\""
-hashtags: Maradona, D10S, IglesiaMaradoniana, Argentina, Napoli
+hashtags: Benfica,Guttman
 ---
 Quando l'Ungherese naturalizzato Austriaco di origine Ebraica Bela Guttmann abbandonò la panchina del Benfica nel millenovecentosessantadue dopo aver vinto due Coppe dei Campioni consecutive, quella del Sessantuno contro il Barcellona e quella del Sessantadue contro il Real Madrid, lo fece lanciando un anatema sul club: "Da qui a cento anni" disse, "nessuna squadra Portoghese sarà due volte Campione d’Europa, ed il Benfica senza di me non vincerà mai una Coppa dei Campioni".
 Gutmann che aveva vissuto, da giocatore nell’American Soccer League, il crollo di Wall Street del Ventinove, anticamera alla Grande Depressione, che era scampato all'eccidio Ebraico per puro miracolo riparando in Svizzera, che era stato raggiunto in Sudamerica dalla notizia che i carri armati sovietici avevano invaso il suo paese reprimendo nel sangue l’instaurazione di un governo progressista, Guttmann giramondo prima della globalizzazione del calcio, che lo ha portato in Austria, Italia, Argentina, Cipro, Brasile, Portogallo, Uruguay, Svizzera, Grecia, Guttmann che ha insegnato ai Brasiliani il loro modo di giocare, quel quattro-due-quattro tutto attacco e fantasia con cui poi la Selecão avrebbe vinto la Coppa Rimet in Svezia nel Cinquantotto, proprio lui, andò via dal Benfica sbattendo la porta per una questione di denaro.
